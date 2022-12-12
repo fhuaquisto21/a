@@ -1,0 +1,50 @@
+{
+    "url": "https://cuevana.pizza/pelicula/entre-nosotras",
+    "title": "Entre nosotras",
+    "duration": "1h 39m",
+    "year": "2020",
+    "genres": [
+        "Drama",
+        "Romance"
+    ],
+    "actors": [
+        "Barbara Sukowa",
+        "Martine Chevallier",
+        "Léa Drucker",
+        "Jérôme Varanfrain",
+        "Denis Jousselin",
+        "Aude-Laurence Clermont Biver",
+        "Eugenie Anselin",
+        "Hervé Sogne",
+        "Daniel Trubert",
+        "Tara Klassen"
+    ],
+    "description": "Nina y Madeleine, dos mujeres jubiladas, están secretamente enamoradas desde hace décadas. Aunque de cara a los demás, no son más que dos vecinas, ellas vienen y van de una casa a la otra, compartiendo la ternura de una vida en común. Hasta que un día, su relación se da la vuelta a causa de un suceso inesperado.",
+    "cover": "https://cuevana.pizza/resize/###/storage/21657/F6LUpwp0uwR26tTnC1NLxDQlrA4NOmQNTVoIhiFr.jpg",
+    "players": [
+        {
+            "type": "cas",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtdHFqMjdmOTZnM2s2Lmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLW9icTV4bWMybWVwMS5odG1s"
+            ]
+        },
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtMjc4eHd4bW5vejYzLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLXVvb25iMjA4bTFqOC5odG1s"
+            ]
+        }
+    ],
+    "downloads": [
+        {
+            "url": "https://1fichier.com/?4wv7qsp7nwxl3t2b6lzd",
+            "type": "es"
+        },
+        {
+            "url": "https://1fichier.com/?mo5v0ukdathxf3f0gx2m",
+            "type": "en"
+        }
+    ]
+}

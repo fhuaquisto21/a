@@ -1,0 +1,35 @@
+{
+    "url": "https://cuevana.pizza/pelicula/the-salvation",
+    "title": "The Salvation",
+    "duration": "1h 40m",
+    "year": "2014",
+    "genres": [
+        "Drama",
+        "Occidental"
+    ],
+    "actors": [
+        "Eric Cantona",
+        "Eva Green",
+        "Jeffrey Dean Morgan",
+        "Mads Mikkelsen"
+    ],
+    "description": "Gira en torno a un colono (Mikkelsen), quien tras tomarse la justicia por su mano y matar al asesino de su familia, se convierte en el centro de la ira del líder de la banda a la que dicho asesino pertenecía.",
+    "cover": "https://cuevana.pizza/resize/###/storage/15846/cLfP6iMuETlI2jaooA06r0TfXe7tRr5fOjUqZUF7.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQteTlhdmk5MWRianZ4Lmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLWVzbTdyazk1aWVzei5odG1s"
+            ]
+        },
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtcHlsZWNpMm43cWRtLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLWh4ODNjMWJhcmRnMi5odG1s"
+            ]
+        }
+    ],
+    "downloads": []
+}

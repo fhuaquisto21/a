@@ -1,0 +1,52 @@
+{
+    "url": "https://cuevana.pizza/pelicula/jumanji",
+    "title": "Jumanji",
+    "duration": "1h 44m",
+    "year": "1995",
+    "genres": [
+        "Aventura",
+        "Fantasia",
+        "Familia"
+    ],
+    "actors": [
+        "Robin Williams",
+        "Kirsten Dunst",
+        "Bradley Pierce",
+        "Bonnie Hunt",
+        "Jonathan Hyde",
+        "Bebe Neuwirth",
+        "David Alan Grier",
+        "Adam Hann-Byrd",
+        "Patricia Clarkson",
+        "Laura Bell Bundy",
+        "James Handy",
+        "Gillian Barber",
+        "Brandon Obray",
+        "Cyrus Thiedeke",
+        "Gary Joseph Thorup",
+        "Leonard Zola",
+        "Lloyd Berry",
+        "Malcolm Stewart",
+        "Annabel Kershaw",
+        "Darryl Henriques"
+    ],
+    "description": "Alan Parris queda atrapado en un juego de mesa mágico y muy antiguo, Jumanji, durante 25 años. Cuando finalmente es liberado por dos niños, una manada de animales exóticos también es liberada. Alan deberá salvar a su pueblo de la destrucción.",
+    "cover": "https://cuevana.pizza/resize/###/storage/30027/FwFoG4kBprJHm3aFsefyWmBrSIWRodloYtWAQUnm.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtZ3BoeHE3bHIxYWJ2Lmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLXNndGJwbGNpZHVhNC5odG1s"
+            ]
+        },
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtcnZlb25mbmt1NTh4Lmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLW9rcG00dTVmbWIybC5odG1s"
+            ]
+        }
+    ],
+    "downloads": []
+}

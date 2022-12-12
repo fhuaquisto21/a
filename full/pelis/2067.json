@@ -1,0 +1,71 @@
+{
+    "url": "https://cuevana.pizza/pelicula/aquiestoy",
+    "title": "#Aquíestoy",
+    "duration": "1h 35m",
+    "year": "2020",
+    "genres": [
+        "Comedia",
+        "Romance"
+    ],
+    "actors": [
+        "Alain Chabat",
+        "Bae Doo-na",
+        "Jules Sagot",
+        "Ilian Bergala",
+        "Camille Rutherford",
+        "Blanche Gardin",
+        "Vincent Nemeth",
+        "Delphine Gleize",
+        "Lazare Lartigau",
+        "Nathalie Lacroix",
+        "Lisa Maumy",
+        "Nicolas Santos",
+        "Guillaume Etchegorry",
+        "Christian Duplaissy",
+        "Eric Lartigau",
+        "Allan Debs",
+        "Thomas Le Borgne",
+        "Thierry Laborde",
+        "François Andueza",
+        "Pascal Gonzalez"
+    ],
+    "description": "Stéphane vive una vida tranquila como un eminente chef francés, pero cuando decide visitar a Soo, una misteriosa dama coreana de la que se enamoró en Instagram, se embarcará en un viaje aventurero lleno de descubrimientos.",
+    "cover": "https://cuevana.pizza/resize/###/storage/19116/Oo6mzxCX4mnVwkOoknEDu3zHuxK2XH4CNcX4nUWD.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtY3Y2eXFyazAxM3I4Lmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLWljNzRmOGswMWViOC5odG1s"
+            ]
+        },
+        {
+            "type": "cas",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtN3VmZzRkZzB4ZHNkLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLXJobzVmNHRzYWx2OC5odG1s"
+            ]
+        },
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtcXdncjF2anMwZTFqLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLWtkeDV1bmp5OGg5NS5odG1s"
+            ]
+        }
+    ],
+    "downloads": [
+        {
+            "url": "https://1fichier.com/?7jh8hgf9tb1evlsevqmc",
+            "type": "la"
+        },
+        {
+            "url": "https://1fichier.com/?axmiulip6kcd9vrqh3uo",
+            "type": "es"
+        },
+        {
+            "url": "https://1fichier.com/?cps11rq3yvwfy67lhhpv",
+            "type": "en"
+        }
+    ]
+}

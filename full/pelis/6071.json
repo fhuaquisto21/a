@@ -1,0 +1,60 @@
+{
+    "url": "https://cuevana.pizza/pelicula/pasados-por-agua",
+    "title": "Pasados por agua",
+    "duration": "2h 15m",
+    "year": "2018",
+    "genres": [
+        "Comedia",
+        "Drama",
+        "Romance",
+        "Deportes"
+    ],
+    "actors": [
+        "Rob Brydon",
+        "Rupert Graves",
+        "Jim Carter",
+        "Daniel Mays",
+        "Adeel Akhtar",
+        "Thomas Turgoose",
+        "Charlotte Riley",
+        "Jane Horrocks",
+        "Nathaniel Parker",
+        "Spike White",
+        "Robert Daws",
+        "Christian Rubeck",
+        "Ronan Daly",
+        "Chris Jepson",
+        "Andrew Knott",
+        "Stephen Patten",
+        "Harry Demmon",
+        "Orlando Seale",
+        "John Alastair",
+        "Tarrick Benham"
+    ],
+    "description": "Eric intenta encontrar la manera de recuperar a su esposa, Heather, mientras se encuentra inmerso en el mundo de la natación sincronizada masculina.",
+    "cover": "https://cuevana.pizza/resize/###/storage/24344/j1eByTMK7zMlLsLu7O3tpajhAfUYBEAkz1Dx2apk.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtYTUxaXE2Y2NvY2t1Lmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLXptZmV1bnFlbDFuNC5odG1s"
+            ]
+        },
+        {
+            "type": "cas",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtYXdhd212NDU4Z3h2Lmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLWJnd2RvMGt3dndudC5odG1s"
+            ]
+        },
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtdjNhbGxvdW41cHd5Lmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLXZpbjBjNzFsemE0dC5odG1s"
+            ]
+        }
+    ],
+    "downloads": []
+}

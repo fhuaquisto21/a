@@ -1,0 +1,52 @@
+{
+    "url": "https://cuevana.pizza/pelicula/mudo",
+    "title": "Mudo",
+    "duration": "2h 6m",
+    "year": "2018",
+    "genres": [
+        "Misterio",
+        "Suspenso",
+        "Ciencia Ficcion"
+    ],
+    "actors": [
+        "Alexander Skarsgård",
+        "Paul Rudd",
+        "Justin Theroux",
+        "Seyneb Saleh",
+        "Robert Sheehan",
+        "Jannis Niewöhner",
+        "Noel Clarke",
+        "Dominic Monaghan",
+        "Sam Rockwell",
+        "Florence Kasumba",
+        "Daniel Fathers",
+        "Kirsten Block",
+        "Eugen Bauder",
+        "Alexander Yassin",
+        "Andrzej Blumenfeld",
+        "Enya Maria Tames",
+        "Gilbert Owuor",
+        "Robert Kazinsky",
+        "Nikki Lamborn",
+        "Ulf Nadrowski"
+    ],
+    "description": "Cuando su novia desaparece, un hombre mudo (Alexander Skarsgård) se adentra en el sórdido submundo del Berlín de un futuro cercano (2056), donde sus acciones hablan sin necesidad de palabras.",
+    "cover": "https://cuevana.pizza/resize/###/storage/25512/HgnLeWMEifiNNkvqpjSveFjORGcFDzBWSQ9GjwnR.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtZzlieHl5aXltNnFoLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLXcweHpuY2s2NDR5Zi5odG1s"
+            ]
+        },
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtNzlxYXZla2F6d3pvLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLXFsa2lyNnhvc3VieC5odG1s"
+            ]
+        }
+    ],
+    "downloads": []
+}

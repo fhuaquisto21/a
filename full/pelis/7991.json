@@ -1,0 +1,52 @@
+{
+    "url": "https://cuevana.pizza/pelicula/papa-por-accidente",
+    "title": "Un pequeño cambio",
+    "duration": "1h 39m",
+    "year": "2010",
+    "genres": [
+        "Comedia",
+        "Drama",
+        "Romance"
+    ],
+    "actors": [
+        "Jennifer Aniston",
+        "Jason Bateman",
+        "Jeff Goldblum",
+        "Juliette Lewis",
+        "Todd Louiso",
+        "Jason Jones",
+        "Scott Elrod",
+        "Patrick Wilson",
+        "Kelli Barrett",
+        "Thomas Robinson",
+        "Bryce Robinson",
+        "Victor Pagan",
+        "Will Swenson",
+        "Edward James Hyland",
+        "Caroline Dhavernas",
+        "Rebecca Naomi Jones",
+        "Jeremy J. Mohler",
+        "Brian Podnos",
+        "Amanda Barron",
+        "Stephanie Domini Ehlert"
+    ],
+    "description": "Cuando Kassie (Jennifer Aniston) cumple los cuarenta decide no esperar más y recurre a la inseminación artificial para tener un bebé. Siete años más tarde, regresa a Nueva York y se reencuentra con su amigo Wally (Bateman), un hombre neurótico e inseguro, que, de manera inexplicable se siente fuertemente vinculado al hijo de Kassie, el pequeño Sebastian (Thomas Robinson), un niño con el que comparte algo más que sus múltiples manías y excentricidades. Basada en el relato \"Baster\", del novelista ganador del premio Pulitzer Jeffrey Eugenides, autor de \"Las vírgenes suicidas\".",
+    "cover": "https://cuevana.pizza/resize/###/storage/29015/U9MFQaepD68ppiwJiiFgtoBfz9VsEzsbkEOA8p2g.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtZWphejg3YmZqMzZ3Lmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLWsxamZoczd5anNiYS5odG1s"
+            ]
+        },
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtcThlMm50cHJxcWo5Lmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLXhyY3FvdmM4dGpway5odG1s"
+            ]
+        }
+    ],
+    "downloads": []
+}

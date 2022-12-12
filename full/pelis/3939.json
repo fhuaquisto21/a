@@ -1,0 +1,42 @@
+{
+    "url": "https://cuevana.pizza/pelicula/start-up",
+    "title": "시동",
+    "duration": "1h 42m",
+    "year": "2019",
+    "genres": [
+        "Accion",
+        "Drama"
+    ],
+    "actors": [
+        "Ma Dong-seok",
+        "Park Jeong-min",
+        "Jung Hae-in",
+        "Jung-ah Yum",
+        "Choi Sung-eun",
+        "Kim Jong-soo",
+        "Yoon Kyung-ho",
+        "Kim Kyung-duk",
+        "Kim Min-jae",
+        "Goh Doo-shim",
+        "Park Hae-jun",
+        "Lee Hae-woon",
+        "Sung Hyuk",
+        "Seung Eui-yeol",
+        "Bang Eun-jung",
+        "Heo Joon-seok",
+        "Kwon Hyeok-beom",
+        "Back Joo-hee"
+    ],
+    "description": "Dos niños en período tormentoso se están convirtiendo en adultos a medida que experimentan un mundo que no sigue su camino.",
+    "cover": "https://cuevana.pizza/resize/###/storage/20987/s3sIy1c1Eo9wm9fE4cLHTVttWkP97GPVBiwRcqQe.jpg",
+    "players": [
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtamozdDVpZzZ3eHZmLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLTlocmdsanY4bm83cC5odG1s"
+            ]
+        }
+    ],
+    "downloads": []
+}

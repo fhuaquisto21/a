@@ -1,0 +1,63 @@
+{
+    "url": "https://cuevana.pizza/pelicula/mary",
+    "title": "La posesión de Mary",
+    "duration": "1h 24m",
+    "year": "2019",
+    "genres": [
+        "Terror"
+    ],
+    "actors": [
+        "Gary Oldman",
+        "Emily Mortimer",
+        "Manuel Garcia-Rulfo",
+        "Owen Teague",
+        "Jennifer Esposito",
+        "Stefanie Scott",
+        "Chloe Perrin",
+        "Douglas Urbanski",
+        "Claire Byrne",
+        "Michael Landes",
+        "Natalie Jean",
+        "Griffin Hood",
+        "Kathryn Kelly"
+    ],
+    "description": "Una familia en dificultades compra un viejo barco en una subasta con grandes esperanzas de comenzar un negocio de fletamento, solo para descubrir sus horribles secretos en las aguas abiertas y aisladas.",
+    "cover": "https://cuevana.pizza/resize/###/storage/21080/MahpVvHpNiaVejDTgD1bKQGX90qqzJHhkzn8eAMB.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtazAyN3dkMjhyNnM0Lmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLTZjNzViYmxwbTY1eS5odG1s"
+            ]
+        },
+        {
+            "type": "cas",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtYnhtaW00aDZhNmU5Lmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLXp3OXZxMzNoZnQyNy5odG1s"
+            ]
+        },
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtaDJxOTRzNDlsc3l0Lmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLTFyN3BxczRkNWo4bi5odG1s"
+            ]
+        }
+    ],
+    "downloads": [
+        {
+            "url": "https://1fichier.com/?vtw0lud5qmogz58hq1dx#Synchronization+Service",
+            "type": "la"
+        },
+        {
+            "url": "https://1fichier.com/?tlpjwz1sxvllqwy47i1r#Synchronization+Service",
+            "type": "es"
+        },
+        {
+            "url": "https://1fichier.com/?4o5qcn4t1xrigavf5had#Synchronization+Service",
+            "type": "en"
+        }
+    ]
+}

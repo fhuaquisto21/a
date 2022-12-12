@@ -1,0 +1,54 @@
+{
+    "url": "https://cuevana.pizza/pelicula/buffalo-soldiers",
+    "title": "Buffalo Soldiers",
+    "duration": "1h 38m",
+    "year": "2001",
+    "genres": [
+        "Comedia",
+        "Drama",
+        "Suspenso",
+        "Crimen",
+        "Belica"
+    ],
+    "actors": [
+        "Joaquin Phoenix",
+        "Ed Harris",
+        "Scott Glenn",
+        "Anna Paquin",
+        "Elizabeth McGovern",
+        "Michael Peña",
+        "Leon",
+        "Gabriel Mann",
+        "Dean Stockwell",
+        "Brian Delate",
+        "Shiek Mahmud-Bey",
+        "Amani Gethers",
+        "Noah Lee Margetts",
+        "Tom Ellis",
+        "Kick Gurry",
+        "Haluk Bilginer",
+        "Idris Elba",
+        "Glenn Fitzgerald",
+        "James 'Kimo' Wills",
+        "Enoch Frost"
+    ],
+    "description": "Año 1989. El muro de Berlín está a punto de caer, y el planeta va a convertirse en un lugar seguro según un nuevo orden mundial. Sin embargo, en las afueras de Stuttgart, en Alemania Occidental, el Especialista Ray Elwood del 317 Batallón de Intendencia, en la Base del ejército norteamericano Theodore Roosevelt, está a punto de comprobar cómo su particular guerra fría se pone al rojo vivo. Elwood es un granuja encantador, un soldado condenado por el juez a cumplir servicio militar obligatorio que se las ha arreglado para hacer de éste un floreciente mercado negro. Oficialmente, atiende su trabajo diario como secretario del batallón para el inepto aunque bondadoso Coronel Wallace Berman. Extraoficialmente, se dedica a todo, desde la venta de artículos de limpieza robados a fabricar heroína para el implacable jefe de la Policía Militar de la base, el Sargento Saad. Cuando llega a la base un nuevo Sargento primero con la decidida intención de limpiarla de arriba a abajo.",
+    "cover": "https://cuevana.pizza/resize/###/storage/28455/9TvSbj2dObnnCpUqwwF5mqMqDw3gWSBZB13qe2NL.jpg",
+    "players": [
+        {
+            "type": "cas",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtdHJrYzJha3dxY2l2Lmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLXduaXN2aTQ3dzlxNi5odG1s"
+            ]
+        },
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtZGkzYjR6aDExcjF4Lmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLW0zcnJuamd3cDZ2NS5odG1s"
+            ]
+        }
+    ],
+    "downloads": []
+}

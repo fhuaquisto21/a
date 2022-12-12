@@ -1,0 +1,58 @@
+{
+    "url": "https://cuevana.pizza/pelicula/halloween-2-sanguinario",
+    "title": "Halloween 2: Sanguinario",
+    "duration": "1h 30m",
+    "year": "1981",
+    "genres": [
+        "Suspenso",
+        "Terror"
+    ],
+    "actors": [
+        "Jamie Lee Curtis",
+        "Donald Pleasence",
+        "Charles Cyphers",
+        "Jeffrey Kramer",
+        "Lance Guest",
+        "Pamela Susan Shoop",
+        "Ana Alicia",
+        "Nancy Stephens",
+        "Leo Rossi",
+        "Cliff Emmich",
+        "Hunter von Leer",
+        "Ty Mitchell",
+        "Nancy Kyes",
+        "Ford Rainey",
+        "Dick Warlock",
+        "Gloria Gifford",
+        "Tawny Moyer",
+        "Anne Bruner",
+        "Dana Carvey",
+        "Lucille Benson"
+    ],
+    "description": "El psicópata Michael Myers sigue vivo y vuelve a ponerse en acción. Ahora se dirige a un pequeño hospital donde se encuentra Laurie Strode, la única víctima que logró sobrevivir a su primer ataque. Mientras tanto, el doctor Loomis sigue buscando a su sanguinario paciente.",
+    "cover": "https://cuevana.pizza/resize/###/storage/41855/iqt8ZWa0glSqNL3CrbpdV0LeWsy44UUiYLi58YLt.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtand6aWV5ZnphcnQ2Lmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLTBrOXZkejJmaDd1bC5odG1s"
+            ]
+        },
+        {
+            "type": "cas",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtbWhycGdlb2o5bmRkLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLTFmcDF1cnpqdnViNy5odG1s"
+            ]
+        },
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtaWxnemppaG5uYjZmLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLXVkdjg2MDI5ejc0My5odG1s"
+            ]
+        }
+    ],
+    "downloads": []
+}

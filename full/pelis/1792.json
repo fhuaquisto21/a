@@ -1,0 +1,59 @@
+{
+    "url": "https://cuevana.pizza/pelicula/star-wars-episodio-v-el-imperio-contraataca",
+    "title": "Star Wars. Episodio V: El imperio contraataca",
+    "duration": "2h 4m",
+    "year": "1980",
+    "genres": [
+        "Accion",
+        "Ciencia Ficcion",
+        "Aventura"
+    ],
+    "actors": [
+        "Mark Hamill",
+        "Harrison Ford",
+        "Carrie Fisher",
+        "Billy Dee Williams",
+        "Anthony Daniels",
+        "David Prowse",
+        "Peter Mayhew",
+        "Kenny Baker",
+        "Frank Oz",
+        "Alec Guinness",
+        "Jeremy Bulloch",
+        "Jason Wingreen",
+        "John Hollis",
+        "Jack Purvis",
+        "Des Webb",
+        "Kathryn Mullen",
+        "Marjorie Eaton",
+        "Clive Revill",
+        "Kenneth Colley",
+        "Julian Glover"
+    ],
+    "description": "Tras un ataque sorpresa de las tropas imperiales a las bases camufladas de la alianza rebelde, Luke Skywalker, en compañía de R2D2, parte hacia el planeta Dagobah en busca de Yoda, el último maestro Jedi, para que le enseñe los secretos de la Fuerza. Mientras, Han Solo, la princesa Leia, Chewbacca, y C3PO esquivan a las fuerzas imperiales y piden refugio al antiguo propietario del Halcón Milenario, Lando Calrissian, en la ciudad minera de Bespin, donde les prepara una trampa urdida por Darth Vader.",
+    "cover": "https://cuevana.pizza/resize/###/storage/19649/PRPJnAIidliX24QQCe3ZSLSiWV58aZGLwPkhzVpn.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtYTU5ZnMxNzloemRsLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLThzOTJkYjU4NWN5OC5odG1s"
+            ]
+        },
+        {
+            "type": "cas",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtZmdsbG8xNDQzcXg2Lmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLTN2eHk2dTNwZTRmMy5odG1s"
+            ]
+        },
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtbWNzaWltazc1bTJhLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLWs0NnR3dHRobHk0dS5odG1s"
+            ]
+        }
+    ],
+    "downloads": []
+}

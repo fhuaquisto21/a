@@ -1,0 +1,57 @@
+{
+    "url": "https://cuevana.pizza/pelicula/halloween-ii-h2",
+    "title": "Halloween II (H2)",
+    "duration": "1h 59m",
+    "year": "2009",
+    "genres": [
+        "Terror"
+    ],
+    "actors": [
+        "Scout Taylor-Compton",
+        "Malcolm McDowell",
+        "Brad Dourif",
+        "Tyler Mane",
+        "Sheri Moon Zombie",
+        "Angela Trimbur",
+        "Danielle Harris",
+        "Chase Wright Vanek",
+        "Caroline Williams",
+        "Howard Hesseman",
+        "Duane Whitaker",
+        "Betsy Rue",
+        "Greg Travis",
+        "'Weird Al' Yankovic",
+        "Chris Hardwick",
+        "Sean Whalen",
+        "Margot Kidder",
+        "Octavia Spencer",
+        "Brea Grant",
+        "Sylvia Jefferies"
+    ],
+    "description": "Tras sobrevivir a los sangrientos crímenes de la noche de Halloween, Laurie Strode (Scout Taylor-Compton) trata de rehacer su vida junto al sheriff Brackett (Brad Dourif) y su amiga Annie (Danielle Harris). Pero dos años después de los asesinatos de Michael Myers el pasado vuelve y la joven Strode tendrá que enfrentarse nuevamente al psicópata en una noche regada de horror y sangre.",
+    "cover": "https://cuevana.pizza/resize/###/storage/41876/YDtfM0PFllCboNF5EaM0SdpPYg76OPstPa5ebaUK.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtZjBmdmZmbmh2MnAyLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLWkwNzZrM3JyazFxdi5odG1s"
+            ]
+        },
+        {
+            "type": "cas",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtbHdsdDZhbmQzZnBuLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLWR1Ym15cnNid2F6cC5odG1s"
+            ]
+        },
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtYTF5OHRra3J0MHU3Lmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLXVvajRkOXJwa3FxNi5odG1s"
+            ]
+        }
+    ],
+    "downloads": []
+}

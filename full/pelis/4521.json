@@ -1,0 +1,53 @@
+{
+    "url": "https://cuevana.pizza/pelicula/tierra-de-osos",
+    "title": "Tierra de Osos",
+    "duration": "1h 25m",
+    "year": "2003",
+    "genres": [
+        "Aventura",
+        "Familia",
+        "Animacion",
+        "Disney"
+    ],
+    "actors": [
+        "Joaquin Phoenix",
+        "Jeremy Suarez",
+        "Jason Raize",
+        "Rick Moranis",
+        "Dave Thomas",
+        "D.B. Sweeney",
+        "Joan Copeland",
+        "Michael Clarke Duncan",
+        "Harold Gould",
+        "Paul Christie",
+        "Danny Mastrogiorgio",
+        "Estelle Harris",
+        "Greg Proops",
+        "Pauley Perrette",
+        "Bumper Robinson",
+        "Darko Cesar",
+        "Angayuqaq Oscar Kawagley",
+        "Sherry Lynn",
+        "Mickie McGowan",
+        "Debi Derryberry"
+    ],
+    "description": "En los bosques del noroeste americano vive un niño indio llamado Kenai, cuya vida sufre un giro inesperado cuando los Grandes Espíritus lo transforman en un oso, el animal que más odia. Kenai se hace amigo de un osezno llamado Koda y se propone recuperar su forma humana. Mientras, su hermano (que no sabe que Kenai es ahora un oso) lo persigue para cumplir una misión de venganza en la que está en juego el honor familiar.",
+    "cover": "https://cuevana.pizza/resize/###/storage/28379/UR4EKA4ByQ3YURj9I87bFdLVDdf19odvhJqXwJDg.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtdHg2bWgyOHg2enZ6Lmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLTQzYXdjdW81MXI1NC5odG1s"
+            ]
+        },
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtM2gzM3AwMTE0bGxjLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLWJpaW5jdmcwaXBiYy5odG1s"
+            ]
+        }
+    ],
+    "downloads": []
+}

@@ -1,0 +1,58 @@
+{
+    "url": "https://cuevana.pizza/pelicula/little-evil",
+    "title": "Pequeño demonio",
+    "duration": "1h 35m",
+    "year": "2017",
+    "genres": [
+        "Comedia",
+        "Terror"
+    ],
+    "actors": [
+        "Adam Scott",
+        "Evangeline Lilly",
+        "Owen Atlas",
+        "Bridget Everett",
+        "Donald Faison",
+        "Chris D'Elia",
+        "Kyle Bornheimer",
+        "Clancy Brown",
+        "Tyler Labine",
+        "Sally Field",
+        "Marcus Terrell Smith",
+        "James Weir",
+        "Chip Zien",
+        "Rick Applegate",
+        "Ken Bolden",
+        "Brad Williams",
+        "Allen Roth",
+        "Hank Harris",
+        "Carla Gallo",
+        "Sasha Williams"
+    ],
+    "description": "Gary, que acaba de casarse con Samantha, la mujer de sus sueños, descubre que su hijastro de 6 años podría ser el Anticristo.",
+    "cover": "https://cuevana.pizza/resize/###/storage/35629/eBh2aYRFd3v3aRaGX1rNzZvM9gxPgkN29QMegyT7.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtZHN2Y2ZkdHN3Y2sxLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLTNiY3I0MzA4aDE5Zy5odG1s"
+            ]
+        },
+        {
+            "type": "cas",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQteWpjanBpeDhzczRxLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLTF3cWl5czVobjZqcS5odG1s"
+            ]
+        },
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtcnVqZHloMXpwNjFnLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLWsydjUwazU4a3lhcy5odG1s"
+            ]
+        }
+    ],
+    "downloads": []
+}

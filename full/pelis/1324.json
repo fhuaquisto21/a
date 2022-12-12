@@ -1,0 +1,72 @@
+{
+    "url": "https://cuevana.pizza/pelicula/la-princesa",
+    "title": "La princesa",
+    "duration": "1h 34m",
+    "year": "2022",
+    "genres": [
+        "Accion",
+        "Fantasia",
+        "Disney"
+    ],
+    "actors": [
+        "Joey King",
+        "Dominic Cooper",
+        "Olga Kurylenko",
+        "Veronica Ngo",
+        "Alex Reid",
+        "Ed Stoppard",
+        "Ivo Arakov",
+        "Martin Taskov",
+        "Mitko Angelov",
+        "Antoni Davidov",
+        "Radoslav Parvanov",
+        "Liudmil Kehaiov",
+        "Katelyn Rose Downey",
+        "Kristofer Kamiyasu",
+        "Fergus O'Donnell",
+        "Ivan Vodenicharov",
+        "Mitko Dalakov",
+        "Apostol Tenev",
+        "Vasil Toshev",
+        "Dawn Sherrer"
+    ],
+    "description": "Cuando una princesa se niega a casarse con un sociópata cruel, es secuestrada y encerrada en una torre del castillo de su padre. Con su vengativo pretendiente decidido a tomar el trono de su padre, la princesa debe salvar el reino.",
+    "cover": "https://cuevana.pizza/resize/###/storage/39376/OBbp6gQOBmJjvp2rv95AfCiUoXaeewnicPIuwQVF.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtNW8ybW95eDhnMzN6Lmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLWJ5YWhlbDhkZTd0ci5odG1s"
+            ]
+        },
+        {
+            "type": "cas",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtamdtZmUza3EwOXlsLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLXJpenp0MTJkMXNnMS5odG1s"
+            ]
+        },
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtOGZnOHgwODdjMzlhLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLWM2cGR3NDBwNHR3OS5odG1s"
+            ]
+        }
+    ],
+    "downloads": [
+        {
+            "url": "https://1fichier.com/?7ix6hsl5a874vcwrf17q",
+            "type": "la"
+        },
+        {
+            "url": "https://1fichier.com/?9qjf0455dcckbiq2j2bv",
+            "type": "es"
+        },
+        {
+            "url": "https://1fichier.com/?z2ojqfsgjaquwhxpiwmw",
+            "type": "en"
+        }
+    ]
+}

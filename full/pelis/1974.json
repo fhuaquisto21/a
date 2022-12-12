@@ -1,0 +1,46 @@
+{
+    "url": "https://cuevana.pizza/pelicula/trace",
+    "title": "Trace",
+    "duration": "1h 30m",
+    "year": "2015",
+    "genres": [
+        "Terror"
+    ],
+    "actors": [
+        "August Roads",
+        "Jerod Meagher",
+        "Sam Valentine",
+        "Maddie McGuire",
+        "Jesse Pepe",
+        "Samantha Lee",
+        "Nick Fink"
+    ],
+    "description": "Un grupo de amigos que experimentan con EVP (fenómeno de voz electrónica) abren accidentalmente una puerta que permite a un poderoso demonio entrar en nuestro mundo. Ahora, la vida de todos están en peligro.",
+    "cover": "https://cuevana.pizza/resize/###/storage/16375/4FWO8EgQ4vSz3mj9tqCvLP0NBbz8d7d89hjWqqxM.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtazdkeXBqbnJibTJkLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLWhtdzZrdGdzMmdqMy5odG1s"
+            ]
+        },
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtaTFseTZnbHY1eGt3Lmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLXF2d24xdjlzczZ5YS5odG1s"
+            ]
+        }
+    ],
+    "downloads": [
+        {
+            "url": "https://1fichier.com/?22j5hsv6wc2qgl8tr4ts",
+            "type": "la"
+        },
+        {
+            "url": "https://1fichier.com/?19k3kavd4clwnncmbnz6",
+            "type": "en"
+        }
+    ]
+}

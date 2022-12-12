@@ -1,0 +1,39 @@
+{
+    "url": "https://cuevana.pizza/pelicula/mia-y-yo-el-heroe-de-centopia",
+    "title": "Mia y yo: El héroe de Centopia",
+    "duration": "1h 22m",
+    "year": "2022",
+    "genres": [
+        "Aventura",
+        "Fantasia",
+        "Animacion"
+    ],
+    "actors": [
+        "Julian Maroun",
+        "Bettina Kenney",
+        "Margot Nuccetelli",
+        "Elisa Boyd",
+        "James Dyke",
+        "Vivien Battley",
+        "Dave Willetts"
+    ],
+    "description": "Mia descubre que su piedra mágica forma parte de una antigua profecía y se embarca en un emocionante viaje a las islas más lejanas de Centopia para enfrentarse a un gran mal y forjar su propio destino.",
+    "cover": "https://cuevana.pizza/resize/###/storage/56043/geWEfNOsCX3sHtI8Vxwkksr1gQeOln89aztAWrAP.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtNDI2bXpjbjAzb2d1Lmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLTByejNqNTNoZHpway5odG1s"
+            ]
+        },
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQteHQzcGl3NGM0N2RjLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLXVsY2wzNnRiY2UzbS5odG1s"
+            ]
+        }
+    ],
+    "downloads": []
+}

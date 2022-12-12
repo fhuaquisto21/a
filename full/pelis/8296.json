@@ -1,0 +1,45 @@
+{
+    "url": "https://cuevana.pizza/pelicula/star-wars-episodio-iv-una-nueva-esperanza",
+    "title": "Star Wars. Episodio IV: Una nueva esperanza",
+    "duration": "2h 1m",
+    "year": "1977",
+    "genres": [
+        "Accion",
+        "Aventura",
+        "Fantasia"
+    ],
+    "actors": [
+        "Mark Hamill",
+        "Harrison Ford",
+        "Carrie Fisher",
+        "Peter Cushing",
+        "Alec Guinness",
+        "Anthony Daniels",
+        "Kenny Baker",
+        "Peter Mayhew",
+        "David Prowse",
+        "James Earl Jones",
+        "Phil Brown",
+        "Shelagh Fraser",
+        "Jack Purvis",
+        "Alex McCrindle",
+        "Eddie Byrne",
+        "Drewe Henley",
+        "Denis Lawson",
+        "Garrick Hagon",
+        "Jack Klaff",
+        "William Hootkins"
+    ],
+    "description": "La princesa Leia, líder del movimiento rebelde que desea reinstaurar la República en la galaxia en los tiempos ominosos del Imperio, es capturada por las malévolas Fuerzas Imperiales, capitaneadas por el implacable Darth Vader, el sirviente más fiel del emperador. El intrépido Luke Skywalker, ayudado por Han Solo, capitán de la nave espacial \"El Halcón Milenario\", y los androides, R2D2 y C3PO, serán los encargados de luchar contra el enemigo y rescatar a la princesa para volver a instaurar la justicia en el seno de la Galaxia.",
+    "cover": "https://cuevana.pizza/resize/###/storage/19651/I3Ttv5rLci1i9GvO8Gpezx8yKTcHx0eH8Cn7KZyO.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtb2J4ZG03bHBmdXM2Lmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLTQ2eTMwNWJnMXhiZi5odG1s"
+            ]
+        }
+    ],
+    "downloads": []
+}

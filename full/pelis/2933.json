@@ -1,0 +1,61 @@
+{
+    "url": "https://cuevana.pizza/pelicula/palma",
+    "title": "Palma",
+    "duration": "1h 50m",
+    "year": "2021",
+    "genres": [
+        "Romance",
+        "Familia"
+    ],
+    "actors": [
+        "Victor Dobronravov",
+        "Leonid Basov",
+        "Vladimir Ilin",
+        "Valeriya Fedorovich",
+        "Evgeniya Dmitrieva",
+        "Igor Khripunov",
+        "Pavel Maykov",
+        "Vladimir Simonov",
+        "Yan Tsapnik",
+        "Filipp Savinkov"
+    ],
+    "description": "La película está inspirada en la increíble historia de un perro pastor llamado Palm que fue dejado inadvertidamente en el aeropuerto por su dueño. Se hace amiga de Nicholas, de nueve años, cuya madre muere, dejándolo con un padre al que apenas conoce, un piloto que encuentra al perro en el aeropuerto. Es una historia de aventuras asombrosas, verdadera amistad y amor incondicional.",
+    "cover": "https://cuevana.pizza/resize/###/storage/10602/lpbcfdIz0kulPUmcKMEJbbVgKk7LpWD0GqvlZVxZ.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtM3V1aXhuNmd5YWRyLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLXpuNzZnaXM4bncxay5odG1s"
+            ]
+        },
+        {
+            "type": "cas",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtb3U4OHR0dXJyamg3Lmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLW10ZHRvMWM5azBkcS5odG1s"
+            ]
+        },
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtcGd4OHhndmw2MDJhLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLXl5MGhudXQ2c3B6dS5odG1s"
+            ]
+        }
+    ],
+    "downloads": [
+        {
+            "url": "https://1fichier.com/?2twaro0lclqa979y0bzy",
+            "type": "la"
+        },
+        {
+            "url": "https://1fichier.com/?qii6m92bm3y3h93fdafa",
+            "type": "es"
+        },
+        {
+            "url": "https://1fichier.com/?7ny60v3kh55jvjx5j0sj",
+            "type": "en"
+        }
+    ]
+}

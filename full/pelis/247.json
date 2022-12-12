@@ -1,0 +1,29 @@
+{
+    "url": "https://cuevana.pizza/pelicula/descendientes",
+    "title": "Descendientes",
+    "duration": "1h 51m",
+    "year": "2022",
+    "genres": [
+        "Documental"
+    ],
+    "actors": [],
+    "description": "En 1860, 50 años después de que EE. UU. prohibiese la trata de esclavos, un barco negrero procedente de África Occidental llega a Alabama y es destruido poco después. En 2019, los descendientes de los supervivientes pueden por fin desenterrar la evidencia de lo que les sucedió a sus antepasados.",
+    "cover": "https://cuevana.pizza/resize/###/storage/55646/MQrCV8Ny5yqfWOoCxsju522cmBb8sMWUrUzEJ803.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtNXR5Z2M0bWt1cjQ4Lmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLW9oZmF2aDZ5ZmZhei5odG1s"
+            ]
+        },
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtdWtmdWYxd3NiczU4Lmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLWRhdnBpeDYyeWhmdi5odG1s"
+            ]
+        }
+    ],
+    "downloads": []
+}

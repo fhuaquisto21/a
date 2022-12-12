@@ -1,0 +1,44 @@
+{
+    "url": "https://cuevana.pizza/pelicula/jason-x",
+    "title": "Jason X",
+    "duration": "1h 31m",
+    "year": "2001",
+    "genres": [
+        "Terror",
+        "Ciencia Ficcion"
+    ],
+    "actors": [
+        "Kane Hodder",
+        "Lexa Doig",
+        "Chuck Campbell",
+        "Lisa Ryder",
+        "David Cronenberg",
+        "Markus Parilo",
+        "Jonathan Potts",
+        "Dov Tiefenbach",
+        "Melyssa Ade",
+        "Todd Farmer",
+        "Kristi Angus",
+        "Boyd Banks",
+        "Peter Mensah",
+        "Jeff Geddis",
+        "Barna Moricz",
+        "Dylan Bierk",
+        "Melody Johnson",
+        "Derwin Jordan",
+        "Yani Gellman",
+        "Steve Lucescu"
+    ],
+    "description": "En el año 2445, la Tierra es un lugar contaminado al que regresan de vez en cuando los hombres para recoger residuos de la vieja civilización. Poco se imaginan los jóvenes e intrépidos exploradores que acaban de aterrizar en la Tierra el destino que les aguarda.",
+    "cover": "https://cuevana.pizza/resize/###/storage/41010/3qIpCMOjJPyfnWCr0Mi3MCL0w2ju6ddtfHbHwsX3.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtY2R3ejZ0Z2Z6OHFrLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLTNrcXR2YWRhZTRyay5odG1s"
+            ]
+        }
+    ],
+    "downloads": []
+}

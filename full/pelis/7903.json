@@ -1,0 +1,54 @@
+{
+    "url": "https://cuevana.pizza/pelicula/linterna-verde",
+    "title": "Linterna Verde",
+    "duration": "1h 54m",
+    "year": "2011",
+    "genres": [
+        "Accion",
+        "Suspenso",
+        "Ciencia Ficcion",
+        "Aventura",
+        "DC Comics"
+    ],
+    "actors": [
+        "Ryan Reynolds",
+        "Blake Lively",
+        "Peter Sarsgaard",
+        "Mark Strong",
+        "Tim Robbins",
+        "Angela Bassett",
+        "Taika Waititi",
+        "Temuera Morrison",
+        "Michael Clarke Duncan",
+        "Geoffrey Rush",
+        "Clancy Brown",
+        "Jay O. Sanders",
+        "Gattlin Griffith",
+        "Jenna Craig",
+        "Jon Tenney",
+        "Mike Doyle",
+        "Nick Jandl",
+        "Dylan James",
+        "Leanne Cochran",
+        "Amy Carlson"
+    ],
+    "description": "Hal Jordan (Ryan Reynolds), un piloto que prueba prototipos, adquiere superpoderes que le son concedidos por un extraterrestre moribundo. Gracias a ello es reclutado para una misión de paz intergaláctica... Adaptación a imagen real del popular personaje de DC Comics, Linterna Verde.",
+    "cover": "https://cuevana.pizza/resize/###/storage/28605/Righ68ZZ4UQ5uPHbGPQWK4q08qdkbbKMJpQcHx5w.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtdnVnbGVvMnlzeHJkLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLXltMXFyYmQyMzl4cy5odG1s"
+            ]
+        },
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtNHpqancwamo4MWo1Lmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLWd4ZDZ2azgzYzB4ci5odG1s"
+            ]
+        }
+    ],
+    "downloads": []
+}

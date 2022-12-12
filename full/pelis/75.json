@@ -1,0 +1,61 @@
+{
+    "url": "https://cuevana.pizza/pelicula/el-paciente",
+    "title": "El paciente",
+    "duration": "1h 32m",
+    "year": "2022",
+    "genres": [
+        "Drama",
+        "Misterio",
+        "Suspenso"
+    ],
+    "actors": [
+        "Txomin Vergez",
+        "Clotilde Hesme",
+        "Audrey Dana",
+        "Stéphane Rideau",
+        "Rebecca Williams",
+        "Matthieu Lucci",
+        "Alex Lawther",
+        "Baptiste Carrion-Weiss",
+        "Raphaël Sergio"
+    ],
+    "description": "Tras despertar de un coma, lo único que quiere Thomas es averiguar qué le pasó a su familia. Pero la verdad es muchas veces tan sombría como la mente humana…",
+    "cover": "https://cuevana.pizza/resize/###/storage/57722/49boTRx8lLzldDy5S32rrslqUYilBMSXfnVZ8e6r.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtcXQzdjhyM2plODZ3Lmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLTNxYWxxdmgzZm41Zi5odG1s"
+            ]
+        },
+        {
+            "type": "cas",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtcXoxNDlzNzcxcDlmLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLXVnMHJoaDZ3dmViMC5odG1s"
+            ]
+        },
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtZ3FuOXphYm91NHdvLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLTF5NXZ6MTZvbXl6ZS5odG1s"
+            ]
+        }
+    ],
+    "downloads": [
+        {
+            "url": "https://1fichier.com/?4q2ubmptw6b1cibjxb60",
+            "type": "la"
+        },
+        {
+            "url": "https://1fichier.com/?wb6hw5qqlyrptd2k37g8",
+            "type": "es"
+        },
+        {
+            "url": "https://1fichier.com/?ywnwv0j6mf6vghgtolgy",
+            "type": "en"
+        }
+    ]
+}

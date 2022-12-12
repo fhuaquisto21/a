@@ -1,0 +1,51 @@
+{
+    "url": "https://cuevana.pizza/pelicula/la-noche-de-halloween-2",
+    "title": "La noche de Halloween",
+    "duration": "1h 31m",
+    "year": "1978",
+    "genres": [
+        "Suspenso",
+        "Terror"
+    ],
+    "actors": [
+        "Donald Pleasence",
+        "Jamie Lee Curtis",
+        "Nancy Kyes",
+        "P.J. Soles",
+        "Charles Cyphers",
+        "Kyle Richards",
+        "Brian Andrews",
+        "John Michael Graham",
+        "Nancy Stephens",
+        "Arthur Malet",
+        "Mickey Yablans",
+        "Brent Le Page",
+        "Adam Hollander",
+        "Robert Phalen",
+        "Tony Moran",
+        "Will Sandin",
+        "Sandy Johnson",
+        "David Kyle",
+        "Peter Griffith",
+        "Nick Castle"
+    ],
+    "description": "Durante la noche de Halloween, Michael, un niño de seis años, asesina a su familia con un cuchillo de cocina. Es internado en un psiquiátrico del que huye quince años más tarde, precisamente la víspera de Halloween. El psicópata vuelve a su pueblo y comete una serie de asesinatos. Mientras, uno de los médicos del psiquiátrico le sigue la pista.",
+    "cover": "https://cuevana.pizza/resize/###/storage/41853/addJZoND37wqnxSvoRmECZswrpmogFzYRV3xZIET.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtdHkzMDhyN25rZG8zLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLWY4Z2YxNTR4dGg2cC5odG1s"
+            ]
+        },
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtbHUwMWpuc2xhMDdsLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLXljejZoZ2h2M2Fzcy5odG1s"
+            ]
+        }
+    ],
+    "downloads": []
+}

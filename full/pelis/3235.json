@@ -1,0 +1,61 @@
+{
+    "url": "https://cuevana.pizza/pelicula/here-today",
+    "title": "Here Today",
+    "duration": "1h 57m",
+    "year": "2021",
+    "genres": [
+        "Comedia",
+        "Drama"
+    ],
+    "actors": [
+        "Billy Crystal",
+        "Tiffany Haddish",
+        "Penn Badgley",
+        "Laura Benanti",
+        "Louisa Krause",
+        "Dierdre Friel",
+        "Alex Brightman",
+        "Matthew Broussard",
+        "Max Gordon Moore",
+        "Susan Pourfar"
+    ],
+    "description": "El veterano escritor de comedia Charlie Berns, que poco a poco está perdiendo el control de la realidad, se hace amigo de una joven y talentosa cantante callejera de Nueva York, Emma Payge. Juntos, forman una amistad poco probable pero divertida y conmovedora que hace a un lado la brecha generacional y redefine el significado del amor y la confianza.",
+    "cover": "https://cuevana.pizza/resize/###/storage/9418/jMInSmyrfaEaF5Lts10UDpApkGNqMtCiwo1Mr5CS.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtNHl2bW96MDhyZ3I3Lmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLTZiazFhdWpneWZ5dC5odG1s"
+            ]
+        },
+        {
+            "type": "cas",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtZnRqcm4zdGI1NHpsLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLWd4ZnJlNno4eW1jYi5odG1s"
+            ]
+        },
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtb3RnMmVuYmNzbTM1Lmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLXA1bmc1N2wxank4ZS5odG1s"
+            ]
+        }
+    ],
+    "downloads": [
+        {
+            "url": "https://1fichier.com/?2xk9uhbl04q7tuj24a0m",
+            "type": "la"
+        },
+        {
+            "url": "https://1fichier.com/?skopsb8oz5z101nywr3y",
+            "type": "es"
+        },
+        {
+            "url": "https://1fichier.com/?al8x25o0999yla3uie6g",
+            "type": "en"
+        }
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "url": "https://cuevana.pizza/pelicula/united-skates",
+    "title": "United Skates",
+    "duration": "1h 29m",
+    "year": "2018",
+    "genres": [
+        "Documental"
+    ],
+    "actors": [
+        "Reggie Brown",
+        "Coolio",
+        "Cheryl 'Salt' James",
+        "Sandra 'Pepa' Denton"
+    ],
+    "description": "En un entorno cargado de conflictos raciales, una comunidad lucha para que las últimas pistas de patinaje de EE. UU. no se cierren.",
+    "cover": "https://cuevana.pizza/resize/###/storage/23915/2u6xnC6VBSmdw7V8gLClZKtCwLXv7er7FZ56o6s0.jpg",
+    "players": [
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQta3drc2JzcG0xdHoxLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLWduMXNjamFlcW40NC5odG1s"
+            ]
+        }
+    ],
+    "downloads": []
+}

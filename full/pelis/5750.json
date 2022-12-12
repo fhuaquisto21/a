@@ -1,0 +1,26 @@
+{
+    "url": "https://cuevana.pizza/pelicula/el-corte",
+    "title": "El corte",
+    "duration": "1h 6m",
+    "year": "2018",
+    "genres": [
+        "Drama"
+    ],
+    "actors": [
+        "Paloma Contreras",
+        "Nicolás Goldschmidt",
+        "Nicolás Mateo"
+    ],
+    "description": "Después de treinta días sin energía, varios vecinos se verán consumidos por el creciente miedo y la paranoia, el apagón aparentemente interminable sacando lo peor de ellos.",
+    "cover": "https://cuevana.pizza/resize/###/storage/25646/GiaZGLpqglm4id3Ey3clzl24PZ0IPL3PyU1BF4VR.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtMnRnanpzZWNjdmJiLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLThzMDM2YW5heG9xMi5odG1s"
+            ]
+        }
+    ],
+    "downloads": []
+}

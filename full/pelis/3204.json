@@ -1,0 +1,51 @@
+{
+    "url": "https://cuevana.pizza/pelicula/free-guy",
+    "title": "Free Guy",
+    "duration": "1h 55m",
+    "year": "2021",
+    "genres": [
+        "Accion",
+        "Comedia",
+        "Ciencia Ficcion"
+    ],
+    "actors": [
+        "Ryan Reynolds",
+        "Jodie Comer",
+        "Lil Rel Howery",
+        "Joe Keery",
+        "Taika Waititi",
+        "Utkarsh Ambudkar",
+        "Owen Burke",
+        "Kayla Caulfield",
+        "Camille Kostek",
+        "Michael Malvesti"
+    ],
+    "description": "Un trabajador de un banco descubre que en realidad es un jugador dentro de un videojuego.",
+    "cover": "https://cuevana.pizza/resize/###/storage/9521/9m0vmvU1P4v6xfLo2FIKHwjYMg5o3BLYoDrPOa5C.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtd254Z3Y1dTI4a3l6Lmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLXl3cTFlNmdwdTdnMy5odG1s"
+            ]
+        },
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtMnl4eHRqemwwNXluLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLTB3MHdlNmg5NWljZC5odG1s"
+            ]
+        }
+    ],
+    "downloads": [
+        {
+            "url": "https://1fichier.com/?s4qznghqgm9l5u7c0zmv",
+            "type": "la"
+        },
+        {
+            "url": "https://1fichier.com/?m8uay3e4spu8jihvxyso",
+            "type": "en"
+        }
+    ]
+}

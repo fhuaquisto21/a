@@ -1,0 +1,28 @@
+{
+    "url": "https://cuevana.pizza/pelicula/vasil",
+    "title": "Vasil",
+    "duration": "1h 33m",
+    "year": "2022",
+    "genres": [
+        "Comedia",
+        "Drama"
+    ],
+    "actors": [
+        "Ivan Barnev",
+        "Karra Elejalde",
+        "Alexandra Jiménez",
+        "Susi Sánchez"
+    ],
+    "description": "Vasil es inteligente, carismático y un número uno jugando al bridge y al ajedrez, pero duerme en la calle desde que llegó de Bulgaria. Alfredo, un arquitecto jubilado, lo acoge en su casa durante un tiempo ante la mirada atónita de su hija Luisa. Los dos hombres no tienen nada en común, excepto su pasión por el ajedrez. A pesar de sus diferencias, poco a poco Vasil conseguirá romper las barreras construidas por Alfredo. Y es que Vasil tiene un don: transformar para siempre a aquellas personas con las que se relaciona.",
+    "cover": "https://cuevana.pizza/resize/###/storage/57287/Am9iEwO6BXIvny5bFhlYIZfQoS2dNGv9DYYmtv33.jpg",
+    "players": [
+        {
+            "type": "cas",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtM2R4em0wb2xibmhkLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLXE0ZGxtc2dlaTE3NS5odG1s"
+            ]
+        }
+    ],
+    "downloads": []
+}

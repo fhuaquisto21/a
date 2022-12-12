@@ -1,0 +1,73 @@
+{
+    "url": "https://cuevana.pizza/pelicula/los-vengadores",
+    "title": "The Avengers (Los vengadores)",
+    "duration": "2h 23m",
+    "year": "2012",
+    "genres": [
+        "Accion",
+        "Ciencia Ficcion",
+        "Aventura",
+        "Marvel Comics"
+    ],
+    "actors": [
+        "Robert Downey Jr.",
+        "Chris Evans",
+        "Mark Ruffalo",
+        "Chris Hemsworth",
+        "Scarlett Johansson",
+        "Jeremy Renner",
+        "Tom Hiddleston",
+        "Samuel L. Jackson",
+        "Cobie Smulders",
+        "Clark Gregg",
+        "Stellan Skarsgård",
+        "Gwyneth Paltrow",
+        "Paul Bettany",
+        "Alexis Denisof",
+        "Tina Benko",
+        "Jerzy Skolimowski",
+        "Kirill Nikiforov",
+        "Jeff Wolfe",
+        "M'laah Kaur Singh",
+        "Rashmi Rustagi"
+    ],
+    "description": "Cuando un enemigo inesperado surge como una gran amenaza para la seguridad mundial, Nick Fury, director de la Agencia SHIELD, decide reclutar a un equipo para salvar al mundo de un desastre casi seguro.",
+    "cover": "https://cuevana.pizza/resize/###/storage/21098/lxQKInA6OtNfIyBLQzZhWWOQUnHDqHvzVjh4lZ93.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtZXN4d3EyYm0wd2dkLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLWNicWJwa3FyaHplby5odG1s"
+            ]
+        },
+        {
+            "type": "cas",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtcGFtNTNiMXcwZGZxLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLThyc3Y5cmEycWp3aC5odG1s"
+            ]
+        },
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtbHVlczYxdGh5aWZ6Lmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLWUxZHB6Nmx0YWVqaC5odG1s"
+            ]
+        }
+    ],
+    "downloads": [
+        {
+            "url": "https://1fichier.com/?7zl7bhazji",
+            "type": "la"
+        },
+        {
+            "url": "https://1fichier.com/?bqva2xwfxy",
+            "type": "es"
+        },
+        {
+            "url": "https://1fichier.com/?b8d5zbqajm",
+            "type": "en"
+        }
+    ]
+}

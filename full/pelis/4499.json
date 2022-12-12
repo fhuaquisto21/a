@@ -1,0 +1,39 @@
+{
+    "url": "https://cuevana.pizza/pelicula/la-noche-que-salvamos-a-mama",
+    "title": "Una noche de locos",
+    "duration": "1h 43m",
+    "year": "2020",
+    "genres": [
+        "Accion",
+        "Familia"
+    ],
+    "actors": [
+        "Joanna Herrington",
+        "Sadie Stanley",
+        "Joe Manganiello",
+        "Cree Cicchino",
+        "Karla Souza",
+        "Malin Åkerman",
+        "Ken Marino",
+        "Lucas Jaye"
+    ],
+    "description": "Durante una fiesta de pijamas con sus mejores amigos, dos hermanos descubren que su madre, Margot (Malin Akerman), no es lo que parece. Ahora es un ama de casa normal y corriente, pero fue una ladrona de guante blanco que se acogió al programa de protección de testigos. Cuando ella y el padre de los niños (Ken Marino) desaparecen, obligados a dar un último golpe con el ex novio de Margot (Joe Manganiello), los hermanos deciden formar un grupo para rescatarla a lo largo de una noche repleta de acción.",
+    "cover": "https://cuevana.pizza/resize/###/storage/24993/eOkvoSop1YkW78lJ8EmiwRPthVhAGsaPC22OWm46.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtaDQ4NzRhODd0NWh0Lmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLTMwMjVlYmZzdDBqdy5odG1s"
+            ]
+        },
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtN2NhdGNyOHRlM3RpLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLWR5bmszcjR2dG45by5odG1s"
+            ]
+        }
+    ],
+    "downloads": []
+}

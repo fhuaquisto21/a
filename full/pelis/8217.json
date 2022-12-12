@@ -1,0 +1,52 @@
+{
+    "url": "https://cuevana.pizza/pelicula/la-momia",
+    "title": "La momia",
+    "duration": "2h 5m",
+    "year": "1999",
+    "genres": [
+        "Accion",
+        "Aventura",
+        "Fantasia"
+    ],
+    "actors": [
+        "Brendan Fraser",
+        "Rachel Weisz",
+        "John Hannah",
+        "Arnold Vosloo",
+        "Patricia Velásquez",
+        "Kevin J. O'Connor",
+        "Jonathan Hyde",
+        "Oded Fehr",
+        "Erick Avari",
+        "Stephen Dunham",
+        "Corey Johnson",
+        "Tuc Watkins",
+        "Omid Djalili",
+        "Aharon Ipalé",
+        "Bernard Fox",
+        "Carl Chase",
+        "Mohammed Afifi",
+        "Abderrahim El Aadili",
+        "Jake Arnott",
+        "Mason Ball"
+    ],
+    "description": "Durante una batalla en Egipto, el legionario Rick O'Connell y un compañero descubren las ruinas de Hamunaptra, la ciudad de los muertos. Algún tiempo después vuelven al mismo lugar con una egiptóloga llamada Evelyn Carnahan y su hermano. Allí coinciden con un grupo de americanos, deseosos de correr aventuras, que acabarán provocando la resurrección de la momia de un sacerdote egipcio que intenta desesperadamente recuperar a su amada.Para ello la momia persigue a los americanos que abrieron la caja, a la vez que se regenera poco a poco con cada persona que va matando.",
+    "cover": "https://cuevana.pizza/resize/###/storage/29848/lDTfSlru2YTkky77RfywldW6fNAxiyLMbiPH0ITU.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtbDJ4djg1ZDZxOGg0Lmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLXdvYjh4dXpkajR3OC5odG1s"
+            ]
+        },
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtOWNlamJvNTJwZW5uLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLXpjZWt3dnRwYThzOC5odG1s"
+            ]
+        }
+    ],
+    "downloads": []
+}

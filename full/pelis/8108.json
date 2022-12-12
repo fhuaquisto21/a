@@ -1,0 +1,52 @@
+{
+    "url": "https://cuevana.pizza/pelicula/superman-regresa",
+    "title": "Superman Returns: El regreso",
+    "duration": "2h 34m",
+    "year": "2006",
+    "genres": [
+        "Accion",
+        "Ciencia Ficcion",
+        "Aventura"
+    ],
+    "actors": [
+        "Brandon Routh",
+        "Kevin Spacey",
+        "Kate Bosworth",
+        "James Marsden",
+        "Parker Posey",
+        "Frank Langella",
+        "Sam Huntington",
+        "Eva Marie Saint",
+        "Marlon Brando",
+        "Kal Penn",
+        "Tristan Lake Leabu",
+        "David Fabrizio",
+        "Ian Roberts",
+        "Vincent Stone",
+        "Jack Larson",
+        "Noel Neill",
+        "Keegan Joyce",
+        "Jordana Beatty",
+        "Rob Flanagan",
+        "Stephan Bender"
+    ],
+    "description": "Tras varios años de misteriosa ausencia, Supermán regresa a la Tierra, pero un viejo enemigo intenta arrebatarle sus poderes. Tratando de proteger al mundo de una destrucción masiva, Supermán emprende una aventura épica de redención que lo lleva desde las profundidades del océano a las regiones más remotas del espacio.",
+    "cover": "https://cuevana.pizza/resize/###/storage/28785/FFqAOy6t9gV41W8pGOiKwui696x1eV3q9zN8vnub.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtZWlxd3M1eXl5OWppLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLXJ3dnM4bjdtMDR6Yy5odG1s"
+            ]
+        },
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtdHZleGVoNWgzbDMyLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLXB2NjV0N3Z4NGl0Mi5odG1s"
+            ]
+        }
+    ],
+    "downloads": []
+}

@@ -1,0 +1,60 @@
+{
+    "url": "https://cuevana.pizza/pelicula/toy-story",
+    "title": "Toy Story",
+    "duration": "1h 17m",
+    "year": "1995",
+    "genres": [
+        "Comedia",
+        "Fantasia",
+        "Animacion",
+        "Disney"
+    ],
+    "actors": [
+        "Tom Hanks",
+        "Tim Allen",
+        "Jim Varney",
+        "Wallace Shawn",
+        "John Ratzenberger",
+        "Annie Potts",
+        "John Morris"
+    ],
+    "description": "Los juguetes de Andy, un niño de 6 años, temen que haya llegado su hora y que un nuevo regalo de cumpleaños les sustituya en el corazón de su dueño. Woody, un vaquero que ha sido hasta ahora el juguete favorito de Andy, trata de tranquilizarlos hasta que aparece Buzz Lightyear, un héroe espacial dotado de todo tipo de avances tecnológicos. Woody es relegado a un segundo plano. Su constante rivalidad se transformará en una gran amistad cuando ambos se pierden en la ciudad sin saber cómo volver a casa.",
+    "cover": "https://cuevana.pizza/resize/###/storage/4267/pNfj8aMeHnqpoYFGkwpleRCGLZ1xa2vlJClfPDPG.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtZDV6cXoxeHFidW1xLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLTNhOXR0b2ZvcDk5eS5odG1s"
+            ]
+        },
+        {
+            "type": "cas",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtdjk5M2htM2Y2eTF4Lmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLXFpeDJhYWsyZnh3bC5odG1s"
+            ]
+        },
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtZGkyMjFnYXUxczVyLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLWRvYnY1dng4bGQwNS5odG1s"
+            ]
+        }
+    ],
+    "downloads": [
+        {
+            "url": "https://1fichier.com/?tanfdxdwn1p1zqgml303",
+            "type": "la"
+        },
+        {
+            "url": "https://1fichier.com/?rzhp76mzdvaqkm5rskns",
+            "type": "es"
+        },
+        {
+            "url": "https://1fichier.com/?iwt7frqae2emtvqfba2q",
+            "type": "en"
+        }
+    ]
+}

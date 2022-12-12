@@ -1,0 +1,25 @@
+{
+    "url": "https://cuevana.pizza/pelicula/penguins",
+    "title": "Penguins",
+    "duration": "1h 16m",
+    "year": "2019",
+    "genres": [
+        "Documental",
+        "Disney"
+    ],
+    "actors": [
+        "Ed Helms"
+    ],
+    "description": "Steve es un pingüino que se une a millones de compañeros durante la primavera para conseguir encontrar pareja y formar una familia, creando un nido para que la unión entre ambos pueda sobrevivir al frío Invierno. Es una tarea mucho más compleja de lo que Steve imaginaba, especialmente por el peligro que supone la presencia de los \"leopardos marinos\", un tipo de foca que se convierte en una amenaza para todo lo que le resta de vida.",
+    "cover": "https://cuevana.pizza/resize/###/storage/17932/sKIUqaUGcKioNi85rFsWscMd0DWU6eAnNAgENCAA.jpg",
+    "players": [
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtM2RwN2ZjN2VoczNkLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLWk0bDlncXRrem4yYi5odG1s"
+            ]
+        }
+    ],
+    "downloads": []
+}

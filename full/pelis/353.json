@@ -1,0 +1,48 @@
+{
+    "url": "https://cuevana.pizza/pelicula/scooby-doo-dulce-o-travesura",
+    "title": "¡Scooby-Doo! Dulce o Travesura",
+    "duration": "1h 18m",
+    "year": "2022",
+    "genres": [
+        "Comedia",
+        "Misterio",
+        "Aventura",
+        "Familia",
+        "Animacion"
+    ],
+    "actors": [
+        "Frank Welker",
+        "Grey DeLisle",
+        "Matthew Lillard",
+        "Kate Micucci",
+        "Myrna Velasco",
+        "Dee Bradley Baker",
+        "Jeff Bennett",
+        "Anthony Carrigan",
+        "Erin Fitzgerald",
+        "David Lodge",
+        "Lara Jill Miller",
+        "Candi Milo",
+        "Jenelle Lynn Randall",
+        "Kevin Michael Richardson"
+    ],
+    "description": "¡Mystery Inc. ha descifrado el caso para superar todos los casos! Han rastreado a Coco Diablo, la cabeza de un notorio sindicato del crimen disfrazado. Con Coco y su gatito en prisión, Mystery Inc. piensa que finalmente podrán disfrutar de un descanso. ¡Equivocado! De repente, amenazantes fantasmas doppelgänger del equipo de Scooby y sus enemigos clásicos favoritos aparecen en Coolsville para amenazar Halloween. ¡Ahora depende de los niños entrometidos desenmascarar al último sinvergüenza y salvar Halloween!",
+    "cover": "https://cuevana.pizza/resize/###/storage/53762/ju5Y22RkbmuHsHPvSPmRm7pd2ebslb9T2qCrhTAk.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtMng5OHRmenUxeHAzLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLXM0ZTA4dmlwOGg0dC5odG1s"
+            ]
+        },
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQteHRmbnUza29xNnIxLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLXFtbzNkN3FyMzV6ZS5odG1s"
+            ]
+        }
+    ],
+    "downloads": []
+}

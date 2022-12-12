@@ -1,0 +1,26 @@
+{
+    "url": "https://cuevana.pizza/pelicula/la-hija",
+    "title": "La hija",
+    "duration": "2h 02m",
+    "year": "2021",
+    "genres": [
+        "Suspenso"
+    ],
+    "actors": [
+        "Javier Gutiérrez",
+        "Patricia López Arnaiz",
+        "Irene Virgüez"
+    ],
+    "description": "Dana, una joven de quince años, se ha quedado embarazada y acaba de escaparse de un centro de menores. Javier, su tutor, está dispuesto a ayudarla, pero a cambio ella tendrá que seguir sus reglas.",
+    "cover": "https://cuevana.pizza/resize/###/storage/16764/aKfBUt4akN0dgNsY6GeyUKnRYZF5UAydnXeqq8r0.jpg",
+    "players": [
+        {
+            "type": "cas",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtZ3NvMTZidWw0amc3Lmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLTg3dHA0bjRuMDhuei5odG1s"
+            ]
+        }
+    ],
+    "downloads": []
+}

@@ -1,0 +1,47 @@
+{
+    "url": "https://cuevana.pizza/pelicula/dracula",
+    "title": "Drácula, la leyenda jamás contada",
+    "duration": "1h 32m",
+    "year": "2014",
+    "genres": [
+        "Accion",
+        "Drama",
+        "Terror",
+        "Fantasia",
+        "Belica"
+    ],
+    "actors": [
+        "Art Parkinson",
+        "Dominic Cooper",
+        "Luke Evans",
+        "Sarah Gadon"
+    ],
+    "description": "Una historia original sobre Vlad Tepes o Vlad el Empalador, el príncipe rumano en el que se inspiró Bram Stoker para escribir su célebre novela (1897) y crear al vampiro más famoso de todos los tiempos. La película narra la trágica vida de Vlad, qué dilemas tuvo que afrontar y cómo se convirtió en un vampiro.",
+    "cover": "https://cuevana.pizza/resize/###/storage/15797/kVogErdqn1iEPUGbXfJ1DCBAi18CMraAC3a7gtxQ.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtbW5lYjV5anNwYjMyLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLTFiZm8zdnNyYTZwYy5odG1s"
+            ]
+        },
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtY3d4N3YxMnVpdDM2Lmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLXh6czZuMms1dXAzby5odG1s"
+            ]
+        }
+    ],
+    "downloads": [
+        {
+            "url": "https://1fichier.com/?dgmjmr74k0ofrzb1hvas",
+            "type": "la"
+        },
+        {
+            "url": "https://1fichier.com/?4c43p4esjp6v7elft946",
+            "type": "en"
+        }
+    ]
+}

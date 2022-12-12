@@ -1,0 +1,56 @@
+{
+    "url": "https://cuevana.pizza/pelicula/operacion-overlord",
+    "title": "Overlord",
+    "duration": "1h 50m",
+    "year": "2018",
+    "genres": [
+        "Accion",
+        "Guerra",
+        "Misterio",
+        "Terror",
+        "Ciencia Ficcion",
+        "Aventura",
+        "Belica"
+    ],
+    "actors": [
+        "Jovan Adepo",
+        "Wyatt Russell",
+        "Pilou Asbæk",
+        "Mathilde Ollivier",
+        "John Magaro",
+        "Iain De Caestecker",
+        "Bokeem Woodbine",
+        "Dominic Applewhite",
+        "Jacob Anderson",
+        "Mark McKenna",
+        "Gianny Taufer",
+        "Erich Redman",
+        "Patrick Brammall",
+        "Joseph Quinn",
+        "Hayley Carmichael",
+        "Marc Rissmann",
+        "Meg Foster",
+        "Sarah Finigan",
+        "Gunther Wurger",
+        "Bart Lambert"
+    ],
+    "description": "La víspera del Día D, un grupo de soldados aliados es enviado a la Francia ocupada para completar una misión esencial para la victoria. Sobre el terreno, descubren un laboratorio en el que se llevan a cabo descabellados experimentos. La formación que han recibido no les ha preparado para enfrentarse a soldados manipulados genéticamente. Overlord se suma a la insigne lista de producciones de Bad Robot, la revolucionaria compañía de J. J. Abrams.",
+    "cover": "https://cuevana.pizza/resize/###/storage/21368/S9mwezMPiGfNzkmgLhD62qDIfT55AKVGsdTs1hyg.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQta2ttZmpwcXIycTRxLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLWlkajJwZzJzY3dsaC5odG1s"
+            ]
+        },
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtOWd5dWdzMTRxZWNwLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLTA3c3ZscjF5eHp2bS5odG1s"
+            ]
+        }
+    ],
+    "downloads": []
+}

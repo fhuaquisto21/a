@@ -1,0 +1,51 @@
+{
+    "url": "https://cuevana.pizza/pelicula/high-flying-bird",
+    "title": "High Flying Bird",
+    "duration": "1h 30m",
+    "year": "2019",
+    "genres": [
+        "Drama",
+        "Deportes"
+    ],
+    "actors": [
+        "André Holland",
+        "Zazie Beetz",
+        "Melvin Gregg",
+        "Sonja Sohn",
+        "Zachary Quinto",
+        "Glenn Fleshler",
+        "Jeryl Prescott",
+        "Justin Hurtt-Dunkley",
+        "Caleb McLaughlin",
+        "Bobbi Bordley",
+        "Kyle MacLachlan",
+        "Bill Duke",
+        "Eddie Tavares",
+        "Farah Bala",
+        "Skip Bayless",
+        "Shannon Sharpe",
+        "Joy Taylor",
+        "Evan Rosenblum",
+        "Van Lathan",
+        "Alice Callahan"
+    ],
+    "description": "Dean (André Holland) es un agente deportivo que, durante un cierre patronal, ve la oportunidad de hacer negocio con una joven promesa del baloncesto (Melvin Gregg), uno de los clientes a los que representa.",
+    "cover": "https://cuevana.pizza/resize/###/storage/20583/HgC7ytwDGw80FL72fcQtOKq5lgBq8Ha4rrJsyLM5.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtemh1dHdzd3k5bHgxLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLXlwZzJlYjAwY3g4Ny5odG1s"
+            ]
+        },
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtejBieDg0ZHc5cjQ2Lmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLWIyOWo5OHltYzhtdS5odG1s"
+            ]
+        }
+    ],
+    "downloads": []
+}

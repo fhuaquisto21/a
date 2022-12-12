@@ -1,0 +1,44 @@
+{
+    "url": "https://cuevana.pizza/pelicula/tqm",
+    "title": "TQM",
+    "duration": "1h 19m",
+    "year": "2022",
+    "genres": [
+        "Suspenso"
+    ],
+    "actors": [
+        "Ana Carolina Grajales",
+        "Anna Silvetti",
+        "Gabriel Tarantini",
+        "Pablo Azar",
+        "Saraí Meza"
+    ],
+    "description": "Una de las psiquiatras más prestigiosas de México decide poner a prueba a sus tres hijos para determinar cómo dividir su herencia. Todo se complica cuando uno de sus pacientes decide no colaborar con ellos.",
+    "cover": "https://cuevana.pizza/resize/###/storage/14604/HXTcPNYAjlSOCl4Yhp9UfOPJqGVYLFSfOiO07kT1.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtNmloZHZrdGU4MG5sLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLXZ3aWJnYnIzcjc2dC5odG1s"
+            ]
+        },
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtejluMncyMXNhazhuLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLWhudGlsdDc0OHhseS5odG1s"
+            ]
+        }
+    ],
+    "downloads": [
+        {
+            "url": "https://1fichier.com/?b40eogchj8f8ujfmn0lv",
+            "type": "la"
+        },
+        {
+            "url": "https://1fichier.com/?dlbbloyhd9ovbfiflm17",
+            "type": "en"
+        }
+    ]
+}

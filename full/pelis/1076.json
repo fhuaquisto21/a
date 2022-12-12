@@ -1,0 +1,67 @@
+{
+    "url": "https://cuevana.pizza/pelicula/cerca-del-horizonte",
+    "title": "Cerca del horizonte",
+    "duration": "2h 0m",
+    "year": "2019",
+    "genres": [
+        "Drama",
+        "Romance"
+    ],
+    "actors": [
+        "Luna Wedler",
+        "Jannik Schümann",
+        "Luise Befort",
+        "Victoria Mayer",
+        "Stephan Kampwirth",
+        "Denis Moschitto",
+        "Frederick Lau",
+        "Henry Horn",
+        "Kristin Hunold",
+        "Marta Martin",
+        "Jamie Bick",
+        "Judith Paus",
+        "Axel Röhrle",
+        "Emil Schwarz",
+        "Julia Eiber",
+        "Lena Vogt"
+    ],
+    "description": "Jessica es joven, disfruta de una vida sin complicaciones y tiene por delante un futuro prometedor. Una noche conoce a Danny, un chico que tiene todo con lo que ella sueña: es atractivo, tiene independencia y éxito. Fascinada por él, poco a poco irá descubriendo quién es en realidad tras esa fachada construida con tanto cuidado. En un mundo superficial que solo se fija en las apariencias, ambos tendrán que enfrentarse a los prejuicios, la exclusión y a emprender una carrera contra el tiempo.",
+    "cover": "https://cuevana.pizza/resize/###/storage/43321/HvgZ6dCMFVloNp4MRpnhsJhx03Ld9Y6gCOovjMO3.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtMHppbXZmb3BoZHV4Lmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLWtyaHhrMHZ1enJqdC5odG1s"
+            ]
+        },
+        {
+            "type": "cas",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtdDZyeHp3eWc3dzE5Lmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLThjZ3lxZnp3Ymd6di5odG1s"
+            ]
+        },
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtY3J6YWVzM3k4bHJnLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLXgxZW5ia2tlaTAyeC5odG1s"
+            ]
+        }
+    ],
+    "downloads": [
+        {
+            "url": "https://1fichier.com/?d5qzdhv2s1q6ji4jloob",
+            "type": "la"
+        },
+        {
+            "url": "https://1fichier.com/?z865h000a1h5pq7oeagh",
+            "type": "es"
+        },
+        {
+            "url": "https://1fichier.com/?htbgf89yvg14j01vlpse",
+            "type": "en"
+        }
+    ]
+}

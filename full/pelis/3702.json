@@ -1,0 +1,66 @@
+{
+    "url": "https://cuevana.pizza/pelicula/despierta-la-furia",
+    "title": "Despierta la furia",
+    "duration": "1h 59m",
+    "year": "2021",
+    "genres": [
+        "Accion",
+        "Suspenso",
+        "Crimen"
+    ],
+    "actors": [
+        "Jason Statham",
+        "Holt McCallany",
+        "Eddie Marsan",
+        "Josh Hartnett",
+        "Scott Eastwood",
+        "Jeffrey Donovan",
+        "Alex Ferns",
+        "Laz Alonso",
+        "Niamh Algar",
+        "Raúl Castillo"
+    ],
+    "description": "La historia sigue a H, un hombre frío y misterioso que trabaja en una empresa de camiones blindados responsable de mover cientos de millones de dólares por Los Ángeles cada semana.",
+    "cover": "https://cuevana.pizza/resize/###/storage/7381/XHng5e3vsjY758luKBNPGuuz0Jwxlbt3g6IY6nii.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtbmJ3dWJtdzR6N3lwLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLWxqeTN6ZWR6dmhpYi5odG1s"
+            ]
+        },
+        {
+            "type": "cas",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtb3I3MTZvNWJudzhyLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLXN4Y2o4cjhjbWR4ZC5odG1s"
+            ]
+        },
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtdnVoZmx0aHBraGNsLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLTRlMHI1b2ppc3NpYS5odG1s"
+            ]
+        }
+    ],
+    "downloads": [
+        {
+            "url": "https://sbembed.com/embed-vuhflthpkhcl.html",
+            "type": "la"
+        },
+        {
+            "url": "https://1fichier.com/?n2scqk4tp7fih1sl52ut",
+            "type": "es"
+        },
+        {
+            "url": "https://1fichier.com/?e3kvid78ct64557r628x",
+            "type": "en"
+        },
+        {
+            "url": "https://1fichier.com/?ogf1hzypyp13v5uyyocz",
+            "type": "la"
+        }
+    ]
+}

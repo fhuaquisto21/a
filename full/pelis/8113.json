@@ -1,0 +1,52 @@
+{
+    "url": "https://cuevana.pizza/pelicula/madagascar",
+    "title": "Madagascar",
+    "duration": "1h 20m",
+    "year": "2005",
+    "genres": [
+        "Comedia",
+        "Aventura",
+        "Animacion"
+    ],
+    "actors": [
+        "Ben Stiller",
+        "Chris Rock",
+        "David Schwimmer",
+        "Jada Pinkett Smith",
+        "Sacha Baron Cohen",
+        "Cedric the Entertainer",
+        "Andy Richter",
+        "Tom McGrath",
+        "Christopher Knights",
+        "Chris Miller",
+        "Conrad Vernon",
+        "Eric Darnell",
+        "David Cowgill",
+        "Elisa Gabrielli",
+        "Stephen Apostolina",
+        "Devika Parikh",
+        "David P. Smith",
+        "Cody Cameron",
+        "Bob Saget",
+        "John DiMaggio"
+    ],
+    "description": "Cuenta la historia de cuatro divertidos animales del zoo de Central Park, Nueva York, (Alex el león, Marty la cebra, Gloria la hipopótamo y Melman la jirafa). Llevan toda su vida encerrados en cautividad sin poder experiemtnar el sabor de la libertad y se han propuesto idear un plan para salir de allí juntos. Un día, una serie de casualidades les llevan a lograr lo que tanto ansiaban y huyen de aquel lugar. Terminan en plena naturaleza, concretamente en la idílica isla de Madagascar. Allí descubrirán, a base de apasionantes aventuras, que la vida salvaje es muy diferente a lo que ellos pensaban y que vivir en libertad no es tan fácil como imaginaban.",
+    "cover": "https://cuevana.pizza/resize/###/storage/28752/VblclpAE1Rvim9vatbYJaalkPwPWouPn691qDyS0.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtMTl3dGltbGkzYXd5Lmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLWkzdDg4a2JwYTI2dy5odG1s"
+            ]
+        },
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtZ3d5aDF3N2ptamY0Lmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLWxkNWw0Mno4N3p3My5odG1s"
+            ]
+        }
+    ],
+    "downloads": []
+}

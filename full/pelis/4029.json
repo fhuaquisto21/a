@@ -1,0 +1,48 @@
+{
+    "url": "https://cuevana.pizza/pelicula/cowboys",
+    "title": "Cowboys",
+    "duration": "1h 23m",
+    "year": "2020",
+    "genres": [
+        "Drama"
+    ],
+    "actors": [
+        "Ann Dowd",
+        "Bob Stephenson",
+        "Chris Coy",
+        "Gary Farmer",
+        "Jillian Bell",
+        "John Beasley",
+        "John Reynolds",
+        "Sasha Knight",
+        "Steve Zahn"
+    ],
+    "description": "Troy y su joven hijo transgénero Joe están huyendo de su madre conservadora en el desierto de Montana, con un detective en la persecución.",
+    "cover": "https://cuevana.pizza/resize/###/storage/23704/jc7oEYJVNb7BWrcjIjzMp6tG2Cyq3xglJHM0wstV.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtaGVjZ3J3ejh3MW9yLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLXBmdTlxaXlnc2xkcC5odG1s"
+            ]
+        },
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtYTZjemZrYmJjYTl2Lmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLXlxZmV4ZDl2MThoOC5odG1s"
+            ]
+        }
+    ],
+    "downloads": [
+        {
+            "url": "https://1fichier.com/?93wod3s8uhwzzig4l97c",
+            "type": "la"
+        },
+        {
+            "url": "https://1fichier.com/?zfqhylii85egcznz4yko",
+            "type": "en"
+        }
+    ]
+}

@@ -1,0 +1,54 @@
+{
+    "url": "https://cuevana.pizza/pelicula/one-piece-gold",
+    "title": "One Piece Gold",
+    "duration": "2h 0m",
+    "year": "2016",
+    "genres": [
+        "Accion",
+        "Comedia",
+        "Aventura",
+        "Animacion",
+        "Anime"
+    ],
+    "actors": [
+        "Kazuya Nakai",
+        "Mayumi Tanaka",
+        "Akemi Okamura",
+        "Kappei Yamaguchi",
+        "Hiroaki Hirata",
+        "Yuriko Yamaguchi",
+        "Ikue Otani",
+        "Kazuki Yao",
+        "Kazuhiro Yamaji",
+        "Takahiro Sakurai",
+        "Nanao",
+        "Gaku Hamada",
+        "Hikari Mitsushima",
+        "Kinya Kitaoji",
+        "Fumihiko Tachiki",
+        "Tomokazu Seki",
+        "Masaya Onosaka",
+        "Satsuki Yukino",
+        "Arata Furuta",
+        "Wataru Takagi"
+    ],
+    "description": "Luffy y el resto de Piratas de Sombrero de Paja deciden poner rumbo a una embarcación dorada y con muchas luces de neón de 10 kilómetros de largo. Es tan grande como una ciudad, reconocida como país independiente por el Gobierno Mundial y como la mayor ciudad del entretenimiento del mundo bajo el nombre de Gran Tesoro. Allí, piratas, marines y millonarios se dan cita en un “santuario absoluto” fuera del alcance del Gobierno Mundial gracias a la riqueza del Rey del Casino, Gildo Tesoro, un hombre del que se dice que posee un 20% del dinero del mundo. Pero no es oro todo lo que reluce y Gildo Tesoro se dispone a satisfacer su ambición sin límites, algo que podría cambiar para siempre las relaciones de poder del mundo… ¿Qué les espera allí a Luffy y a sus amigos? ¿La gloria eterna o una oscuridad insondable?",
+    "cover": "https://cuevana.pizza/resize/###/storage/34777/zWgN5RisB7bsjdHOWIBT2dLAmiM2WUqk7a1cH62I.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtcW1ocWEwOXpycmlqLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLXR5ZThmZmRvNmkzay5odG1s"
+            ]
+        },
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtZmowY2d0ZTRueWI4Lmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLWZ5cDNpazl4NHU1MS5odG1s"
+            ]
+        }
+    ],
+    "downloads": []
+}

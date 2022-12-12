@@ -1,0 +1,57 @@
+{
+    "url": "https://cuevana.pizza/pelicula/iron-man",
+    "title": "Iron man - El hombre de hierro",
+    "duration": "2h 6m",
+    "year": "2008",
+    "genres": [
+        "Accion",
+        "Ciencia Ficcion",
+        "Aventura",
+        "Marvel Comics"
+    ],
+    "actors": [
+        "Gwyneth Paltrow",
+        "Jeff Bridges",
+        "Robert Downey Jr.",
+        "Terrence Howard"
+    ],
+    "description": "El multimillonario fabricante de armas Tony Stark (Robert Downey Jr.) debe enfrentarse a su turbio pasado después de sufrir un accidente con una de sus armas. Equipado con una armadura de última generación tecnológica, se convierte en \"El hombre de hierro\", un héroe que se dedica a combatir el mal en todo el mundo.",
+    "cover": "https://cuevana.pizza/resize/###/storage/3548/8NnTHtilSRWxhrIe1eDwi1osiJJv6YnuItG6mH4f.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtZDhicnE3cDVxbnlsLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLTdpc2tlMHFrMTk3Zi5odG1s"
+            ]
+        },
+        {
+            "type": "cas",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtNm9tem84YmcyYmtkLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLXZvMTl5Ync4YWZwYi5odG1s"
+            ]
+        },
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtOGFjNW44M3hrZGFoLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLWg2ZmdhZ2hqN2Rhai5odG1s"
+            ]
+        }
+    ],
+    "downloads": [
+        {
+            "url": "https://1fichier.com/?9emv7d7xva",
+            "type": "la"
+        },
+        {
+            "url": "https://1fichier.com/?psqovcbeicpy1d2r1qg8",
+            "type": "es"
+        },
+        {
+            "url": "https://1fichier.com/?2lzjpbtoeo",
+            "type": "en"
+        }
+    ]
+}

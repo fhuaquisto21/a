@@ -1,0 +1,60 @@
+{
+    "url": "https://cuevana.pizza/pelicula/hunted",
+    "title": "Hunted",
+    "duration": "1h 27m",
+    "year": "2021",
+    "genres": [
+        "Accion",
+        "Suspenso",
+        "Terror"
+    ],
+    "actors": [
+        "Arieh Worthalter",
+        "Lucie Debay",
+        "Kevin van Doorslaer",
+        "Dianne Weller",
+        "Gilles Vandeweerd",
+        "Ciaran O'Brien",
+        "Christian Bronchart",
+        "Jean-Mathias Pondant"
+    ],
+    "description": "Cuando Eve conoce a un chico en un bar, poco se espera lo que va a suceder esa noche. En realidad, se ha cruzado con un psicópata (y su muñeco), con el que se enzarza en una persecución nocturna y violenta. En medio del bosque, esta singular caperucita roja hará lo que sea para librarse de su particular lobo feroz.",
+    "cover": "https://cuevana.pizza/resize/###/storage/11130/51sQNrWLiKedZrnihl5RNouoqw3pIjcAeJNYuuln.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtbW5pZThzbWR3YWNtLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLTh2MmxqM3pvdGdobC5odG1s"
+            ]
+        },
+        {
+            "type": "cas",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQteTNhc25jd3gxYmdkLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLXo2ZHJzNHlwZzQ0cy5odG1s"
+            ]
+        },
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtcGNpa3NzYzg4c3ZsLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLXcxZ2s2Nnoxa2FrNi5odG1s"
+            ]
+        }
+    ],
+    "downloads": [
+        {
+            "url": "https://1fichier.com/?7svz4xfkvtwf15basq2y",
+            "type": "la"
+        },
+        {
+            "url": "https://1fichier.com/?nqi6dq7ge7o0vuaujn7u",
+            "type": "es"
+        },
+        {
+            "url": "https://1fichier.com/?lyyvw3pzhwjmk8hg3e81",
+            "type": "en"
+        }
+    ]
+}

@@ -1,0 +1,51 @@
+{
+    "url": "https://cuevana.pizza/pelicula/an-actor-prepares",
+    "title": "Alma de actor",
+    "duration": "1h 30m",
+    "year": "2018",
+    "genres": [
+        "Comedia",
+        "Drama"
+    ],
+    "actors": [
+        "Jeremy Irons",
+        "Jack Huston",
+        "Mamie Gummer",
+        "Megalyn Echikunwoke",
+        "Ben Schwartz",
+        "Will Patton",
+        "Poorna Jagannathan",
+        "Frankie Faison",
+        "Catherine Dyer",
+        "Colby Minifie",
+        "Owen Harn",
+        "Larry Pine",
+        "Whitney Goin",
+        "Julia Valentine Larson",
+        "Inder Kumar",
+        "Danielle Lyn",
+        "Alexandra Ficken",
+        "Monica Edelhoff",
+        "Timothy Nichols",
+        "Liz McGeever"
+    ],
+    "description": "Tras sufrir un infarto, un famoso actor se ve obligado a cruzar el país con su hijo (que testificó contra él en su divorcio) en una última aventura disparatada.",
+    "cover": "https://cuevana.pizza/resize/###/storage/21452/22KykjSQpBSivOCyCWcigfpVVhMoN8UPO3RRQIBv.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtYzRjYm9laXhxY3gyLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLWVidHp2ZXl0Mm1vMi5odG1s"
+            ]
+        },
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtdndqem1hOThtc2x2Lmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLTFoY21lYzF3N2R5MS5odG1s"
+            ]
+        }
+    ],
+    "downloads": []
+}

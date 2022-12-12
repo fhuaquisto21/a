@@ -1,0 +1,71 @@
+{
+    "url": "https://cuevana.pizza/pelicula/el-tunel",
+    "title": "El túnel",
+    "duration": "1h 50m",
+    "year": "2019",
+    "genres": [
+        "Drama",
+        "Suspenso"
+    ],
+    "actors": [
+        "Thorbjørn Harr",
+        "Ylva Fuglerud",
+        "Mikkel Bratt Silset",
+        "Lisa Carlehed",
+        "Ingvild Holthe Bygdnes",
+        "Per Egil Aske",
+        "Peter Førde",
+        "Daniel Alexander Skadal",
+        "Silje Breivik",
+        "Jan Gunnar Røise",
+        "Igor Necemer",
+        "Øystein Martinsen",
+        "Henrik Holm",
+        "Tor Christian Bleikli",
+        "William Øksnevad",
+        "Ingrid Anne Yttri",
+        "Sigurd Sele",
+        "Marit Røste",
+        "Fanny Wear-Berg",
+        "Vilma Wear-Berg"
+    ],
+    "description": "Cuando un camión se estrella dentro de un túnel, las personas que se dirigen a casa para Navidad quedan brutalmente atrapadas en un incendio mortal. Con una tormenta de nieve en el exterior, y los primeros en responder que luchan por llegar al accidente, es cada hombre por sí mismo.",
+    "cover": "https://cuevana.pizza/resize/###/storage/19292/PWWQNDK9E0WOj9pdL3LaqSWXzklQc98HjAcHpqH4.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtcjJnenUwb2xyYWpvLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLXZvd2IwaDdmYXRlMS5odG1s"
+            ]
+        },
+        {
+            "type": "cas",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtODZ1ems2dzIyOWJnLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLXBrMXdsc3J3bGMwZi5odG1s"
+            ]
+        },
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtcnVsNmNqOGd1OGduLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLXFoamJpZWl6eGcxaC5odG1s"
+            ]
+        }
+    ],
+    "downloads": [
+        {
+            "url": "https://1fichier.com/?5q9zyhok2gmcgwlxwers",
+            "type": "la"
+        },
+        {
+            "url": "https://1fichier.com/?lqf52rqrrrrp2ex0ig76",
+            "type": "es"
+        },
+        {
+            "url": "https://1fichier.com/?k4zdzb4pz78tjqm3mtg5",
+            "type": "en"
+        }
+    ]
+}

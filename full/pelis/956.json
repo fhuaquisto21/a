@@ -1,0 +1,61 @@
+{
+    "url": "https://cuevana.pizza/pelicula/batman-la-mascara-del-fantasma",
+    "title": "Batman: La máscara del fantasma",
+    "duration": "1h 16m",
+    "year": "1993",
+    "genres": [
+        "Accion",
+        "Misterio",
+        "Crimen",
+        "Animacion",
+        "DC Comics"
+    ],
+    "actors": [
+        "Kevin Conroy",
+        "Dana Delany",
+        "Hart Bochner",
+        "Stacy Keach",
+        "Abe Vigoda",
+        "Dick Miller",
+        "John P. Ryan",
+        "Efrem Zimbalist Jr.",
+        "Bob Hastings",
+        "Robert Costanzo",
+        "Mark Hamill",
+        "Jane Downs",
+        "Pat Musick",
+        "Vernee Watson-Johnson",
+        "Ed Gilbert",
+        "Peter Renaday",
+        "Jeff Bennett",
+        "Charles Howerton",
+        "Thom Pinto",
+        "Marilu Henner"
+    ],
+    "description": "Una enigmática figura fantasmal hace su aparición, cumpliendo las ejecuciones de determinadas figuras importantes del hampa. Simultáneamente regresa a Gotham una muchacha con la cual Bruce Wayne mantuvo un idilio; éste rememorará su relación con la chica y, de paso, su propio «nacimiento» como Batman.",
+    "cover": "https://cuevana.pizza/resize/###/storage/44285/18Q9w05bFVaZQKBVUVeLS4OcOMqewdnbqLqHS8Xc.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtZTQ3OWJwbWo3anM5Lmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLWM0d2sxYWs3cnpkMS5odG1s"
+            ]
+        },
+        {
+            "type": "cas",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtcTJtbzRldG44bXp5Lmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLWlwcTRta2p1dHBkYy5odG1s"
+            ]
+        },
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtdXZqMWdsdWswODNuLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLXY3bmdoa3NoODBrdC5odG1s"
+            ]
+        }
+    ],
+    "downloads": []
+}

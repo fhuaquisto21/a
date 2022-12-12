@@ -1,0 +1,64 @@
+{
+    "url": "https://cuevana.pizza/pelicula/anne-la-pelicula",
+    "title": "Anne+: La película",
+    "duration": "1h 34m",
+    "year": "2021",
+    "genres": [
+        "Drama",
+        "Romance"
+    ],
+    "actors": [
+        "Hanna van Vliet",
+        "Jouman Fattal",
+        "Thorn Roos de Vries",
+        "Eline van Gils",
+        "Jesse Mensah",
+        "Jade Olieberg",
+        "Huib Cluistra",
+        "Amy van der Weerden",
+        "Ayla Satijn",
+        "Jacqueline Blom",
+        "Hein van der Heijden",
+        "Romana Vrede",
+        "Anne Chris Schulting"
+    ],
+    "description": "Justo antes de que Anne emigre con su gran amor Sara a Montreal, su editor rechaza el manuscrito que envió para su primer libro. Por lo tanto, Anne se ve obligada a buscar lo que realmente quiere en la vida, porque parece haberse estancado. Más adelante, conoce a Lou, de género no binario, quien tiene una perspectiva diferente de la vida. Lentamente, Anne irá encontrando el camino a seguir y más claridad en su vida. Película basada en la exitosa serie de TV neerlandesa \"Anne+\".",
+    "cover": "https://cuevana.pizza/resize/###/storage/22076/XofMZXeiIcMDwJfKvP9b23io0wsOUnnhA7B5eQRh.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtNnhiaWp0ZmE4aDI0Lmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLWg4aW02cTdvZDd5NC5odG1s"
+            ]
+        },
+        {
+            "type": "cas",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtaTM3MzRkN2tpd2hlLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLW5tOTRxZ3JwdTd5Ni5odG1s"
+            ]
+        },
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtdHliZGI3N283cnQ1Lmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLW5uNHAxcWZzNGcwNi5odG1s"
+            ]
+        }
+    ],
+    "downloads": [
+        {
+            "url": "https://1fichier.com/?xqs4ob2p84oixi6h1ibq",
+            "type": "la"
+        },
+        {
+            "url": "https://1fichier.com/?xyfuhy53qr3lode8oh4t",
+            "type": "es"
+        },
+        {
+            "url": "https://1fichier.com/?6mtwo2j532590wy4z3di",
+            "type": "en"
+        }
+    ]
+}

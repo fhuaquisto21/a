@@ -1,0 +1,27 @@
+{
+    "url": "https://cuevana.pizza/pelicula/occidente",
+    "title": "Occidente",
+    "duration": "1h 39m",
+    "year": "2021",
+    "genres": [
+        "Suspenso"
+    ],
+    "actors": [
+        "Francesc Garrido",
+        "Gonzalo Cunill",
+        "Mario Gas",
+        "Paula Bertolín"
+    ],
+    "description": "Un director de cine fugitivo en el exilio, llamado H, regresa a la ciudad industrial de la que huyó en el pasado, en un tiempo y lugar desconocidos. Gloria, la mujer trabajadora que amó y dejó atrás vive sometida a la rutina. Pero H, incapaz de adaptarse, la convence para que huyan juntos a un lugar que nadie recuerda fuera de la civilización.",
+    "cover": "https://cuevana.pizza/resize/###/storage/6125/T3Y4IyUZPXb3KuNNJudPEwUCu90MoXQn8u5lNnq1.jpg",
+    "players": [
+        {
+            "type": "cas",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtZXEybW1scnBhN3J5Lmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLWsyOGppdTBtbDl2bS5odG1s"
+            ]
+        }
+    ],
+    "downloads": []
+}

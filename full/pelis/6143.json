@@ -1,0 +1,25 @@
+{
+    "url": "https://cuevana.pizza/pelicula/take-your-pills",
+    "title": "Take Your Pills",
+    "duration": "1h 27m",
+    "year": "2018",
+    "genres": [
+        "Documental"
+    ],
+    "actors": [
+        "Eben Britton",
+        "Dr. Wendy Brown"
+    ],
+    "description": "En un mundo ultracompetitivo, medicamentos como el Adderall potencian el rendimiento de estudiantes, atletas y programadores, pero ¿a qué precio?",
+    "cover": "https://cuevana.pizza/resize/###/storage/23895/2IBwCb6fDKbLvQnFvs5E1ih5ZDp1cSdRfB2Jqzg5.jpg",
+    "players": [
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtNWRmY3ExY3k5dzVyLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLTNiOXQ4cGFndzVhdS5odG1s"
+            ]
+        }
+    ],
+    "downloads": []
+}

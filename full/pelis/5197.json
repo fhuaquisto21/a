@@ -1,0 +1,54 @@
+{
+    "url": "https://cuevana.pizza/pelicula/batman-vs-las-tortugas-ninja",
+    "title": "Batman vs. las Tortugas Ninja",
+    "duration": "1h 27m",
+    "year": "2019",
+    "genres": [
+        "Accion",
+        "Comedia",
+        "Ciencia Ficcion",
+        "Crimen",
+        "Aventura",
+        "Fantasia",
+        "Familia",
+        "Animacion",
+        "DC Comics"
+    ],
+    "actors": [
+        "Troy Baker",
+        "Eric Bauza",
+        "Darren Criss",
+        "Kyle Mooney",
+        "Baron Vaughn",
+        "Rachel Bloom",
+        "Ben Giroux",
+        "Brian George",
+        "Jim Meskimen",
+        "Tom Kenny",
+        "John DiMaggio",
+        "Tara Strong",
+        "Carlos Alazraqui",
+        "Cas Anvar",
+        "Keith Ferguson",
+        "Andrew Kishino"
+    ],
+    "description": "Batman, Batgirl y Robin forjan una alianza con Las Tortugas Ninja para luchar contra el gran enemigo de estas últimas, Shredder, quien aparentemente ha formado equipo con Ra's Al Ghul y la Liga de Asesinos para poner en jaque a Gotham.",
+    "cover": "https://cuevana.pizza/resize/###/storage/20595/v9gNbfKkMS3mJuI6ItVOAOwgyuKIiUx4hmMs6vqm.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtYmFnMWx2a3E3bGNtLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLTlmbmpnaWhoY3lyMy5odG1s"
+            ]
+        },
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtdzd3OHNiYTU0M280Lmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLWxyZmRvNW0zZDB3Mi5odG1s"
+            ]
+        }
+    ],
+    "downloads": []
+}

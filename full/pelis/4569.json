@@ -1,0 +1,58 @@
+{
+    "url": "https://cuevana.pizza/pelicula/la-esperanza-esa-cosa-con-plumas",
+    "title": "En plan estrella de rock",
+    "duration": "1h 33m",
+    "year": "2020",
+    "genres": [
+        "Drama"
+    ],
+    "actors": [
+        "Auli'i Cravalho",
+        "Carol Burnett",
+        "Fred Armisen",
+        "Rhenzy Feliz",
+        "Justina Machado",
+        "Judy Reyes",
+        "Gerald Isaac Waters",
+        "Taylor Richardson"
+    ],
+    "description": "Una chica optimista y con mucho talento oculta un secreto: no tiene casa y vive en un autobús. Pese a esta dura circunstancia, la joven muestra una predisposición muy positiva con respecto al mundo y al lugar que ella ocupa en él. Pero una pérdida devastadora provocará que se derrumbe y que tenga que afrontar los distintos retos que le esperan en la vida.",
+    "cover": "https://cuevana.pizza/resize/###/storage/4676/P7klHRxyQIl9WuhL2QoeocNBria4fMge6fICDiUY.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtdjcwZWEzMjY4MnMwLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLWlkbjl5NXh5dW5weS5odG1s"
+            ]
+        },
+        {
+            "type": "cas",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQteHIwcnJuN3E5aWJtLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLTdyZ3F5YTIwdWo4cC5odG1s"
+            ]
+        },
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtMnVsazN3N3diYzJrLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLTdjYWRiampwZGhwYy5odG1s"
+            ]
+        }
+    ],
+    "downloads": [
+        {
+            "url": "https://1fichier.com/?fwcpg482nf2tmo7pvr5p#Synchronization+Service",
+            "type": "la"
+        },
+        {
+            "url": "https://1fichier.com/?3mhxwelkgbqc1cnfm96v#Synchronization+Service",
+            "type": "es"
+        },
+        {
+            "url": "https://1fichier.com/?qgt0cxdorimaytfp7njf#Synchronization+Service",
+            "type": "en"
+        }
+    ]
+}

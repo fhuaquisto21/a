@@ -1,0 +1,46 @@
+{
+    "url": "https://cuevana.pizza/pelicula/meet-the-blacks",
+    "title": "Los Blacks se van de purga",
+    "duration": "1h 30m",
+    "year": "2016",
+    "genres": [
+        "Comedia",
+        "Terror"
+    ],
+    "actors": [
+        "Mike Epps",
+        "Zulay Henao",
+        "George Lopez",
+        "Mike Tyson",
+        "Charlie Murphy",
+        "Andrew Bachelor",
+        "DeRay Davis",
+        "Lavell Crawford",
+        "Gary Owen",
+        "Bresha Webb",
+        "Paul Mooney",
+        "Alex Henderson",
+        "Phil Austin",
+        "Perez Hilton",
+        "Gloria Govan"
+    ],
+    "description": "Cuando Carl Black aprovecha la oportunidad de mudarse con su familia a Chicago, buscando una vida mejor, su llegada a Beverly Hills coincide con la purga anual de la ciudad, en la que todos los crímenenes son legales durante 20 horas.",
+    "cover": "https://cuevana.pizza/resize/###/storage/27186/oxKumKLbJHKUZGL8OLFkgbHhpfdy77u5pgji0C9i.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtNGFreGxmdmwwZnJqLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLWh4d3pnYXBoazNlby5odG1s"
+            ]
+        },
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtbXRpc2JoZWZyOWtyLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLW9nbmk3ZjRxZW5kci5odG1s"
+            ]
+        }
+    ],
+    "downloads": []
+}

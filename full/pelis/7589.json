@@ -1,0 +1,37 @@
+{
+    "url": "https://cuevana.pizza/pelicula/el-apocalipsis",
+    "title": "Desaparecidos sin rastro",
+    "duration": "1h 44m",
+    "year": "2014",
+    "genres": [
+        "Accion",
+        "Drama",
+        "Suspenso",
+        "Ciencia Ficcion"
+    ],
+    "actors": [
+        "Cassi Thomson",
+        "Chad Michael Murray",
+        "Nicky Whelan",
+        "Nicolas Cage"
+    ],
+    "description": "Cage da vida a Rayford Steele, un piloto que vuela en un avión comercial justo horas después del Rapto, acontecimiento bíblico mediante el cual Cristo retornará en el aire y se llevará con él a todas las personas -vivas y muertas- que hayan confiado en él como su Salvador, mientras que los no creyentes permanecen en la tierra para enfrentarse al Apocalipsis.",
+    "cover": "https://cuevana.pizza/resize/###/storage/15816/43f13oO3WD5sTZ4JNjt5jvijizBqYBDv59GnZSQe.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtNWZ0bXJzMnpnMWV3Lmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLTY5c2xjdHJ0cGFldS5odG1s"
+            ]
+        },
+        {
+            "type": "cas",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtc25yYTlwdDI2eXI4Lmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLWh5MTlvdHdhNnp6dC5odG1s"
+            ]
+        }
+    ],
+    "downloads": []
+}

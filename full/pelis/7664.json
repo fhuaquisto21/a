@@ -1,0 +1,37 @@
+{
+    "url": "https://cuevana.pizza/pelicula/evidence",
+    "title": "Evidencia Paranormal",
+    "duration": "1h 33m",
+    "year": "2013",
+    "genres": [
+        "Misterio",
+        "Suspenso",
+        "Terror",
+        "Crimen"
+    ],
+    "actors": [
+        "Caitlin Stasey",
+        "Harry Lennix",
+        "Stephen Moyer",
+        "Torrey DeVitto"
+    ],
+    "description": "Cuenta la investigación que un grupo de detectives llevan a cabo por medio de diversas grabaciones que han quedado tras que un autobús de pasajeros se estrelle en el desierto de Las Vegas. En la grabación se contempla cómo los pasajeros luchar por salvarse ante la amenaza de un asesino desconocido que está acabando con ellos.",
+    "cover": "https://cuevana.pizza/resize/###/storage/16096/rs4jzxxtklFJqMJM2wASi7Biyk6XwiNUhETYGGKX.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtMGFqc2V4NTdnd2Z5Lmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLWc0ZjRnbmdmYnYyei5odG1s"
+            ]
+        },
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtemJldDFwaHdhbWY3Lmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLXd3OHAwMHBjNG51bi5odG1s"
+            ]
+        }
+    ],
+    "downloads": []
+}

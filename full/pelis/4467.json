@@ -1,0 +1,59 @@
+{
+    "url": "https://cuevana.pizza/pelicula/el-halloween-de-hubie",
+    "title": "El Halloween de Hubie",
+    "duration": "1h 42m",
+    "year": "2020",
+    "genres": [
+        "Comedia",
+        "Terror"
+    ],
+    "actors": [
+        "Adam Sandler",
+        "Kevin James",
+        "Julie Bowen",
+        "Ray Liotta",
+        "Steve Buscemi",
+        "Rob Schneider",
+        "Maya Rudolph",
+        "Tim Meadows"
+    ],
+    "description": "Pese a su devoción por el pueblo de Salem, Hubie Dubois (Sandler) reconoce que la noche de Halloween no es precisamente la más atractiva para los jóvenes desde hace unos años. En esta ocasión, no obstante, algo distinto está a punto de suceder, y sólo él podrá salvar esta mágica noche.",
+    "cover": "https://cuevana.pizza/image/empty.png",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQteWNlZzlsNDU4dzV4Lmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLTNsNnBzMjZzNGI2bi5odG1s"
+            ]
+        },
+        {
+            "type": "cas",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQteDJmeWRnNjd5dWh0Lmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLTYyZTJ1bWpvcGN3bC5odG1s"
+            ]
+        },
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtaHZ6ZnJndXFnZzg2Lmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLWFhbWFyM2J3anY5aC5odG1s"
+            ]
+        }
+    ],
+    "downloads": [
+        {
+            "url": "https://1fichier.com/?t1qrmshmozuri96i37j9#Synchronization+Service",
+            "type": "la"
+        },
+        {
+            "url": "https://1fichier.com/?rrsck5zrkgddgci618cd#Synchronization+Service",
+            "type": "es"
+        },
+        {
+            "url": "https://1fichier.com/?d1o6ii8ywwzm004hfaci#Synchronization+Service",
+            "type": "en"
+        }
+    ]
+}

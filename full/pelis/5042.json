@@ -1,0 +1,29 @@
+{
+    "url": "https://cuevana.pizza/pelicula/fire-in-paradise",
+    "title": "Fire in Paradise",
+    "duration": "0h 39m",
+    "year": "2019",
+    "genres": [
+        "Documental"
+    ],
+    "actors": [],
+    "description": "",
+    "cover": "https://cuevana.pizza/resize/###/storage/20334/DfjqANxKzO9d5F5gptsJtC7qipcq3LB5TUqnF8lO.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtYnd6ZzRrdzJlYTRsLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLTNyZHRzdTQxcHQybC5odG1s"
+            ]
+        },
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtNnpyemxiaXc3ZWZvLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLWNoNmtmYTFlaW01Ni5odG1s"
+            ]
+        }
+    ],
+    "downloads": []
+}

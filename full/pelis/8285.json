@@ -1,0 +1,72 @@
+{
+    "url": "https://cuevana.pizza/pelicula/los-goonies",
+    "title": "Los Goonies",
+    "duration": "1h 54m",
+    "year": "1985",
+    "genres": [
+        "Comedia",
+        "Aventura",
+        "Familia"
+    ],
+    "actors": [
+        "Sean Astin",
+        "Josh Brolin",
+        "Jeff Cohen",
+        "Corey Feldman",
+        "Kerri Green",
+        "Martha Plimpton",
+        "Ke Huy Quan",
+        "John Matuszak",
+        "Robert Davi",
+        "Joe Pantoliano",
+        "Anne Ramsey",
+        "Lupe Ontiveros",
+        "Mary Ellen Trainor",
+        "Keith Walker",
+        "Curtis Hanson",
+        "Steve Antin",
+        "Paul Tuerpe",
+        "George Robotham",
+        "Charles McDaniel",
+        "Elaine Cohen McMahon"
+    ],
+    "description": "Mikey, un muchacho de trece años, que junto con su hermano mayor y sus amigos se hacen llamar 'Los Goonies', decide subir a jugar al desván de su casa, donde su padre guarda antigüedades. Allí, el grupo encuentra el mapa de un tesoro.",
+    "cover": "https://cuevana.pizza/resize/###/storage/30082/k5rBI3Qdsa2GWW9SHXNsHybq67nm3VkuVmuBMRQR.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtbTVuNmN0cG1hNnB2Lmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLXlxMHRvZWZ1dmtjai5odG1s"
+            ]
+        },
+        {
+            "type": "cas",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtMGw5dW9zNHF3Z2hnLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLXdvNXFncWM4bGJvdy5odG1s"
+            ]
+        },
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtNnF1cDdkdnpiYXJ0Lmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLXpndHNkZzRyNWtpcC5odG1s"
+            ]
+        }
+    ],
+    "downloads": [
+        {
+            "url": "https://1fichier.com/?y1u9p1p0lmksg1p9z73n",
+            "type": "la"
+        },
+        {
+            "url": "https://1fichier.com/?oq8se9yaltp3ji6320pd",
+            "type": "es"
+        },
+        {
+            "url": "https://1fichier.com/?b52mad2owcudtj8szmz8",
+            "type": "en"
+        }
+    ]
+}

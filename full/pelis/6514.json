@@ -1,0 +1,51 @@
+{
+    "url": "https://cuevana.pizza/pelicula/la-fiesta-de-la-vida",
+    "title": "C'est la vie",
+    "duration": "1h 55m",
+    "year": "2017",
+    "genres": [
+        "Comedia",
+        "Drama",
+        "Romance"
+    ],
+    "actors": [
+        "Jean-Pierre Bacri",
+        "Gilles Lellouche",
+        "Jean-Paul Rouve",
+        "Vincent Macaigne",
+        "Alban Ivanov",
+        "Eye Haïdara",
+        "Suzanne Clément",
+        "Hélène Vincent",
+        "Benjamin Lavernhe",
+        "Judith Chemla",
+        "William Lebghil",
+        "Kévin Azaïs",
+        "Antoine Chappey",
+        "Basky Manmathan",
+        "Khereddine Ennasri",
+        "Gabriel Naccache",
+        "Nicky Marbot",
+        "Sébastien Pouderoux",
+        "Grégoire Bonnet"
+    ],
+    "description": "Una boda de lujo en un castillo francés del siglo XVIII se les va de las manos a sus responsables. La película narra los entresijos de la boda desde la perspectiva del personal de catering, el fotógrafo y el DJ.",
+    "cover": "https://cuevana.pizza/resize/###/storage/27313/gDc1V8rjSewWQJcmf32DW5sLaVRuLGv34QCbOTmv.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtMzR1aWt4cjg1OXA2Lmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLXNnZnJkYW9qNnN3ei5odG1s"
+            ]
+        },
+        {
+            "type": "cas",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtZ2wxZnI0cWhpZ3ZwLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLXA2NzgyMGc4aGE4by5odG1s"
+            ]
+        }
+    ],
+    "downloads": []
+}

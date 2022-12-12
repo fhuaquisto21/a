@@ -1,0 +1,58 @@
+{
+    "url": "https://cuevana.pizza/pelicula/brittany-runs-a-marathon",
+    "title": "Brittany Runs a Marathon",
+    "duration": "1h 43m",
+    "year": "2019",
+    "genres": [
+        "Comedia",
+        "Drama"
+    ],
+    "actors": [
+        "Jillian Bell",
+        "Michaela Watkins",
+        "Utkarsh Ambudkar",
+        "Lil Rel Howery",
+        "Micah Stock",
+        "Alice Lee",
+        "Patch Darragh",
+        "Peter Vack",
+        "Kate Arrington",
+        "Juri Henley-Cohn",
+        "Adam Sietz",
+        "Mikey Day",
+        "Max Pava",
+        "Jennifer Dundas",
+        "Erica Hernandez",
+        "Dan Bittner",
+        "Beth Malone",
+        "Nadia Quinn",
+        "Pascal Yen-Pfister",
+        "Miriam A. Hyman"
+    ],
+    "description": "Brittany (Jillian Bell) es una agradable y divertida chica de 27 años de Nueva York con un desastre de vida. Suele salir todas las noches de fiesta y llega siempre tarde al trabajo. Pero un día recibe una mala noticia por parte de su médico después de someterse a unos análisis: tiene tensión alta, una presión sanguínea muy elevada y, lo que es aún peor, obesidad. Dispuesta a hacer todo lo posible por enmendar esta situación, Britanny se pone como meta correr la maratón de Nueva York. Parece que finalmente ha encontrado la dirección correcta... Pero, ¿es también el camino correcto?",
+    "cover": "https://cuevana.pizza/resize/###/storage/21306/DJIbiZVGwUM4YakYkIYu0qPq3NDdmvHNnA0n628B.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQteHY0NXNpd3hkajJyLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLTVwMzQ4aTNoZzV1cS5odG1s"
+            ]
+        },
+        {
+            "type": "cas",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtY3ExcXJwd3A2OTVxLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLXpwcDdnN3V4MnV0ai5odG1s"
+            ]
+        },
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtdnRzNXF0OWNjYjR3Lmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLWduaTBlbjVvNnRpby5odG1s"
+            ]
+        }
+    ],
+    "downloads": []
+}

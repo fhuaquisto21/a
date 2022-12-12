@@ -1,0 +1,43 @@
+{
+    "url": "https://cuevana.pizza/pelicula/muerte-al-verano",
+    "title": "Muerte al verano",
+    "duration": "1h 17m",
+    "year": "2022",
+    "genres": [
+        "Drama"
+    ],
+    "actors": [
+        "Ana Valeria Becerril",
+        "Gustavo Cruz",
+        "María del Roble",
+        "Eryka Fernández"
+    ],
+    "description": "Dante pasa sus días entre fábricas, patinetas y cadáveres, pero lo único que le importa es la banda de Death Metal en la que toca con sus mejores amigos. Lucy, la novia de su hermano en coma, viene de visita, y aquí su presencia provocará caos, confusión, pero también esperanza.",
+    "cover": "https://cuevana.pizza/resize/###/storage/34186/vdR163pegXXTnNZY8Q1pubzDTUUl7vyvav0ca4E0.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtbDM5aTg2MnJxdjViLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLW12ZGh5NjF3MWNjOC5odG1s"
+            ]
+        },
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtaDY3b3M0c2gyN3U0Lmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLXRreXU4ZjA3NGFlaC5odG1s"
+            ]
+        }
+    ],
+    "downloads": [
+        {
+            "url": "https://1fichier.com/?kbcm2dqmt0yc63j7vobq",
+            "type": "la"
+        },
+        {
+            "url": "https://1fichier.com/?d0ybm38fpjxos7w4ts1h",
+            "type": "en"
+        }
+    ]
+}

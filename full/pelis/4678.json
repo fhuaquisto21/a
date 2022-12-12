@@ -1,0 +1,40 @@
+{
+    "url": "https://cuevana.pizza/pelicula/terminator-4-la-salvacion",
+    "title": "Terminator 4: La Salvación",
+    "duration": "1h 55m",
+    "year": "2009",
+    "genres": [
+        "Accion",
+        "Suspenso",
+        "Ciencia Ficcion"
+    ],
+    "actors": [
+        "Christian Bale",
+        "Sam Worthington",
+        "Moon Bloodgood",
+        "Helena Bonham Carter",
+        "Anton Yelchin",
+        "Common",
+        "Zach McGowan",
+        "Bryce Dallas Howard"
+    ],
+    "description": "Nueva entrega de la saga de Terminator, que transcurre en un post-apocalíptico 2018, tras el día del Juicio Final. John Connor es el hombre destinado a liderar la resistencia de los humanos contra Skynet y su ejército de Terminators. Pero el futuro en el que a Connor le enseñaron a creer se ve alterado en parte por la aparición de Marcus Wright, un extraño cuyo último recuerdo es haber estado en el corredor de la muerte, y que afirma haber estado con Kyle Reese, el padre de John. Connor debe decidir si Marcus ha sido enviado desde el futuro o rescatado del pasado, todo en una carrera contrareloj mientras la Resistencia prepara su ataque final contra el corazón del centro de operaciones de Skynet.",
+    "cover": "https://cuevana.pizza/resize/###/storage/4218/cRZ6NXzbckGWk3wBWS0nFRRpxl65ESl9dHlxTQfX.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtN3JhcGt3dnFqa3BmLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLTJxa2UzNHBuYXdlNS5odG1s"
+            ]
+        },
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtcTkyZzE1Z2xhdnp3Lmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLXI0YmplODdjc3c3Ni5odG1s"
+            ]
+        }
+    ],
+    "downloads": []
+}

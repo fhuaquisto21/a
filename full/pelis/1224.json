@@ -1,0 +1,59 @@
+{
+    "url": "https://cuevana.pizza/pelicula/scream-vigila-quien-llama",
+    "title": "Scream (Vigila quién llama)",
+    "duration": "1h 51m",
+    "year": "1996",
+    "genres": [
+        "Misterio",
+        "Terror",
+        "Crimen"
+    ],
+    "actors": [
+        "David Arquette",
+        "Neve Campbell",
+        "Courteney Cox",
+        "Matthew Lillard",
+        "Rose McGowan",
+        "Skeet Ulrich",
+        "Jamie Kennedy",
+        "W. Earl Brown",
+        "Liev Schreiber",
+        "Joseph Whipp",
+        "Drew Barrymore",
+        "Roger L. Jackson",
+        "Kevin Patrick Walls",
+        "David Booth",
+        "Carla Hatley",
+        "Lawrence Hecht",
+        "Lois Saunders",
+        "Lisa Beach",
+        "Tony Kilbert",
+        "C.W. Morgan"
+    ],
+    "description": "Sidney Prescott, una adolescente de la pequeña comunidad de Woodsboro, se convierte en el objetivo de un misterioso asesino en serie. Una reportera de un canal de noticias, Gale Weathers, que cubrió el asesinato un año atrás de la madre de Sidney, cubre ahora estos asesinatos, además ha escrito un libro en el que defiende al supuesto asesino de Maureen, Cotton Weary, que va a ir a la cámara de gas, alegando que cayó en una trampa, lo que hace reavivar la polémica. Los crímenes dejan de ser aislados y continúan los asesinatos. Ahora Sidney, su novio y sus amigos están en peligro, ya que el asesino quiere revivir lo sucedido un año atrás con Maureen Prescott, pero esta vez con su hija.",
+    "cover": "https://cuevana.pizza/resize/###/storage/41160/vJC75OtUJWUkkqt8jYMweQsdxFMbjl9xdHwr3yc4.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtdWZyb2xvendrdjJmLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLXl0azZjbjlkbDZtNi5odG1s"
+            ]
+        },
+        {
+            "type": "cas",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtZWdic3I5bWJ0dWQ1Lmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLW81dDdxbnZoaW4zNi5odG1s"
+            ]
+        },
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtdjV1bXR5ejU3bzVwLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLWxieGs4YThjM21peC5odG1s"
+            ]
+        }
+    ],
+    "downloads": []
+}

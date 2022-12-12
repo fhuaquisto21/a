@@ -1,0 +1,50 @@
+{
+    "url": "https://cuevana.pizza/pelicula/the-trap",
+    "title": "The Trap",
+    "duration": "1h 30m",
+    "year": "2019",
+    "genres": [
+        "Comedia"
+    ],
+    "actors": [
+        "T.I.",
+        "Mike Epps",
+        "Loretta Devine",
+        "Meagan Tandy",
+        "Teyana Taylor",
+        "Stephen Bishop",
+        "Queen Latifah",
+        "Mila J.",
+        "Big Boi",
+        "Lil Duval",
+        "D.C. Young Fly",
+        "21 Savage",
+        "Bruce Bruce",
+        "Marquita Goings",
+        "Amy Jackson",
+        "Joel Rush",
+        "Nelson Bonilla",
+        "Heather McMahan",
+        "Victoria Vertuga",
+        "Kelly 'K. Dubb' Walker"
+    ],
+    "description": "Un buen hombre (Consejo \"TI\" Harris) regresa a su hogar en Atlanta para ayudar a salvar a su hermano (Mike Epps) y al restaurante degradado de su madre (Loretta Devine). Un toque en la receta del pollo de repente trae grandes negocios al restaurante ... y grandes problemas.",
+    "cover": "https://cuevana.pizza/resize/###/storage/21152/HspkXffLwI6Z6tG8sbXo6dcTOMzLJGUeNM2vNcrI.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQteTRsdWFuajhwOGV2Lmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLTZoZms3NTU3OXB4bC5odG1s"
+            ]
+        },
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtZGEybTIyaTk3aTRjLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLW1jNHlweWJibDd0cy5odG1s"
+            ]
+        }
+    ],
+    "downloads": []
+}

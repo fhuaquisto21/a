@@ -1,0 +1,52 @@
+{
+    "url": "https://cuevana.pizza/pelicula/directo-al-corazon",
+    "title": "Nunca es tarde",
+    "duration": "1h 46m",
+    "year": "2015",
+    "genres": [
+        "Comedia",
+        "Drama",
+        "Musical"
+    ],
+    "actors": [
+        "Al Pacino",
+        "Jennifer Garner",
+        "Annette Bening",
+        "Bobby Cannavale",
+        "Melissa Benoist",
+        "Christopher Plummer",
+        "Josh Peck",
+        "Katarina Čas",
+        "Nick Offerman",
+        "Giselle Eisenberg",
+        "Brian Thomas Smith",
+        "Scott Lawrence",
+        "Michael Patrick McGill",
+        "Kiff VandenHeuvel",
+        "Nick Offerman",
+        "Eric Michael Roy",
+        "Davide Donatiello",
+        "Eric Lange",
+        "Aarti Mann",
+        "Joshua Sternlicht"
+    ],
+    "description": "Inspirada en una historia real, Al Pacino interpreta al envejecido rockero de los 70 Danny Collins, que a pesar de su edad no puede renunciar a su vida llena de excesos. Pero cuando su manager le descubre una carta sin entregar que le escribió John Lennon 40 años atrás, decide cambiar de rumbo y embarcarse en un inspirador viaje para redescubrir a su familia, encontrar el amor verdadero y comenzar un segundo acto.",
+    "cover": "https://cuevana.pizza/resize/###/storage/26714/ONgOqUZwutapB1PsOy1mf0wxXn1Og1nk4kaUWZGU.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtMjF6cWF0MzZxN2w3Lmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLXdvdmVrenhwYjQzZS5odG1s"
+            ]
+        },
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtcHBnbnVlbm1tMGVuLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLTlsM2syZzl3N21uYS5odG1s"
+            ]
+        }
+    ],
+    "downloads": []
+}

@@ -1,0 +1,65 @@
+{
+    "url": "https://cuevana.pizza/pelicula/music",
+    "title": "Music",
+    "duration": "1h 47m",
+    "year": "2021",
+    "genres": [
+        "Drama",
+        "Musical"
+    ],
+    "actors": [
+        "Abhimanyu Katyal",
+        "Alexandria Lee",
+        "Alyson Van",
+        "Angelina Capozzoli",
+        "Ben Schwartz",
+        "Beto Calvillo",
+        "Beverly Wilkerson",
+        "Bill Prudich",
+        "Braeden Marcott",
+        "Brandon Soo Hoo",
+        "Celeste Den",
+        "Chris Silcox",
+        "Christina Veronica",
+        "Diana Diaz"
+    ],
+    "description": "Zu acaba de lograr dejar el alcohol cuando recibe la noticia de que se ha convertido en la única tutora de su hermanastra, una joven autista llamada Music.",
+    "cover": "https://cuevana.pizza/resize/###/storage/6631/BEbOsW526vTq5V7ToeGMXZs4txHV7IL2zvAgCvcD.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQteGwyZTNldWlob3V4Lmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLXZnZjQ0cHFwbzJ1ei5odG1s"
+            ]
+        },
+        {
+            "type": "cas",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtM2c0d3c1MXA0ajUwLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLTFneW11N3ZmbWwwdi5odG1s"
+            ]
+        },
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQteG81aHkwYXNpcGJwLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLXdwd3hmc2Y4cmI3ci5odG1s"
+            ]
+        }
+    ],
+    "downloads": [
+        {
+            "url": "https://1fichier.com/?7tsu41oo63p3y9dddp8v",
+            "type": "la"
+        },
+        {
+            "url": "https://1fichier.com/?jj43xoprpkoq4esx3j4g",
+            "type": "es"
+        },
+        {
+            "url": "https://1fichier.com/?85aw8795a2uhyq9ucl16",
+            "type": "en"
+        }
+    ]
+}

@@ -1,0 +1,33 @@
+{
+    "url": "https://cuevana.pizza/pelicula/the-nothing",
+    "title": "The Nothing",
+    "duration": "1h 19m",
+    "year": "2020",
+    "genres": [
+        "Terror"
+    ],
+    "actors": [
+        "Clayton Thompson",
+        "Katie Adkins",
+        "Hunter Bagwell"
+    ],
+    "description": "Clayton Thompson, un recién graduado de la universidad, cree que el mejor arte del mundo se crea en las horas más oscuras de la vida de esos artistas. Impulsado por este pensamiento, decide auto documentar el proceso de escribir su primera historia. Filma una serie de entrevistas con su mejor amigo y novia, lo que finalmente lleva a la explicación de su plan: dejarlo en las montañas del norte de Georgia sin marcar con equipo de cámara y suministros mínimos. Al no tener forma de comunicarse con el mundo exterior, su cordura se pone a prueba cuando se acerca una presencia que se avecina.",
+    "cover": "https://cuevana.pizza/resize/###/storage/3998/prmf5mQ8l4GaPW7xeOQdOLRt1DKCl2DfgBp8ekXV.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtdnlkNTUzcHo5ejVyLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLWg5N2ZuY2xqajNkei5odG1s"
+            ]
+        },
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtc3YyZ2huNDNmNjd5Lmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLW9lcG5jNmpvanM0by5odG1s"
+            ]
+        }
+    ],
+    "downloads": []
+}

@@ -1,0 +1,52 @@
+{
+    "url": "https://cuevana.pizza/pelicula/goodbye-berlin",
+    "title": "Goodbye Berlin",
+    "duration": "1h 33m",
+    "year": "2016",
+    "genres": [
+        "Comedia",
+        "Drama",
+        "Familia"
+    ],
+    "actors": [
+        "Anand Batbileg",
+        "Tristan Göbel",
+        "Mercedes Müller",
+        "Uwe Bohm",
+        "Xenia Assenza",
+        "Udo Samel",
+        "Claudia Geisler",
+        "Aniya Wendel",
+        "Anja Schneider",
+        "Henning Peker",
+        "Justina Humpf",
+        "Paul Busche",
+        "Jerome Hirthammer",
+        "Max Kluge",
+        "Nadine Dubois",
+        "Katerina Poladjan",
+        "Sammy Scheuritzel",
+        "Julius Felsberg",
+        "Aurelia Selene Schäfer",
+        "Philomena Köbele"
+    ],
+    "description": "Maik, un muchacho de 14 años marginado por su clase, crece en el seno de una familia rica y disfuncional en Berlín. Durante las vacaciones veraniegas, su alcohólica madre ingresa en rehabilitación mientras su padre se ausenta con su joven ayudante por un presunto viaje de negocios. Maik está solo en casa, en su piscina, hasta que un nuevo compañero de clase llamado Tschick, joven inmigrante ruso, aparece con un coche robado. Juntos se lanzan a la carretera sin plan aparente.",
+    "cover": "https://cuevana.pizza/resize/###/storage/26989/ewwflqQabnSWPBbgKWmNlVSZVqHHDzhHr3PbNbko.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtOXdiOWZ2OXJ2ZDZ6Lmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLWRscWxmcGw5Zmllbi5odG1s"
+            ]
+        },
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtajFnN2I4dDQ3N2F2Lmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLWdwcjF4ZWlteDZoZS5odG1s"
+            ]
+        }
+    ],
+    "downloads": []
+}

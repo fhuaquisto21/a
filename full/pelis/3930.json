@@ -1,0 +1,47 @@
+{
+    "url": "https://cuevana.pizza/pelicula/the-bloodhound",
+    "title": "The Bloodhound",
+    "duration": "1h 17m",
+    "year": "2020",
+    "genres": [
+        "Misterio",
+        "Terror"
+    ],
+    "actors": [
+        "Annalise Basso",
+        "Dylan Gentile",
+        "Gaby Santinelli",
+        "Joe Adler",
+        "Kimleigh Smith",
+        "Liam Aiken",
+        "McNally Sagal"
+    ],
+    "description": "Una visita a un amigo rico y solitario lleva a un joven a un mundo de miedo y desesperación.",
+    "cover": "https://cuevana.pizza/resize/###/storage/23343/wLzyQ3XhL3b8qAv43awjwQixdKMlUpp1DyfhyO19.jpg",
+    "players": [
+        {
+            "type": "cas",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtMmkzcDh3Mzlwenc1Lmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLTFmZWZ3a3dlMmVmNS5odG1s"
+            ]
+        },
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtYThnNm83eW1id2xwLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLWc4a3I5dmhzc3MzMS5odG1s"
+            ]
+        }
+    ],
+    "downloads": [
+        {
+            "url": "https://1fichier.com/?tof6bm53sjog397ky6g2",
+            "type": "es"
+        },
+        {
+            "url": "https://1fichier.com/?lo68r1j9gtbl7n4tflfr",
+            "type": "en"
+        }
+    ]
+}

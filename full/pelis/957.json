@@ -1,0 +1,40 @@
+{
+    "url": "https://cuevana.pizza/pelicula/barbie-aventura-en-el-espacio",
+    "title": "Barbie: Aventura en el Espacio",
+    "duration": "1h 19m",
+    "year": "2016",
+    "genres": [
+        "Ciencia Ficcion",
+        "Familia",
+        "Animacion",
+        "Infantil"
+    ],
+    "actors": [
+        "Dwight Schultz",
+        "Robbie Daymond",
+        "Erica Lindbeck",
+        "Kimberly Woods",
+        "Sarah Anne Williams",
+        "Michael Chandler",
+        "Ben Bledsoe"
+    ],
+    "description": "Barbie y su mascota Palomita, vuelan alto en una aventura en el espacio. Un día, todo cambia cuando en un abrir y cerrar de ojos las estrellas de los galaxias comienzan a oscurecerse y dejan de bailar. Barbie decide viajar a Capital Planet para unirse a un equipo especial de rescate en una misión para salvar a las estrellas. Una vez allí, se encuentra con el campeón galáctico Sal- Lee y sus nuevos amigos. Barbie pronto descubre que si escucha a su corazón y con la ayuda de sus amigos, ¡podría ser el líder de todo el universo ha estado esperando!",
+    "cover": "https://cuevana.pizza/resize/###/storage/44255/EmPvqvMTMaze3e7PI8k0gLWb2CF8OPBc38CG8iHA.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtMW45cWY5Y2EwYjRhLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLWd5cmVrdW8zajR6ai5odG1s"
+            ]
+        },
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtNXJ0OHlwaXYyNzRjLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLWc1Y3d5MzJ0NTJqMC5odG1s"
+            ]
+        }
+    ],
+    "downloads": []
+}

@@ -1,0 +1,47 @@
+{
+    "url": "https://cuevana.pizza/pelicula/luz",
+    "title": "Luz",
+    "duration": "1h 14m",
+    "year": "2019",
+    "genres": [
+        "Misterio",
+        "Suspenso",
+        "Terror"
+    ],
+    "actors": [
+        "Luana Velis",
+        "Jan Bluthardt",
+        "Julia Riedler",
+        "Nadja Stübiger",
+        "Johannes Benecke",
+        "Lilli Lorenz"
+    ],
+    "description": "La joven taxista Luz llega abatida a una comisaría de policía. Al parecer una entidad demoníaca insaciable la persigue y no descansará hasta poseerla... La ópera prima de Tilman Singer es un thriller en el que lo absurdo y lo sobrenatural convergen hasta crear un nocturno juego sensorial.",
+    "cover": "https://cuevana.pizza/resize/###/storage/21862/OT7H7j1JiOputgjt5ZChYFqA789vlXhv2XxJLS0z.jpg",
+    "players": [
+        {
+            "type": "cas",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtZjhwOXgwamFtaHE0Lmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLWNnY2JuejNwYXZuei5odG1s"
+            ]
+        },
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtOTcxZHZ0OTlubmM3Lmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLWgwaWE3ZGk2ajAxMi5odG1s"
+            ]
+        }
+    ],
+    "downloads": [
+        {
+            "url": "https://1fichier.com/?5am45btpwbcbdatoq5js",
+            "type": "es"
+        },
+        {
+            "url": "https://1fichier.com/?zc1gto07cmgoztxwtozh",
+            "type": "en"
+        }
+    ]
+}

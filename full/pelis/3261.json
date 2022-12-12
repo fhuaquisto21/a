@@ -1,0 +1,49 @@
+{
+    "url": "https://cuevana.pizza/pelicula/la-nube",
+    "title": "La nube",
+    "duration": "1h 40m",
+    "year": "2020",
+    "genres": [
+        "Drama",
+        "Suspenso",
+        "Terror"
+    ],
+    "actors": [
+        "Suliane Brahim",
+        "Sofian Khammes",
+        "Marie Narbonne",
+        "Raphael Romand",
+        "Nathalie Boyer",
+        "Victor Bonnel",
+        "Christian Bouillette",
+        "Raphaël Liot"
+    ],
+    "description": "A Virginie le resulta difícil conciliar su vida de agricultora con la de madre soltera. Para sacar a su familia adelante y evitar la quiebra de su granja, se entrega en cuerpo y alma a la cría de saltamontes comestibles. La vida es dura: las preocupaciones económicas y los problemas prácticos se amontonan, las tensiones con sus hijos y vecinos aumentan. Poco a poco, Virginie empieza a desarrollar un extraño vínculo obsesivo con sus saltamontes: ni sus hijos son capaces ya de reconocerla.",
+    "cover": "https://cuevana.pizza/resize/###/storage/20873/8eLfdNaNhYMOARu0kD9zl131qpkcN8DGjCsTmhdp.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQteWMxdmMyY2QzZTYxLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLTNjOHc0emtndW9mbC5odG1s"
+            ]
+        },
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtb2Q5cHFncDBjazl1Lmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLW10Mm45dWk3NXF5ci5odG1s"
+            ]
+        }
+    ],
+    "downloads": [
+        {
+            "url": "https://1fichier.com/?abm6410y4fdosq8an72p",
+            "type": "la"
+        },
+        {
+            "url": "https://1fichier.com/?0ogomva7pfqx9i42aw0c",
+            "type": "en"
+        }
+    ]
+}

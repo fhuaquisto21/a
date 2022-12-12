@@ -1,0 +1,58 @@
+{
+    "url": "https://cuevana.pizza/pelicula/uno-de-nosotros",
+    "title": "Uno de nosotros",
+    "duration": "1h 54m",
+    "year": "2020",
+    "genres": [
+        "Drama",
+        "Misterio",
+        "Suspenso",
+        "Crimen",
+        "Western"
+    ],
+    "actors": [
+        "Diane Lane",
+        "Kevin Costner",
+        "Kayli Carter",
+        "Lesley Manville"
+    ],
+    "description": "En LET HIM GO, el sheriff retirado George Blackledge (Costner) y su mujer Margaret (Lane) dejan su hogar natal en Montana para tratar de rescatar a su nieto en Dakota tras sufrir la pérdida de su hijo. El joven está bajo la supervisión de Blance Weboy, que tras descubrir las intenciones de su familia, decide hacer todo lo posible para impedir que le arrebaten su posesión más preciada.",
+    "cover": "https://cuevana.pizza/resize/###/storage/24273/zMmSj6AasVsvbhDKCRvtKkhndfF4HCGbs8iEmI2Q.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQteDBxemh1bG1icDRsLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLTRiZGUwbjV2ajdrbS5odG1s"
+            ]
+        },
+        {
+            "type": "cas",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtM3FtZ2lkbWcwbmxkLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLTZ4aWI5YzFpZm54ZC5odG1s"
+            ]
+        },
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtZ3drcWIyM2h2MWR3Lmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLWJoOHEzMmxuNDRjby5odG1s"
+            ]
+        }
+    ],
+    "downloads": [
+        {
+            "url": "https://1fichier.com/?cyo59wm8u4flikv3myas#Synchronization+Service",
+            "type": "la"
+        },
+        {
+            "url": "https://1fichier.com/?gl4qqgespze4tzgky76r#Synchronization+Service",
+            "type": "es"
+        },
+        {
+            "url": "https://1fichier.com/?l93c0y0bxiqh7bdvm46y#Synchronization+Service",
+            "type": "en"
+        }
+    ]
+}

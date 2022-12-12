@@ -1,0 +1,57 @@
+{
+    "url": "https://cuevana.pizza/pelicula/horizon-line",
+    "title": "Hasta el horizonte",
+    "duration": "1h 31m",
+    "year": "2020",
+    "genres": [
+        "Thriller"
+    ],
+    "actors": [
+        "Alexander Dreymon",
+        "Allison Williams",
+        "Amanda Khan",
+        "Jumayn Hunter",
+        "Keith David",
+        "Lamin Tamba",
+        "Pearl Mackie"
+    ],
+    "description": "Una pareja que viaja en un avión pequeño para asistir a una boda en una isla tropical debe luchar por sus vidas después de que su piloto sufre un infarto.",
+    "cover": "https://cuevana.pizza/resize/###/storage/23904/c10vEZiKkLb0HzDLWPFJ0A0Bld2FshhZYw3xwgSu.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtYTI4enU3NDFkNHNmLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLWhkdnZkbmNuenNsYS5odG1s"
+            ]
+        },
+        {
+            "type": "cas",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtcmFiejV2eWxjM3pjLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLTd4NnVoa3JybGNkbC5odG1s"
+            ]
+        },
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtOWQ2bnJ5OWIzNWFhLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLTg4ZzJyaXN3YndydS5odG1s"
+            ]
+        }
+    ],
+    "downloads": [
+        {
+            "url": "https://1fichier.com/?n48lpaaimhrc4nolreh8",
+            "type": "la"
+        },
+        {
+            "url": "https://1fichier.com/?3g72luvyc69zzqn5b1tv",
+            "type": "es"
+        },
+        {
+            "url": "https://1fichier.com/?p5skqlrqatqjxwhwfx0e",
+            "type": "en"
+        }
+    ]
+}

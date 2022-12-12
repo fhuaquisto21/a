@@ -1,0 +1,62 @@
+{
+    "url": "https://cuevana.pizza/pelicula/clean",
+    "title": "Clean",
+    "duration": "1h 33m",
+    "year": "2022",
+    "genres": [
+        "Drama",
+        "Suspenso",
+        "Crimen"
+    ],
+    "actors": [
+        "Adrien Brody",
+        "Glenn Fleshler",
+        "Richie Merritt",
+        "Chandler Ari DuPont",
+        "Michelle Wilson",
+        "John Bianco",
+        "Dinora Walcott",
+        "Mykelti Williamson",
+        "RZA",
+        "Pat Buck"
+    ],
+    "description": "Atormentado por una vida pasada, el basurero Clean intenta una vida de tranquila redención. Pero cuando sus buenas intenciones lo convierten en objetivo de un jefe del crimen local, Clean se ve obligado a reconciliarse con la violencia de su pasado.",
+    "cover": "https://cuevana.pizza/resize/###/storage/14344/LT4qDuKLpDtLytteOQAFxRTyP8boKWpPi59cWU6X.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQteTAxc2tvZnBlOGhpLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLXdmaWdqZnhnbmZieC5odG1s"
+            ]
+        },
+        {
+            "type": "cas",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtZmRlbDVnaTg0YWQyLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLTRtaTV3djVhcWIwdC5odG1s"
+            ]
+        },
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtYzZpazQ1d3ZndjhtLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLTBienp4eXZxY3phNS5odG1s"
+            ]
+        }
+    ],
+    "downloads": [
+        {
+            "url": "https://1fichier.com/?z2m1s7s4o9vw7rqdk95t",
+            "type": "la"
+        },
+        {
+            "url": "https://1fichier.com/?w52eto6wxsad075hvg7x",
+            "type": "es"
+        },
+        {
+            "url": "https://1fichier.com/?n1imzpb34ujf749j8p53",
+            "type": "en"
+        }
+    ]
+}

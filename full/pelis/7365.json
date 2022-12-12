@@ -1,0 +1,52 @@
+{
+    "url": "https://cuevana.pizza/pelicula/hello-my-name-is-doris",
+    "title": "Hola, mi nombre es Doris",
+    "duration": "1h 35m",
+    "year": "2015",
+    "genres": [
+        "Comedia",
+        "Drama",
+        "Romance"
+    ],
+    "actors": [
+        "Sally Field",
+        "Max Greenfield",
+        "Beth Behrs",
+        "Stephen Root",
+        "Natasha Lyonne",
+        "Kumail Nanjiani",
+        "Wendi McLendon-Covey",
+        "Rich Sommer",
+        "Peter Gallagher",
+        "Tyne Daly",
+        "Elizabeth Reaser",
+        "Isabella Acres",
+        "Kyle Mooney",
+        "Caroline Aaron",
+        "Rebecca Wisocky",
+        "Amy Okuda",
+        "Don Stark",
+        "Nnamdi Asomugha",
+        "Anna Akana",
+        "Emilie Germain"
+    ],
+    "description": "Un seminario de autoayuda inspira a Doris, una mujer sesentañera, para perseguir románticamente a su joven y nuevo compañero de trabajo.",
+    "cover": "https://cuevana.pizza/resize/###/storage/27223/YnKkKK5AU80RMaqPtwW2CqQav7CtfWAltS2Muq2X.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtb3l6ODEzbWM1dmo2Lmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLXkwNnFubzVrMnEyNi5odG1s"
+            ]
+        },
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtdWxoZ3N5NGJubDc0Lmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLWdiejRiZzJtb2Z6by5odG1s"
+            ]
+        }
+    ],
+    "downloads": []
+}

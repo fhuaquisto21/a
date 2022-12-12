@@ -1,0 +1,63 @@
+{
+    "url": "https://cuevana.pizza/pelicula/the-room",
+    "title": "La habitación (The room)",
+    "duration": "1h 39m",
+    "year": "2019",
+    "genres": [
+        "Drama",
+        "Misterio",
+        "Terror",
+        "Ciencia Ficcion"
+    ],
+    "actors": [
+        "Olga Kurylenko",
+        "Kevin Janssens",
+        "Carole Weyers",
+        "Marianne Bourg",
+        "John Flanders",
+        "Francis Chapman",
+        "Joshua Wilson",
+        "Éric Gigout",
+        "Vince Drews",
+        "Michaël Kahya"
+    ],
+    "description": "Matt y Kate compran una casa aislada. A medida que se mudan, descubren una habitación extraña que les da un número ilimitado de deseos materiales. Pero, como Kate ha tenido dos abortos involuntarios, lo que más extrañan es un niño.",
+    "cover": "https://cuevana.pizza/resize/###/storage/21202/juoC9fIFOLXZbeKMY07vRvJ1JQ3jtkd0FvpgA29B.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtNzRiZWZtZnhtbGkxLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLWZ2cDVhaGpwYWt6dC5odG1s"
+            ]
+        },
+        {
+            "type": "cas",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtZjVlNzlucnRvYzFvLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLThzNGNncWlkaDNycC5odG1s"
+            ]
+        },
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtMWw4Z242MzM1OWV3Lmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLXgxanllZm15bnRicC5odG1s"
+            ]
+        }
+    ],
+    "downloads": [
+        {
+            "url": "https://1fichier.com/?m7l2r41ax3chg73fqrfx",
+            "type": "la"
+        },
+        {
+            "url": "https://1fichier.com/?7sdii565bheo9zmr1dij",
+            "type": "es"
+        },
+        {
+            "url": "https://1fichier.com/?uiroiwso3yfks0u1fvgp",
+            "type": "en"
+        }
+    ]
+}

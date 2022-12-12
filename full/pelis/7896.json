@@ -1,0 +1,47 @@
+{
+    "url": "https://cuevana.pizza/pelicula/bajo-amenaza",
+    "title": "Bajo amenaza",
+    "duration": "1h 31m",
+    "year": "2011",
+    "genres": [
+        "Suspenso",
+        "Terror",
+        "Crimen"
+    ],
+    "actors": [
+        "Nicolas Cage",
+        "Nicole Kidman",
+        "Ben Mendelsohn",
+        "Liana Liberato",
+        "Cam Gigandet",
+        "Jordana Spiro",
+        "Dash Mihok",
+        "Emily Meade",
+        "Nico Tortorella",
+        "Brandon Belknap",
+        "Terry Milam",
+        "Tina Parker",
+        "David Maldonado",
+        "Nilo Otero",
+        "Simona Williams"
+    ],
+    "description": "Cuatro violentos criminales secuestran a un matrimonio en su propia casa, aparentemente para robarles. Sin embargo, las cosas no saldrán según lo previsto.",
+    "cover": "https://cuevana.pizza/resize/###/storage/28862/8IpGNo2OjqUFP1q8DNxA87iXUXQ5O610PFUilwkC.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtZ2o0cndwdDZzcjN4Lmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLWtpcXpkOHdmZzRiMS5odG1s"
+            ]
+        },
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtdjg2cGNqcTNhYm5qLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLWx6bzgyMmw0amd1cC5odG1s"
+            ]
+        }
+    ],
+    "downloads": []
+}

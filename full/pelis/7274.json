@@ -1,0 +1,52 @@
+{
+    "url": "https://cuevana.pizza/pelicula/maggie-s-plan",
+    "title": "El plan de Maggie",
+    "duration": "1h 32m",
+    "year": "2016",
+    "genres": [
+        "Comedia",
+        "Drama",
+        "Romance"
+    ],
+    "actors": [
+        "Greta Gerwig",
+        "Ethan Hawke",
+        "Julianne Moore",
+        "Bill Hader",
+        "Travis Fimmel",
+        "Maya Rudolph",
+        "Wallace Shawn",
+        "Alex Morf",
+        "Jackson Frazer",
+        "Mina Sundwall",
+        "Sue Jean Kim",
+        "Monte Greene",
+        "Fredi Walker-Browne",
+        "George Ashiotis",
+        "Brendan Titley",
+        "Stephen Lin",
+        "Ida Rohatyn",
+        "Angela Trento",
+        "Kathleen Hanna",
+        "Tommy Buck"
+    ],
+    "description": "Maggie, profesora y mujer decidida, está preparada para ser madre. Sus amantes no le duran más de seis meses, pero tiene un donante ideal. Con la muestra en la mano, se le declara un compañero casado...",
+    "cover": "https://cuevana.pizza/resize/###/storage/27393/QSS7aIHHRVkWLKtEdhDZOkJRpgPULSTZNaKwspRj.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtM2VxbTB4bW1xZGZjLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLWhtajBvZGI4OWt2ZS5odG1s"
+            ]
+        },
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtd3VqeGs1ZzVxYXh4Lmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLTgxMWt0eDNlMGFjMi5odG1s"
+            ]
+        }
+    ],
+    "downloads": []
+}

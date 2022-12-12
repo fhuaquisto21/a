@@ -1,0 +1,62 @@
+{
+    "url": "https://cuevana.pizza/pelicula/wolf",
+    "title": "Wolf",
+    "duration": "1h 38m",
+    "year": "2021",
+    "genres": [
+        "Drama",
+        "Misterio",
+        "Suspenso"
+    ],
+    "actors": [
+        "George MacKay",
+        "Lily-Rose Depp",
+        "Paddy Considine",
+        "Fionn O'Shea",
+        "Lola Petticrew",
+        "Senan Jennings",
+        "Darragh Shannon",
+        "Elisa Fionuir",
+        "Amy Macken",
+        "Helen Behan"
+    ],
+    "description": "Jacob, un hombre que cree que es un lobo atrapado en un cuerpo humano, es enviado por su familia a una clínica donde se ve obligado a someterse a formas cada vez más extremas de terapias \"curativas\" a manos del Dr. Mann. Jacob se siente misteriosamente atraído por una paciente que se cree una gata salvaje.",
+    "cover": "https://cuevana.pizza/resize/###/storage/39441/3PRS2gnyLZhQg72WqnWzUfRB6ymr93eV8MtbdgQl.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtYnhyb2Q1YmR0Y2hjLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLWo3aGdleGdxbTB2NS5odG1s"
+            ]
+        },
+        {
+            "type": "cas",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtMjh2ejhyc214MGpqLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLTdteHdnaG1wMnpsaS5odG1s"
+            ]
+        },
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtdGx6MWI0OGthaWQwLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLXozc2FnZGs2b2d6OS5odG1s"
+            ]
+        }
+    ],
+    "downloads": [
+        {
+            "url": "https://1fichier.com/?9gl39b40oovy4ogopsps",
+            "type": "la"
+        },
+        {
+            "url": "https://1fichier.com/?58ovfd3qo0a84n9ehdui",
+            "type": "es"
+        },
+        {
+            "url": "https://1fichier.com/?vxpyv3wfjevov8urirle",
+            "type": "en"
+        }
+    ]
+}

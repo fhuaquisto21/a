@@ -1,0 +1,48 @@
+{
+    "url": "https://cuevana.pizza/pelicula/terminal",
+    "title": "Terminal",
+    "duration": "1h 35m",
+    "year": "2018",
+    "genres": [
+        "Drama",
+        "Suspenso",
+        "Crimen"
+    ],
+    "actors": [
+        "Margot Robbie",
+        "Simon Pegg",
+        "Dexter Fletcher",
+        "Max Irons",
+        "Mike Myers",
+        "Katarina Čas",
+        "Nick Moran",
+        "Les Loveday",
+        "Jourdan Dunn",
+        "Matthew Lewis",
+        "Thomas Turgoose",
+        "Jay Simpson",
+        "Benjamin Griffin",
+        "Robert Goodman",
+        "Paul Reynolds",
+        "Zita Banfalvi"
+    ],
+    "description": "En el corazón oscuro de una ciudad anónima, Terminal sigue las retorcidas historias de dos asesinos que llevan a cabo una misión siniestra, un maestro que lucha contra una enfermedad mortal, un enigmático conserje y una camarera curiosa que lleva una doble vida peligrosa. Los asesinatos se desarrollan en la oscuridad de la noche, ya que sus vidas se entrelazan por orden de un misterioso cerebro criminal empeñado en la venganza.",
+    "cover": "https://cuevana.pizza/resize/###/storage/24421/xKIFHy9npYoVZLnSsKtZEJEkK47IfzSKOdLIIe9E.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtamV0MjZrcW1oMWVnLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLWlwbGxwMjBhbTJtby5odG1s"
+            ]
+        },
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtamZlMTRoOWFrYWY1Lmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLXU2MGE0c3RtNDJ5Mi5odG1s"
+            ]
+        }
+    ],
+    "downloads": []
+}

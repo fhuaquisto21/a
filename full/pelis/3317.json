@@ -1,0 +1,49 @@
+{
+    "url": "https://cuevana.pizza/pelicula/sant-marti",
+    "title": "Sant Martí",
+    "duration": "1h 20m",
+    "year": "2018",
+    "genres": [
+        "Suspenso",
+        "Terror"
+    ],
+    "actors": [
+        "Olga Bernardo",
+        "David Estany",
+        "Guillem Fernàndez-Valls",
+        "Anna Ferran",
+        "Nanu Ferrari",
+        "Joan Massotkleiner",
+        "Paco Moreno",
+        "José García Ruiz",
+        "Raül Tortosa"
+    ],
+    "description": "Un grupo de jóvenes se dirige a un festival de rock que se celebra en las montañas. Una avería les obliga a buscar refugio en Sant Martí, un pueblo de la Catalunya profunda venido a menos con los años...",
+    "cover": "https://cuevana.pizza/resize/###/storage/22520/gHp69lxLuYn0itvtkYaI3JcO6Djab0YgjYCMvaqL.jpg",
+    "players": [
+        {
+            "type": "cas",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtem1oanpvbzNpcTZhLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLWNmOHR5ZXNrbHJ4Zy5odG1s"
+            ]
+        },
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtbTBtcDI0bnZvYmx0Lmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLWduYnQxcWJqbzBnci5odG1s"
+            ]
+        }
+    ],
+    "downloads": [
+        {
+            "url": "https://1fichier.com/?ivllcj57nzoed7smt9kk",
+            "type": "es"
+        },
+        {
+            "url": "https://1fichier.com/?zppahnkqguwr6b6rayb1",
+            "type": "en"
+        }
+    ]
+}

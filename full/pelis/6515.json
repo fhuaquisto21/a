@@ -1,0 +1,42 @@
+{
+    "url": "https://cuevana.pizza/pelicula/cover-versions",
+    "title": "Cover Versions",
+    "duration": "1h 24m",
+    "year": "2018",
+    "genres": [
+        "Misterio"
+    ],
+    "actors": [
+        "Katie Cassidy",
+        "Austin Swift",
+        "Jerry Trainor",
+        "Drake Bell",
+        "Debby Ryan",
+        "Brian Howe",
+        "Ashley Argota",
+        "Jenn An",
+        "Jonny Mars",
+        "Kevin Dunigan",
+        "Vinny Chhibber",
+        "Todd Berger"
+    ],
+    "description": "En la víspera del mayor concierto de sus vidas, cuatro miembros del grupo de synth-rock Starfoxy dan una fiesta loca que termina con un misterioso fan muerto en la piscina. Cuando la policía interroga a los excéntricos rockeros, cada uno cuenta una versión distinta en esta inteligente historia de misterio.",
+    "cover": "https://cuevana.pizza/resize/###/storage/27371/2Me2d8GO8tKPxPAIuCWQfBGNyG0DT3NOxATtxB5u.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtYWM2cHJ2dXBxYzRrLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLWRyOWUwOTMzNWxtci5odG1s"
+            ]
+        },
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtaDVmY3Q3dzR5ZHBtLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLTUxNmtmZjBibjV6ci5odG1s"
+            ]
+        }
+    ],
+    "downloads": []
+}

@@ -1,0 +1,46 @@
+{
+    "url": "https://cuevana.pizza/pelicula/cuatro-por-cuatro",
+    "title": "Cuatro por cuatro",
+    "duration": "1h 28m",
+    "year": "2021",
+    "genres": [
+        "Comedia",
+        "Drama",
+        "Romance"
+    ],
+    "actors": [
+        "Nilam Farooq",
+        "Jonas Nay",
+        "Paula Kalenberg",
+        "Louis Nitsche",
+        "Tim Oliver Schultz"
+    ],
+    "description": "Después de que su intercambio de parejas da un giro, cuatro amigos llegan a una playa remota para afrontar las repercusiones y dejar salir las verdades más profundas.",
+    "cover": "https://cuevana.pizza/resize/###/storage/11344/V5KkJfUbEKiNKeYfj3VxMlmD2m9GeBT3pZgrBzVD.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtY2VnZW81dmo5MnVzLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLTcyeG04b3lqcTRzNS5odG1s"
+            ]
+        },
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtaHV0dXJldXZ1MDQ3Lmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLWZtODF3eXY1Ymh4MC5odG1s"
+            ]
+        }
+    ],
+    "downloads": [
+        {
+            "url": "https://1fichier.com/?nng9tu1505qsvc31k42f",
+            "type": "la"
+        },
+        {
+            "url": "https://1fichier.com/?ujjqguh5v516715jg8xr",
+            "type": "en"
+        }
+    ]
+}

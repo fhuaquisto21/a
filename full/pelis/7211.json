@@ -1,0 +1,60 @@
+{
+    "url": "https://cuevana.pizza/pelicula/max-steel",
+    "title": "Max Steel",
+    "duration": "1h 32m",
+    "year": "2016",
+    "genres": [
+        "Accion",
+        "Aventura",
+        "Familia"
+    ],
+    "actors": [
+        "Ben Winchell",
+        "Josh Brener",
+        "Ana Villafañe",
+        "Andy García",
+        "Maria Bello",
+        "Billy Slaughter",
+        "Mike Doyle",
+        "Brandon Larracuente"
+    ],
+    "description": "Cuando Max McGrath de 16 años de edad descubre que su cuerpo puede generar la energía más poderosa del universo, debe vincularse con el único ser capaz de contenerla: un extraterrestre tecno-orgánico misterioso llamado Steel (Acero). Unidos bajo un superhéroe llamado Max Steel, los dos amigos deben combatir una amenaza alienígena y descubrir los secretos de su pasado.",
+    "cover": "https://cuevana.pizza/resize/###/storage/26918/YwMjSRqGh1TRd5lALqjyG3kQLinmVGrOXXSaWia9.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtZHhld3puaGkxZmtzLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLTU4Nzk1MHFxeXhqei5odG1s"
+            ]
+        },
+        {
+            "type": "cas",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtYXI1MWhycHpuejQ5Lmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLTV5Z3R6MmNpZjJ2cC5odG1s"
+            ]
+        },
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtdXZycTE1NnN2Ynh2Lmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLXlvb2R3Zmt2dW8zYy5odG1s"
+            ]
+        }
+    ],
+    "downloads": [
+        {
+            "url": "https://1fichier.com/?sj1rjh3h5ac35hdt1rrz#Synchronization+Service",
+            "type": "la"
+        },
+        {
+            "url": "https://1fichier.com/?5x1dlba1swejuqw06h4o#Synchronization+Service",
+            "type": "es"
+        },
+        {
+            "url": "https://1fichier.com/?d38dbed4kujst8w4fozn#Synchronization+Service",
+            "type": "en"
+        }
+    ]
+}

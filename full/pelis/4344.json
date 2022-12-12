@@ -1,0 +1,54 @@
+{
+    "url": "https://cuevana.pizza/pelicula/la-diosa-fortuna",
+    "title": "La diosa fortuna",
+    "duration": "1h 54m",
+    "year": "2020",
+    "genres": [
+        "Drama"
+    ],
+    "actors": [
+        "Stefano Accorsi",
+        "Edoardo Leo",
+        "Jasmine Trinca",
+        "Serra Yilmaz"
+    ],
+    "description": "Alessandro y Arturo, son una pareja desde hace más de quince años y están en crisis desde hace ya un tiempo. La pasión y el amor se han transformado en un sentimiento de aprecio. La llegada imprevisible de 2 pequeños que la mejor amiga de Alessandro les deja en custodia podría, no obstante, aportar un cambio a su atascada rutina. Esta solución es un ademán de insensatez. Mas el amor no deja de ser un estado de agradable insensatez.",
+    "cover": "https://cuevana.pizza/resize/###/storage/24275/9cZBmRjwcIobrx7SH45Rw2IpDqZ6Q2APXSgbF2jY.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtZDZyZjUxOWhwOXM3Lmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLTRiMG1pOWxyanEzbi5odG1s"
+            ]
+        },
+        {
+            "type": "cas",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtdnYyYmljMnM5a3hsLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLWRuMXE3bTJlcWM1Yi5odG1s"
+            ]
+        },
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtZTd1aDNxbWdmbjFoLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLW02YmFveTEyeHA5Yi5odG1s"
+            ]
+        }
+    ],
+    "downloads": [
+        {
+            "url": "https://1fichier.com/?knf5aovljqdn616vli8g#Synchronization+Service",
+            "type": "la"
+        },
+        {
+            "url": "https://1fichier.com/?90um22z76ve2d1s2ozdv#Synchronization+Service",
+            "type": "es"
+        },
+        {
+            "url": "https://1fichier.com/?0hrc3ri6q9gxzdttkoni#Synchronization+Service",
+            "type": "en"
+        }
+    ]
+}

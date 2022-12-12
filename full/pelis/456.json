@@ -1,0 +1,48 @@
+{
+    "url": "https://cuevana.pizza/pelicula/yo-era-famoso",
+    "title": "Yo era famoso",
+    "duration": "1h 44m",
+    "year": "2022",
+    "genres": [
+        "Comedia",
+        "Drama",
+        "Musical"
+    ],
+    "actors": [
+        "Ed Skrein",
+        "Eleanor Matsuura",
+        "Lee Long",
+        "Eoin Macken",
+        "Kurt Egyiawan",
+        "Neil Stuke",
+        "Racheal Ofori"
+    ],
+    "description": "Vince, una ex estrella del pop desesperada que sueña con regresar. Una improvisada sesión de improvisación con el joven baterista autista Stevie provoca una amistad inesperada entre los dos músicos incomprendidos.",
+    "cover": "https://cuevana.pizza/resize/###/storage/52083/tXF0KUI7uuZCEjpNRMvEwt4CiWFIehc5PB5XLys8.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtcWM5OWlwY2xxaDljLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLWE0cHBzMnkyMXpkcC5odG1s"
+            ]
+        },
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtd29yenk1MWc5dmlxLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLWtidWVhbWtzY2I1OS5odG1s"
+            ]
+        }
+    ],
+    "downloads": [
+        {
+            "url": "https://1fichier.com/?agxu7sopew8fgknuhftc",
+            "type": "la"
+        },
+        {
+            "url": "https://1fichier.com/?9w6yef1bffc53l8u4fh2",
+            "type": "en"
+        }
+    ]
+}

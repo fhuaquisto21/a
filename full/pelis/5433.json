@@ -1,0 +1,53 @@
+{
+    "url": "https://cuevana.pizza/pelicula/galveston",
+    "title": "Galveston",
+    "duration": "1h 34m",
+    "year": "2018",
+    "genres": [
+        "Accion",
+        "Drama",
+        "Suspenso",
+        "Crimen"
+    ],
+    "actors": [
+        "Ben Foster",
+        "Elle Fanning",
+        "Beau Bridges",
+        "Lili Reinhart",
+        "Adepero Oduye",
+        "Robert Aramayo",
+        "María Valverde",
+        "C.K. McFarland",
+        "Michael Ray Escamilla",
+        "Jeffrey Grover",
+        "Rob Steinberg",
+        "Jimmie Lee Sessoms",
+        "Sean Von Buseck",
+        "Don A. King",
+        "Michael John Lane",
+        "Rhonda Johnson Dents",
+        "Heidi Lewandowski",
+        "Jorge Longoria",
+        "Nounoumanou Malam Annou",
+        "Philip Fornah"
+    ],
+    "description": "Roy se ha salvado de la trampa que le ha tendido su jefe, el capo de una banda criminal. En plena huida, rescatará a Raquel, una prostituta con la que viajará hasta Galveston, Texas, donde solo se tendrán el uno al otro mientras se ven acechados por sus perseguidores y por su propio pasado. La heroína de Malditos bastardos, Mélanie Laurent, adapta una novela del creador de True Detective, Nic Pizzolatto.",
+    "cover": "https://cuevana.pizza/resize/###/storage/17429/fHSm4u0uz6DAO1OvaHtTie5LBFeLDHdPJILr13IO.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtNDM3eXYxOHJtenFyLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLXl0dTVsOW9qaGlqcC5odG1s"
+            ]
+        },
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtbnkzOGl1MnFwZGQ3Lmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLXc3YWFmZ24weXpyYi5odG1s"
+            ]
+        }
+    ],
+    "downloads": []
+}

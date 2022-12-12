@@ -1,0 +1,63 @@
+{
+    "url": "https://cuevana.pizza/pelicula/eternals",
+    "title": "Eternals",
+    "duration": "2h 37m",
+    "year": "2021",
+    "genres": [
+        "Accion",
+        "Ciencia Ficcion",
+        "Aventura",
+        "Marvel Comics"
+    ],
+    "actors": [
+        "Gemma Chan",
+        "Richard Madden",
+        "Kumail Nanjiani",
+        "Lia McHugh",
+        "Brian Tyree Henry",
+        "Lauren Ridloff",
+        "Barry Keoghan",
+        "Ma Dong-seok",
+        "Kit Harington",
+        "Salma Hayek"
+    ],
+    "description": "La historia épica, que abarca miles de años, presenta a un grupo de héroes inmortales que se ve obligado a salir de las sombras para reunirse contra el enemigo más antiguo de la humanidad: los Desviantes.",
+    "cover": "https://cuevana.pizza/resize/###/storage/13728/TQM0Jd4WXqgUFLtW73KadMapUPttEOYC4r9OdpM4.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtdDhtcDR2Y283Njc0Lmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLWdmNjZ6OHo3OGc1cy5odG1s"
+            ]
+        },
+        {
+            "type": "cas",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQteTQ2a3FuNDYzMGVwLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLWsxdnB4cTJkZmtvaS5odG1s"
+            ]
+        },
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtamg5M28zZnBwZmgzLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLTVycWM3N3BlemwxYi5odG1s"
+            ]
+        }
+    ],
+    "downloads": [
+        {
+            "url": "https://1fichier.com/?8d7i4i8940j6pc8m6dfu",
+            "type": "la"
+        },
+        {
+            "url": "https://1fichier.com/?w0kl0mzcp7x978z68b5d",
+            "type": "es"
+        },
+        {
+            "url": "https://1fichier.com/?w0yh1kx3rnno47l5oyvt",
+            "type": "en"
+        }
+    ]
+}

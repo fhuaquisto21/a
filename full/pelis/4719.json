@@ -1,0 +1,49 @@
+{
+    "url": "https://cuevana.pizza/pelicula/bajo-la-misma-piel",
+    "title": "Bajo la Misma Piel",
+    "duration": "1h 30m",
+    "year": "2020",
+    "genres": [
+        "Drama",
+        "Misterio",
+        "Suspenso"
+    ],
+    "actors": [
+        "Samara Weaving",
+        "Carly Chaikin",
+        "Zach Avery",
+        "Brian Cox",
+        "Udo Kier",
+        "Hal Ozsan",
+        "Pasha D. Lychnikoff",
+        "Nicole Ansari-Cox"
+    ],
+    "description": "La vida de Sam, un neoyorquino normal y corriente, cambia de la noche a la mañana cuando su novia es asesinada por la mafia búlgara. Tras huir a Paris durante tres años para evitar correr su misma suerte, un día cree reconocerla en una película de Hollywood. La obsesión le lleva a viajar a Los Ángeles en busca de respuestas, lo que le vuelve a colocar en el punto de mira de los búlgaros.",
+    "cover": "https://cuevana.pizza/resize/###/storage/4113/87tV6BO2vmDzMmbYF7wFLwXcYjfMDJAsG2MNqreQ.jpg",
+    "players": [
+        {
+            "type": "cas",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtc3hpMW9kcnk2YmZ6Lmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLTU3YmI1dWtmdXpmay5odG1s"
+            ]
+        },
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtdG9iODE5NHpydG44Lmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLTc0anBxNjNoazJlbi5odG1s"
+            ]
+        }
+    ],
+    "downloads": [
+        {
+            "url": "https://1fichier.com/?70dhe2ob9tfojz37nmu6",
+            "type": "es"
+        },
+        {
+            "url": "https://1fichier.com/?yt2jp106sxtbynwcgdp5",
+            "type": "en"
+        }
+    ]
+}

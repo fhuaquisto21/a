@@ -1,0 +1,55 @@
+{
+    "url": "https://cuevana.pizza/pelicula/la-gallina-turuleca",
+    "title": "La Gallina Turuleca",
+    "duration": "1h 20m",
+    "year": "2020",
+    "genres": [
+        "Animacion"
+    ],
+    "actors": [
+        "Eva Hache",
+        "José Mota",
+        "Ana Ángeles García",
+        "Álvaro de Juana Pecos",
+        "Paula Coria Portilla"
+    ],
+    "description": "Turuleca es una gallina singular. Su peculiar aspecto desata las burlas del resto del gallinero, hasta que un día Isabel, una ex-profesora de música, la lleva a vivir a su granja. Allí, feliz y en armonía, la gallina descubre su gran talento oculto con la ayuda de Isabel: ¡Turuleca no sólo puede hablar, sino que canta como jamás has oído cantar a una gallina!",
+    "cover": "https://cuevana.pizza/resize/###/storage/4170/LkVV4HsE76KBBVYrzsC280BIyumAyCnKGsXktHZH.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtNXdzZXlzYm1rdzE5Lmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLTlrNmZtNTgyYnY1NC5odG1s"
+            ]
+        },
+        {
+            "type": "cas",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtZ2EzamZhN3V1MTMwLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLXlzeHQ5OGV2NTE3ai5odG1s"
+            ]
+        },
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtYXZnaTFmOWp4YWYyLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLXlsZmExcXlsN3Nqdy5odG1s"
+            ]
+        }
+    ],
+    "downloads": [
+        {
+            "url": "https://1fichier.com/?ob79lslk3h7er32qpgxb",
+            "type": "la"
+        },
+        {
+            "url": "https://1fichier.com/?ob79lslk3h7er32qpgxb",
+            "type": "es"
+        },
+        {
+            "url": "https://1fichier.com/?7vy7eevlnjmuwwy83o3p",
+            "type": "en"
+        }
+    ]
+}

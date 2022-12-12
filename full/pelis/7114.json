@@ -1,0 +1,48 @@
+{
+    "url": "https://cuevana.pizza/pelicula/elvis-nixon",
+    "title": "Elvis & Nixon",
+    "duration": "1h 30m",
+    "year": "2016",
+    "genres": [
+        "Comedia",
+        "Historia"
+    ],
+    "actors": [
+        "Kevin Spacey",
+        "Michael Shannon",
+        "Alex Pettyfer",
+        "Johnny Knoxville",
+        "Colin Hanks",
+        "Evan Peters",
+        "Tate Donovan",
+        "Sky Ferreira",
+        "Tracy Letts",
+        "Ahna O'Reilly",
+        "Ashley Benson",
+        "Dylan Penn",
+        "Joey Sagal",
+        "Geraldine Singer",
+        "Hanala Sagal",
+        "Poppy Delevingne",
+        "Gus Rhodes"
+    ],
+    "description": "Richard Nixon recibió a Elvis Presley en el Despacho Oval de la Casa Blanca el 21 de diciembre de 1970. ¿El motivo? Al parecer, a Elvis se le metió en la cabeza que quería tener una placa de agente federal para poder luchar contra la drogadicción en su país, y los asesores de Nixon pensaron que no había problema en conceder tal deseo, a cambio de unas fotografías que podrían mejorar la imagen pública del presidente, a quien el Rey del Rock & Roll obsequió con un revólver de coleccionismo.",
+    "cover": "https://cuevana.pizza/resize/###/storage/27027/Muv2WlHTJIuttSORdW4ualpGgVrZkLwjJFIlJqCg.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtaXk2em1icmRzOXZkLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLWwwMWc4ZnJobmUzbS5odG1s"
+            ]
+        },
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtaGpiNjhlN2VmNWVpLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLXF0bnJma3dnYzQ1Ni5odG1s"
+            ]
+        }
+    ],
+    "downloads": []
+}

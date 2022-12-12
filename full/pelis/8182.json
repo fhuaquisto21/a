@@ -1,0 +1,51 @@
+{
+    "url": "https://cuevana.pizza/pelicula/vanilla-sky",
+    "title": "Vanilla sky",
+    "duration": "2h 16m",
+    "year": "2002",
+    "genres": [
+        "Drama",
+        "Crimen"
+    ],
+    "actors": [
+        "Tom Cruise",
+        "Penélope Cruz",
+        "Cameron Diaz",
+        "Kurt Russell",
+        "Jason Lee",
+        "Noah Taylor",
+        "Timothy Spall",
+        "Tilda Swinton",
+        "Michael Shannon",
+        "Delaina Mitchell",
+        "Shalom Harlow",
+        "Oona Hart",
+        "Ivana Miličević",
+        "Johnny Galecki",
+        "Jhaemi Willens",
+        "Armand Schultz",
+        "Cameron Watson",
+        "Robertson Dean",
+        "W. Earl Brown",
+        "Ray Proscia"
+    ],
+    "description": "Re-boot. David Aames lo tiene todo: es apuesto, tiene dinero y una hermosa mujer a su lado. Pero justo cuando ha encontrado el verdadero amor en Sofía, sufre un accidente de automóvil que le deja la cara horriblemente desfigurada y lo pierde todo.",
+    "cover": "https://cuevana.pizza/resize/###/storage/28700/hg5wc6gKyPECOBccusEQmveKimDFj1RhqtGsREAD.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtNG4yN2drNmpjYmZiLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLTl0NzhjcmJ4amp0dC5odG1s"
+            ]
+        },
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtZmZ1YjV0a2dzbzlxLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLXczeGs2MGR0OXkwcy5odG1s"
+            ]
+        }
+    ],
+    "downloads": []
+}

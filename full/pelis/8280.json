@@ -1,0 +1,53 @@
+{
+    "url": "https://cuevana.pizza/pelicula/las-brujas-de-eastwick",
+    "title": "Las brujas de Eastwick",
+    "duration": "1h 58m",
+    "year": "1987",
+    "genres": [
+        "Comedia",
+        "Drama",
+        "Terror",
+        "Fantasia"
+    ],
+    "actors": [
+        "Jack Nicholson",
+        "Cher",
+        "Susan Sarandon",
+        "Michelle Pfeiffer",
+        "Veronica Cartwright",
+        "Richard Jenkins",
+        "Keith Jochim",
+        "Carel Struycken",
+        "Helen Lloyd Breed",
+        "Caroline Struzik",
+        "Michele Sincavage",
+        "Carole Ita White",
+        "Harriet Medin",
+        "Jane A. Johnston",
+        "Merrily Horowitz",
+        "Babbie Green",
+        "Becca Lish",
+        "Margot Dionne",
+        "Eugene Boles",
+        "John Blood"
+    ],
+    "description": "En la pequeña y tranquila población de Eastwick, Nueva Inglaterra, viven Jane (Sarandon), Sukie (Pfeiffer) y Alexandra (Cher), tres modernas y aburridas mujeres. Hartas de esperar al hombre capaz de satisfacerlas, una noche de lluvia se reúnen, e inocentemente, invocan al hombre perfecto. Pronto las tres mujeres descubren sus extraordinarios poderes cuando llega a la ciudad el misterioso Daryl Van Horne (Nicholson), un personaje tan diabólico como seductor.",
+    "cover": "https://cuevana.pizza/resize/###/storage/30077/urA1SuoP3qLm5s3tUwFKuqe2CtqTEImIYfQDpPke.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtczhzbHF4cHltOGZmLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLTUxb3lpdGxvamx0My5odG1s"
+            ]
+        },
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtZzZxM3lwNXRwdmJjLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLXYzeG1ydmpjdjUyNC5odG1s"
+            ]
+        }
+    ],
+    "downloads": []
+}

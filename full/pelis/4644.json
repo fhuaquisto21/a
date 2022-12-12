@@ -1,0 +1,61 @@
+{
+    "url": "https://cuevana.pizza/pelicula/palm-springs",
+    "title": "Palm Springs",
+    "duration": "1h 30m",
+    "year": "2020",
+    "genres": [
+        "Comedia",
+        "Misterio",
+        "Romance",
+        "Fantasia"
+    ],
+    "actors": [
+        "Andy Samberg",
+        "Cristin Milioti",
+        "J.K. Simmons",
+        "Peter Gallagher",
+        "Meredith Hagner",
+        "Camila Mendes",
+        "Tyler Hoechlin",
+        "Chris Pang"
+    ],
+    "description": "Cuando el desenfadado Nyles y su reticente dama de honor Sarah tienen la oportunidad de encontrarse en una boda de Palm Springs, las cosas se complican al verse incapaces de escapar del lugar y el uno del otro",
+    "cover": "https://cuevana.pizza/resize/###/storage/4331/FTmQCGKiqsnX9JR9iZDs2ILEto5RXscCFw3tReJT.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtdHY0bDYwc3U4eXF5Lmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLXV2NmFtb3N4M2p3Yi5odG1s"
+            ]
+        },
+        {
+            "type": "cas",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtbWwxMmR1MW81aWRoLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLXBlNTBxa2t4dXFnai5odG1s"
+            ]
+        },
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtdzA5d29ydzZ0amM3Lmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLXduY3ptaDFweXhrNC5odG1s"
+            ]
+        }
+    ],
+    "downloads": [
+        {
+            "url": "https://1fichier.com/?xonligfpxqaae7esae2e",
+            "type": "la"
+        },
+        {
+            "url": "https://1fichier.com/?f0u9teogh6zwew639q5z",
+            "type": "es"
+        },
+        {
+            "url": "https://1fichier.com/?a59z103s2ty613dvelgo",
+            "type": "en"
+        }
+    ]
+}

@@ -1,0 +1,46 @@
+{
+    "url": "https://cuevana.pizza/pelicula/viaje-al-paraiso",
+    "title": "Viaje al paraiso",
+    "duration": "1h 44m",
+    "year": "2022",
+    "genres": [
+        "Comedia",
+        "Romance"
+    ],
+    "actors": [
+        "Julia Roberts",
+        "George Clooney",
+        "Kaitlyn Dever",
+        "Maxime Bouttier",
+        "Billie Lourd",
+        "Lucas Bravo"
+    ],
+    "description": "Una pareja divorciada se une y viaja a Bali para evitar que su hija cometa el mismo error que creen que cometieron hace 25 años.",
+    "cover": "https://cuevana.pizza/resize/###/storage/51310/pS9EAi1RG3UQwceQaTzKZIWKcLw2hcMHk6zzvxA8.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQteDR0M2Fxcncwcm1hLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLW5hMHNuaXdtamliby5odG1s"
+            ]
+        },
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtZWdweHcwejkwemQwLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLXBzM3J1cGVwN2Ruby5odG1s"
+            ]
+        }
+    ],
+    "downloads": [
+        {
+            "url": "https://1fichier.com/?2bopp4cgqi1qwcvrmubq",
+            "type": "la"
+        },
+        {
+            "url": "https://1fichier.com/?qtvih6y8uzshg40l1lfp",
+            "type": "en"
+        }
+    ]
+}

@@ -1,0 +1,40 @@
+{
+    "url": "https://cuevana.pizza/pelicula/wolfgang-un-chef-legendario",
+    "title": "Wolfgang, un chef legendario",
+    "duration": "1h 18m",
+    "year": "2021",
+    "genres": [
+        "Documental"
+    ],
+    "actors": [
+        "Wolfgang Puck"
+    ],
+    "description": "Un retrato íntimo de la vida y la obra del original “chef famoso” Wolfgang Puck.",
+    "cover": "https://cuevana.pizza/resize/###/storage/8301/L6m9BPFt7ZmxicHZ6itGhd6JVEtKzra8cdSatWFf.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtb3hnNjdkaW4yZ251Lmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLXhmbTR5cGhsd2ppcy5odG1s"
+            ]
+        },
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtN3J0N3gxM2F0dTJ4Lmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLTlqZGJoeWJkdmpwNC5odG1s"
+            ]
+        }
+    ],
+    "downloads": [
+        {
+            "url": "https://1fichier.com/?7a25tdlohnay8ncrknyz",
+            "type": "la"
+        },
+        {
+            "url": "https://1fichier.com/?rlbjgma9o1qgiaxnglwq",
+            "type": "en"
+        }
+    ]
+}

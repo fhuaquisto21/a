@@ -1,0 +1,50 @@
+{
+    "url": "https://cuevana.pizza/pelicula/equity",
+    "title": "Equity",
+    "duration": "1h 40m",
+    "year": "2016",
+    "genres": [
+        "Drama"
+    ],
+    "actors": [
+        "Anna Gunn",
+        "James Purefoy",
+        "Sarah Megan Thomas",
+        "Alysia Reiner",
+        "Sophie von Haselberg",
+        "Craig Bierko",
+        "Lee Tergesen",
+        "Margaret Colin",
+        "Carrie Preston",
+        "Michael Izquierdo",
+        "Nate Corddry",
+        "Nick Gehlfuss",
+        "Samuel Roukin",
+        "Tracie Thoms",
+        "James Naughton",
+        "Roe Hartrampf",
+        "Carolyn McCormick",
+        "David Alan Basche",
+        "Joseph Siravo",
+        "Samrat Chakrabarti"
+    ],
+    "description": "Historia ambientada en el mundo bursátil de Wall Street en el que una inversora (Anna Gunn) trata de promocionar en su firma.",
+    "cover": "https://cuevana.pizza/resize/###/storage/28223/zHOeLXWYdAAcx9AQtoMBavw9Tun1ABTqyfwc7G3t.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtcnR4aGdwNTFiZ2h3Lmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLTBkeW92eXY0MzZkZC5odG1s"
+            ]
+        },
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtM3I0YW5zdjBycmJwLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLTI2a2xjdDMyeG5nZS5odG1s"
+            ]
+        }
+    ],
+    "downloads": []
+}

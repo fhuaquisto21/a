@@ -1,0 +1,71 @@
+{
+    "url": "https://cuevana.pizza/pelicula/amigos-intocables",
+    "title": "Intocable",
+    "duration": "1h 52m",
+    "year": "2011",
+    "genres": [
+        "Comedia",
+        "Drama"
+    ],
+    "actors": [
+        "François Cluzet",
+        "Anne Le Ny",
+        "Clotilde Mollet",
+        "Omar Sy",
+        "Alba Gaïa Bellugi",
+        "Audrey Fleurot",
+        "Cyril Mendy",
+        "Christian Ameri",
+        "Marie-Laure Descoureaux",
+        "Salimata Kamate",
+        "Absa Diatou Toure",
+        "Dominique Daguier",
+        "François Caron",
+        "Thomas Solivérès",
+        "Grégoire Oestermann",
+        "Dorothée Brière",
+        "Joséphine de Meaux",
+        "Émilie Caen",
+        "Caroline Bourg",
+        "Sylvain Lazard"
+    ],
+    "description": "Una comedia centrada en la inesperada amistad que surge entre dos personas con nada en común y maneras muy diferentes de entender la vida: un millonario que se ha quedado tetrapléjico debido a un accidente y el hombre al que contrata para que lo cuide, un inmigrante proveniente de los suburbios de París que acaba de salir de la cárcel.",
+    "cover": "https://cuevana.pizza/resize/###/storage/28890/ucOt4CwU79Db3NBgczJoarz5Vkzn2DJwshnHKFRQ.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtOHJmMmVoeDZhczNoLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLWFsbmZzcnB4YW5ucC5odG1s"
+            ]
+        },
+        {
+            "type": "cas",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtNng4MmY2MnR4eTJpLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLXZmM3pzOTYxYXM1NC5odG1s"
+            ]
+        },
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtem85Y2w3M21paTJsLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLTRidW1yZjRlZmNsYi5odG1s"
+            ]
+        }
+    ],
+    "downloads": [
+        {
+            "url": "https://1fichier.com/?88l8hfsxnwk7es7cpuyw#Synchronization+Service",
+            "type": "la"
+        },
+        {
+            "url": "https://1fichier.com/?l2l6ub4j8o6a9dvza999#Synchronization+Service",
+            "type": "es"
+        },
+        {
+            "url": "https://1fichier.com/?hj5mcc0x1cp8d1iz63up#Synchronization+Service",
+            "type": "en"
+        }
+    ]
+}

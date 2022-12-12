@@ -1,0 +1,45 @@
+{
+    "url": "https://cuevana.pizza/pelicula/noe",
+    "title": "Noé",
+    "duration": "2h 18m",
+    "year": "2014",
+    "genres": [
+        "Accion",
+        "Drama",
+        "Aventura"
+    ],
+    "actors": [
+        "Anthony Hopkins",
+        "Jennifer Connelly",
+        "Ray Winstone",
+        "Russell Crowe"
+    ],
+    "description": "En un mundo asolado por los pecados humanos, Noé, un hombre pacífico que sólo desea vivir tranquilo con su familia, recibe una misión divina: construir un Arca para salvar a la creación del inminente diluvio. Todo comienza cuando, cada noche, Noé tiene el mismo sueño: las visiones de muerte provocada por el agua, seguidas de nueva vida en la Tierra",
+    "cover": "https://cuevana.pizza/resize/###/storage/15504/yEnXK8k45rUadB30J3p73tPkAt0fYQYrzTLttRdb.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtZHM3ZmNkbDM1cWUxLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLXYwZjJ0cWo5M2Jrcy5odG1s"
+            ]
+        },
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtM3ZkdmtvbjJsYXhrLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLXFqY2M4ZWVjeTMyZS5odG1s"
+            ]
+        }
+    ],
+    "downloads": [
+        {
+            "url": "https://1fichier.com/?vn01vr77ys32ldm9a4b3",
+            "type": "la"
+        },
+        {
+            "url": "https://1fichier.com/?wqslrbnkj5vfwmxuhejw",
+            "type": "en"
+        }
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "url": "https://cuevana.pizza/pelicula/gold-dust",
+    "title": "Gold Dust",
+    "duration": "1h 40m",
+    "year": "2020",
+    "genres": [
+        "Comedia",
+        "Aventura"
+    ],
+    "actors": [
+        "Darin Brooks",
+        "Chris Romano",
+        "David Wallace",
+        "David Wall"
+    ],
+    "description": "Fink (David Wall) y Moisés (David Mysocki) son amigos de toda la vida que buscan su fortuna siguiendo las pistas de un tesoro rumoreado que vale millones. Cuando salen un día, descubren una llanura desértica que no está en ninguno de sus mapas. Encuentran un ala delta cerca de un jeep. Buscando el vehículo, el dúo descubre el cadáver de Santa . Cuando revisan el resto del automóvil, descubren una bolsa llena de dinero y una Joven, Maggie (Maggie Hough). Aceptando que no pueden dejarla allí, deciden caminar hasta el pueblo más cercano.",
+    "cover": "https://cuevana.pizza/resize/###/storage/3992/k4PSMbcvpogc4zL8UJWAO4ZGWiGlTiOIH5vzzBTO.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtYXJuaGh4cHlhMnZzLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLWg5cm8wbjNvcmk4My5odG1s"
+            ]
+        },
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtbmJmMjZwbGRwbXp3Lmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLWJwdWdwdTRrbHN3Yy5odG1s"
+            ]
+        }
+    ],
+    "downloads": []
+}

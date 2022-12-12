@@ -1,0 +1,48 @@
+{
+    "url": "https://cuevana.pizza/pelicula/el-cadaver-de-la-novia",
+    "title": "El cadáver de la novia",
+    "duration": "1h 17m",
+    "year": "2005",
+    "genres": [
+        "Drama",
+        "Familia",
+        "Animacion"
+    ],
+    "actors": [
+        "Johnny Depp",
+        "Helena Bonham Carter",
+        "Emily Watson",
+        "Tracey Ullman",
+        "Paul Whitehouse",
+        "Joanna Lumley",
+        "Albert Finney",
+        "Richard E. Grant",
+        "Christopher Lee",
+        "Michael Gough",
+        "Jane Horrocks",
+        "Enn Reitel",
+        "Deep Roy",
+        "Danny Elfman",
+        "Stephen Ballantyne",
+        "Lisa Kay"
+    ],
+    "description": "Ambientada en un pueblecito europeo en el siglo XIX, esta película de animación fotograma a fotograma cuenta la historia de Victor (a quien pone voz Johnny Depp), un joven que es llevado de repente al infierno, donde se casa con una misteriosa Novia Cadáver (con la voz de Helena Bonham Carter), mientras que su verdadera novia, Victoria (a quien pone voz Emily Watson) espera en el mundo de los vivos. A pesar de que la tierra de los muertos resulta ser más colorista que su estricta educación victoriana, Victor aprende que no hay nada en este mundo, ni en el siguiente, que pueda separarle de su único y verdadero amor. Es un cuento de optimismo, romance y una “otra vida” muy animada, contada con el clásico estilo Tim Burton.",
+    "cover": "https://cuevana.pizza/resize/###/storage/28758/GsQgKrGPzgAl1SnhsQW3igLX3W95PkXvDlXleP2m.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtaTZnYnh0MG80eDJoLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLXY0bjltamJqN3g1ZS5odG1s"
+            ]
+        },
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtZ2Q0NzZxaWdjZHRnLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLWV5dGFrdHByZm11ay5odG1s"
+            ]
+        }
+    ],
+    "downloads": []
+}

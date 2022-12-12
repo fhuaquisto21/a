@@ -1,0 +1,53 @@
+{
+    "url": "https://cuevana.pizza/pelicula/van-helsing",
+    "title": "Van Helsing",
+    "duration": "2h 11m",
+    "year": "2004",
+    "genres": [
+        "Accion",
+        "Terror",
+        "Aventura",
+        "Fantasia"
+    ],
+    "actors": [
+        "Hugh Jackman",
+        "Kate Beckinsale",
+        "Richard Roxburgh",
+        "David Wenham",
+        "Shuler Hensley",
+        "Elena Anaya",
+        "Will Kemp",
+        "Kevin J. O'Connor",
+        "Alun Armstrong",
+        "Silvia Colloca",
+        "Josie Maran",
+        "Tom Fisher",
+        "Samuel West",
+        "Robbie Coltrane",
+        "Stephen Fisher",
+        "Dana Morávková",
+        "Zuzana Durdinová",
+        "Jaroslav Vízner",
+        "Marek Vašut",
+        "Samantha Sommers"
+    ],
+    "description": "Siglo XIX. En medio de los montes de los Cárpatos está la misteriosa y mítica Transilvania, donde el mal siempre está presente, el peligro aparece cuando el sol se pone... y donde toman forma los monstruos que habitan las pesadillas de los hombres.",
+    "cover": "https://cuevana.pizza/resize/###/storage/29296/Pqtkj30vofUpLHDMccabBV2CphcXVbw18UlVRyya.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtOW95c3Btdm81cmY5Lmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLW51N2E1anVqMW5xZi5odG1s"
+            ]
+        },
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtOHM3Y2UxbGg3d3VuLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLW8wcm1rYmU5NDlhNS5odG1s"
+            ]
+        }
+    ],
+    "downloads": []
+}

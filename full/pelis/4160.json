@@ -1,0 +1,44 @@
+{
+    "url": "https://cuevana.pizza/pelicula/fake-famous",
+    "title": "Fake Famous",
+    "duration": "1h 26m",
+    "year": "2021",
+    "genres": [
+        "Documental"
+    ],
+    "actors": [
+        "Christopher Bailey",
+        "Osiris Bashir",
+        "Justine Bateman",
+        "Shannon Dee",
+        "Dominique Druckman"
+    ],
+    "description": "Reportaje que prosigue la historia real de un experimento social que revela lo que verdaderamente sucede entre bastidores de la fama de los influencers y las redes sociales. Dirigida por el cronista británico-estadounidense experto en tecnología Nick Bilton, en nuestros días corresponsal singular de Vanity Fair.",
+    "cover": "https://cuevana.pizza/resize/###/storage/5738/zBtNG51fQKXGKtRYMIfXQSZRZijp8ClEtMCSpgdX.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQteHZ3dmJ3aXQ0NW1vLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLWY5YnY2NXg5bXplNi5odG1s"
+            ]
+        },
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtYWphYm0xNDBzZm51Lmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLTF2YTB1cmJ5b2N2di5odG1s"
+            ]
+        }
+    ],
+    "downloads": [
+        {
+            "url": "https://1fichier.com/?lqt8wzpe9shcw1b3vzzp",
+            "type": "la"
+        },
+        {
+            "url": "https://1fichier.com/?3h9j1n1mti1y9mps62ou",
+            "type": "en"
+        }
+    ]
+}

@@ -1,0 +1,42 @@
+{
+    "url": "https://cuevana.pizza/pelicula/perfect-strangers",
+    "title": "Perfectos desconocidos",
+    "duration": "1h 37m",
+    "year": "2016",
+    "genres": [
+        "Comedia",
+        "Drama"
+    ],
+    "actors": [
+        "Giuseppe Battiston",
+        "Anna Foglietta",
+        "Marco Giallini",
+        "Edoardo Leo",
+        "Valerio Mastandrea",
+        "Alba Rohrwacher",
+        "Kasia Smutniak",
+        "Benedetta Porcaroli",
+        "Elisabetta De Palo",
+        "Tommaso Tatafiore",
+        "Noemi Pagotto"
+    ],
+    "description": "Siete amigos que lo son desde hace años (tres parejas y un soltero) se reencuentran en una cena en la que deciden jugar a un juego extraño y arriesgado: ponen sus smartphone sobre la mesa y al grito de “no tenemos nada que ocultar”, deciden compartir los mensajes y las llamadas que cada uno de ellos reciba durante la noche, en una especie de ruleta rusa a golpe de SMS y tonos de llamada.",
+    "cover": "https://cuevana.pizza/resize/###/storage/28088/xkI6SLn6txdNjj2p4I3R4hzGffBGJW9sloeuEFHM.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtM3RmcXJ4Z3U1MnVxLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLWQ3dTNzNXZranBhNy5odG1s"
+            ]
+        },
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtbGZydmFmYTFodTBlLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLW5zOWw1bmZwaWtzeC5odG1s"
+            ]
+        }
+    ],
+    "downloads": []
+}

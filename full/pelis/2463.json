@@ -1,0 +1,62 @@
+{
+    "url": "https://cuevana.pizza/pelicula/christmas-again",
+    "title": "¿Navidad otra vez?",
+    "duration": "1h 34m",
+    "year": "2021",
+    "genres": [
+        "Fantasia",
+        "Familia",
+        "Disney"
+    ],
+    "actors": [
+        "Scarlett Estevez",
+        "Daniel Sunjata",
+        "Alexis Carra",
+        "Priscilla Lopez",
+        "Ashlynn Jade Lopez",
+        "Beth Lacke",
+        "Gary Anthony Williams",
+        "James McCracken",
+        "Gabriel Ruiz",
+        "Sean Parris"
+    ],
+    "description": "Rowena \"Ro\" es una alegre niña de 11 años que espera agregar más valor a sus celebraciones navideñas cuando el divorcio de sus padres no sea nada fácil.",
+    "cover": "https://cuevana.pizza/resize/###/storage/12859/YZ23S5XKzxxupPUJVJ7tGIffTz1YtsHzTz46HOi0.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQteW9obzFvcGZsdDI0Lmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLTRhZmF3a3M3ZWQ5dS5odG1s"
+            ]
+        },
+        {
+            "type": "cas",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtY3Z2ZDhxY3EzOWNrLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLXV0dXZ4OGswMTF6dy5odG1s"
+            ]
+        },
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtZ2JiOGFjaTNmYnlyLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLTc1YnBudTE4dGI4NC5odG1s"
+            ]
+        }
+    ],
+    "downloads": [
+        {
+            "url": "https://1fichier.com/?uufkugbzlm2v2f0eh4fb",
+            "type": "la"
+        },
+        {
+            "url": "https://1fichier.com/?r16gdk5eockuguwju6dk",
+            "type": "es"
+        },
+        {
+            "url": "https://1fichier.com/?xxjt8fudurnnb4ix5mpq",
+            "type": "en"
+        }
+    ]
+}

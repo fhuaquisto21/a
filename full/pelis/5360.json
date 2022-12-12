@@ -1,0 +1,51 @@
+{
+    "url": "https://cuevana.pizza/pelicula/the-report",
+    "title": "The Report",
+    "duration": "1h 58m",
+    "year": "2019",
+    "genres": [
+        "Drama",
+        "Suspenso"
+    ],
+    "actors": [
+        "Adam Driver",
+        "Annette Bening",
+        "Jon Hamm",
+        "Sarah Goldberg",
+        "Michael C. Hall",
+        "Douglas Hodge",
+        "Fajer Kaisi",
+        "Ted Levine",
+        "Jennifer Morrison",
+        "Tim Blake Nelson",
+        "Linda Powell",
+        "Matthew Rhys",
+        "T. Ryder Smith",
+        "Corey Stoll",
+        "Maura Tierney",
+        "Ian Blackman",
+        "Guy Boyd",
+        "Dominic Fumusa",
+        "Carlos Gómez",
+        "Ben McKenzie"
+    ],
+    "description": "La historia de Daniel Jones, investigador principal del amplio estudio del Senado de los EE. UU. Sobre el Programa de detención e interrogatorio de la CIA, que resultó ser brutal, inmoral e ineficaz. Con la verdad en juego, Jones luchó incansablemente para hacer público lo que muchos en el poder intentaron mantener oculto.",
+    "cover": "https://cuevana.pizza/resize/###/storage/21221/Q7CSflZy5QhIsN2qGVgLv95VQvj7fAP2CEMJRNIw.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtdWR6bGNuYWdjeW5jLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLTNndXByNGV6MWZlbC5odG1s"
+            ]
+        },
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtdmI1cXQya2NlbnY1Lmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLXZmbGF0OXE3YnF5ci5odG1s"
+            ]
+        }
+    ],
+    "downloads": []
+}

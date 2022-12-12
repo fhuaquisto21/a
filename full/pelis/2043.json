@@ -1,0 +1,51 @@
+{
+    "url": "https://cuevana.pizza/pelicula/todo-ha-ido-bien",
+    "title": "Todo ha ido bien",
+    "duration": "1h 53m",
+    "year": "2021",
+    "genres": [
+        "Comedia",
+        "Drama"
+    ],
+    "actors": [
+        "Sophie Marceau",
+        "André Dussollier",
+        "Géraldine Pailhas",
+        "Hanna Schygulla",
+        "Charlotte Rampling",
+        "Grégory Gadebois",
+        "Éric Caravaca",
+        "Jacques Nolot",
+        "Laëtitia Clément",
+        "Alexia Chicot",
+        "Guillaume Duhesme"
+    ],
+    "description": "A sus 85 años, el padre de Emmanuèle es hospitalizado tras un accidente cerebrovascular. Cuando se despierta, debilitado y dependiente, este coleccionista de arte, curioso por naturaleza y amante apasionado de la vida, le pide a su hija que le ayude a morir.",
+    "cover": "https://cuevana.pizza/resize/###/storage/21395/XzQjxhwvd7FLEmXdpPVhhpTlorcaih9PzXL7qQm1.jpg",
+    "players": [
+        {
+            "type": "cas",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtZHdybHNtamp6MDJnLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLXQ0YmN2anZtZWFudy5odG1s"
+            ]
+        },
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQta3Z1ZmhvdzdkZWoxLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLXlxbmpuaHNyOXBtNS5odG1s"
+            ]
+        }
+    ],
+    "downloads": [
+        {
+            "url": "https://1fichier.com/?6eq90pdyh86d3a4rfppt",
+            "type": "es"
+        },
+        {
+            "url": "https://1fichier.com/?lwdsigizoaomur1sv6r5",
+            "type": "en"
+        }
+    ]
+}

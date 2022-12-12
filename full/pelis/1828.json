@@ -1,0 +1,67 @@
+{
+    "url": "https://cuevana.pizza/pelicula/cyrano",
+    "title": "Cyrano",
+    "duration": "2h 3m",
+    "year": "2022",
+    "genres": [
+        "Drama",
+        "Romance"
+    ],
+    "actors": [
+        "Peter Dinklage",
+        "Haley Bennett",
+        "Kelvin Harrison Jr.",
+        "Ben Mendelsohn",
+        "Bashir Salahuddin",
+        "Monica Dolan",
+        "Joshua James",
+        "Anjana Vasan",
+        "Ruth Sheen",
+        "Glen Hansard",
+        "Sam Amidon",
+        "Scott Folan",
+        "Mark Benton",
+        "Richard McCabe",
+        "Peter Wight",
+        "Tim McMullan",
+        "Mark Bagnall",
+        "Mike Shepherd",
+        "Paul Biddiss",
+        "Katy Owen"
+    ],
+    "description": "Película que narrará la vida de Cyrano de Bergerac, novelista y dramaturgo francés del siglo XVII.",
+    "cover": "https://cuevana.pizza/resize/###/storage/19042/m98cW4OiEb7cogbIvPYmHV6EoXzYEpy2EguR4L60.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtM3Q1ZGg4c2prdjFhLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLTc5bzJzaWkwNXFieC5odG1s"
+            ]
+        },
+        {
+            "type": "cas",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtdmkwd2w1cXUxN2kxLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLXRqdnhvY2o3b2c4dC5odG1s"
+            ]
+        },
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtNWI3YXZvM3JzdDF0Lmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLXZmOGJ1cHYzdmJkNy5odG1s"
+            ]
+        }
+    ],
+    "downloads": [
+        {
+            "url": "https://1fichier.com/?l90zjzxdxiyfioy6xn42",
+            "type": "la"
+        },
+        {
+            "url": "https://1fichier.com/?kn5k151l9j67csnv2cyg",
+            "type": "es"
+        }
+    ]
+}

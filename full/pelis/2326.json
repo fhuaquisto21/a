@@ -1,0 +1,60 @@
+{
+    "url": "https://cuevana.pizza/pelicula/the-lost-daughter",
+    "title": "La hija oscura",
+    "duration": "2h 1m",
+    "year": "2021",
+    "genres": [
+        "Drama"
+    ],
+    "actors": [
+        "Olivia Colman",
+        "Jessie Buckley",
+        "Dakota Johnson",
+        "Ed Harris",
+        "Peter Sarsgaard",
+        "Paul Mescal",
+        "Dagmara Domińczyk",
+        "Alba Rohrwacher",
+        "Jack Farthing",
+        "Oliver Jackson-Cohen"
+    ],
+    "description": "Las vacaciones en la playa de una mujer madura toman un giro oscuro cuando comienza a obsesionarse con otra mujer y su hija, lo que la obligará a tener que enfrentarse a problemas de su pasado y de su primera maternidad.",
+    "cover": "https://cuevana.pizza/resize/###/storage/13488/cJJ16ZzUHf0lXl3bRGjqUCLoaNWVLMio9biyjcGK.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQteGo0bHlldjYyczVrLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLXE5azJ6dWdnbHpody5odG1s"
+            ]
+        },
+        {
+            "type": "cas",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtMG1qY2VzcTlzbGJpLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLXpxaW9mYzExZjAweC5odG1s"
+            ]
+        },
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtcG1obHdhdzE5aTJsLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLXFzODRtOXdyNjd4eC5odG1s"
+            ]
+        }
+    ],
+    "downloads": [
+        {
+            "url": "https://1fichier.com/?59uqkjejfijz732p8ea3",
+            "type": "la"
+        },
+        {
+            "url": "https://1fichier.com/?2e626ujx4lglfi8mw13o",
+            "type": "es"
+        },
+        {
+            "url": "https://1fichier.com/?dotr8uy4zfrnnk821bgi",
+            "type": "en"
+        }
+    ]
+}

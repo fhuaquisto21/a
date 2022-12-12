@@ -1,0 +1,64 @@
+{
+    "url": "https://cuevana.pizza/pelicula/terremoto",
+    "title": "Terremoto",
+    "duration": "1h 46m",
+    "year": "2018",
+    "genres": [
+        "Accion",
+        "Drama",
+        "Suspenso"
+    ],
+    "actors": [
+        "Kristoffer Joner",
+        "Ane Dahl Torp",
+        "Jonas Hoff Oftebro",
+        "Edith Haagenrud-Sande",
+        "Kathrine Thorborg Johansen",
+        "Fredrik Skavlan",
+        "Stig R. Amdam",
+        "Catrin Sagen",
+        "Ingvild Haugstad",
+        "Ravdeep Singh Bajwa",
+        "Tina Schei",
+        "Hang Tran"
+    ],
+    "description": "En el año 1904 un terremoto de magnitud 5.4 en la escala de Richter sacudió a Oslo con el epicentro en la Fosa de Oslo que corre debajo de la capital noruega. En el presente, científicos comienzan a detectar señales que indican que un nuevo terremoto está en camino.",
+    "cover": "https://cuevana.pizza/resize/###/storage/24492/MBzP97ffQdhSOo1LHyBuAp7WWH3MM1fUXuLmE1Fv.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtYjB0bDBhZmFwYjYzLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLXBwNWU0YWxsb3p2ei5odG1s"
+            ]
+        },
+        {
+            "type": "cas",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtOHN6YWw2cXV2YjNiLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLXFzZjlqNGNnOWlxZy5odG1s"
+            ]
+        },
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtanRiaDA4cjhuZDFpLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLTgya3NmYWZ4MnRqby5odG1s"
+            ]
+        }
+    ],
+    "downloads": [
+        {
+            "url": "https://1fichier.com/?iq8hetva7veuu0ahe235",
+            "type": "la"
+        },
+        {
+            "url": "https://1fichier.com/?x2791sy7abjs8eisrsz8",
+            "type": "es"
+        },
+        {
+            "url": "https://1fichier.com/?bkyh88h6a9azvjkl2zth",
+            "type": "en"
+        }
+    ]
+}

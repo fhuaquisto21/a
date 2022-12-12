@@ -1,0 +1,58 @@
+{
+    "url": "https://cuevana.pizza/pelicula/halloween-5-la-venganza-de-michael-myers",
+    "title": "Halloween 5: La venganza de Michael Myers",
+    "duration": "1h 37m",
+    "year": "1989",
+    "genres": [
+        "Suspenso",
+        "Terror"
+    ],
+    "actors": [
+        "Donald Pleasence",
+        "Danielle Harris",
+        "Ellie Cornell",
+        "Wendy Foxworth",
+        "Beau Starr",
+        "Don Shanks",
+        "Jeffrey Landman",
+        "Tamara Glynn",
+        "Matthew Walker",
+        "Betty Carvalho",
+        "Troy Evans",
+        "Frankie Como",
+        "David Ursin",
+        "Harper Roisman",
+        "Karen Alston",
+        "Max Robinson",
+        "Fenton Quinn",
+        "Gregory Nicotero",
+        "Jonathan Chapin",
+        "Stanton Davis"
+    ],
+    "description": "Michael Myers, el psicópata asesino ha vuelto a sobrevivir a las heridas de bala después de la persecución policial y, obsesionado por la venganza, continua buscando a su pequeña sobrina para asesinarla. Jamie ha sido hospitalizada y debido a un shock traumático ha perdido la capacidad del habla. Sin embargo ha desarrollado un vínculo telepático con su tío Michael y sabe que sigue vivo y que la está buscando para vengarse.",
+    "cover": "https://cuevana.pizza/resize/###/storage/41863/PYOSdTayykmK7Lq7A5ANfywh0cNVzrmreJ1VS1It.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtc2ppNjcxbDhnbzNvLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLTlsd2p2eW1wYTBrZS5odG1s"
+            ]
+        },
+        {
+            "type": "cas",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtZm5kcGV5cWw2dGo0Lmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLXZtYzI2emhlamtmOS5odG1s"
+            ]
+        },
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtbTRsbzdzYXBqMW91Lmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLXJ0Y3p1bWdoYXRmMy5odG1s"
+            ]
+        }
+    ],
+    "downloads": []
+}

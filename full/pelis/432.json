@@ -1,0 +1,51 @@
+{
+    "url": "https://cuevana.pizza/pelicula/atenea",
+    "title": "Atenea",
+    "duration": "1h 37m",
+    "year": "2022",
+    "genres": [
+        "Accion",
+        "Drama",
+        "Suspenso"
+    ],
+    "actors": [
+        "Dali Benssalah",
+        "Anthony Bajon",
+        "Alexis Manenti",
+        "Ouassini Embarek",
+        "Sami Slimane",
+        "Radostina Rogliano",
+        "Karim Lasmi",
+        "Mehdi Abdelhakmi",
+        "Tarek Haddaji",
+        "Guy Donald Koukissa"
+    ],
+    "description": "Horas después de la trágica muerte de su hermano menor en circunstancias inexplicables, la vida de tres hermanos se ve sumida en el caos.",
+    "cover": "https://cuevana.pizza/resize/###/storage/52784/4tpL2DUmD9l17Rd4a1rxpqTtZuS9lOzmT9sM6BxS.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtbWE3aWl3NGIwYXBmLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLWc5NXg2ZWVrb3Z6Zi5odG1s"
+            ]
+        },
+        {
+            "type": "cas",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtY3M0b3J3aHBnNHhwLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLTIwOTg1ZXMzMWw3cC5odG1s"
+            ]
+        }
+    ],
+    "downloads": [
+        {
+            "url": "https://1fichier.com/?fu6i70hnwf75piq5wp8f",
+            "type": "la"
+        },
+        {
+            "url": "https://1fichier.com/?wc8xiyw3wcbkyd6dcj3o",
+            "type": "es"
+        }
+    ]
+}

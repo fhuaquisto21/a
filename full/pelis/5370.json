@@ -1,0 +1,49 @@
+{
+    "url": "https://cuevana.pizza/pelicula/juanita",
+    "title": "Juanita",
+    "duration": "1h 30m",
+    "year": "2019",
+    "genres": [
+        "Drama"
+    ],
+    "actors": [
+        "Alfre Woodard",
+        "Adam Beach",
+        "Gil Birmingham",
+        "Ashlie Atkinson",
+        "Blair Underwood",
+        "LaTanya Richardson Jackson",
+        "Marcus Henderson",
+        "Bonnie Johnson",
+        "Tsulan Cooper",
+        "Jordan Nia Elizabeth",
+        "Acoryé White",
+        "Brian K. Landis",
+        "Joseph Yates",
+        "Taborah Johnson",
+        "Kat Smith",
+        "Sam Hennings",
+        "Michael Harding",
+        "Barry J. Ratcliffe",
+        "Elaine Miles"
+    ],
+    "description": "Agobiada por los problemas de la vida y el amor, una madre de tres hijos ya adultos decide viajar a Paper Moon (Montana) en busca de la paz que ansía.",
+    "cover": "https://cuevana.pizza/resize/###/storage/21233/Lv1kDKOaHBhjySV9MJeXidawAmrqX3xtSMGDkwA3.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtY3lhZjZjb3J4emxsLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLTRtcmk3dG5uMncxZC5odG1s"
+            ]
+        },
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtYnQ1ZDJ2bzI0bjZkLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLWxrNmR2ZWpoMzA5ei5odG1s"
+            ]
+        }
+    ],
+    "downloads": []
+}

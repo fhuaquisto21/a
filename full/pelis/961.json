@@ -1,0 +1,51 @@
+{
+    "url": "https://cuevana.pizza/pelicula/lorax-en-busca-de-la-trufula-perdida",
+    "title": "Lorax. En busca de la trúfula perdida",
+    "duration": "1h 34m",
+    "year": "2012",
+    "genres": [
+        "Familia",
+        "Animacion"
+    ],
+    "actors": [
+        "Zac Efron",
+        "Danny DeVito",
+        "Taylor Swift",
+        "Ed Helms",
+        "Rob Riggle",
+        "Jenny Slate",
+        "Betty White",
+        "Willow Smith",
+        "Nasim Pedrad",
+        "Joel Swetow",
+        "Michael Beattie",
+        "Dave B. Mitchell",
+        "Dempsey Pappion",
+        "Elmarie Wendel",
+        "Danny Cooksey",
+        "Stephen Tobolowsky",
+        "Chris Renaud",
+        "Sherry Lynn",
+        "Mickie McGowan",
+        "Jack Angel"
+    ],
+    "description": "Un chico se propone conquistar el afecto de la chica de sus sueños. Para conseguirlo, debe averiguar la historia del Lorax, una encantadora aunque gruñona criatura que lucha por proteger un mundo en vías de extinción.",
+    "cover": "https://cuevana.pizza/resize/###/storage/44247/PPSe0sq04TcBDEpi7PUDhcgD9sCaWP0MD7KLGNbE.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtYzVncXVweWM1ZmFsLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLWEyMzA3MWtqNWU4bi5odG1s"
+            ]
+        },
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtanozZHA4bWh4bWhsLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLWJ1anM4eWYwYzJheS5odG1s"
+            ]
+        }
+    ],
+    "downloads": []
+}

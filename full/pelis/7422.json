@@ -1,0 +1,50 @@
+{
+    "url": "https://cuevana.pizza/pelicula/the-sea-of-trees",
+    "title": "El bosque de los sueños",
+    "duration": "1h 50m",
+    "year": "2016",
+    "genres": [
+        "Drama"
+    ],
+    "actors": [
+        "Matthew McConaughey",
+        "Ryoko Seta",
+        "Sienna Tow",
+        "Naoko Marshall",
+        "Michiko Tomura",
+        "Yusuke Tozawa",
+        "Abe Lee Tsunenori",
+        "Ken Watanabe",
+        "Joe Girard",
+        "Jazmin Domenech",
+        "Luke DeWolfe",
+        "Naomi Watts",
+        "Katie Aselton",
+        "Nada Despotovich",
+        "Christopher Tarjan",
+        "Charles Van Eman",
+        "Bruce Norris",
+        "Joseph Baken",
+        "Jordan Gavaris",
+        "Anna Friedman"
+    ],
+    "description": "Un estadounidense (McConaughey) y un japonés (Watanabe) se conocen en el tristemente famoso \"bosque del suicidio\", un lugar al que la gente va para quitarse la vida. Tras entablar conversación, abandonan sus proyectos de suicidio y juntos emprenden un viaje a través del bosque.",
+    "cover": "https://cuevana.pizza/resize/###/storage/26774/8nM5PBPIhgiCilAXnB3KbkBFp0szBxZCaDcHwUsv.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtMThzcmVvcjU0cDNhLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLXhyN3R3NGhqYWdjMy5odG1s"
+            ]
+        },
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtam1lMXp2dWdtZTJoLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLXNmYmRmbmlidGxpaC5odG1s"
+            ]
+        }
+    ],
+    "downloads": []
+}

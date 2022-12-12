@@ -1,0 +1,28 @@
+{
+    "url": "https://cuevana.pizza/pelicula/isla-python",
+    "title": "Isla python",
+    "duration": "1h 21m",
+    "year": "2022",
+    "genres": [
+        "Suspenso",
+        "Fantasia"
+    ],
+    "actors": [
+        "Tan Jimin",
+        "Zai Mire",
+        "Bai Na Ri Su",
+        "Yue Dongfeng"
+    ],
+    "description": "",
+    "cover": "https://cuevana.pizza/resize/###/storage/55128/hl62oRXOASTPuGVhJS4t1y3C6OE3pYww37Ww0Jt6.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtODhidmEzbWo3YXk4Lmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLTJlOGxqa2gyZ2RscS5odG1s"
+            ]
+        }
+    ],
+    "downloads": []
+}

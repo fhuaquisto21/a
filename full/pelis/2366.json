@@ -1,0 +1,48 @@
+{
+    "url": "https://cuevana.pizza/pelicula/estrella-de-navidad",
+    "title": "Estrella de navidad",
+    "duration": "1h 26m",
+    "year": "2019",
+    "genres": [
+        "Romance",
+        "Navidad"
+    ],
+    "actors": [
+        "Erica Durance",
+        "J.T. Hodges",
+        "Micah Kalisch",
+        "Elena Khan",
+        "Cory Lee",
+        "Gwynne Phillips",
+        "Jonathan Watton",
+        "Chris Tarpos"
+    ],
+    "description": "Cuando la aspirante a artista de R&B Layla se cruza con el compositor amateur Spence, cree que ha encontrado su oportunidad de conseguir un contrato discográfico.",
+    "cover": "https://cuevana.pizza/resize/###/storage/19315/07MEucGkUi9eo67d4Xq66MgMLyqASsRHxMr7spyJ.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtNG1jdmtoZ3UxeTc2Lmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLXR6cmdlOHk3Mmxpai5odG1s"
+            ]
+        },
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtMXMyamE0Z3F5bnNtLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLTZpaW1zZnZ6dmlydi5odG1s"
+            ]
+        }
+    ],
+    "downloads": [
+        {
+            "url": "https://1fichier.com/?sqz4n6ryyxntb1ds5jik",
+            "type": "la"
+        },
+        {
+            "url": "https://1fichier.com/?o81ioz9rrz8eba2hwfox",
+            "type": "en"
+        }
+    ]
+}

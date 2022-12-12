@@ -1,0 +1,50 @@
+{
+    "url": "https://cuevana.pizza/pelicula/paddleton",
+    "title": "Paddleton",
+    "duration": "1h 29m",
+    "year": "2019",
+    "genres": [
+        "Drama"
+    ],
+    "actors": [
+        "Mark Duplass",
+        "Ray Romano",
+        "Christine Woods",
+        "Jen Sung",
+        "Stephen Oyoung",
+        "Bjorn Johnson",
+        "Harry Dej",
+        "Sierra Fisk",
+        "Alana Carithers",
+        "Lu Junchang",
+        "Hiroo Minami",
+        "Sam Ly",
+        "Alexandra Billings",
+        "Kadeem Hardison",
+        "Dendrie Taylor",
+        "Ever Mainard",
+        "Holly Griswold",
+        "Lynnann Gartner",
+        "Carlos A. Salazar",
+        "Dylan Matlock"
+    ],
+    "description": "Dos vecinos se convierten en amigos inseparables después de que a uno de ellos le diagnostiquen un cáncer terminal. Los dos \"colegas\", súbitamente confrontados con la realidad de la vida, deciden dejar de jugar a su juego favorito, llamado \"paddleton\", para embarcarse en una aventura tan física como espiritual. En ella no sólo se descubrirán mejor a sí mismos, sino también la importancia de compartir sus sentimientos, algo poco habitual en ellos, antes de que sea demasiado tarde.",
+    "cover": "https://cuevana.pizza/resize/###/storage/21254/A6zQPQBPBf7XWT4ASOSlrcD6TOk3jpls2B5hzOyk.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtbmJoeW43cnAxM2l1Lmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLWMzdGwyeGwyaXkwZS5odG1s"
+            ]
+        },
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtNWhhNzZjeXZvY2Q5Lmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLXphZDVyZzhlcGV5di5odG1s"
+            ]
+        }
+    ],
+    "downloads": []
+}

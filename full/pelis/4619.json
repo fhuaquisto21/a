@@ -1,0 +1,59 @@
+{
+    "url": "https://cuevana.pizza/pelicula/badland",
+    "title": "Badland",
+    "duration": "1h 57m",
+    "year": "2019",
+    "genres": [
+        "Western"
+    ],
+    "actors": [
+        "Bruce Dern",
+        "Mira Sorvino",
+        "Kevin Makely",
+        "Jeff Fahey",
+        "Wes Studi",
+        "Tony Todd",
+        "Trace Adkins",
+        "James Russo",
+        "Amanda Wyss"
+    ],
+    "description": "El detective Matthias Breecher es contratado para encontrar a uno de los peores criminales de la guerra civil. En su búsqueda, su determinación será puesta a prueba por una misteriosa mujer.",
+    "cover": "https://cuevana.pizza/resize/###/storage/21048/j5wUCY2D7xM7Sjvt0OmFG1JLpX1W6uqgbbuMSVTb.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtbHJ3bDUxenVmM3NzLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLWsxc2IzaWc2Y2k0Yi5odG1s"
+            ]
+        },
+        {
+            "type": "cas",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtd2kzc2xkcjZscTh0Lmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLTAwZ2RiaHQ5aXVscC5odG1s"
+            ]
+        },
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtcWpoeTE0NWZ2eDExLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLXUwYXVrNzB5dmJlZy5odG1s"
+            ]
+        }
+    ],
+    "downloads": [
+        {
+            "url": "https://1fichier.com/?fkm8ji4rwbky5yyq8r8r#Synchronization+Service",
+            "type": "la"
+        },
+        {
+            "url": "https://1fichier.com/?qsacaiy6m6so4648sfru#Synchronization+Service",
+            "type": "es"
+        },
+        {
+            "url": "https://1fichier.com/?3a4h9sap5u1e0b54zahy#Synchronization+Service",
+            "type": "en"
+        }
+    ]
+}

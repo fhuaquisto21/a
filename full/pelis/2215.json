@@ -1,0 +1,50 @@
+{
+    "url": "https://cuevana.pizza/pelicula/un-heroe",
+    "title": "Un héroe",
+    "duration": "2h 7m",
+    "year": "2021",
+    "genres": [
+        "Drama",
+        "Suspenso"
+    ],
+    "actors": [
+        "Amir Jadidi",
+        "Mohsen Tanabande",
+        "Fereshteh Sadr Orafaee",
+        "Maryam Shahdaie",
+        "Sahar Goldust",
+        "Ehsan Goodarzi",
+        "Sarina Farhadi",
+        "Ali Reza Jahandideh",
+        "Farrokh Nourbakht",
+        "Mohammad Aghebati"
+    ],
+    "description": "Rahim (Amir Jadidi) está en la cárcel por una deuda que no ha podido reembolsar. Durante un permiso de dos días, trata de convencer a su acreedor para que retire su reclamación de desembolso de una parte del pago. Pero las cosas no irán como tenía previsto.",
+    "cover": "https://cuevana.pizza/resize/###/storage/14104/1ChiVMnlY09ITgQJEob2eil4Wo75xyIvRAhs6ae9.jpg",
+    "players": [
+        {
+            "type": "cas",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtNHAwYmp4MWF1ZGRrLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLWpqZHN4ZnI5M2U4dC5odG1s"
+            ]
+        },
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtNHViNHRrZndsOWtwLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLTY4N3dkMG5zcmR6ai5odG1s"
+            ]
+        }
+    ],
+    "downloads": [
+        {
+            "url": "https://1fichier.com/?1v1ikv7j96clchm5dgjm",
+            "type": "es"
+        },
+        {
+            "url": "https://1fichier.com/?lmc0z2qz170gmqqyf846",
+            "type": "en"
+        }
+    ]
+}

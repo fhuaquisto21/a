@@ -1,0 +1,55 @@
+{
+    "url": "https://cuevana.pizza/pelicula/legacy",
+    "title": "Legacy",
+    "duration": "1h 38m",
+    "year": "2020",
+    "genres": [
+        "Accion",
+        "Aventura"
+    ],
+    "actors": [
+        "Luke Goss",
+        "Louis Mandylor",
+        "Matt Valvardi",
+        "Ian Sharp"
+    ],
+    "description": "Durante un viaje de caza en el desierto aislado, un padre y su hijo adolescente adoptado se convierten en presa de asaltantes desconocidos. Un extraño se une a ellos en su lucha por la supervivencia y revela la inquietante verdad sobre el padre biológico del hijo, un señor del crimen internacional, y por qué ese señor del crimen ha enviado asesinos entrenados para matar al adolescente.",
+    "cover": "https://cuevana.pizza/resize/###/storage/8670/ieA85mh9tFGoMPFmXy2lASOUIQmBxX3RQJUKyUQt.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtM3JraHBzMzMxMGNzLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLWsxa2Q2d2txZmdyNi5odG1s"
+            ]
+        },
+        {
+            "type": "cas",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtdXF1bjkzbWk5aWxqLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLXFjdW4wbXYxaTViby5odG1s"
+            ]
+        },
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtZ205YjVod202M2NuLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLW1jZWcyNmpqbTN3eS5odG1s"
+            ]
+        }
+    ],
+    "downloads": [
+        {
+            "url": "https://1fichier.com/?5whzl7wly6apobpqhl3c",
+            "type": "la"
+        },
+        {
+            "url": "https://1fichier.com/?waj3jufjhw823vqsp8a9",
+            "type": "es"
+        },
+        {
+            "url": "https://1fichier.com/?ndr8v90vu8tfdyfsn9cc",
+            "type": "en"
+        }
+    ]
+}

@@ -1,0 +1,51 @@
+{
+    "url": "https://cuevana.pizza/pelicula/un-escandalo-de-estado",
+    "title": "Un escándalo de estado",
+    "duration": "2h 3m",
+    "year": "2022",
+    "genres": [
+        "Drama",
+        "Crimen"
+    ],
+    "actors": [
+        "Roschdy Zem",
+        "Pio Marmaï",
+        "Vincent Lindon",
+        "Julie Moulier",
+        "Alexis Manenti",
+        "Antonia Buresi",
+        "Mylène Jampanoï",
+        "Lucie Gallo",
+        "Arnaud Churin",
+        "Pierre-Alain Chapuis",
+        "Valeria Bruni-Tedeschi",
+        "Marie-Pierre Nouveau",
+        "Marilyne Canto",
+        "Toufik Ayadi",
+        "Catherine Bizern",
+        "Axelle Bossard",
+        "Nnoman Cadoret",
+        "Yann-Joël Collin",
+        "Valérie Dashwood",
+        "Serge Dupuy"
+    ],
+    "description": "Octubre de 2015. Los agentes de aduanas franceses se incautan de siete toneladas de cannabis en el corazón de la capital. El mismo día, Hubert Antonie, un antiguo topo con un pasado nebuloso, contacta con Stéphane Vilner, periodista de Libération. Asegura que puede demostrar la existencia de un narcotráfico de Estado liderado por Jacques Billard, figura mediática y policía francés de alto rango. Aunque al principio se muestra suspicaz, el joven periodista finalmente se sumerge en la investigación, que le lleva a los rincones más oscuros de la República.",
+    "cover": "https://cuevana.pizza/resize/###/storage/57276/y4Jz3cFhR2NA3OkO9ZSnfNmlTBUXT0pucgKm99oE.jpg",
+    "players": [
+        {
+            "type": "cas",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtcWI0amlrNjJxYXp1Lmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLWxmcGNtcG13YndiNy5odG1s"
+            ]
+        },
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtZjZsdGhtNWN5a3pxLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLWtmOXc5azEycnF1Yy5odG1s"
+            ]
+        }
+    ],
+    "downloads": []
+}

@@ -1,0 +1,57 @@
+{
+    "url": "https://cuevana.pizza/pelicula/up-una-aventura-en-altura",
+    "title": "Up: Una Aventura en Altura",
+    "duration": "1h 36m",
+    "year": "2009",
+    "genres": [
+        "Comedia",
+        "Aventura",
+        "Animacion",
+        "Disney"
+    ],
+    "actors": [
+        "Bob Peterson",
+        "Christopher Plummer",
+        "Edward Asner",
+        "Jordan Nagai"
+    ],
+    "description": "Carl Fredricksen es un viudo vendedor de globos de 78 años que, finalmente, consigue llevar a cabo el sueño de su vida: enganchar miles de globos a su casa y salir volando rumbo a América del Sur. Pero ya estando en el aire y sin posibilidad de retornar Carl descubre que viaja acompañado de Russell, un explorador que tiene ocho años y un optimismo a prueba de bomba.",
+    "cover": "https://cuevana.pizza/resize/###/storage/17210/MkVHT2Tz0hyhHDfWJ31F6NYkQUxhHxYoQnq24Fxv.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQteGt1ODh4YnI5MHNiLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLTQxMWtnbm94d2doOS5odG1s"
+            ]
+        },
+        {
+            "type": "cas",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtYjNkNm5uNmk5cjA5Lmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLTA0OG02OW13aTc5Ny5odG1s"
+            ]
+        },
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtYzlpdTdnZTdwZG5pLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLWNjNjNpbmdwc2E2aS5odG1s"
+            ]
+        }
+    ],
+    "downloads": [
+        {
+            "url": "https://1fichier.com/?ww1imszfbe1jrsbo5ake",
+            "type": "la"
+        },
+        {
+            "url": "https://1fichier.com/?kqspazkwqf4c1m1zkycb",
+            "type": "es"
+        },
+        {
+            "url": "https://1fichier.com/?3ji07c62uyo4lui06rlc",
+            "type": "en"
+        }
+    ]
+}

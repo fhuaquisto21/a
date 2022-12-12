@@ -1,0 +1,39 @@
+{
+    "url": "https://cuevana.pizza/pelicula/the-perfect-weapon",
+    "title": "Arma Perfecta",
+    "duration": "1h 28m",
+    "year": "2016",
+    "genres": [
+        "Accion",
+        "Drama",
+        "Ciencia Ficcion"
+    ],
+    "actors": [
+        "Steven Seagal",
+        "Sasha Jackson",
+        "Johnny Messner",
+        "Richard Tyson",
+        "Sandra Yap",
+        "Philip Fornah",
+        "Emilien De Falco"
+    ],
+    "description": "En un futuro no muy lejano, una organización gubernamental secreta de estado totalitario dirigida por el director (Seagal) que controla todos los aspectos de la vida. Todos los \"enemigos del Estado\" se tratan en la forma más dura y la mayoría de ellos son ejecutados por agentes y asesinos de una organización secreta.",
+    "cover": "https://cuevana.pizza/resize/###/storage/26878/NteJ9Yx8dFIAEhPPx1LwLxfW36sTc6ZopIW3VbQw.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtbmx5Zjg3cXR3cXI3Lmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLTF1bmEwMDA0MHpobi5odG1s"
+            ]
+        },
+        {
+            "type": "cas",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtdDR6bmR0c3pzZDJqLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLWV5bTMycjcwYWZ1YS5odG1s"
+            ]
+        }
+    ],
+    "downloads": []
+}

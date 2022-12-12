@@ -1,0 +1,45 @@
+{
+    "url": "https://cuevana.pizza/pelicula/winnie-the-pooh",
+    "title": "Winnie the Pooh",
+    "duration": "1h 2m",
+    "year": "2011",
+    "genres": [
+        "Aventura",
+        "Familia",
+        "Animacion",
+        "Disney"
+    ],
+    "actors": [
+        "John Cleese",
+        "Jim Cummings",
+        "Bud Luckey",
+        "Craig Ferguson",
+        "Travis Oates",
+        "Kristen Anderson-Lopez",
+        "Jack Boulter",
+        "Wyatt Hall",
+        "Tom Kenny",
+        "Huell Howser",
+        "Lisa Linder",
+        "Robert Lopez"
+    ],
+    "description": "Winnie the Pooh vuelve a reunir al público así como a sus amigos Tigger, Rabbit, Piglet, Kangu, Rito y, por último, Igor, que ha perdido la cola. El Búho encarga a toda la pandilla una extraña misión: salvar a Christopher Robin de un delincuente imaginario; así que el oso, que sólo había salido a buscar un poco de miel, ve cómo se le complica un día que prometía ser apacible.",
+    "cover": "https://cuevana.pizza/resize/###/storage/43452/FYfPUkUU7B3NsC8HQnekHc6LYyy6ykK3HBY3YY3K.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtZHY4MThtYmQzbmQzLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLWJqMWoyM3N1MGxjNi5odG1s"
+            ]
+        },
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtbWN4NnRhbWJoYjhuLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLTA2cDVmMmczOXN6dS5odG1s"
+            ]
+        }
+    ],
+    "downloads": []
+}

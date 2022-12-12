@@ -1,0 +1,51 @@
+{
+    "url": "https://cuevana.pizza/pelicula/suburbanos",
+    "title": "Suburbanos",
+    "duration": "1h 36m",
+    "year": "2019",
+    "genres": [
+        "Drama",
+        "Crimen"
+    ],
+    "actors": [
+        "Bakary Diombera",
+        "Jammeh Diangana",
+        "Chloé Jouannet",
+        "Kery James",
+        "Dali Benssalah",
+        "Slimane Dazi",
+        "Cherine Ghemri",
+        "Ahmed Bedda",
+        "Aïmen Derriachi",
+        "Aïmen Derriachi",
+        "Mathieu Kassovitz",
+        "Nassim Saal",
+        "Walid Afkir",
+        "Ange Basterga",
+        "Kader Boukhanef",
+        "Noémie Bousquainaud",
+        "Jeremie Brevit",
+        "Akim Chir",
+        "Jakari Fraser",
+        "Abdelkader Hoggui"
+    ],
+    "description": "En los crudos suburbios, tres hermanos: Un mafioso, un erudito y un adolescente influenciable, aprenden duras lecciones mientras aprenden la forma de sobrevivir",
+    "cover": "https://cuevana.pizza/resize/###/storage/21092/NqStUd649zasHEA0PcoJ8w5Z6cYrHaQUxMesDX5K.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtb2I5ZzJ6bzhqNDJ3Lmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLWNvcWU5NGRxOG50by5odG1s"
+            ]
+        },
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtdTdsZGsxNThucGtlLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLXNqcDdsaHQ5cjl3cS5odG1s"
+            ]
+        }
+    ],
+    "downloads": []
+}

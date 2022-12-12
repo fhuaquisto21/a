@@ -1,0 +1,46 @@
+{
+    "url": "https://cuevana.pizza/pelicula/the-truth-about-lies",
+    "title": "La Verdad Sobre las Mentiras",
+    "duration": "1h 34m",
+    "year": "2018",
+    "genres": [
+        "Comedia",
+        "Romance"
+    ],
+    "actors": [
+        "Fran Kranz",
+        "Odette Annable",
+        "Colleen Camp",
+        "Mary Elizabeth Ellis",
+        "Chris Diamantopoulos",
+        "Laura Kightlinger",
+        "Miles Fisher",
+        "Arthur J. Nascarella",
+        "Adam David Thompson",
+        "Jonathan Katz",
+        "Oakes Fegley",
+        "Daniel Raymont",
+        "Angela Pietropinto",
+        "Anais Lee",
+        "Kinga Piersiak"
+    ],
+    "description": "Gilby se ve atrapado en una red de mentiras después de darse cuenta de que la verdad es difícil de aceptar.",
+    "cover": "https://cuevana.pizza/resize/###/storage/24835/t2JwHl7Bbmd7Q6FhqMgavVFXoUon0uwDaOypRvcp.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtbG85ZW9uYTF4aHRkLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLWthdzBwejhkN2o4Yy5odG1s"
+            ]
+        },
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtYzEwY3U4MXV0bm51Lmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLTZ5dTlwZDl5MjBsdi5odG1s"
+            ]
+        }
+    ],
+    "downloads": []
+}

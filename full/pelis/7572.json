@@ -1,0 +1,35 @@
+{
+    "url": "https://cuevana.pizza/pelicula/the-angriest-man-in-brooklyn",
+    "title": "El Hombre mas Enfadado de Brooklyn",
+    "duration": "1h 24m",
+    "year": "2014",
+    "genres": [
+        "Comedia",
+        "Drama"
+    ],
+    "actors": [
+        "Melissa Leo",
+        "Mila Kunis",
+        "Peter Dinklage",
+        "Robin Williams"
+    ],
+    "description": "Una doctora que está haciendo una sustitución le comunica por error a un paciente que le quedan 90 minutos de vida. La médico trata de localizar desesperadamente a este hombre, que se ha lanzado en una absurda aventura por la ciudad en la que tratará de enmendar todos los errores que ha cometido en su vida",
+    "cover": "https://cuevana.pizza/resize/###/storage/15781/ehioySGmqIwdYv9bt2F3jRtDsep74UBAOZ3rle8H.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtbXBuemRnZWdqZXdkLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLXAzb2V6bDhvNGFici5odG1s"
+            ]
+        },
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtNmF3bjk0Zm54MmUxLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLXFzbDkxYmtlZXVxNS5odG1s"
+            ]
+        }
+    ],
+    "downloads": []
+}

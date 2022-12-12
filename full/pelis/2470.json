@@ -1,0 +1,60 @@
+{
+    "url": "https://cuevana.pizza/pelicula/belfast",
+    "title": "Belfast",
+    "duration": "1h 37m",
+    "year": "2021",
+    "genres": [
+        "Drama"
+    ],
+    "actors": [
+        "Jude Hill",
+        "Caitriona Balfe",
+        "Judi Dench",
+        "Jamie Dornan",
+        "Ciarán Hinds",
+        "Lara McDonnell",
+        "Gerard Horan",
+        "Turlough Convery",
+        "Gerard McCarthy",
+        "Bríd Brennan"
+    ],
+    "description": "Un relato semiautobiográfico del propio Kenneth Brannagh sobre la infancia de un niño en los tumultuosos años 60 en la capital de Irlanda del norte.",
+    "cover": "https://cuevana.pizza/resize/###/storage/12839/2mtg1LdNj7cp8kHONiQnw8uG2hImcBU2tg6mDoJs.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtN3pyNjlua2p2bmtsLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLW53ZmF4Y2YyZTM1Zy5odG1s"
+            ]
+        },
+        {
+            "type": "cas",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtMmdhMnZwbW5kb3NpLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLTc5ZTN0aDRzc21rei5odG1s"
+            ]
+        },
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtZWc2dTUwbDVvMTR0Lmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLWNob3Yza2hsOXlwei5odG1s"
+            ]
+        }
+    ],
+    "downloads": [
+        {
+            "url": "https://1fichier.com/?ntxo3tys0b0crfu3gl2x",
+            "type": "la"
+        },
+        {
+            "url": "https://1fichier.com/?chbedctw8psocqs01osg",
+            "type": "es"
+        },
+        {
+            "url": "https://1fichier.com/?ktanihtoshu6bbk3k9wa",
+            "type": "en"
+        }
+    ]
+}

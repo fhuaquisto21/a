@@ -1,0 +1,44 @@
+{
+    "url": "https://cuevana.pizza/pelicula/the-good-catholic",
+    "title": "The Good Catholic",
+    "duration": "1h 36m",
+    "year": "2017",
+    "genres": [
+        "Comedia",
+        "Drama"
+    ],
+    "actors": [
+        "Zachary Spicer",
+        "Wrenn Schmidt",
+        "John C. McGinley",
+        "Danny Glover"
+    ],
+    "description": "Daniel amaba su trabajo como sacerdote de un pequeño pueblo más que nada. Entonces conoció a Jane. Que Dios le salve.",
+    "cover": "https://cuevana.pizza/resize/###/storage/26304/abjrRIuPBykDBVL4vF8YOjMtvHVIppC4RWyVShYm.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtaGxiNzQ5emYwZGx4Lmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLTgxZHd5cmx6Njk0ZC5odG1s"
+            ]
+        },
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtNTFpbmVoY2RmZjhhLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLWl4bjk4MmhjdGtoaC5odG1s"
+            ]
+        }
+    ],
+    "downloads": [
+        {
+            "url": "https://1fichier.com/?f58rccf6rxg46jilay83",
+            "type": "la"
+        },
+        {
+            "url": "https://1fichier.com/?6z3y7rudj6glpoihav4d",
+            "type": "en"
+        }
+    ]
+}

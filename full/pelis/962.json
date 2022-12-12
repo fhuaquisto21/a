@@ -1,0 +1,53 @@
+{
+    "url": "https://cuevana.pizza/pelicula/e-t-el-extraterrestre",
+    "title": "E.T. el extraterrestre",
+    "duration": "1h 55m",
+    "year": "1982",
+    "genres": [
+        "Ciencia Ficcion",
+        "Aventura",
+        "Fantasia",
+        "Familia"
+    ],
+    "actors": [
+        "Henry Thomas",
+        "Drew Barrymore",
+        "Robert MacNaughton",
+        "Peter Coyote",
+        "Dee Wallace",
+        "Erika Eleniak",
+        "K.C. Martel",
+        "C. Thomas Howell",
+        "Sean Frye",
+        "David M. O'Dell",
+        "Richard Swingler",
+        "Frank Toth",
+        "Robert Barton",
+        "Michael Darrell",
+        "David Berkson",
+        "David Carlberg",
+        "Milt Kogan",
+        "Alexander Lampone",
+        "Rhoda Makoff",
+        "Robert Murphy"
+    ],
+    "description": "Un pequeño ser de otro planeta se queda abandonado en la Tierra cuando su nave se marcha olvidándose de él. Tiene miedo. Está completamente solo, pero se hará amigo de un niño, que lo esconde en su casa. El niño y sus hermanos intentarán encontrar la forma de que el pequeño extraterrestre regrese a su planeta antes de que los científicos y la policía lo encuentren.",
+    "cover": "https://cuevana.pizza/resize/###/storage/44245/miQYF3BHeblMzneSS44qdMBp114D09lBbVfwtBwV.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtZXdraWhhMmF1d3F0Lmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLXpxY2R6aG02bTFsbS5odG1s"
+            ]
+        },
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtczN6bjJlbGg2MWVtLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLWs4bmtocjY5bHhsMy5odG1s"
+            ]
+        }
+    ],
+    "downloads": []
+}

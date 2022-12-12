@@ -1,0 +1,47 @@
+{
+    "url": "https://cuevana.pizza/pelicula/navidad-loca-navidad",
+    "title": "Navidad, loca Navidad",
+    "duration": "1h 33m",
+    "year": "2019",
+    "genres": [
+        "Comedia",
+        "Romance"
+    ],
+    "actors": [
+        "Sonequa Martin-Green",
+        "La La Anthony",
+        "Deon Cole",
+        "Stormi Maya",
+        "Tamala Jones",
+        "Romany Malco",
+        "Roscoe Orman",
+        "Darlene Love",
+        "Amarr M. Wooten",
+        "Jimmy Palumbo",
+        "Deysha Nelson",
+        "Andrea-Marie Alphonse",
+        "Selena-Marie Alphonse",
+        "Alysia Livingston",
+        "Malika Samuel",
+        "Rocco Parente"
+    ],
+    "description": "Rush Williams es un popular locutor y DJ radiofónico, y padre viudo de cuatro hijos malcriados. Cuando Rush es repentinamente despedido de su trabajo poco antes de navidad, él y sus hijos deberán dejar atrás una vida de lujos y apretarse el cinturón.",
+    "cover": "https://cuevana.pizza/resize/###/storage/20496/dyZ0ltRvdD5fZEIedMR4XnjZvMVuMeKJjmtQcSZ0.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtbDRnZ3F1M3ZhYnJ4Lmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLXY1eTEwMTZ5NzE5bi5odG1s"
+            ]
+        },
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQta2Jsa3hmbXoyMGJuLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLXNiNmFibmUyaXY5cS5odG1s"
+            ]
+        }
+    ],
+    "downloads": []
+}

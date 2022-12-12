@@ -1,0 +1,58 @@
+{
+    "url": "https://cuevana.pizza/pelicula/el-padrino-parte-iii",
+    "title": "El padrino. Parte III",
+    "duration": "2h 42m",
+    "year": "1990",
+    "genres": [
+        "Drama",
+        "Crimen"
+    ],
+    "actors": [
+        "Al Pacino",
+        "Diane Keaton",
+        "Talia Shire",
+        "Andy García",
+        "Eli Wallach",
+        "Joe Mantegna",
+        "George Hamilton",
+        "Bridget Fonda",
+        "Sofia Coppola",
+        "Raf Vallone",
+        "Franc D'Ambrosio",
+        "Donal Donnelly",
+        "Richard Bright",
+        "Helmut Berger",
+        "Don Novello",
+        "John Savage",
+        "Franco Citti",
+        "Mario Donatone",
+        "Vittorio Duse",
+        "Enzo Robutti"
+    ],
+    "description": "Michael Corleone, heredero del imperio de don Vito Corleone, intenta rehabilitarse socialmente y legitimar todas las posesiones de la familia negociando con el Vaticano. Después de luchar toda su vida se encuentra cansado y centra todas sus esperanzas en encontrar un sucesor que se haga cargo de los negocios. Vincent, el hijo ilegítimo de su hermano Sonny, parece ser el elegido.",
+    "cover": "https://cuevana.pizza/resize/###/storage/19643/sQo7LVC3EX5W8HroZ5R7g8grVysCtXu2Ms0wcoq2.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtb204ZXpieXcwMHc2Lmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLW54b3NybWZoaG1qZi5odG1s"
+            ]
+        },
+        {
+            "type": "cas",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtNGo0d2l5dWFkNTZoLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLXhxd3hrejIydWxjNi5odG1s"
+            ]
+        },
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtMHRkZnM2c3N0MmU1Lmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLWhyMjRld2RldWFlby5odG1s"
+            ]
+        }
+    ],
+    "downloads": []
+}

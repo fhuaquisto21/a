@@ -1,0 +1,51 @@
+{
+    "url": "https://cuevana.pizza/pelicula/captain-nova",
+    "title": "Captain Nova",
+    "duration": "1h 26m",
+    "year": "2021",
+    "genres": [
+        "Ciencia Ficcion",
+        "Aventura",
+        "Familia"
+    ],
+    "actors": [
+        "Marouane Meftah",
+        "Kika van de Vijver",
+        "Anniek Pheifer",
+        "Hannah van Lunteren",
+        "Joep Vermolen",
+        "Ricky Koole",
+        "Ergun Simsek",
+        "Harry van Rijthoven",
+        "Yahya Gaier",
+        "Robbert Bleij"
+    ],
+    "description": "Una piloto de combate viaja en el tiempo para salvar al mundo de un futuro desastre ambiental. Pero debido a un efecto secundario, se acaba volviendo joven de nuevo y nadie la tomará en serio.",
+    "cover": "https://cuevana.pizza/resize/###/storage/17220/f7Un4Xsng1OZnvIuHp8dwu7AI6ZugS3EtX38tdQt.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtYTEwN2Vzbzk5bHNlLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLXMyZHQxdDlzZzk0aC5odG1s"
+            ]
+        },
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtcThnbTdueXRhZjZ1Lmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLTd5Mmhxb2o0eThtZC5odG1s"
+            ]
+        }
+    ],
+    "downloads": [
+        {
+            "url": "https://1fichier.com/?x3tsulp58sedvqpwbq7u",
+            "type": "la"
+        },
+        {
+            "url": "https://1fichier.com/?6hs3inlv6gqklwijrb2a",
+            "type": "en"
+        }
+    ]
+}

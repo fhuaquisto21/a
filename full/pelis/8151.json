@@ -1,0 +1,57 @@
+{
+    "url": "https://cuevana.pizza/pelicula/diario-de-una-pasion",
+    "title": "Diario de una pasión",
+    "duration": "2h 3m",
+    "year": "2004",
+    "genres": [
+        "Drama",
+        "Romance"
+    ],
+    "actors": [
+        "Rachel McAdams",
+        "Ryan Gosling",
+        "Gena Rowlands",
+        "James Garner",
+        "Starletta DuPois",
+        "Tim Ivey"
+    ],
+    "description": "En una residencia de ancianos, un hombre (James Garner) lee a una mujer (Gena Rowlands) una historia de amor escrita en su viejo cuaderno de notas. Es la historia de Noah Calhoun (Ryan Gosling) y Allie Nelson (Rachel McAdams), dos jóvenes adolescentes de Carolina del Norte que, a pesar de vivir en dos ambientes sociales muy diferentes, se enamoraron profundamente y pasaron juntos un verano inolvidable, antes de ser separados, primero por sus padres, y más tarde por la guerra.",
+    "cover": "https://cuevana.pizza/resize/###/storage/16793/pF91F04J568uFw1SSIT6U1z4fjxHyIi7QRx8WJjl.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtZGFqcjBqY2wwOGFvLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLWgzNHJqZ2lhZnkzOC5odG1s"
+            ]
+        },
+        {
+            "type": "cas",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtN3FrcW9pcWNkd2puLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLWsycGR4Y3BneGZndi5odG1s"
+            ]
+        },
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtYmdsaGplZTE3OXRkLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLW5lbDZhMmwycjI0NC5odG1s"
+            ]
+        }
+    ],
+    "downloads": [
+        {
+            "url": "https://1fichier.com/?kiu0e3744t",
+            "type": "la"
+        },
+        {
+            "url": "https://1fichier.com/?cqhfzjvyscirttjovt4z",
+            "type": "es"
+        },
+        {
+            "url": "https://1fichier.com/?jqu9n4wjlt",
+            "type": "en"
+        }
+    ]
+}

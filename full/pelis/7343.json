@@ -1,0 +1,48 @@
+{
+    "url": "https://cuevana.pizza/pelicula/cop-car",
+    "title": "Coche policial",
+    "duration": "1h 26m",
+    "year": "2015",
+    "genres": [
+        "Suspenso",
+        "Crimen"
+    ],
+    "actors": [
+        "Kevin Bacon",
+        "James Freedson-Jackson",
+        "Hays Wellford",
+        "Camryn Manheim",
+        "Shea Whigham",
+        "Sean Hartley",
+        "Kyra Sedgwick",
+        "Loi Nguyen",
+        "Sit Lenh",
+        "Chuck Kull",
+        "Thomas Coates",
+        "Kathleen Bentley",
+        "Justin Barr",
+        "Adam Barr",
+        "Lily Heber",
+        "Cooter Heber",
+        "Bluebell"
+    ],
+    "description": "Dos chavales de diez años encuentran un coche de policía aparentemente abandonado y deciden montarse para dar una vuelta. Pero esto será el inicio de un tortuoso y desesperado juego del gato y el ratón en el que la única salida será darle al acelerador y conducir tan rápido como puedan.",
+    "cover": "https://cuevana.pizza/resize/###/storage/27260/6B8fMdyCShuTd3VpyUq8pYLXL3TJ9wml6IioSot5.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtajlrejh4NXJta3N3Lmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLXVoNG42dDlscmE2aS5odG1s"
+            ]
+        },
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtNzdqdnFmbGl3d3V1Lmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLW5ybDIzZ2tsMmVieS5odG1s"
+            ]
+        }
+    ],
+    "downloads": []
+}

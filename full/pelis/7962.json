@@ -1,0 +1,52 @@
+{
+    "url": "https://cuevana.pizza/pelicula/los-viajes-de-gulliver",
+    "title": "Los viajes de Gulliver",
+    "duration": "1h 24m",
+    "year": "2010",
+    "genres": [
+        "Comedia",
+        "Aventura",
+        "Familia"
+    ],
+    "actors": [
+        "Jack Black",
+        "Amanda Peet",
+        "Emily Blunt",
+        "Jason Segel",
+        "Chris O'Dowd",
+        "Billy Connolly",
+        "Catherine Tate",
+        "James Corden",
+        "Emmanuel Quatra",
+        "Olly Alexander",
+        "Richard Laing",
+        "David Sterne",
+        "Stewart Scudamore",
+        "Jonathan Aris",
+        "Joe Lo Truglio",
+        "Dale Mercer",
+        "T. J. Miller",
+        "Jake Nightingale",
+        "Okezie Morro",
+        "Christopher Middleton"
+    ],
+    "description": "Lemuel Gulliver (Jack Black), un aspirante a escritor que trabaja como repartidor en un importante periódico de Nueva York, sueña con escribir libros de viajes. Toma entonces la decisión de navegar hacia al Triángulo de las Bermudas, pero una terrible tormenta lo arrastra hasta una isla pérdida que está habitada por personas diminutas, los liliputienses. Después de un comienzo no muy amistoso, el gigante Gulliver se convierte en fuente de inspiración y confianza para sus diminutos amigos. Así, bajo sus órdenes, los liliputienses consiguen una gran victoria sobre sus enemigos de la isla vecina. Sin embargo, Gulliver aún tendrá que saldar cuentas con sus propios defectos para poder salir, por fin, de su limitado mundo.",
+    "cover": "https://cuevana.pizza/resize/###/storage/29068/WqmPTx5R8gqbJSOPGcfZmsWUfcFDDPX9D9XPsAuU.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtZGJpaHgzcDFjbmwyLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLWxwZzA5Y2RiNDAxay5odG1s"
+            ]
+        },
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtd2UwNHl6MHRiMXprLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLTl1aHprOWJkcmpwNi5odG1s"
+            ]
+        }
+    ],
+    "downloads": []
+}

@@ -1,0 +1,58 @@
+{
+    "url": "https://cuevana.pizza/pelicula/un-nino-como-jake",
+    "title": "Jake",
+    "duration": "1h 27m",
+    "year": "2018",
+    "genres": [
+        "Drama",
+        "Familia"
+    ],
+    "actors": [
+        "Claire Danes",
+        "Jim Parsons",
+        "Ann Dowd",
+        "Octavia Spencer",
+        "Priyanka Chopra Jonas",
+        "Cindy Cheung",
+        "Julia Chan",
+        "Shaunette Renée Wilson",
+        "Kelly Deadmon",
+        "Olivia Bond",
+        "Meghan Strange",
+        "Erika Robel",
+        "Aaron Serotsky",
+        "George B. Colucci Jr.",
+        "Amy Landecker",
+        "Leo James Davis",
+        "Lee Aaron Rosen",
+        "Adam Butterfield",
+        "Ian Unterman",
+        "Kelly McAndrew"
+    ],
+    "description": "Una pareja casada, Alex y Greg, tienen que afrontar un conflicto cuando descubren que su hijo prefiere a la Cenicienta en lugar de los G.I. Joe.",
+    "cover": "https://cuevana.pizza/resize/###/storage/24901/I00hvnHdpodC46mXGlvEpACIrCCQnyA20oR0NANS.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtNGZxdzBlbHMzYjdrLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLW11MXZqcThzNnJoay5odG1s"
+            ]
+        },
+        {
+            "type": "cas",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtc28wNXZtYmN1aTc3Lmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLWJ4dnJyazBsc2pjdi5odG1s"
+            ]
+        },
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtaG9mZXQ1ODVka3o1Lmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLXFxdWF5YTl1ZzZ1Yy5odG1s"
+            ]
+        }
+    ],
+    "downloads": []
+}

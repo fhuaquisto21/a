@@ -1,0 +1,74 @@
+{
+    "url": "https://cuevana.pizza/pelicula/x-men",
+    "title": "X-Men",
+    "duration": "1h 44m",
+    "year": "2000",
+    "genres": [
+        "Accion",
+        "Ciencia Ficcion",
+        "Aventura",
+        "Disney",
+        "Marvel Comics"
+    ],
+    "actors": [
+        "Patrick Stewart",
+        "Hugh Jackman",
+        "Ian McKellen",
+        "Anna Paquin",
+        "Halle Berry",
+        "Famke Janssen",
+        "James Marsden",
+        "Bruce Davison",
+        "Rebecca Romijn",
+        "Ray Park",
+        "Tyler Mane",
+        "Shawn Ashmore",
+        "Matthew Sharp",
+        "Brett Morris",
+        "Rhona Shekter",
+        "Kenneth McGregor",
+        "Shawn Roberts",
+        "Donna Goodhand",
+        "John Nelles",
+        "George Buza"
+    ],
+    "description": "En un futuro cercano, la humanidad comienza a ver aparecer una nueva raza; los mutantes. Dotados de extraños y variados poderes, están agrupados en dos bandos: los que abogan por la integración y el entendimiento con la humanidad, encabezados por el doctor Charles Xavier, y los que buscan el enfrentamiento con una raza que consideran inferior y que les odia, dirigidos por Magnus, alias Magneto, un peligroso mutante con extraordinarios poderes.",
+    "cover": "https://cuevana.pizza/resize/###/storage/46906/8AsruzgdkIGg5NLkY7iwARvepMfvdDRlYpoQQYkT.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtejV6bmxubjkya2hoLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLTFqbWlwMjJrc3VjaC5odG1s"
+            ]
+        },
+        {
+            "type": "cas",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtZ2R0emYxdDNiaHdiLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLTU5NmVjNXBsaDQzbC5odG1s"
+            ]
+        },
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQteGNxMWpiY24wMzR6Lmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLXRycHhuaDZsbmt6ai5odG1s"
+            ]
+        }
+    ],
+    "downloads": [
+        {
+            "url": "https://1fichier.com/?k5p6pf436mm05niu9foo",
+            "type": "la"
+        },
+        {
+            "url": "https://1fichier.com/?3dcfuqx3kzlodxb7ovvr",
+            "type": "es"
+        },
+        {
+            "url": "https://1fichier.com/?fpj370acp65yiltqwayv",
+            "type": "en"
+        }
+    ]
+}

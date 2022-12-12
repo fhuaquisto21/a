@@ -1,0 +1,52 @@
+{
+    "url": "https://cuevana.pizza/pelicula/army-of-one",
+    "title": "Objetivo: Bin Laden",
+    "duration": "1h 32m",
+    "year": "2016",
+    "genres": [
+        "Comedia",
+        "Aventura",
+        "Biografia"
+    ],
+    "actors": [
+        "Nicolas Cage",
+        "Wendi McLendon-Covey",
+        "Russell Brand",
+        "Rainn Wilson",
+        "Denis O'Hare",
+        "Paul Scheer",
+        "Fiona Vroom",
+        "Hilary Jardine",
+        "Will Sasso",
+        "Lauren McGibbon",
+        "Larry Charles",
+        "Matthew Modine",
+        "Doug Abrahams"
+    ],
+    "description": "Army of One está basada en la verdadera historia de Gary Faulkner, un ex convicto que intenta 11 veces viajar a la región de Pakistán para darle caza a Osama Bin Laden con sólo una espada.",
+    "cover": "https://cuevana.pizza/resize/###/storage/27005/RAWrBCnMu7LCqbrWSyDuOmUDuPSkBhHwMYBUEwKe.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtNHZ2MXhwcjdzbjlxLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLWh3eWRiNWNkb3Rpei5odG1s"
+            ]
+        },
+        {
+            "type": "cas",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtdnB4NXYxdGt3azdqLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLWkxaWcyYzA0aWp0dC5odG1s"
+            ]
+        },
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtN2p4cDk3YTE0enRvLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLXV3bHg1ODBsNWdyby5odG1s"
+            ]
+        }
+    ],
+    "downloads": []
+}

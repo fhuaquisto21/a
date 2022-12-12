@@ -1,0 +1,44 @@
+{
+    "url": "https://cuevana.pizza/pelicula/breaking-in",
+    "title": "Asalto en la noche",
+    "duration": "1h 28m",
+    "year": "2018",
+    "genres": [
+        "Accion",
+        "Drama",
+        "Suspenso",
+        "Terror",
+        "Crimen"
+    ],
+    "actors": [
+        "Gabrielle Union",
+        "Billy Burke",
+        "Richard Cabral",
+        "Ajiona Alexus",
+        "Levi Meaden",
+        "Seth Carr",
+        "Mark Furze",
+        "Jason George",
+        "Christa Miller",
+        "Damien Leake"
+    ],
+    "description": "Shaun (Gabrielle Union) es una madre de dos hijos que acaba de perder a su padre. Como legado, hereda una casa en Malibu, por lo que decide mudarse allí junto a los pequeños. En la mansión hay cuatro inquilinos no deseados que tratan de hacerse con la caja de caudales del padre de Shaun y escapar con todo lo que lleva dentro. Los atracadores secuestran a los niños y dejan a la madre fuera de la casa, que resulta ser una fortaleza, pero no se quedará de brazos cruzados. A partir de aquí, comienza la pesadilla de la familia, o de los secuestradores.",
+    "cover": "https://cuevana.pizza/resize/###/storage/21487/4uUBhefHpLiyIGiy4OU3SzV1ARGcPBt3ApTUatRE.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtZGg0YW83bm9kM2hvLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLWN2OW4yZWhraG43di5odG1s"
+            ]
+        },
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtZ3A3d3Y0dml6cm95Lmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLWpzdW05MXp2c2Judi5odG1s"
+            ]
+        }
+    ],
+    "downloads": []
+}

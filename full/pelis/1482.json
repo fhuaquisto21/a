@@ -1,0 +1,60 @@
+{
+    "url": "https://cuevana.pizza/pelicula/venganza-letal",
+    "title": "Venganza Letal",
+    "duration": "1h 38m",
+    "year": "2010",
+    "genres": [
+        "Accion",
+        "Drama",
+        "Suspenso",
+        "Crimen"
+    ],
+    "actors": [
+        "Dwayne Johnson",
+        "Billy Bob Thornton",
+        "Oliver Jackson-Cohen",
+        "Maggie Grace",
+        "Carla Gugino",
+        "Tom Berenger",
+        "Matt Gerald",
+        "Jeff Daniel Phillips",
+        "Aaron Behr",
+        "Jan Hoag",
+        "Courtney Gains",
+        "Michael Irby",
+        "Josh Clark",
+        "Xander Berkeley",
+        "Michael Blain-Rozgay",
+        "Sidney S. Liufau",
+        "Mike Epps",
+        "Moon Bloodgood",
+        "Adewale Akinnuoye-Agbaje",
+        "Jennifer Carpenter"
+    ],
+    "description": "Un ex presidiario (Dwayne Johnson) quiere vengar la muerte de su hermano, ocurrida tiempo atrás cuando ambos daban un golpe. Sin embargo, un veterano policía (Billy Bob Thornton), al mismo tiempo que sigue sus pasos, intenta averiguar quiénes son los culpables del asesinato.",
+    "cover": "https://cuevana.pizza/resize/###/storage/34341/6XTShUycBF3NLtWlqwICuSwjamTFruHdRCKgtyIJ.jpeg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtMmhja216emsyZzh0Lmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLWM3ZGkzZG9iZWwyYi5odG1s"
+            ]
+        },
+        {
+            "type": "cas",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtcW5wdmZ4bnQ0NTJiLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLXVoOHE3aTB6NGZpMi5odG1s"
+            ]
+        },
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtenA5OXJmbnp4M2szLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLWVtYTVwdzBiaHRkYy5odG1s"
+            ]
+        }
+    ],
+    "downloads": []
+}

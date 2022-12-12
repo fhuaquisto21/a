@@ -1,0 +1,42 @@
+{
+    "url": "https://cuevana.pizza/pelicula/en-busca-de-sheela",
+    "title": "En busca de Sheela",
+    "duration": "58m",
+    "year": "2021",
+    "genres": [
+        "Documental"
+    ],
+    "actors": [
+        "Karan Johar",
+        "Ma Anand Sheela",
+        "Raghu Rai"
+    ],
+    "description": "La prensa y los fans esperan a Ma Anand Sheela cuando la famosa exportavoz de la comuna de Rajneesh regresa a la India, décadas después, para conceder entrevistas.",
+    "cover": "https://cuevana.pizza/resize/###/storage/6723/VGy6Whygo2EdcNad5htPGiKmISlGaLxkfzzRvcvG.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtenJvY3EybGYxcTJ3Lmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLWZ1ajQzb3d0MXpzMC5odG1s"
+            ]
+        },
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtejViYXNnbG1meG5tLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLTk1ZmhnMXBhajkwcC5odG1s"
+            ]
+        }
+    ],
+    "downloads": [
+        {
+            "url": "https://1fichier.com/?d6a36p4v129vwys8j3xp",
+            "type": "la"
+        },
+        {
+            "url": "https://1fichier.com/?lceq6iv77ki3zsyvt8m3",
+            "type": "en"
+        }
+    ]
+}

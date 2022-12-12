@@ -1,0 +1,57 @@
+{
+    "url": "https://cuevana.pizza/pelicula/amor-al-cuadrado",
+    "title": "Amor al cuadrado",
+    "duration": "1h 42m",
+    "year": "2021",
+    "genres": [
+        "Comedia",
+        "Romance"
+    ],
+    "actors": [
+        "Adrianna Chlebicka",
+        "Anna Smołowik",
+        "Krzysztof Czeczot",
+        "Mateusz Banasiuk",
+        "Mirosław Baka",
+        "Wojciech Kalarus"
+    ],
+    "description": "Un periodista famoso y mujeriego duda de las decisiones que ha tomado en la vida cuando se enamora de una modelo misteriosa que lleva una doble vida.",
+    "cover": "https://cuevana.pizza/resize/###/storage/5794/NtH7IVF2dbYuqnWXKtSSgQKfK1n9hR3McZ9nMfJA.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtdjV3dGEzaHFjdTB3Lmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLWgyMnZsMmY0cTRiaS5odG1s"
+            ]
+        },
+        {
+            "type": "cas",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtM2l6bGp1MWo3bzM3Lmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLTUxdzl4Y2t3dHlrZi5odG1s"
+            ]
+        },
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtY2ljajN5ZzBxeDlnLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLXhwcnc3aG9lZXd3by5odG1s"
+            ]
+        }
+    ],
+    "downloads": [
+        {
+            "url": "https://1fichier.com/?n3orw71s8vyq3s5ejmy1",
+            "type": "la"
+        },
+        {
+            "url": "https://1fichier.com/?z1kswere6ia0kabdgrio",
+            "type": "es"
+        },
+        {
+            "url": "https://1fichier.com/?arwhk8n1lj1w6jiqzkff",
+            "type": "en"
+        }
+    ]
+}

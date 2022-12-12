@@ -1,0 +1,51 @@
+{
+    "url": "https://cuevana.pizza/pelicula/pee-wee-s-big-holiday",
+    "title": "Pee-wee's Big Holiday",
+    "duration": "1h 30m",
+    "year": "2016",
+    "genres": [
+        "Comedia",
+        "Aventura"
+    ],
+    "actors": [
+        "Paul Reubens",
+        "Joe Manganiello",
+        "Jessica Pohly",
+        "Alia Shawkat",
+        "Stephanie Beatriz",
+        "Jordan Black",
+        "Doug Cox",
+        "Linda Porter",
+        "Monica Horan",
+        "Brian Palermo",
+        "Katherine Vanderlinden",
+        "Tara Buck",
+        "John H. Mayer",
+        "Richard Riehle",
+        "Dave Power",
+        "Josh Meyers",
+        "Corey Martin Craig",
+        "Paul Rust",
+        "Robert R. Shafer",
+        "John Moody"
+    ],
+    "description": "Pee-wee’s Big Holiday es una road movie que sigue el fatídico y misterioso encuentro que inspira a Pee-wee para comenzar su primer día de vacaciones. Una historia que se convierte en una situación de amistad, épica y marcada por el destino.",
+    "cover": "https://cuevana.pizza/resize/###/storage/28077/Zo8ifp0znefgZq1c0SmEl8dEWnUHFzY7F3Wklyoi.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtdjRuZXBjNHdiMm9nLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLWs4cnYyZjJubGxxeS5odG1s"
+            ]
+        },
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtczd6dW1qZ2JybGFvLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLTdqdHZscmNrdHNlZC5odG1s"
+            ]
+        }
+    ],
+    "downloads": []
+}

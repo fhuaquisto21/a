@@ -1,0 +1,29 @@
+{
+    "url": "https://cuevana.pizza/pelicula/dinosaur-island",
+    "title": "Dinosaur Island",
+    "duration": "1h 30m",
+    "year": "2014",
+    "genres": [
+        "Ciencia Ficcion",
+        "Aventura",
+        "Familia"
+    ],
+    "actors": [
+        "Albert Allu",
+        "Darius Williams",
+        "Helen Audsley",
+        "Kate Rasmussen"
+    ],
+    "description": "Unas vacaciones se convierten en la aventura de su vida para un chico de 13 años cuando se ve atrapado en un mundo lleno de barcos fantasma, criaturas prehistóricas y una joven que dice venir del pasado. Juntos se embarcan en un viaje que cambiará el futuro de ambos para siempre.",
+    "cover": "https://cuevana.pizza/resize/###/storage/15984/FL7Vdel06nM4jbawxfTpqdjf1UY2ikGvXyewM6IJ.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtbzJrZmJ3eXNqNDliLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLTJ4dmg1ODZmaGZway5odG1s"
+            ]
+        }
+    ],
+    "downloads": []
+}

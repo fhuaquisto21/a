@@ -1,0 +1,52 @@
+{
+    "url": "https://cuevana.pizza/pelicula/pesadilla-en-elm-street-el-origen",
+    "title": "Pesadilla en Elm Street (El origen)",
+    "duration": "1h 42m",
+    "year": "2010",
+    "genres": [
+        "Misterio",
+        "Suspenso",
+        "Terror"
+    ],
+    "actors": [
+        "Jackie Earle Haley",
+        "Kyle Gallner",
+        "Rooney Mara",
+        "Katie Cassidy",
+        "Thomas Dekker",
+        "Kellan Lutz",
+        "Clancy Brown",
+        "Connie Britton",
+        "Lia D. Mortensen",
+        "Julianna Damm",
+        "Christian Stolte",
+        "Katie Schooping Knight",
+        "Hailey Schooping Knight",
+        "Leah Uteg",
+        "Don Robert Cass",
+        "Kurt Naebig",
+        "Kyra Krumins",
+        "Brayden Coyer",
+        "Max Holt",
+        "Andrew Fiscella"
+    ],
+    "description": "Versión contemporánea del clásico del cine de terror. Un grupo de adolescentes de los suburbios empiezan a ser perseguidos por Freddy Krueger, un asesino de aspecto terrible y con el rostro quemado que trata de acabar con ellos mientras duermen. Necesitan, pues, permanecer despiertos para protegerse mutuamente. Pero, si duermen, no hay escapatoria.",
+    "cover": "https://cuevana.pizza/resize/###/storage/41318/djJNFdCAIbqPBgR8J5jktFdKbua7ZiNgYGr5cUVd.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtZjVydG5temFpZDgzLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLTltY2l0OXZoM3E4dC5odG1s"
+            ]
+        },
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtc3NwbjYyNnVrbXk2Lmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLWVweGs5Y240M3Uzby5odG1s"
+            ]
+        }
+    ],
+    "downloads": []
+}

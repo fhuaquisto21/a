@@ -1,0 +1,54 @@
+{
+    "url": "https://cuevana.pizza/pelicula/mickey-donald-y-goofy-los-tres-mosqueteros",
+    "title": "Mickey, Donald y Goofy: Los tres mosqueteros",
+    "duration": "1h 0m",
+    "year": "2004",
+    "genres": [
+        "Comedia",
+        "Aventura",
+        "Familia",
+        "Animacion",
+        "Disney"
+    ],
+    "actors": [
+        "Wayne Allwine",
+        "Tony Anselmo",
+        "Bill Farmer",
+        "Russi Taylor",
+        "Tress MacNeille",
+        "Jim Cummings",
+        "April Winchell",
+        "Jeff Bennett",
+        "Maurice LaMarche",
+        "Rob Paulsen",
+        "Shannon Gregory",
+        "Frank Welker",
+        "Jess Harnell"
+    ],
+    "description": "Mickey, Donald y Goofy, son unos humildes limpiadores que sueñan con llegar a ser mosqueteros. Sus vidas darán un vuelco cuando Pete Pata Palo, capitán de los mosqueteros, y su siniestro lugarteniente Clarabelle les utilizan en una malvada conspiración para destronar a la Princesa Minnie. Pero Mickey y sus amigos tienen preparada una sorpresa para Pete. Aprenderán, además, que el trabajo en equipo y la amistad pueden conseguirlo todo.",
+    "cover": "https://cuevana.pizza/resize/###/storage/43355/0sQPZbL76iJ2Vz3OUpndhGgO5MJcEVBebqJ52ppp.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtOGFoYzAwZnY4c3Q5Lmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLWxwd294OTcyN2k5dy5odG1s"
+            ]
+        },
+        {
+            "type": "cas",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtaWpjNGtmNWF6bmNjLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLTU2eDh2dzBtMjAxby5odG1s"
+            ]
+        },
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtMGRmbWRidmUzbml4Lmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLXg4dTVoejJhZWxqeC5odG1s"
+            ]
+        }
+    ],
+    "downloads": []
+}

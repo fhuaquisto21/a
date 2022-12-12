@@ -1,0 +1,49 @@
+{
+    "url": "https://cuevana.pizza/pelicula/donde-esta-mi-cuerpo",
+    "title": "¿Dónde está mi cuerpo?",
+    "duration": "1h 22m",
+    "year": "2019",
+    "genres": [
+        "Drama",
+        "Fantasia",
+        "Animacion"
+    ],
+    "actors": [
+        "Hakim Faris",
+        "Victoire Du Bois",
+        "Patrick d'Assumçao",
+        "Alfonso Arfi",
+        "Hichem Mesbah",
+        "Myriam Loucif",
+        "Bellamine Abdelmalek",
+        "Maud Le Guenedal",
+        "Nicole Favart",
+        "Quentin Baillot",
+        "Céline Ronté",
+        "Deborah Grall",
+        "Pascal Rocher",
+        "Bruno Hausler",
+        "Jocelyn Veluire",
+        "Raymond Hosni",
+        "Guillaume Desmarchellier"
+    ],
+    "description": "Amor, misterio y aventura se entrelazan en esta película animada sobre un joven que se enamora y una mano amputada que peina la Ciudad de la Luz en busca de su dueño.",
+    "cover": "https://cuevana.pizza/resize/###/storage/3494/KOiw1cQAMSmEKkutho2QYW1eYUmb6wqms2SQKp1Y.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtcWx6c3U0M2wxcDRyLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLWlleTBmNjhrOTZrNC5odG1s"
+            ]
+        },
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtMmxjbGNyM29kaGlxLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLWxvNTRlMWg4cjZvby5odG1s"
+            ]
+        }
+    ],
+    "downloads": []
+}

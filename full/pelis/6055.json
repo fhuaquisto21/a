@@ -1,0 +1,51 @@
+{
+    "url": "https://cuevana.pizza/pelicula/paterno",
+    "title": "Paterno",
+    "duration": "1h 47m",
+    "year": "2018",
+    "genres": [
+        "Drama",
+        "Biografia"
+    ],
+    "actors": [
+        "Al Pacino",
+        "Riley Keough",
+        "Kathy Baker",
+        "Annie Parisse",
+        "Peter Jacobson",
+        "Steve Coulter",
+        "Darren Goldstein",
+        "John D'Leo",
+        "Greg Grunberg",
+        "Ben Cook",
+        "Kristen Bush",
+        "Jim Johnson",
+        "Kaliswa Brewster",
+        "William Hill",
+        "Larry Mitchell",
+        "Jessica VanOss",
+        "Tom Kemp",
+        "Michael Mastro",
+        "Patrick McDade",
+        "Joseph Setticase"
+    ],
+    "description": "Al Pacino será Joe Paterno, un exitoso entrenador universitario de futbol americano con una larga carrera profesional. Su legado se verá comprometido cuando salten a la opinión pública diferentes casos de abusos sexuales a estudiantes de la Universidad Penn State. El mítico coach será declarado culpable por encubrir a su asistente Jerry Sandusky, autor de las abusos.",
+    "cover": "https://cuevana.pizza/resize/###/storage/24437/4LaP2xd3hw2o6c9kt3pIrYhYWsfKxtkYRw2pWlF1.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtbjY3OWV4NDQ5ZnJqLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLXhoYnB1MG94ZjNjdS5odG1s"
+            ]
+        },
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtMHp3ajJ1MWhjcGo4Lmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLTdlM2hzdmpsbmRlci5odG1s"
+            ]
+        }
+    ],
+    "downloads": []
+}

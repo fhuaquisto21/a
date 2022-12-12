@@ -1,0 +1,71 @@
+{
+    "url": "https://cuevana.pizza/pelicula/la-sirenita",
+    "title": "La Sirenita",
+    "duration": "1h 38m",
+    "year": "2018",
+    "genres": [
+        "Drama",
+        "Romance",
+        "Aventura",
+        "Fantasia",
+        "Familia",
+        "Disney"
+    ],
+    "actors": [
+        "Poppy Drayton",
+        "Shirley MacLaine",
+        "Loreto Peralta",
+        "William Moseley",
+        "Gina Gershon",
+        "Shanna Collins",
+        "William Forsythe",
+        "Tom Nowicki",
+        "Lexy Kolker",
+        "Claire Ryann",
+        "Jo Marie Payton",
+        "Armando Gutiérrez",
+        "Chris Yong",
+        "Alexis Balliro",
+        "Hunter Gomez",
+        "Jared Sandler"
+    ],
+    "description": "Un joven periodista y su sobrina descubren una bella y encantadora criatura marina, y creen que se trata de una sirena real.",
+    "cover": "https://cuevana.pizza/resize/###/storage/21454/upo7Ho8dcNJUm9NjW2WwYbBebCKAvLimVrzx4Are.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtdW9wMHV0NHI1eGV4Lmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLXBiZ2g2NGQyd2NsNy5odG1s"
+            ]
+        },
+        {
+            "type": "cas",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtaHBsZ24xeDVuOXJ4Lmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLXFjdW8xNTFmdWYzZy5odG1s"
+            ]
+        },
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtNHU4MHFiaXg5cmlwLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLWw1YWsxemY5a2QybC5odG1s"
+            ]
+        }
+    ],
+    "downloads": [
+        {
+            "url": "https://1fichier.com/?vnleimd6f2772mm3ng56",
+            "type": "la"
+        },
+        {
+            "url": "https://1fichier.com/?5qv8cnv13n2r54kg0sta",
+            "type": "es"
+        },
+        {
+            "url": "https://1fichier.com/?x3bc3by5a3easr7rgr6d",
+            "type": "en"
+        }
+    ]
+}

@@ -1,0 +1,46 @@
+{
+    "url": "https://cuevana.pizza/pelicula/rocko-s-modern-life-static-cling",
+    "title": "La vida moderna de Rocko: Cambio de chip",
+    "duration": "0h 45m",
+    "year": "2019",
+    "genres": [
+        "Accion",
+        "Comedia",
+        "Aventura",
+        "Familia",
+        "Animacion",
+        "Reality-TV"
+    ],
+    "actors": [
+        "Carlos Alazraqui",
+        "Tom Kenny",
+        "Charlie Adler",
+        "Mr. Lawrence",
+        "Jill Talley",
+        "Linda Wallem",
+        "Steve Little",
+        "Joe Murray",
+        "Cosmo Segurson",
+        "Tom Smith",
+        "Dan Becker"
+    ],
+    "description": "Rocko intenta adaptarse a la vida actual en O-Town después de pasar veinte años en el espacio y solo quiereuna cosa: que vuelvan a poner su programa favorito.",
+    "cover": "https://cuevana.pizza/resize/###/storage/21284/Xo0ESqvwBxF6FIMCXbJppHWGPgW3695UOzXmwsrc.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtcXFocjFiZDFuOHZkLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLXl1cnFhM2ZvNnVxaC5odG1s"
+            ]
+        },
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQteHRlamxpN3pidTE4Lmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLXJ3Z2YyczRmN3oyeC5odG1s"
+            ]
+        }
+    ],
+    "downloads": []
+}

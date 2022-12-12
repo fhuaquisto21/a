@@ -1,0 +1,48 @@
+{
+    "url": "https://cuevana.pizza/pelicula/forsaken",
+    "title": "Forsaken",
+    "duration": "1h 30m",
+    "year": "2015",
+    "genres": [
+        "Drama",
+        "Occidental"
+    ],
+    "actors": [
+        "Demi Moore",
+        "Kiefer Sutherland",
+        "Donald Sutherland",
+        "Brian Cox",
+        "Siobhan Williams",
+        "Michael Wincott",
+        "Landon Liboiron",
+        "Greg Ellis",
+        "Wesley Morgan",
+        "Aaron Poole",
+        "Dylan Smith",
+        "Brock Morgan",
+        "Graeme Black",
+        "Tom Carey",
+        "Chris Ippolito",
+        "David McNally",
+        "Ali Webb"
+    ],
+    "description": "Atormentado por un oscuro secreto, un pistolero abandona su vida de asesinatos y regresa a casa, cuando se entera que su madre murió. Él se ve obligado a confrontar a su padre distante y la vida que dejó atrás. Pero una pandilla local está aterrorizando la ciudad y John Henry es el único que puede detenerlos... La primera película de Jon Cassar se adhiere escrupulosamente a todas las reglas del género, lo que significa que la historia es totalmente predecible en lo dramático, pero también ofrece algunos de los placeres formales más elementales.",
+    "cover": "https://cuevana.pizza/resize/###/storage/27654/YAgStzuS4jGXXtd713aoLclomrnkEe6e6YcXgE17.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtZjBxMWxnZGp5czB3Lmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLW01YWdwcWtqYjN3dS5odG1s"
+            ]
+        },
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtdzRyM2MwaWE4MmR0Lmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLXh2dmhxNDV0eHgwaS5odG1s"
+            ]
+        }
+    ],
+    "downloads": []
+}

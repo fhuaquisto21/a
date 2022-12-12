@@ -1,0 +1,59 @@
+{
+    "url": "https://cuevana.pizza/pelicula/te-quiero-como-amigo",
+    "title": "Te Quiero Como Amigo",
+    "duration": "1h 28m",
+    "year": "2021",
+    "genres": [
+        "Comedia",
+        "Romance"
+    ],
+    "actors": [
+        "Mickaël Lumière",
+        "Manon Azem",
+        "Fadily Camara",
+        "Constance Arnoult",
+        "Éloïse Valli",
+        "Maxime Gasteuil",
+        "Bruno Sanches",
+        "Eva Danino"
+    ],
+    "description": "Thibault, un romántico optimista, cree que su suerte podría cambiar cuando las chispas vuelan entre él y Rose. ¿Pero conseguirá pasar de mejor amigo a novio?",
+    "cover": "https://cuevana.pizza/resize/###/storage/10899/NwORMLhQLFKR1znAU57zzzdoPhFswp1rsbaCcJtP.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtZ3hjcmVrbGZpM3Y3Lmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLWJseWFkMG4yem9tai5odG1s"
+            ]
+        },
+        {
+            "type": "cas",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtNmZzMWtrdHcyZ3cwLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLWlmNGR5c204cTF4eS5odG1s"
+            ]
+        },
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtcGtycG5kY2hyZzk4Lmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLTV5bnhha2xsYTY5MC5odG1s"
+            ]
+        }
+    ],
+    "downloads": [
+        {
+            "url": "https://1fichier.com/?2nuf4nabvivrnqhbs5bi",
+            "type": "la"
+        },
+        {
+            "url": "https://1fichier.com/?dczhmn4ho4690ft6cyvr",
+            "type": "es"
+        },
+        {
+            "url": "https://1fichier.com/?z7iwmdtnjectfyo04eot",
+            "type": "en"
+        }
+    ]
+}

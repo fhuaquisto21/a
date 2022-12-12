@@ -1,0 +1,56 @@
+{
+    "url": "https://cuevana.pizza/pelicula/the-discovery",
+    "title": "The Discovery",
+    "duration": "1h 50m",
+    "year": "2017",
+    "genres": [
+        "Drama",
+        "Misterio",
+        "Romance"
+    ],
+    "actors": [
+        "Jason Segel",
+        "Rooney Mara",
+        "Robert Redford",
+        "Jesse Plemons",
+        "Riley Keough",
+        "Ron Canada",
+        "Brian McCarthy",
+        "Kimleigh Smith",
+        "Richard O'Rourke",
+        "M.J. Karmi",
+        "Paul Bellefeuille",
+        "Adam Khaykin",
+        "Mary Steenburgen",
+        "Connor Ratliff",
+        "Willie C. Carpenter",
+        "Wendy Makkena",
+        "Lindsay Schnebly"
+    ],
+    "description": "En un futuro, tras demostrarse científicamente que hay vida después de la muerte, millones de personas de todo el mundo se suicidan para pasar a la otra vida. Un hombre y una mujer se enamoran mientras tratan de asimilar sus trágicos pasados y la verdadera naturaleza del más allá.",
+    "cover": "https://cuevana.pizza/resize/###/storage/27084/ycXeZsRrHtlsItsJMH5ScrXNczzXeRLJdlm2EG6D.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtNDBvM3Eza21qdzZnLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLXIzNXZucWNoeG9wei5odG1s"
+            ]
+        },
+        {
+            "type": "cas",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtaGNyMHJ6a3d4cXR1Lmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLWhoZTgwbnVtdGM3Zi5odG1s"
+            ]
+        },
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQteTVpY3Z3cjVtMzM2Lmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLWV5aDVheWN4ZTM0My5odG1s"
+            ]
+        }
+    ],
+    "downloads": []
+}

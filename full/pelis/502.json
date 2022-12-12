@@ -1,0 +1,52 @@
+{
+    "url": "https://cuevana.pizza/pelicula/prometheus",
+    "title": "Prometheus",
+    "duration": "2h 4m",
+    "year": "2012",
+    "genres": [
+        "Misterio",
+        "Ciencia Ficcion",
+        "Aventura"
+    ],
+    "actors": [
+        "Noomi Rapace",
+        "Michael Fassbender",
+        "Logan Marshall-Green",
+        "Charlize Theron",
+        "Idris Elba",
+        "Guy Pearce",
+        "Sean Harris",
+        "Rafe Spall",
+        "Kate Dickie",
+        "Benedict Wong",
+        "Emun Elliott",
+        "Patrick Wilson",
+        "Ian Whyte",
+        "Lucy Hutchinson",
+        "Branwell Donaghey",
+        "Vladimir Furdik",
+        "C.C. Smiff",
+        "Shane Steyn",
+        "John Lebar",
+        "Anil Biltoo"
+    ],
+    "description": "Un grupo de científicos y exploradores emprende un viaje espacial a un remoto planeta, en el que sus límites físicos y mentales serán puestos a prueba. El motivo de la misión es que los humanos creen que allá podrán encontrar las respuestas a las preguntas más profundas y al mayor de los misterios: el origen de la vida en la Tierra.",
+    "cover": "https://cuevana.pizza/resize/###/storage/50899/7NZMxvxJo2mKiJ9KlIl1bI4YNUDQ127iISwsjFlp.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtMHlzaXN2Y2N1dzBwLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLXg5aHVkMXczNnNhNi5odG1s"
+            ]
+        },
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtZno5NThqY3RvdTcyLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLWlzdzh0NHRkMzF6ZC5odG1s"
+            ]
+        }
+    ],
+    "downloads": []
+}

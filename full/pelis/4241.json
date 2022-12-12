@@ -1,0 +1,43 @@
+{
+    "url": "https://cuevana.pizza/pelicula/vampz",
+    "title": "Vampz!",
+    "duration": "1h 15m",
+    "year": "2019",
+    "genres": [
+        "Comedia",
+        "Terror"
+    ],
+    "actors": [
+        "Lilly Lumière",
+        "Christal Renee",
+        "Denis Ark"
+    ],
+    "description": "Un aspirante a vampiro debe formar equipo con su tonta y nueva compañera de cuarto y un cazador de vampiros enloquecido para frustrar los despreciables planes de un enemigo inesperado.",
+    "cover": "https://cuevana.pizza/resize/###/storage/21010/0cqk4v5AH9ETSEeAfqbR0FLuOkYUvKKqU9FM94nE.jpg",
+    "players": [
+        {
+            "type": "cas",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtbXpxOTdpZ2NyaWZwLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLW0yenNxdXAxMHhrai5odG1s"
+            ]
+        },
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQta3h0bHlsaGFkdWMxLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLWFjZGZ2djNsNjkwYy5odG1s"
+            ]
+        }
+    ],
+    "downloads": [
+        {
+            "url": "https://1fichier.com/?w2fz5dpkrugpk6ij7ire",
+            "type": "es"
+        },
+        {
+            "url": "https://1fichier.com/?kocmh30ly5d2scz6u1gt",
+            "type": "en"
+        }
+    ]
+}

@@ -1,0 +1,61 @@
+{
+    "url": "https://cuevana.pizza/pelicula/el-tubo",
+    "title": "El tubo",
+    "duration": "1h 30m",
+    "year": "2021",
+    "genres": [
+        "Drama",
+        "Suspenso",
+        "Terror",
+        "Ciencia Ficcion"
+    ],
+    "actors": [
+        "Gaia Weiss",
+        "Peter Franzén",
+        "Romane Libert",
+        "Frédéric Franchitti",
+        "Corneliu Dragomirescu",
+        "Eva Niewdanski",
+        "Carl Laforêt",
+        "Fabien Houssaye"
+    ],
+    "description": "Una mujer se despierta dentro de un lugar con extraños conductos y con un brazalete que le va marcando el tiempo de las sucesivas pruebas que tiene que superar para salvar su vida.",
+    "cover": "https://cuevana.pizza/resize/###/storage/19522/yCBBnQo1sKtOdW9yz2GFr406KfcyeX3ngdRcLY4G.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtNGZva28wYWJ1bHZqLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLWVtcDQ4MDhkb3Yxcy5odG1s"
+            ]
+        },
+        {
+            "type": "cas",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtaXk2cnQ3amc3ZXd1Lmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLW4wNnhhbTljOWl6OC5odG1s"
+            ]
+        },
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtdGhmczlnYWQ0cmEzLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLTNjbTdxZ3hqbmFhYi5odG1s"
+            ]
+        }
+    ],
+    "downloads": [
+        {
+            "url": "https://1fichier.com/?taup0y29roc11eu9qsym",
+            "type": "la"
+        },
+        {
+            "url": "https://1fichier.com/?avsh0j99kds7wzvtfyee",
+            "type": "es"
+        },
+        {
+            "url": "https://1fichier.com/?g8a5k0cmi5sux0dhso18",
+            "type": "en"
+        }
+    ]
+}

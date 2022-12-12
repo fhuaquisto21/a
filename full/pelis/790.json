@@ -1,0 +1,39 @@
+{
+    "url": "https://cuevana.pizza/pelicula/peter-pan-movie",
+    "title": "Peter Pan",
+    "duration": "1h 17m",
+    "year": "1953",
+    "genres": [
+        "Aventura",
+        "Fantasia",
+        "Familia",
+        "Animacion",
+        "Disney"
+    ],
+    "actors": [
+        "Bobby Driscoll",
+        "Kathryn Beaumont",
+        "Hans Conried",
+        "Bill Thompson",
+        "Heather Angel",
+        "Paul Collins",
+        "Tommy Luske",
+        "Candy Candido",
+        "Tom Conway",
+        "June Foray",
+        "Margaret Kerry",
+        "Jeffrey Silver"
+    ],
+    "description": "Uno de los grandes clásicos de la factoría Walt Disney, que relata las aventuras en el País de Nunca Jamás de Peter Pan, su compañera Campanilla, su amiga Wendy y los Niños Perdidos, en su lucha contra el malvado Capitán Garfio.",
+    "cover": "https://cuevana.pizza/resize/###/storage/46388/ecFZoSmPBSHlyjYPf1CDyo1lcS9NPvdkSNxIhUHl.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtem04cWhhNHFmNm1sLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLWczMWV3MnE5MHZjOC5odG1s"
+            ]
+        }
+    ],
+    "downloads": []
+}

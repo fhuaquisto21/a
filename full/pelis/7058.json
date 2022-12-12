@@ -1,0 +1,42 @@
+{
+    "url": "https://cuevana.pizza/pelicula/the-darkest-dawn",
+    "title": "The Darkest Dawn",
+    "duration": "1h 16m",
+    "year": "2016",
+    "genres": [
+        "Ciencia Ficcion"
+    ],
+    "actors": [
+        "Bethan Mary Leadley",
+        "Cherry Wallis",
+        "Stuart Ashen",
+        "Drew Casson",
+        "Jamie Paul",
+        "Mawaan Rizwan",
+        "Georgia Bradley",
+        "Tom Scarlett",
+        "Sam Carter",
+        "Paul Neafcy",
+        "Lee Kelly",
+        "Colin Murtagh"
+    ],
+    "description": "Una aspirante a cineasta graba el caos de una invasión alienígena mientras intenta mantenerse con vida junto a su hermana y un turbulento grupo de supervivientes.",
+    "cover": "https://cuevana.pizza/resize/###/storage/28227/qnCEpBQwF4b8FgSxGVNBlUikNecDgFTQOcEW1gZn.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtanhhYnRpMWVkbDlxLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLWU1Z21leGxxNnl5MC5odG1s"
+            ]
+        },
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtZ3dpZ2N6Nmc0Y201Lmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLTdycXV6NzU0Nm95ZS5odG1s"
+            ]
+        }
+    ],
+    "downloads": []
+}

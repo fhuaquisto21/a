@@ -1,0 +1,63 @@
+{
+    "url": "https://cuevana.pizza/pelicula/llamame-por-tu-nombre",
+    "title": "Llámame por tu nombre",
+    "duration": "2h 10m",
+    "year": "2017",
+    "genres": [
+        "Drama",
+        "Romance"
+    ],
+    "actors": [
+        "Timothée Chalamet",
+        "Armie Hammer",
+        "Michael Stuhlbarg",
+        "Amira Casar",
+        "Esther Garrel",
+        "Victoire Du Bois",
+        "Vanda Capriolo",
+        "Antonio Rimoldi",
+        "Elena Bucci",
+        "Marco Sgrosso",
+        "André Aciman",
+        "Peter Spears"
+    ],
+    "description": "Elio Perlman (Timothée Chalamet), un joven de 17 años, pasa el cálido y soleado verano de 1983 en la casa de campo de sus padres en el norte de Italia. Se pasa el tiempo holgazaneando, escuchando música, leyendo libros y nadando hasta que un día el nuevo ayudante americano de su padre llega a la gran villa. Oliver (Armie Hammer) es encantador y, como Elio, tiene raíces judías; también es joven, seguro de sí mismo y atractivo. Al principio Elio se muestra algo frío y distante hacia el joven, pero pronto ambos empiezan a salir juntos de excursión y, conforme el verano avanza, la atracción mutua de la pareja se hace más intensa.",
+    "cover": "https://cuevana.pizza/resize/###/storage/16130/DWzTd4OFdrWdv94lTHeFoOZMMHTkT6peMKTrSscY.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtM3Btd2N1NDhuZHM2Lmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLXpxcmFwZHMwbWd1bC5odG1s"
+            ]
+        },
+        {
+            "type": "cas",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtM211ZGx2dnFwbWF3Lmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLTR0c3lvMXFvZzIycC5odG1s"
+            ]
+        },
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtZ2hwdHoya3g4YmJnLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLThodHU3MXlqcXJ2Yy5odG1s"
+            ]
+        }
+    ],
+    "downloads": [
+        {
+            "url": "https://1fichier.com/?dqiqelwh7v",
+            "type": "la"
+        },
+        {
+            "url": "https://1fichier.com/?qyqykdf2so",
+            "type": "es"
+        },
+        {
+            "url": "https://1fichier.com/?2emu1y1r11",
+            "type": "en"
+        }
+    ]
+}

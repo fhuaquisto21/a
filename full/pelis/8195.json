@@ -1,0 +1,59 @@
+{
+    "url": "https://cuevana.pizza/pelicula/el-senor-de-los-anillos-la-comunidad-del-anillo",
+    "title": "El señor de los anillos: La comunidad del anillo",
+    "duration": "2h 59m",
+    "year": "2001",
+    "genres": [
+        "Drama",
+        "Aventura",
+        "Fantasia"
+    ],
+    "actors": [
+        "Elijah Wood",
+        "Ian McKellen",
+        "Liv Tyler",
+        "Viggo Mortensen",
+        "Sean Bean",
+        "Sean Astin",
+        "Cate Blanchett",
+        "John Rhys-Davies",
+        "Billy Boyd",
+        "Dominic Monaghan",
+        "Orlando Bloom",
+        "Christopher Lee",
+        "Hugo Weaving",
+        "Ian Holm",
+        "Andy Serkis",
+        "Márton Csókás",
+        "Craig Parker",
+        "Lawrence Makoare",
+        "Alan Howard",
+        "Noel Appleby"
+    ],
+    "description": "En la Tierra Media, el Señor Oscuro Saurón creó los Grandes Anillos de Poder, forjados por los herreros Elfos. Tres para los reyes Elfos, siete para los Señores Enanos, y nueve para los Hombres Mortales. Secretamente, Saurón también forjó un anillo maestro, el Anillo Único, que contiene en sí el poder para esclavizar a toda la Tierra Media. Con la ayuda de un grupo de amigos y de valientes aliados, Frodo emprende un peligroso viaje con la misión de destruir el Anillo Único. Pero el Señor Oscuro Sauron, quien creara el Anillo, envía a sus servidores para perseguir al grupo. Si Sauron lograra recuperar el Anillo, sería el final de la Tierra Media.",
+    "cover": "https://cuevana.pizza/resize/###/storage/19550/QOzK0JRJpfjDDtntyq530ZCiNgazWE5Ff5AwCHpD.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQteXIza3I2aHpzNzdxLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLTVmeTdjeGprazVmbS5odG1s"
+            ]
+        },
+        {
+            "type": "cas",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtMnV1OTl4dHZnZTIxLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLWNicjF4amRibHNsYy5odG1s"
+            ]
+        },
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtdGNwd3VrM3UyeWRkLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLWpwNGp3aWpnOXppcy5odG1s"
+            ]
+        }
+    ],
+    "downloads": []
+}

@@ -1,0 +1,43 @@
+{
+    "url": "https://cuevana.pizza/pelicula/foxtrot",
+    "title": "Foxtrot",
+    "duration": "1h 53m",
+    "year": "2017",
+    "genres": [
+        "Drama"
+    ],
+    "actors": [
+        "Lior Ashkenazi",
+        "Sarah Adler",
+        "Shira Haas",
+        "Yonaton Shiray"
+    ],
+    "description": "En el Israel de nuestros días, un matrimonio con problemas recibe la noticia de que el hijo ha muerto en el frente. Tras el luto, la mala nueva se descubre que es falsa. Una confusión de nombres...",
+    "cover": "https://cuevana.pizza/resize/###/storage/41336/7MGEHtGsZF1vbAr8vl38hsNMv44Ed0W9aDCtrClm.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtdTlycjg0MmV1dmhnLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLXVpazlvdzN1N3kxOS5odG1s"
+            ]
+        },
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtbHhiOGZibWJyYWdvLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLW93NnA2OTdlOWg0ci5odG1s"
+            ]
+        }
+    ],
+    "downloads": [
+        {
+            "url": "https://1fichier.com/?4ucpktw8fuz7zilt6c0m",
+            "type": "la"
+        },
+        {
+            "url": "https://1fichier.com/?4ahkdkqmk5wav1o7e9hu",
+            "type": "en"
+        }
+    ]
+}

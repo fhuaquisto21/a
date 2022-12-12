@@ -1,0 +1,51 @@
+{
+    "url": "https://cuevana.pizza/pelicula/el-angel-de-la-muerte",
+    "title": "El ángel de la muerte",
+    "duration": "2h 1m",
+    "year": "2022",
+    "genres": [
+        "Drama",
+        "Misterio",
+        "Crimen"
+    ],
+    "actors": [
+        "Jessica Chastain",
+        "Eddie Redmayne",
+        "Noah Emmerich",
+        "Nnamdi Asomugha",
+        "Kim Dickens",
+        "Devyn McDowell",
+        "Ajay Naidu",
+        "Maria Dizzia",
+        "Malik Yoba",
+        "Marcia Jean Kurtz",
+        "Gina Jun",
+        "Brooke Stacy Mills",
+        "Anjelica Bosboom",
+        "Rebecca Watson",
+        "Maurice J. Irvin",
+        "Victor Cruz",
+        "Jennifer Regan",
+        "Andrew James Bleidner",
+        "Shaun O'Hagan"
+    ],
+    "description": "Charlie Cullen es un enfermero considerado uno de los asesinos en serie más prolíficos de la historia. Bajo el apodo \"Ángel de la Muerte\", Cullen era un padre y marido que se ganaba la vida como cuidador. Su secreta afición de arrebatar vidas le llevó a estar implicado en la muerte de hasta 300 personas, repartidas entre nueve hospitales de las ciudades de Nueva Jersey y Pensilvania a lo largo de 16 años.",
+    "cover": "https://cuevana.pizza/resize/###/storage/55997/CHk3XsAzOBPALfhpOmupIK65b1sinUwUwXb5jcTs.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtbm4yeXIwNHNibmwwLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLWN5Z2txZDFzbjVhNS5odG1s"
+            ]
+        },
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtOTV2OGhhd2ZibGxqLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLXc0c3huMm40YThqZy5odG1s"
+            ]
+        }
+    ],
+    "downloads": []
+}

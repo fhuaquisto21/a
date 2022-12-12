@@ -1,0 +1,55 @@
+{
+    "url": "https://cuevana.pizza/pelicula/shut-in",
+    "title": "Shut In",
+    "duration": "1h 30m",
+    "year": "2022",
+    "genres": [
+        "Suspenso",
+        "Terror"
+    ],
+    "actors": [
+        "Rainey Qualley",
+        "Vincent Gallo",
+        "Jake Horowitz",
+        "Luciana VanDette"
+    ],
+    "description": "Una joven madre soltera es cautiva junto con sus dos hijos por un ex violento y debe planear su escape antes de que sea demasiado tarde.",
+    "cover": "https://cuevana.pizza/resize/###/storage/19341/5YwLCKurmU9y59tyF2Btcn1B0Xsc4wk4ubHLPtWF.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtZWwzeHplamhnaG40Lmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLWtlcnNrd29xODloby5odG1s"
+            ]
+        },
+        {
+            "type": "cas",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtZTBvYWdiZjYyeGUyLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLTBnbWNwdTRhZHRsbi5odG1s"
+            ]
+        },
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtY3NxaGVsY3FuMWFqLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLWJ4eTNkaDE2Yndzcy5odG1s"
+            ]
+        }
+    ],
+    "downloads": [
+        {
+            "url": "https://1fichier.com/?xkgq0k7h2yodyo7m90g8",
+            "type": "la"
+        },
+        {
+            "url": "https://1fichier.com/?yain59w3h0gwcucyb2yf",
+            "type": "es"
+        },
+        {
+            "url": "https://1fichier.com/?e6h3qtosqf5kh5kjzfmq",
+            "type": "en"
+        }
+    ]
+}

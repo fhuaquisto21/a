@@ -1,0 +1,72 @@
+{
+    "url": "https://cuevana.pizza/pelicula/300",
+    "title": "300",
+    "duration": "1h 57m",
+    "year": "2007",
+    "genres": [
+        "Accion",
+        "Aventura",
+        "Belica"
+    ],
+    "actors": [
+        "Gerard Butler",
+        "Lena Headey",
+        "Dominic West",
+        "David Wenham",
+        "Vincent Regan",
+        "Michael Fassbender",
+        "Tom Wisdom",
+        "Stephen McHattie",
+        "Andrew Tiernan",
+        "Andrew Pleavin",
+        "Rodrigo Santoro",
+        "Giovani Cimmino",
+        "Tyler Neitzel",
+        "Eli Snyder",
+        "Tim Connolly",
+        "Marie-Julie Rivest",
+        "Peter Mensah",
+        "Arthur Holden",
+        "Michael Sinelnikoff",
+        "Kelly Craig"
+    ],
+    "description": "Adaptación del cómic de Frank Miller (autor del cómic 'Sin City') sobre la famosa batalla de las Termópilas (480 a.C.). El objetivo de Jerjes, emperador de Persia, era la conquista de Grecia, lo que desencadenó las Guerras Médicas. Dada la gravedad de la situación, el rey Leónidas de Esparta (Gerard Butler) y 300 espartanos se enfrentaron a un ejército persa que era inmensamente superior.",
+    "cover": "https://cuevana.pizza/resize/###/storage/20781/pjW4QvVfGLsEKJLYphNFWaGncfOHM5tCptptYDi9.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtNTVhdHY3OWMwaTNnLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLWFmamkwaXJlbjlvMS5odG1s"
+            ]
+        },
+        {
+            "type": "cas",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtOWk0eGphdjhmcG8wLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLTFwYWc5dHIxbDAxOS5odG1s"
+            ]
+        },
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtenlsbGo3ZXl4cmlvLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLXplNjhwYXNhdjA4Zy5odG1s"
+            ]
+        }
+    ],
+    "downloads": [
+        {
+            "url": "https://1fichier.com/?aa9zb5w3mq02sbpygm5f",
+            "type": "la"
+        },
+        {
+            "url": "https://1fichier.com/?tlb4es19cpq8dj73cwlw",
+            "type": "es"
+        },
+        {
+            "url": "https://1fichier.com/?fpiexl3g51wu9uw46x0r",
+            "type": "en"
+        }
+    ]
+}

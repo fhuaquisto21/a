@@ -1,0 +1,36 @@
+{
+    "url": "https://cuevana.pizza/pelicula/the-incredible-burt-wonderstone",
+    "title": "El increíble Burt Wonderstone",
+    "duration": "1h 40m",
+    "year": "2013",
+    "genres": [
+        "Comedia",
+        "Aventura",
+        "Fantasia"
+    ],
+    "actors": [
+        "Jim Carrey",
+        "Olivia Wilde",
+        "Steve Buscemi",
+        "Steve Carell"
+    ],
+    "description": "Burt Wonderstone, un convencional mago de Las Vegas, está pasando un mal momento: acaba de romper una larga relación romántica con su pareja en el escenario y, por si fuera poco, un nuevo ilusionista, que hace trucos más espectaculares y peligrosos, amenaza con destronarlo.",
+    "cover": "https://cuevana.pizza/resize/###/storage/16053/oQ1rNwD63xtql3j3C4XixFGybYyxjJRVGn5l2ZuE.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtMHVnOHJ3cWI0d3hpLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLXBxYWxxbnJsZTlqbi5odG1s"
+            ]
+        },
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtMDVweHJ4bXN4amF4Lmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLXZtYml5c2xoZXVqMC5odG1s"
+            ]
+        }
+    ],
+    "downloads": []
+}

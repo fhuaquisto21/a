@@ -1,0 +1,48 @@
+{
+    "url": "https://cuevana.pizza/pelicula/i-am-mother",
+    "title": "I Am Mother",
+    "duration": "1h 55m",
+    "year": "2019",
+    "genres": [
+        "Suspenso",
+        "Ciencia Ficcion"
+    ],
+    "actors": [
+        "Clara Rugaard",
+        "Hilary Swank",
+        "Rose Byrne",
+        "Luke Hawker",
+        "Tahlia Sturzaker",
+        "Maddie Lenton",
+        "Hazel Sandery",
+        "Summer Lenton",
+        "Jacob Nolan",
+        "Tracy Britton"
+    ],
+    "description": "Una adolescente (Rugaard) es criada es un refugio subterráneo por una madre robot que ha sido diseñada para repoblar la Tierra en caso de que se produjese una catástrofe. El vínculo entre ambas se ve amenazado cuando la joven lleva a su casa a una desconocida ensangrentada (Swank) que pone en tela de juicio todo lo que su madre robótica le ha enseñado sobre el mundo exterior. La adolescente tendrá que averiguar cuál de las dos dice la verdad para poder tomar una decisión con respecto a su futuro.",
+    "cover": "https://cuevana.pizza/resize/###/storage/20420/1auXcdQZy7iI2OiZUMu6zLxTVBekLmv1MBpjdJl5.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtMG16ZWtkZHIzc2p6Lmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLWs5ejNjZWF2Yzdydy5odG1s"
+            ]
+        },
+        {
+            "type": "cas",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtdDYxNm5xNnlmbHhyLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLWhvdnFpZjFvZmd4cy5odG1s"
+            ]
+        },
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtcmxhMm1xem5vbmZ6Lmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLWJ5NWI2ZmU0NDNrdi5odG1s"
+            ]
+        }
+    ],
+    "downloads": []
+}

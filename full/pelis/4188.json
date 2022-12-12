@@ -1,0 +1,53 @@
+{
+    "url": "https://cuevana.pizza/pelicula/el-viaje-de-chihiro",
+    "title": "El viaje de Chihiro",
+    "duration": "2h 2m",
+    "year": "2001",
+    "genres": [
+        "Fantasia",
+        "Familia",
+        "Animacion",
+        "Anime"
+    ],
+    "actors": [
+        "Rumi Hiiragi",
+        "Miyu Irino",
+        "Mari Natsuki",
+        "Takashi Naitō",
+        "Yasuko Sawaguchi",
+        "Tatsuya Gashûin",
+        "Ryûnosuke Kamiki",
+        "Yumi Tamai",
+        "Yo Oizumi",
+        "Koba Hayashi",
+        "Tsunehiko Kamijô",
+        "Takehiko Ono",
+        "Bunta Sugawara",
+        "Shigeru Wakita",
+        "Shiro Saito",
+        "Michiko Yamamoto",
+        "Keiko Tsukamoto",
+        "Akio Nakamura",
+        "Shinji Tokumaru",
+        "Kaori Yamagata"
+    ],
+    "description": "Chihiro es una niña de diez años que está mudándose con sus padres a un nuevo hogar. Por el camino, la familia se topa con un enorme edificio rojo en cuyo centro se abre un largo túnel. Al otro lado del pasadizo se dibuja una ciudad fantasma. En el restaurante abandonado de esta ciudad, los padres de Chihiro encuentran una gran variedad de platos deliciosos y deciden quedarse a comer, pero, al probar bocado, se transforman en cerdos. Presa del pánico, Chihiro huye y empieza a desmaterializarse poco a poco. El enigmático Haku le explicará el funcionamiento del universo en el que ha caído. Para salvar a sus padres, la niña tendrá que enfrentarse a la terrible Yubaba, que tiene el aspecto de una arpía diabólica.",
+    "cover": "https://cuevana.pizza/resize/###/storage/24476/v8kurY4liH5guJsD2SVPavJwcMFlCdk9EuLpFJgk.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtcHA5anF6c2Z2b280Lmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLW4xMDU2eTJpY2xxMS5odG1s"
+            ]
+        },
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtOW42dHlxZW1ka2dwLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLThrd3hybHYzN2o4MS5odG1s"
+            ]
+        }
+    ],
+    "downloads": []
+}

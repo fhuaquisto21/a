@@ -1,0 +1,49 @@
+{
+    "url": "https://cuevana.pizza/pelicula/scooby-doo-y-el-franken-monstruo",
+    "title": "Scooby Doo y el Franken Monstruo",
+    "duration": "1h 11m",
+    "year": "2014",
+    "genres": [
+        "Comedia",
+        "Misterio",
+        "Familia",
+        "Animacion"
+    ],
+    "actors": [
+        "Casey Kasem",
+        "John Stephenson",
+        "Grey DeLisle",
+        "Matthew Lillard",
+        "Frank Welker",
+        "Mindy Cohn",
+        "Dee Bradley Baker",
+        "Diedrich Bader",
+        "Susanne Blakeslee",
+        "Eric Bauza",
+        "Jeff Bennett",
+        "Fred Tatasciore",
+        "Kevin Michael Richardson",
+        "Corey Burton",
+        "Candi Milo",
+        "Kevin Michael Richardson"
+    ],
+    "description": "Cuando la pandilla de Scooby visita el extraño pueblo de Transylvania, Pennsylvania, se ven envueltos en una lucha contra un monstruo parecido a Frankenstein que se asemeja a malhechores del pasado.",
+    "cover": "https://cuevana.pizza/resize/###/storage/44602/G7z9YYlpi2EeKq1xZ4ZFxlov3QVNCcUeb3IAcuuJ.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtcWl2ZTFxbmM1bWhiLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLXNwYWNmZ3o1dnY2bS5odG1s"
+            ]
+        },
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtNjZlb29vcngzeGg3Lmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLWF3em8wc2NmdmF1bS5odG1s"
+            ]
+        }
+    ],
+    "downloads": []
+}

@@ -1,0 +1,61 @@
+{
+    "url": "https://cuevana.pizza/pelicula/surge",
+    "title": "Surge",
+    "duration": "1h 41m",
+    "year": "2020",
+    "genres": [
+        "Drama",
+        "Suspenso"
+    ],
+    "actors": [
+        "Ben Whishaw",
+        "Ellie Haddington",
+        "Ian Gelder",
+        "Jasmine Jobson",
+        "Daniel Renton Skinner",
+        "Laurence Spellman",
+        "Chris Coghill",
+        "Hammed Animashaun",
+        "Robin Pearce",
+        "Perry Fitzpatrick"
+    ],
+    "description": "Un hombre emprende un viaje audaz e imprudente de autoliberación por Londres. Después de robar un banco, libera una versión más salvaje de sí mismo, y finalmente experimenta lo que se siente estar vivo.",
+    "cover": "https://cuevana.pizza/resize/###/storage/20911/35m63wP6lhi4e10bWrkg1wiaQfNxNJxvO0GLUGCr.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtNTk0a3QzcmszbTcxLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLXYyOGFiY2dpY3Zuay5odG1s"
+            ]
+        },
+        {
+            "type": "cas",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtZHJvNmJyeWEzcjJoLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLWMxbHA4aDNtaWRpMC5odG1s"
+            ]
+        },
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtNDBmN2dxeGphem0wLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLXIxMmF2cmg5dzAyMS5odG1s"
+            ]
+        }
+    ],
+    "downloads": [
+        {
+            "url": "https://1fichier.com/?36rvvnrarfmkssjhlieb",
+            "type": "la"
+        },
+        {
+            "url": "https://1fichier.com/?bnw024fbnoaquoabp4ke",
+            "type": "es"
+        },
+        {
+            "url": "https://1fichier.com/?8esfuxdmyb0691ccfzw7",
+            "type": "en"
+        }
+    ]
+}

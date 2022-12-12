@@ -1,0 +1,51 @@
+{
+    "url": "https://cuevana.pizza/pelicula/trial-by-fire",
+    "title": "El Caso Willingham",
+    "duration": "2h 7m",
+    "year": "2019",
+    "genres": [
+        "Drama",
+        "Biografia"
+    ],
+    "actors": [
+        "Jack O'Connell",
+        "Laura Dern",
+        "Emily Meade",
+        "Jade Pettyjohn",
+        "Rhoda Griffis",
+        "Blair Bomar",
+        "McKinley Belcher III",
+        "Catherine Carlen",
+        "Noah Lomax",
+        "Whitney Goin",
+        "Anthony Reynolds",
+        "Blake Lewis",
+        "Jeff Perry",
+        "Chris Coy",
+        "Wayne Pére",
+        "Carlos Gómez",
+        "Carrie Walrond Hood",
+        "Elle Graham",
+        "Jason Douglas",
+        "Katie McClellan"
+    ],
+    "description": "Basada en hechos reales, Tire By Fire, cuenta la trágica y controvertida historia de Cameron Todd Willingham, un hombre que fue condenado por triple homicidio durante un incendio declarado intencionado. Fue ejecutado en Texas en el corredor de la muerte, donde pasó doce años.",
+    "cover": "https://cuevana.pizza/resize/###/storage/26027/NU8QTtijPJiDByfpaNIdQ7vnuOQP1VvrclCy9HeQ.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtc284MnZlY3cwbTd3Lmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLTI5Y2o3dmZlZmp6dS5odG1s"
+            ]
+        },
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtNDVpOGkwZXZtendrLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLXZ5M2o2eWtqMnoyMy5odG1s"
+            ]
+        }
+    ],
+    "downloads": []
+}

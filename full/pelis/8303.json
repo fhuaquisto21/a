@@ -1,0 +1,36 @@
+{
+    "url": "https://cuevana.pizza/pelicula/psicosis",
+    "title": "Psicosis",
+    "duration": "1h 49m",
+    "year": "1960",
+    "genres": [
+        "Drama",
+        "Suspenso",
+        "Terror"
+    ],
+    "actors": [
+        "Anthony Perkins",
+        "Janet Leigh",
+        "John Gavin",
+        "Vera Miles"
+    ],
+    "description": "Una joven secretaria, tras cometer un robo en su empresa, huye de la ciudad y, después de conducir durante horas, decide descansar en un pequeño motel de carretera regentado por un tímido joven llamado Norman. Todo parece normal y tranquilo tanto en el apartado motel como en la casa de al lado en la que viven Norman y su madre, pero las cosas no son lo que parecen.",
+    "cover": "https://cuevana.pizza/resize/###/storage/30183/8DpdiiSMWHSyVYThastX5L0far03Ra6mtGKrj8MP.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtcW9oNHEyZG5pbnU3Lmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLTAwcXVodWlsaXVvYy5odG1s"
+            ]
+        },
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtOHdoZDg4bmpsbXZyLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLXczb2YycnNnZmRybC5odG1s"
+            ]
+        }
+    ],
+    "downloads": []
+}

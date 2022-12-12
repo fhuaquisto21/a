@@ -1,0 +1,60 @@
+{
+    "url": "https://cuevana.pizza/pelicula/blue-bayou",
+    "title": "Blue Bayou",
+    "duration": "1h 59m",
+    "year": "2021",
+    "genres": [
+        "Drama"
+    ],
+    "actors": [
+        "Justin Chon",
+        "Alicia Vikander",
+        "Mark O'Brien",
+        "Linh Đan Phạm",
+        "Sydney Kowalske",
+        "Vondie Curtis-Hall",
+        "Emory Cohen",
+        "Geraldine Singer",
+        "Toby Vitrano",
+        "Altonio Jackson"
+    ],
+    "description": "En Luisiana, un hombre adulto de nombre Antonio, coreano adoptado y criado en Estados Unidos, se ve obligado a enfrentarse a su pasado -y lo que significa para su propio futuro y el de su familia- cuando de manera inesperada se enfrenta a la deportación.",
+    "cover": "https://cuevana.pizza/resize/###/storage/11161/XqjhCxaXB1K54rARgCKt58ETGxM09dRQYdDBGCnZ.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtNTVxc3F0dTFvdmw4Lmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLWw0c3Ntc2Y3M2Q2bC5odG1s"
+            ]
+        },
+        {
+            "type": "cas",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtenBoYWswN3g4eGdxLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLWE3YXl3aG1rZmlndC5odG1s"
+            ]
+        },
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtcnFvNm1qNnJsbDFkLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLXkydXJmcm9tdDYzei5odG1s"
+            ]
+        }
+    ],
+    "downloads": [
+        {
+            "url": "https://1fichier.com/?6csl153hebxhpjh1vrl0",
+            "type": "la"
+        },
+        {
+            "url": "https://1fichier.com/?wmb6jxd6mf9s89ihoujy",
+            "type": "es"
+        },
+        {
+            "url": "https://1fichier.com/?tmre6jp6xecxjgepsue6",
+            "type": "en"
+        }
+    ]
+}

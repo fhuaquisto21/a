@@ -1,0 +1,43 @@
+{
+    "url": "https://cuevana.pizza/pelicula/el-ultimo-crucero",
+    "title": "El último crucero",
+    "duration": "40m",
+    "year": "2021",
+    "genres": [
+        "Documental"
+    ],
+    "actors": [
+        "Cheryl Molesky",
+        "Kent Frasure",
+        "Paul Molesky",
+        "Rebecca Frasure"
+    ],
+    "description": "Relato en primera persona de lo ocurrido a bordo del crucero Diamond Princess, que zarpó de Yokohama en los primeros días de la pandemia del COVID-19 y acarreó el primer y mayor brote de la enfermedad fuera de China.",
+    "cover": "https://cuevana.pizza/resize/###/storage/6401/y5pF2osey7SjknMHjJldXZlsKP6e968oubn6Qq8n.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtMDV3MGt5d2NkaW5vLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLTNkZWdvN3Z1c2lxbC5odG1s"
+            ]
+        },
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtcXNtZmZmMDRqMGM4Lmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLTh3YXUzcHE5OXRmby5odG1s"
+            ]
+        }
+    ],
+    "downloads": [
+        {
+            "url": "https://1fichier.com/?769a94qmh7nrwh645afg",
+            "type": "la"
+        },
+        {
+            "url": "https://1fichier.com/?ij79u28hlbrj6opzuovh",
+            "type": "en"
+        }
+    ]
+}

@@ -1,0 +1,71 @@
+{
+    "url": "https://cuevana.pizza/pelicula/carol",
+    "title": "Carol",
+    "duration": "1h 58m",
+    "year": "2015",
+    "genres": [
+        "Drama",
+        "Romance"
+    ],
+    "actors": [
+        "Rooney Mara",
+        "Cate Blanchett",
+        "Kyle Chandler",
+        "Sarah Paulson",
+        "Jake Lacy",
+        "John Magaro",
+        "Cory Michael Smith",
+        "Carrie Brownstein",
+        "Kevin Crowley",
+        "Nik Pajic",
+        "Trent Rowland",
+        "Sadie Heim",
+        "Kk Heim",
+        "Amy Warner",
+        "Michael Haney",
+        "Wendy Lardin",
+        "Pamela Evans Haynes",
+        "Greg Violand",
+        "Kay Geiger",
+        "Christine Dye"
+    ],
+    "description": "Nueva York, años 50. Therese Belivet es una joven dependienta de una tienda de Manhattan que sueña con una vida mejor cuando un día conoce a Carol Aird, una mujer elegante y sofisticada que se encuentra atrapada en un matrimonio infeliz. Entre ellas surge una conexión inmediata que irá haciéndose más intensa y profunda, cambiando la vida de ambas para siempre.",
+    "cover": "https://cuevana.pizza/resize/###/storage/26760/rmC9H4vimsuHQ3faTf8rgsTOeu1Sv8Zl0xVGBeAm.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtM2p3a2NuYXQ0eThtLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLXpxNjB1bGE2aXgzai5odG1s"
+            ]
+        },
+        {
+            "type": "cas",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtYnAxdjZ4Yzh2NzllLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLWczZnBmMnM2c3h2by5odG1s"
+            ]
+        },
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtcG02aWZuZ3llZWxqLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLTE4aGVseW5zd3JleS5odG1s"
+            ]
+        }
+    ],
+    "downloads": [
+        {
+            "url": "https://1fichier.com/?83riayvzs508vi0f1w98",
+            "type": "la"
+        },
+        {
+            "url": "https://1fichier.com/?hpjzf903raq4huq9vdnh",
+            "type": "es"
+        },
+        {
+            "url": "https://1fichier.com/?1f48j4l3hfd4eyf9u5pt",
+            "type": "en"
+        }
+    ]
+}

@@ -1,0 +1,52 @@
+{
+    "url": "https://cuevana.pizza/pelicula/hangman",
+    "title": "El juego del ahorcado",
+    "duration": "2h 0m",
+    "year": "2017",
+    "genres": [
+        "Misterio",
+        "Suspenso",
+        "Crimen"
+    ],
+    "actors": [
+        "Al Pacino",
+        "Karl Urban",
+        "Brittany Snow",
+        "Sarah Shahi",
+        "Joe Anderson",
+        "Sloane Warren",
+        "Chelle Ramos",
+        "Steve Coulter",
+        "Michael Rose",
+        "Katelyn Farrugia",
+        "Edgar Zanabria",
+        "Matt Mercurio",
+        "Dwayne Boyd",
+        "Scott Parks",
+        "Jermaine Rivers",
+        "Garrick Parks",
+        "Patrick Erickson",
+        "Kalae Chock",
+        "Jenny Martin",
+        "Odessa Rae"
+    ],
+    "description": "Archer es un detective de homicidios (Al Pacino) que se une a un detective de crímenes comunes (Urban) para intentar detener a un asesino en serie cuyos crímenes están inspirados en el juego infantil “El ahorcado”.",
+    "cover": "https://cuevana.pizza/resize/###/storage/35611/wLdY0KMtVKqGvId3MPw8mcFUoCil1ErrpMOCunsL.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtb214NnlqcDgyOGpyLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLWI4dDJsMDRsOGsyNC5odG1s"
+            ]
+        },
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtenA5ZDg3ejE1enZ4Lmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLXp6cjBjZGZpOTE1Mi5odG1s"
+            ]
+        }
+    ],
+    "downloads": []
+}

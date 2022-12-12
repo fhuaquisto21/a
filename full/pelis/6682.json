@@ -1,0 +1,48 @@
+{
+    "url": "https://cuevana.pizza/pelicula/kojot",
+    "title": "Kojot",
+    "duration": "2h 12m",
+    "year": "2017",
+    "genres": [
+        "Accion",
+        "Drama"
+    ],
+    "actors": [
+        "András Mészáros",
+        "Mária Dobra",
+        "László Mátray",
+        "Attila Bocsárszky",
+        "Frigyes Kovács",
+        "Levente Orbán",
+        "Lehel Salat",
+        "Szabó Gabi"
+    ],
+    "description": "Misi es un joven que vive en la difícil ciudad de Tuzko, donde comienza a renovar su casa con ayuda de algunos hombres de la ciudad, lo que le ocasionará problemas con el oligarca local.",
+    "cover": "https://cuevana.pizza/resize/###/storage/27595/TB6FBLQwgRKbZnj4gt4ca1VJUIksVlPGmDtdUMtG.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtNndnYjZtaWltMHZ5Lmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLXp0cG95Zzd1azBlai5odG1s"
+            ]
+        },
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtcmMzYW85cGI0dGllLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLWM4Y2tjZGNibWsxNS5odG1s"
+            ]
+        }
+    ],
+    "downloads": [
+        {
+            "url": "https://1fichier.com/?0nd1j8fzot8x3ocjryi9",
+            "type": "la"
+        },
+        {
+            "url": "https://1fichier.com/?fzfcojwiun6tjaylex2n",
+            "type": "en"
+        }
+    ]
+}

@@ -1,0 +1,62 @@
+{
+    "url": "https://cuevana.pizza/pelicula/fresh",
+    "title": "Fresh",
+    "duration": "1h 54m",
+    "year": "2022",
+    "genres": [
+        "Comedia",
+        "Suspenso",
+        "Terror"
+    ],
+    "actors": [
+        "Daisy Edgar-Jones",
+        "Sebastian Stan",
+        "Jonica T. Gibbs",
+        "Andrea Bang",
+        "Dayo Okeniyi",
+        "Charlotte Le Bon",
+        "Brett Dier",
+        "Alina Maris",
+        "William Belleau",
+        "Lachlan Quarmby"
+    ],
+    "description": "Thriller sobre los horrores de las citas modernas vistos a través de la desafiante batalla de una joven para sobrevivir a los inusuales apetitos de su nuevo novio.",
+    "cover": "https://cuevana.pizza/resize/###/storage/15159/DbUF8Q6KJZuT4LavNckt4nrvwbvV5CugJnb0jMkd.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtZnc3ODN4cW0xZm9uLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLXQ4YzdjdW84YnBoZi5odG1s"
+            ]
+        },
+        {
+            "type": "cas",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQteXgzcDU5bHF6cGdtLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLWowMjAxZHZnNXhkYi5odG1s"
+            ]
+        },
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQta2duenZjd2pxZWxmLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLW9vNHJsMXh6YThhZC5odG1s"
+            ]
+        }
+    ],
+    "downloads": [
+        {
+            "url": "https://1fichier.com/?a5jsuz3x76mc6zp2dgdy",
+            "type": "la"
+        },
+        {
+            "url": "https://1fichier.com/?uhz4fhjuw4ehyl0g26zu",
+            "type": "es"
+        },
+        {
+            "url": "https://1fichier.com/?m02182mfr7hkcn9tcpyx",
+            "type": "en"
+        }
+    ]
+}

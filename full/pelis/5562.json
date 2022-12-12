@@ -1,0 +1,36 @@
+{
+    "url": "https://cuevana.pizza/pelicula/red-island",
+    "title": "Red Island",
+    "duration": "1h 30m",
+    "year": "2018",
+    "genres": [
+        "Misterio",
+        "Suspenso",
+        "Terror",
+        "Ciencia Ficcion"
+    ],
+    "actors": [
+        "Alex Essoe",
+        "Georgie Daburas",
+        "Tawny West",
+        "David Mezheritsky",
+        "Victor Mezheritsky",
+        "Humberto Secchin",
+        "Jim Samson",
+        "Alexander Dmytryszyn",
+        "Luc Dulguime",
+        "Ilya Dulguime"
+    ],
+    "description": "",
+    "cover": "https://cuevana.pizza/resize/###/storage/21760/VyT3Wuby3eFBZY3IJx6anWqJAo8V1iJDP7gE41gn.jpg",
+    "players": [
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtMHV1Ymg0NWp0eG9mLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLTNtcThtNTBpem1lZC5odG1s"
+            ]
+        }
+    ],
+    "downloads": []
+}

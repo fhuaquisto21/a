@@ -1,0 +1,59 @@
+{
+    "url": "https://cuevana.pizza/pelicula/los-aristogatos",
+    "title": "Los aristogatos",
+    "duration": "1h 18m",
+    "year": "1970",
+    "genres": [
+        "Comedia",
+        "Aventura",
+        "Familia",
+        "Animacion",
+        "Disney"
+    ],
+    "actors": [
+        "Phil Harris",
+        "Eva Gabor",
+        "Roddy Maude-Roxby",
+        "Sterling Holloway",
+        "Scatman Crothers",
+        "Paul Winchell",
+        "Lord Tim Hudson",
+        "Vito Scotti",
+        "Thurl Ravenscroft",
+        "Dean Clark",
+        "Liz English",
+        "Gary Dubin",
+        "Nancy Kulp",
+        "Pat Buttram",
+        "George Lindsey",
+        "Monica Evans",
+        "Carole Shelley",
+        "Robie Lester"
+    ],
+    "description": "1910. En París una anciana millonaria y excéntrica lleva una vida feliz con sus gatos en su enorme mansión, con la única ayuda de su fiel mayordomo Edgar. Allí, Duquesa vive despreocupadamente con sus tres traviesos cachorros, sin saber que Edgar planea acabar con todos los gatos para convertirse en el único heredero de la enorme fortuna de la anciana Madame Bonfamille. Con este propósito, los abandona en un lugar remoto, pero quiere la suerte que se encuentren con Thomas O’Malley, un atractivo gato vagabundo y mundano. Desde el principio, O’Malley, atraído por la elegancia de Duquesa, se propone ayudarla a regresar a casa de Madame Bonfamille, aunque para ello tenga que enfrentarse con todos los peligros de la gran ciudad. Afortunadamente, contarán también con la ayuda de Scat Cat y sus gatos swing, que añaden un toque de ritmo y diversión a la vida de Duquesa y de los cachorros.",
+    "cover": "https://cuevana.pizza/resize/###/storage/43372/7cSKGZj51By2Vu397AyXhEvm3WJRerNwFVYq4g5p.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtaTZqdXBsenhzcG84Lmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLWhmN2tpNWMzZnYyMS5odG1s"
+            ]
+        },
+        {
+            "type": "cas",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtOWg5cGYzODE5OWlpLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLTNmdW9udWpkbjhjay5odG1s"
+            ]
+        },
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtbWRrOHhzeW0yZm9zLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLXZtamF4emU1ODdnYy5odG1s"
+            ]
+        }
+    ],
+    "downloads": []
+}

@@ -1,0 +1,52 @@
+{
+    "url": "https://cuevana.pizza/pelicula/donnie-darko",
+    "title": "Donnie Darko",
+    "duration": "1h 53m",
+    "year": "2001",
+    "genres": [
+        "Drama",
+        "Suspenso",
+        "Ciencia Ficcion"
+    ],
+    "actors": [
+        "Jake Gyllenhaal",
+        "Jena Malone",
+        "James Duval",
+        "Drew Barrymore",
+        "Beth Grant",
+        "Maggie Gyllenhaal",
+        "Mary McDonnell",
+        "Holmes Osborne",
+        "Noah Wyle",
+        "Katharine Ross",
+        "Patrick Swayze",
+        "Daveigh Chase",
+        "Arthur Taxier",
+        "David St. James",
+        "Patience Cleveland",
+        "Jazzie Mahannah",
+        "Jolene Purdy",
+        "David Moreland",
+        "Kristina Malota",
+        "Marina Malota"
+    ],
+    "description": "Donnie es un chico americano dotado de gran inteligencia e imaginación. Tras escapar milagrosamente de una muerte casi segura, comienza a sufrir alucinaciones que lo llevan a actuar como nunca hubiera imaginado y a descubrir un mundo insólito a su alrededor, pues en sus visiones un gran conejito lo manipula para cometer una serie de crímenes.",
+    "cover": "https://cuevana.pizza/resize/###/storage/28492/VEZob1iZYrhMx4n7TbmA0Vc9a9AjcpHam7V2MAR0.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQteXM1N3BzdDU4dW1mLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLWFxZWc5bHdrN2I5Yi5odG1s"
+            ]
+        },
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtZnkwcWJ2cnNtYmU1Lmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLTJtb2NuOThzc2VmYS5odG1s"
+            ]
+        }
+    ],
+    "downloads": []
+}

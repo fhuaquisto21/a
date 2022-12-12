@@ -1,0 +1,73 @@
+{
+    "url": "https://cuevana.pizza/pelicula/10-minutes-gone",
+    "title": "10 Minutos menos",
+    "duration": "1h 29m",
+    "year": "2019",
+    "genres": [
+        "Accion",
+        "Misterio",
+        "Suspenso",
+        "Crimen"
+    ],
+    "actors": [
+        "Bruce Willis",
+        "Michael Chiklis",
+        "Meadow Williams",
+        "Kyle Schmid",
+        "Texas Battle",
+        "Lydia Hull",
+        "Swen Temmel",
+        "John D. Hickman",
+        "Sergio Rizzuto",
+        "Geoff Reeves",
+        "Tyler Jon Olson",
+        "Roman Mitichyan",
+        "Frankie Delgado",
+        "Martin Blencowe",
+        "Leslee Emmett",
+        "Megan Neuringer",
+        "Lydia Styslinger",
+        "Lala Kent",
+        "Jenna Willis",
+        "Alanna Tremblay"
+    ],
+    "description": "Un criminal pierde la memoria tras un atraco fallido a un banco. Para descubrir quién es el responsable de su caída en desgracia, tendrá que hacer todo lo posible por recuperar los 10 minutos que han desaparecido de su mente.",
+    "cover": "https://cuevana.pizza/resize/###/storage/21316/KxYnwId3yPlOQfmwGD1D20NEkfKCkMzYiD6N4Exv.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtcHdkZThwa3Z3dTB2Lmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLTR5anhlcWU5eXRxZC5odG1s"
+            ]
+        },
+        {
+            "type": "cas",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtZG56NDl6eTQyMm40Lmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLTZvNmlsMzRhcG51bC5odG1s"
+            ]
+        },
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtYzAyMWw0eGc3dnRiLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLWswdm1yd2luenptMC5odG1s"
+            ]
+        }
+    ],
+    "downloads": [
+        {
+            "url": "https://1fichier.com/?2tljytji4fjyovam78zr",
+            "type": "la"
+        },
+        {
+            "url": "https://1fichier.com/?ksg2g0w8hu9i8fu0mvb4",
+            "type": "es"
+        },
+        {
+            "url": "https://1fichier.com/?n3fnawbtwxjgwfi40rk0",
+            "type": "en"
+        }
+    ]
+}

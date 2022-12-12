@@ -1,0 +1,46 @@
+{
+    "url": "https://cuevana.pizza/pelicula/corte-de-amor",
+    "title": "Corte de Amor",
+    "duration": "1h 34m",
+    "year": "2020",
+    "genres": [
+        "Drama"
+    ],
+    "actors": [
+        "Sara Toth",
+        "Kerem Abdelhamed",
+        "Luca von Schrader",
+        "Max Kuess",
+        "Melissa Irowa",
+        "Valentin Gruber",
+        "Raphaela Gasper"
+    ],
+    "description": "A través de diferentes historias que se entrecruzan, la película cuenta la vida de tres parejas de adolescentes que intentan encontrar su propia identidad en un mundo de ritmo digital.",
+    "cover": "https://cuevana.pizza/resize/###/storage/33447/ycjwjjG8YJsTDZ3J5xh9zaPxLm7GBeT0ZmprXxfp.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtY2N6aGcyNGxsNDFlLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLXg1ZjZoY2xnMm9wbS5odG1s"
+            ]
+        },
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtbWMyZ3dhNHFqZXhqLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLWRlb21zNTJmd3lidy5odG1s"
+            ]
+        }
+    ],
+    "downloads": [
+        {
+            "url": "https://1fichier.com/?5j9olqj0wig54bx9t2w8",
+            "type": "la"
+        },
+        {
+            "url": "https://1fichier.com/?anb9qxadzhrvs59zyfzi",
+            "type": "en"
+        }
+    ]
+}

@@ -1,0 +1,61 @@
+{
+    "url": "https://cuevana.pizza/pelicula/penguin-bloom",
+    "title": "La familia Bloom",
+    "duration": "1h 35m",
+    "year": "2021",
+    "genres": [
+        "Drama"
+    ],
+    "actors": [
+        "Abe Clifford-Barr",
+        "Andrew Lincoln",
+        "Felix Cameron",
+        "Gia Carides",
+        "Griffin Murray-Johnston",
+        "Jacki Weaver",
+        "Leeanna Walsman",
+        "Lisa Hensley",
+        "Naomi Watts",
+        "Rachel House",
+        "Randolph Fields"
+    ],
+    "description": "Cuando un aliado poco probable entra en el mundo de la familia Bloom en forma de una cría de urraca herida a la que llaman Penguin, la llegada del pájaro marca una gran diferencia en la vida de la familia en apuros.",
+    "cover": "https://cuevana.pizza/resize/###/storage/5950/NH2FQdkwQkg5UAT6VudXAt8IJotbQaK0GROB0lJF.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtcjd2ZjBkdWdtYzRlLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLWc2M2dreThyZ204Zi5odG1s"
+            ]
+        },
+        {
+            "type": "cas",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtNm4wNTk3ZWl3ZTcyLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLXAwOXR4d3c5ZW14Ni5odG1s"
+            ]
+        },
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtMDQ3bDJnam9yM2VlLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLTE2bnBubGlidmthNy5odG1s"
+            ]
+        }
+    ],
+    "downloads": [
+        {
+            "url": "https://1fichier.com/?7ets7c7b0wvj7h180qum",
+            "type": "la"
+        },
+        {
+            "url": "https://1fichier.com/?c7x0g557ijzpofx5bjp2",
+            "type": "es"
+        },
+        {
+            "url": "https://1fichier.com/?5n4zu6exte8ruqfgfb8w",
+            "type": "en"
+        }
+    ]
+}

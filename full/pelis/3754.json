@@ -1,0 +1,62 @@
+{
+    "url": "https://cuevana.pizza/pelicula/ferry",
+    "title": "Ferry",
+    "duration": "1h 46m",
+    "year": "2021",
+    "genres": [
+        "Accion",
+        "Drama",
+        "Crimen"
+    ],
+    "actors": [
+        "Frank Lammers",
+        "Elise Schaap",
+        "Huub Stapel",
+        "Monic Hendrickx",
+        "Raymond Thiry",
+        "Maarten Heijmans",
+        "Yannick van de Velde",
+        "Tim Linde",
+        "Olaf Ait Tami",
+        "Adison dos Reis"
+    ],
+    "description": "Antes de crear un emporio de la droga, Ferry Bouman vuelve a su ciudad para vengarse. Allí se pondrá a prueba su lealtad y el amor le cambiará la vida.",
+    "cover": "https://cuevana.pizza/resize/###/storage/7218/XESptVeh168G3H47YSYWi6xlPEKsNe8xyrTknJG6.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtZjJhMG1lendpaDByLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLWRua2Nla3cwNW9kNC5odG1s"
+            ]
+        },
+        {
+            "type": "cas",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtMThvMnIwMXB6eDhzLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLTE5a2Y3eXJ6dWJxby5odG1s"
+            ]
+        },
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtdW05aTF2dzEydm85Lmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLTB2djQ5enBhbzFoby5odG1s"
+            ]
+        }
+    ],
+    "downloads": [
+        {
+            "url": "https://1fichier.com/?k0d3cdks4v8a0zxpz2gt",
+            "type": "la"
+        },
+        {
+            "url": "https://1fichier.com/?ruhib8lhpl5a1l73ba9z",
+            "type": "es"
+        },
+        {
+            "url": "https://1fichier.com/?gx7lnktxjofp0al3cpty",
+            "type": "en"
+        }
+    ]
+}

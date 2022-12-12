@@ -1,0 +1,49 @@
+{
+    "url": "https://cuevana.pizza/pelicula/sitting-in-limbo",
+    "title": "En el limbo",
+    "duration": "1h 29m",
+    "year": "2020",
+    "genres": [
+        "Drama"
+    ],
+    "actors": [
+        "Anna Madeley",
+        "Pippa Bennett-Warner",
+        "Sarah Woodward",
+        "Jay Simpson",
+        "Suzanne Packer",
+        "Patrick Robinson",
+        "Nadine Marshall",
+        "Tim Preece",
+        "Simon Lenagan",
+        "Paul O'Kelly"
+    ],
+    "description": "Narra la lucha de Anthony Bryan para ser aceptado como ciudadano británico durante el escándalo de inmigración de Windrush",
+    "cover": "https://cuevana.pizza/resize/###/storage/23210/Bes5PMYN8vPtAGD8OnO8o3mteTGrEfbgd0V4ztUx.jpg",
+    "players": [
+        {
+            "type": "cas",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtMG5vZGppM25qcTIwLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLWpkcDZwcTd3a2J6NS5odG1s"
+            ]
+        },
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtNGsycjQ2dHA3YjRpLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLWdycm5tc2p5YTJqZi5odG1s"
+            ]
+        }
+    ],
+    "downloads": [
+        {
+            "url": "https://1fichier.com/?r5epndaln4rpqydt4xc3",
+            "type": "es"
+        },
+        {
+            "url": "https://1fichier.com/?cg8ntmtvg3mf9488wvu9",
+            "type": "en"
+        }
+    ]
+}

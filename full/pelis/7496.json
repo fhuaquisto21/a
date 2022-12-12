@@ -1,0 +1,43 @@
+{
+    "url": "https://cuevana.pizza/pelicula/black-or-white",
+    "title": "Lo Mejor Para Ella",
+    "duration": "2h 1m",
+    "year": "2014",
+    "genres": [
+        "Drama"
+    ],
+    "actors": [
+        "Bill Burr",
+        "Jillian Estell",
+        "Kevin Costner",
+        "Octavia Spencer"
+    ],
+    "description": "La película gira en torno a un hombre viudo que se hace cargo de su nieta, de color negro, después de que su hija falleciera durante el parto, si bien poco tiempo después la abuela paterna reclamará la custodia de la pequeña.",
+    "cover": "https://cuevana.pizza/resize/###/storage/15524/Z9Vog5LvP5W22GTIKv8JRWns6W1yhk1PuVIgiR0F.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtbzZ5dXJkb3YwanBpLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLXdieXFmaG5ib3I2bC5odG1s"
+            ]
+        },
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtbDdrdndzN3VsNHFvLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLXM3bjU1c3BhcnQzaC5odG1s"
+            ]
+        }
+    ],
+    "downloads": [
+        {
+            "url": "https://1fichier.com/?9jcqk70jsas30a2iflok",
+            "type": "la"
+        },
+        {
+            "url": "https://1fichier.com/?bpifp1mzxtdteamnxyvl",
+            "type": "en"
+        }
+    ]
+}

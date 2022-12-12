@@ -1,0 +1,61 @@
+{
+    "url": "https://cuevana.pizza/pelicula/infinite",
+    "title": "Infinite",
+    "duration": "1h 46m",
+    "year": "2021",
+    "genres": [
+        "Ciencia Ficcion",
+        "Thriller"
+    ],
+    "actors": [
+        "Mark Wahlberg",
+        "Chiwetel Ejiofor",
+        "Dylan O'Brien",
+        "Rupert Friend",
+        "Sophie Cookson",
+        "Toby Jones",
+        "Jóhannes Haukur Jóhannesson",
+        "Jason Mantzoukas",
+        "Tom Hughes",
+        "Liz Carr"
+    ],
+    "description": "Un hombre descubre que sus alucinaciones son en realidad visiones de vidas pasadas.",
+    "cover": "https://cuevana.pizza/resize/###/storage/7702/hNZ9osDIuQhLKsKdyjoxvwNMrTY0iXyW57mzIQUV.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtZjd6czE0bzRvOWpoLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLXR4N3Rxc20wdWx5Yy5odG1s"
+            ]
+        },
+        {
+            "type": "cas",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtaGw3bGUwbmV3ZW01Lmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLWpkOHFrZm5mbnYyMS5odG1s"
+            ]
+        },
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtNGg1ZXA2enVudGh3Lmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLWxzNDF6aHdoczhwdS5odG1s"
+            ]
+        }
+    ],
+    "downloads": [
+        {
+            "url": "https://1fichier.com/?nlwujva70odb3hds0gbp",
+            "type": "la"
+        },
+        {
+            "url": "https://1fichier.com/?5cb0czy5o22jmt6wmvnm",
+            "type": "es"
+        },
+        {
+            "url": "https://1fichier.com/?7h9vjl7y3eucfjpmok80",
+            "type": "en"
+        }
+    ]
+}

@@ -1,0 +1,46 @@
+{
+    "url": "https://cuevana.pizza/pelicula/passion",
+    "title": "Passion",
+    "duration": "1h 40m",
+    "year": "2012",
+    "genres": [
+        "Drama",
+        "Misterio",
+        "Suspenso",
+        "Crimen"
+    ],
+    "actors": [
+        "Karoline Herfurth",
+        "Noomi Rapace",
+        "Paul Anderson",
+        "Rachel McAdams"
+    ],
+    "description": "Isabelle, una joven ejecutiva de cuentas de una agencia publicitaria multinacional, y su poderosa jefa, la ambiciosa Christine, pasan de mantener un romance a comenzar a odiarse hasta límites insospechados... Nueva versión de la película francesa ‘Crime d'amour’ (2010), de Alain Corneau.",
+    "cover": "https://cuevana.pizza/resize/###/storage/16636/C7ZiUB9ODBG4puDdttdWyIGjaek8ykkRDLAyQJOd.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtaGNxMjUwd3dhZ3N5Lmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLTRjdTJiYml2c3htMC5odG1s"
+            ]
+        },
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtZW95czZtM3h5aTJiLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLXp2ZzNzMmhxM3A5MS5odG1s"
+            ]
+        }
+    ],
+    "downloads": [
+        {
+            "url": "https://1fichier.com/?mws3s04xcib8m12t5eox",
+            "type": "la"
+        },
+        {
+            "url": "https://1fichier.com/?qlmegdafptbonbmh8r1k",
+            "type": "en"
+        }
+    ]
+}

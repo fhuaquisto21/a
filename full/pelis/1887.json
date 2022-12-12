@@ -1,0 +1,51 @@
+{
+    "url": "https://cuevana.pizza/pelicula/regreso-al-espacio",
+    "title": "Regreso al espacio",
+    "duration": "2h 8m",
+    "year": "2022",
+    "genres": [
+        "Documental"
+    ],
+    "actors": [
+        "Elon Musk"
+    ],
+    "description": "Elon Musk y el equipo de SpaceX tienen una misión: llevar a varios astronautas de la NASA hasta la Estación Espacial Internacional y revolucionar los viajes espaciales.",
+    "cover": "https://cuevana.pizza/resize/###/storage/17706/1oqQWAOQ3pwC1y7g2Q9l1lOdbC4Mo82AmdnCGG4A.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtdjFlcnhzajJsZzZtLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLXE3M2RvcDZqaHJicC5odG1s"
+            ]
+        },
+        {
+            "type": "cas",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtYmpyMGN2dHRydDBxLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLWxyc3FsYXNzb2VzOC5odG1s"
+            ]
+        },
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtb2V6eThmajM1dDE3Lmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLTByMXRxNDFveTJpdS5odG1s"
+            ]
+        }
+    ],
+    "downloads": [
+        {
+            "url": "https://1fichier.com/?8ra9d7yc078q5l8lonua",
+            "type": "la"
+        },
+        {
+            "url": "https://1fichier.com/?kjx4b03wztw4s6brnlks",
+            "type": "es"
+        },
+        {
+            "url": "https://1fichier.com/?j67cquw8xggv535fytp3",
+            "type": "en"
+        }
+    ]
+}

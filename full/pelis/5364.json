@@ -1,0 +1,72 @@
+{
+    "url": "https://cuevana.pizza/pelicula/last-christmas",
+    "title": "Last Christmas",
+    "duration": "1h 42m",
+    "year": "2019",
+    "genres": [
+        "Comedia",
+        "Drama",
+        "Romance"
+    ],
+    "actors": [
+        "Emilia Clarke",
+        "Henry Golding",
+        "Michelle Yeoh",
+        "Emma Thompson",
+        "Lydia Leonard",
+        "Boris Isaković",
+        "Rebecca Root",
+        "Ingrid Oliver",
+        "Laura Evelyn",
+        "Patti LuPone",
+        "Calvin Demba",
+        "Ritu Arya",
+        "Ansu Kabia",
+        "Jade Anouka",
+        "Rob Delaney",
+        "Peter Serafinowicz",
+        "Sara Powell",
+        "Peter Mygind",
+        "Amit Shah",
+        "Maxim Baldry"
+    ],
+    "description": "Kate es una mujer joven que suele tomar siempre la decisión menos acertada. ¿Su último error? Haber aceptado un trabajo como elfo de Santa Claus en un centro comercial. Sin embargo, el destino la lleva a conocer a Tom, circunstancia que cambia por completo su vida. Para Kate, todo es demasiado bueno para ser cierto.",
+    "cover": "https://cuevana.pizza/resize/###/storage/21226/8o8Xz05LC5pkh7bjIJQbJ8cIyzEhTACrG1Upv5Ju.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtcGplYjVsYjVhYTVuLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLWtwZmxwMWkwanQwYi5odG1s"
+            ]
+        },
+        {
+            "type": "cas",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtdGtzZnN6ZWhxajd1Lmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLW8wMGkxc292cTl4cy5odG1s"
+            ]
+        },
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtNWwzdnI0ZHpic3gwLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLTQ0bXBoeGxvOGczYy5odG1s"
+            ]
+        }
+    ],
+    "downloads": [
+        {
+            "url": "https://1fichier.com/?un0j9cty60pvesdx8ah0",
+            "type": "la"
+        },
+        {
+            "url": "https://1fichier.com/?fj0iztieq2lo0jx0r49h",
+            "type": "es"
+        },
+        {
+            "url": "https://1fichier.com/?r696s33r17jhev5jyi9d",
+            "type": "en"
+        }
+    ]
+}

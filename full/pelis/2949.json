@@ -1,0 +1,49 @@
+{
+    "url": "https://cuevana.pizza/pelicula/solitary",
+    "title": "Solitary",
+    "duration": "1h 29m",
+    "year": "2021",
+    "genres": [
+        "Ciencia Ficcion"
+    ],
+    "actors": [
+        "Johnny Sachon",
+        "Lottie Tolhurst",
+        "Brian Bovell",
+        "Connie Jenkins-Greig",
+        "Michael Condron",
+        "Raymond Bethley",
+        "Michael Absalom",
+        "Andre Pierre",
+        "Kelvin Hewlett",
+        "Kathryn Vinclaire"
+    ],
+    "description": "Un hombre se despierta dentro de una habitación para descubrir que es un prisionero enviado al espacio para formar la primera colonia de la Tierra, y peor aún, su compañera de celda Alana está empeñada en destruir todo.",
+    "cover": "https://cuevana.pizza/resize/###/storage/10558/nYuz3Fht9bGY89aGcvh5LUx61lk0Wne4JPvbTtrx.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtcmcxOWplZDVkNmE3Lmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLTQ2a3kyemVsNHlteC5odG1s"
+            ]
+        },
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtNXRyd2txeXBxZHcyLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLW1pem82M2h6Mng5NC5odG1s"
+            ]
+        }
+    ],
+    "downloads": [
+        {
+            "url": "https://1fichier.com/?4tgm8cvvf0ei1tclharh",
+            "type": "la"
+        },
+        {
+            "url": "https://1fichier.com/?0fzhrgmfwbh10mijh8u5",
+            "type": "en"
+        }
+    ]
+}

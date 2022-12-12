@@ -1,0 +1,71 @@
+{
+    "url": "https://cuevana.pizza/pelicula/la-gran-muralla",
+    "title": "La gran muralla",
+    "duration": "1h 43m",
+    "year": "2016",
+    "genres": [
+        "Accion",
+        "Aventura",
+        "Fantasia"
+    ],
+    "actors": [
+        "Matt Damon",
+        "Jing Tian",
+        "Willem Dafoe",
+        "Andy Lau",
+        "Pedro Pascal",
+        "Zhang Hanyu",
+        "Johnny Cicco",
+        "Lu Han",
+        "Lin Gengxin",
+        "Eddie Peng",
+        "Huang Xuan",
+        "Pilou Asbæk",
+        "Ryan Zheng Kai",
+        "Chen Xuedong",
+        "Numan Acar",
+        "Liu Bing",
+        "王俊凯",
+        "Vicky Yu",
+        "Stephen Chang"
+    ],
+    "description": "Siglo XV, China. Dos mercenarios, uno inglés y otro español llegan a China buscando el secreto de la pólvora. Por el camino tienen un encuentro con una criatura espantosa; cuando lleguen se darán cuenta de que la Gran Muralla no se ha construído para defenderse de los mongoles, sino de algo mucho más peligroso y siniestro: la criatura que les atacó no está sola.",
+    "cover": "https://cuevana.pizza/resize/###/storage/28023/hE5XT6V6rJ526mxtAis4fddhtHOCgYvMAUqZSUza.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtN3Q2cnRoaXBzcjkyLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLTd5dzJodnptZHZ3My5odG1s"
+            ]
+        },
+        {
+            "type": "cas",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtMTNxZThkNTF6ZTM5Lmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLW40MGEzd2J2emxhaC5odG1s"
+            ]
+        },
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtODVlbHczZnVjZjcxLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLWN1czkyaGluMjdyZy5odG1s"
+            ]
+        }
+    ],
+    "downloads": [
+        {
+            "url": "https://1fichier.com/?01blm7mvr0639ajpkrdo",
+            "type": "la"
+        },
+        {
+            "url": "https://1fichier.com/?oaivqzjzqmczpdo266f7",
+            "type": "es"
+        },
+        {
+            "url": "https://1fichier.com/?zzu5kqm4wllv1e5xto2f",
+            "type": "en"
+        }
+    ]
+}

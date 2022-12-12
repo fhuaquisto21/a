@@ -1,0 +1,41 @@
+{
+    "url": "https://cuevana.pizza/pelicula/el-diario-de-noel",
+    "title": "El diario de Noel",
+    "duration": "1h 39m",
+    "year": "2022",
+    "genres": [
+        "Comedia",
+        "Drama",
+        "Romance"
+    ],
+    "actors": [
+        "Justin Hartley",
+        "Bonnie Bedelia",
+        "Treat Williams",
+        "Shelby Reitman Renee"
+    ],
+    "description": "Un hombre regresa a casa en Navidad para arreglar la herencia de su madre separada. Una vez allí, descubre un diario que puede contener secretos.",
+    "cover": "https://cuevana.pizza/resize/###/storage/57621/J4Riben1bwyigljbvch9QF3mTuGcqjuLOIVFCbwD.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtOG1jaWRqZDVwam5pLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLWVtZzE4NmJzemhnOC5odG1s"
+            ]
+        },
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQteGNxczdocThrZGZzLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLXhwN3BuZjgyZXJlby5odG1s"
+            ]
+        }
+    ],
+    "downloads": [
+        {
+            "url": "https://1fichier.com/?8e0llhu62mz190lcmxeo",
+            "type": "la"
+        }
+    ]
+}

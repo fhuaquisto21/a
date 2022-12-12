@@ -1,0 +1,54 @@
+{
+    "url": "https://cuevana.pizza/pelicula/percy-jackson-y-el-ladron-del-rayo",
+    "title": "Percy Jackson y el ladrón del rayo",
+    "duration": "1h 59m",
+    "year": "2010",
+    "genres": [
+        "Accion",
+        "Aventura",
+        "Fantasia",
+        "Familia",
+        "Disney"
+    ],
+    "actors": [
+        "Logan Lerman",
+        "Brandon T. Jackson",
+        "Alexandra Daddario",
+        "Jake Abel",
+        "Pierce Brosnan",
+        "Sean Bean",
+        "Steve Coogan",
+        "Rosario Dawson",
+        "Melina Kanakaredes",
+        "Catherine Keener",
+        "Kevin McKidd",
+        "Joe Pantoliano",
+        "Uma Thurman",
+        "Julian Richings",
+        "Charlie Gallant",
+        "Alexis Knapp",
+        "Marie Avgeropoulos",
+        "Christie Laing",
+        "Luisa d'Oliveira",
+        "Crystal Tisiga"
+    ],
+    "description": "Adaptación de la novela publicada en España con el título de 'El Ladrón del Rayo. Después de ir a un campamento, Percy, un chico aparentemente normal, (Lerman) descubre que es hijo de Poseidón, el dios de los mares, y que su mejor amigo Grover (Jackson) es un sátiro. A partir de ahí, él y sus dos amigos (dos semidioses y un sátiro) recorrerán el país, que está plagado de monstruos mitológicos, para restaurar el orden cósmico antes de que se ponga el sol en el día más largo del año. Percy busca recuperar la paz, rescatar a su madre, conocer a su padre y comprender quién es él mismo. Todo un reto que debe superar en apenas diez días.",
+    "cover": "https://cuevana.pizza/resize/###/storage/46826/w6IBHcViFR6T1BBSsyaZcnJZTOObLBxg2n8lQgSN.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtY3hlaGRkbzhmaXhiLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLWZlb2FiZG1tYjQzNy5odG1s"
+            ]
+        },
+        {
+            "type": "cas",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQteGxjMGQ4eXNmeTVhLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLXc3bGVyOHU5aGlkdS5odG1s"
+            ]
+        }
+    ],
+    "downloads": []
+}

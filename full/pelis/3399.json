@@ -1,0 +1,50 @@
+{
+    "url": "https://cuevana.pizza/pelicula/audrey",
+    "title": "Audrey",
+    "duration": "1h 30m",
+    "year": "2020",
+    "genres": [
+        "Biografia",
+        "Documental"
+    ],
+    "actors": [
+        "Audrey Hepburn",
+        "Alessandra Ferri",
+        "Francesca Hayward",
+        "Keira Moore",
+        "Sean Hepburn Ferrer",
+        "Clare Waight Keller",
+        "John Loring",
+        "Peter Bogdanovich",
+        "Richard Dreyfuss",
+        "Emma Hepburn Ferrer"
+    ],
+    "description": "Documental sobre la icónica actriz Audrey Hepburn, una de las mayores estrellas de Hollywood de la historia del cine. Una mirada a su faceta más íntima, la de una persona que dedicó gran parte de su vida a cuidar de los demás.",
+    "cover": "https://cuevana.pizza/resize/###/storage/21140/pyq64bu4EkpVoPkYJ94aCGYUnKyRxDNIBmH18vK9.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtZTlsZGtoeXl2c2t6Lmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLWh4Nm52NjMyeDNxYy5odG1s"
+            ]
+        },
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtbWlyMXp5NmNzeXdpLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLWhjbTVvNGRjZW5ici5odG1s"
+            ]
+        }
+    ],
+    "downloads": [
+        {
+            "url": "https://1fichier.com/?qpfuzcdm3rksjsy1mb8y",
+            "type": "la"
+        },
+        {
+            "url": "https://1fichier.com/?9j82oysin3afvlunymtz",
+            "type": "en"
+        }
+    ]
+}

@@ -1,0 +1,62 @@
+{
+    "url": "https://cuevana.pizza/pelicula/cars-2",
+    "title": "Cars 2: Una Nueva Aventura Sobre Ruedas",
+    "duration": "1h 44m",
+    "year": "2011",
+    "genres": [
+        "Comedia",
+        "Aventura",
+        "Familia",
+        "Animacion",
+        "Disney"
+    ],
+    "actors": [
+        "Owen Wilson",
+        "Larry the Cable Guy",
+        "Michael Caine",
+        "Emily Mortimer",
+        "John Turturro",
+        "Eddie Izzard",
+        "Thomas Kretschmann",
+        "Guido Quaroni"
+    ],
+    "description": "Rayo McQueen y su amigo, la grúa Mate, viajan al extranjero para participar en el primer Campeonato Mundial en el que se decidirá cuál es el coche más rápido del planeta. La primera escala es Tokio (Japón), donde Mate tendrá que convertirse en un espía secreto al verse envuelto inesperadamente en un caso de espionaje internacional, que lo llevará a París y a Londres. También vivirán una aventura de proporciones épicas al viajar a Porto Corsa (Italia), para disputar el Campeonato. Sin embargo, los dos tendrán que renunciar a los placeres de la Riviera italiana -yates, playas y pasta al pesto- ya que Mate está muy ocupado con su labor de espía, mientras que McQueen compite contra los mejores coches del mundo.",
+    "cover": "https://cuevana.pizza/resize/###/storage/43998/agNscOnE6mUCff7i23443v87J9qg7es7U6kvVjRi.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQteWZ0ajIxamNwbjBnLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLW11ODN4NHl2cmdoZS5odG1s"
+            ]
+        },
+        {
+            "type": "cas",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtNmpzbDNtZGdjZndvLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLW1qb2xtYTd3bWk3NS5odG1s"
+            ]
+        },
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtYnd5MDFxODEyeGNzLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLWZjYWJtcGJ1eW41ZC5odG1s"
+            ]
+        }
+    ],
+    "downloads": [
+        {
+            "url": "https://1fichier.com/?86t6yfefib3y6dfktasz",
+            "type": "la"
+        },
+        {
+            "url": "https://1fichier.com/?p215z5yzezm66xmatt1s",
+            "type": "es"
+        },
+        {
+            "url": "https://1fichier.com/?5xbeye12pio2xsxgjzk5",
+            "type": "en"
+        }
+    ]
+}

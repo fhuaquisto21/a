@@ -1,0 +1,56 @@
+{
+    "url": "https://cuevana.pizza/pelicula/becky",
+    "title": "Becky",
+    "duration": "1h 32m",
+    "year": "2020",
+    "genres": [
+        "Suspenso",
+        "Terror",
+        "Crimen"
+    ],
+    "actors": [
+        "Kevin James",
+        "Joel McHale",
+        "Amanda Brugel",
+        "Lulu Wilson"
+    ],
+    "description": "El fin de semana en un lago de una adolescente que pasa unos días con su padre, de un momento a otro, toma un rumbo inesperado cuando un grupo de convictos aparece de la nada en sus vidas.",
+    "cover": "https://cuevana.pizza/resize/###/storage/3756/z0nm2G0GgjUhmiMAuSw4Qy24NM6AzPv66umIMKlj.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtYTg2ZHV0aTJtNjkwLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLThlNHJ5bmRteGRyOS5odG1s"
+            ]
+        },
+        {
+            "type": "cas",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtOXRqd2YzeHJvMHJ0Lmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLXU1Y3oxZTk2c3V3aS5odG1s"
+            ]
+        },
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtem42MHh0OW5tbzNjLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLW1hcXIwYm5pNHd6ci5odG1s"
+            ]
+        }
+    ],
+    "downloads": [
+        {
+            "url": "https://1fichier.com/?yuowv6py5piwes64yknx",
+            "type": "la"
+        },
+        {
+            "url": "https://1fichier.com/?rwp060b6bvlfmc6y9n0b",
+            "type": "es"
+        },
+        {
+            "url": "https://1fichier.com/?3znz9nvuqogutkllppya",
+            "type": "en"
+        }
+    ]
+}

@@ -1,0 +1,37 @@
+{
+    "url": "https://cuevana.pizza/pelicula/vicio-propio",
+    "title": "Puro vicio",
+    "duration": "2h 28m",
+    "year": "2014",
+    "genres": [
+        "Comedia",
+        "Drama",
+        "Misterio",
+        "Crimen"
+    ],
+    "actors": [
+        "Joanna Newsom",
+        "Joaquin Phoenix",
+        "Jordan Christian Hearn",
+        "Katherine Waterston"
+    ],
+    "description": "Se llama Sportello, Doc Sportello, y es un detective privado un tanto peculiar en el colorista Los Ángeles de finales de los años sesenta. Hacía ya tiempo que Doc no veía a su ex, Shasta, seductora femme fatale, cuando ésta recurre a sus servicios porque ha desaparecido su nuevo amante, un magnate inmobiliario que había visto la luz del buen karma, un tanto distorsionada por el ácido, y quería devolver a la sociedad todo lo que había expoliado. Sportello se ve enredado entonces en una intriga en la que los escrúpulos chispean por su ausencia y cuya trama es casi la de una novela negra clásica.",
+    "cover": "https://cuevana.pizza/resize/###/storage/15802/5wrZgnnhjrfYIv6FBvEqigcTqsfNOd4h1Ras8ZfG.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtM2VxenE2aWlobnFpLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLW1iY3RndmlqeGdoZS5odG1s"
+            ]
+        },
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtbng2ZXoyejF5anBpLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLXlndzAwNnB3ZWJmYS5odG1s"
+            ]
+        }
+    ],
+    "downloads": []
+}

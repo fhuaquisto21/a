@@ -1,0 +1,46 @@
+{
+    "url": "https://cuevana.pizza/pelicula/long-weekend",
+    "title": "Long Weekend",
+    "duration": "1h 31m",
+    "year": "2021",
+    "genres": [
+        "Comedia",
+        "Romance"
+    ],
+    "actors": [
+        "Finn Wittrock",
+        "Zoe Chao",
+        "Damon Wayans Jr.",
+        "Casey Wilson",
+        "Jim Rash",
+        "Wendi McLendon-Covey"
+    ],
+    "description": "Un escritor que pasa por un bache conoce a una enigmática mujer que entra en su vida justo en el momento adecuado.",
+    "cover": "https://cuevana.pizza/resize/###/storage/7006/VPuCDpcUd5MvE96JJvf2nVn93jjzAnfoSuLEoRmd.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtMXRleXJnc3hneDhrLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLXJtZHA5cDZlOXRwMi5odG1s"
+            ]
+        },
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtcGVkcDRkNHlwZDMwLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLTE2em50dnhkbWd2eC5odG1s"
+            ]
+        }
+    ],
+    "downloads": [
+        {
+            "url": "https://1fichier.com/?1q42y9ed7g63whcy9ejp",
+            "type": "la"
+        },
+        {
+            "url": "https://1fichier.com/?luqkhzb9ka7ks68y9lg3",
+            "type": "en"
+        }
+    ]
+}

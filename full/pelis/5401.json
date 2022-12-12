@@ -1,0 +1,60 @@
+{
+    "url": "https://cuevana.pizza/pelicula/p-storm",
+    "title": "P Storm",
+    "duration": "1h 36m",
+    "year": "2019",
+    "genres": [
+        "Accion",
+        "Crimen"
+    ],
+    "actors": [
+        "Louis Koo",
+        "Kevin Cheng",
+        "Raymond Lam",
+        "Gordon Lam",
+        "Chrissie Chau",
+        "Louis Cheung",
+        "Julian Cheung",
+        "Patrick Tam",
+        "Dada Chan",
+        "Baby John Choi",
+        "Liu Kai-Chi",
+        "Ai Wai",
+        "Lo Hoi-pang",
+        "Janelle Sing",
+        "Stefan Wong",
+        "Deon Cheung",
+        "Justin Cheung",
+        "Adam Pak",
+        "Ding Haifeng",
+        "刘梦娜"
+    ],
+    "description": "",
+    "cover": "https://cuevana.pizza/resize/###/storage/21277/1dMQvTlnaV75keTPzVW9Hj4tb8bs6XJuqZRO1iJL.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtcG8zbXdsOHRzc3NjLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLXcycXh0NWI2aTk2Yi5odG1s"
+            ]
+        },
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtaTd5ZHNiNXBpdjB2Lmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLXhnaWg2Yzh5cHVtbi5odG1s"
+            ]
+        }
+    ],
+    "downloads": [
+        {
+            "url": "https://1fichier.com/?6lzpg3qtlvaog8rcdjr4",
+            "type": "la"
+        },
+        {
+            "url": "https://1fichier.com/?hogsq6roeli6zdif4vap",
+            "type": "en"
+        }
+    ]
+}

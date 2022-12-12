@@ -1,0 +1,62 @@
+{
+    "url": "https://cuevana.pizza/pelicula/south-of-heaven",
+    "title": "Al sur del cielo",
+    "duration": "2h",
+    "year": "2021",
+    "genres": [
+        "Drama",
+        "Suspenso",
+        "Crimen"
+    ],
+    "actors": [
+        "Jason Sudeikis",
+        "Evangeline Lilly",
+        "Shea Whigham",
+        "Jeremy Bobb",
+        "Amaury Nolasco",
+        "Michael Paré",
+        "Mike Colter",
+        "Tina Parker",
+        "Julius Washington",
+        "Jaime Zevallos"
+    ],
+    "description": "Jimmy, un delincuente condenado, obtiene la libertad condicional anticipada tras cumplir doce años de condena por robo a mano armada. Al salir de la cárcel, jura darle a Annie, su amor de la infancia, ahora moribunda de cáncer, el mejor último año de su vida… por desgracia, no es tan sencillo.",
+    "cover": "https://cuevana.pizza/resize/###/storage/11136/MMtdKVghpXBfx3cOXJPN1e5G7fybTfYT4vRZGpXJ.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtOXd0dXoxaWNtZjFtLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLTZleHQyM3gzdDgzbS5odG1s"
+            ]
+        },
+        {
+            "type": "cas",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtM2w2cHlobzc1ajB1Lmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLTZmbGo2bGtvd2dleC5odG1s"
+            ]
+        },
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtdnVqYTI5anFraWsxLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLXI5d2FyemlzZzF4ZC5odG1s"
+            ]
+        }
+    ],
+    "downloads": [
+        {
+            "url": "https://1fichier.com/?sphl7yyi23rx7oko7pkp",
+            "type": "la"
+        },
+        {
+            "url": "https://1fichier.com/?e2kg0a40px6cqksp74zc",
+            "type": "es"
+        },
+        {
+            "url": "https://1fichier.com/?z4y4wn6diif5y6uus5b5",
+            "type": "en"
+        }
+    ]
+}

@@ -1,0 +1,30 @@
+{
+    "url": "https://cuevana.pizza/pelicula/matar-a-lincoln",
+    "title": "Matar a Lincoln",
+    "duration": "1h 29m",
+    "year": "2013",
+    "genres": [
+        "Drama",
+        "Biografia",
+        "Historia",
+        "Documental"
+    ],
+    "actors": [
+        "Billy Campbell",
+        "Jesse Johnson",
+        "Regen Wilson",
+        "Tom Hanks"
+    ],
+    "description": "Killing Lincoln combinará el tono documental con la ficción, contando con la documentación procedente de los archivos históricos, en un filme sobre el asesinato del presidente Abraham Lincoln.",
+    "cover": "https://cuevana.pizza/resize/###/storage/16516/ZxXFeQMWfRwyaIpGm3q1NqlEzBjS5TmElAxcAhIb.jpg",
+    "players": [
+        {
+            "type": "cas",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtdnZyZDc5OXY1c25vLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLThkNDRqcWNxcjZqcC5odG1s"
+            ]
+        }
+    ],
+    "downloads": []
+}

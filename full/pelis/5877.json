@@ -1,0 +1,50 @@
+{
+    "url": "https://cuevana.pizza/pelicula/hell-fest-juegos-diabolicos",
+    "title": "Juegos Diabólicos",
+    "duration": "1h 35m",
+    "year": "2018",
+    "genres": [
+        "Terror"
+    ],
+    "actors": [
+        "Amy Forsyth",
+        "Reign Edwards",
+        "Bex Taylor-Klaus",
+        "Christian James",
+        "Roby Attal",
+        "Matt Mercurio",
+        "Courtney Dietz",
+        "Cynthea Mercado",
+        "Stephen Conroy",
+        "George Howard Adams",
+        "Markus Silbiger",
+        "Michael Tourek",
+        "Tony Todd",
+        "Aaron Gillespie",
+        "Cecil Elmore Jr.",
+        "Elle Graham",
+        "Rio Ahn",
+        "Athena Akers",
+        "Bobby Akers",
+        "Kimberly Battista"
+    ],
+    "description": "En la noche de Halloween en un parque temático de terror, un asesino disfrazado comienza a matar a clientes inocentes que creen que todo es parte de las festividades.",
+    "cover": "https://cuevana.pizza/resize/###/storage/25198/d4r6RWoZvDTua9Y0dIrTJqaPcTW2IzAZPoVg1Mam.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtOGZuZmNoZXptanpnLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLW96MGllZ3N0Y2txby5odG1s"
+            ]
+        },
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtbGE2bW55bjFsc29xLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLWtoNDk5b3VlNXd1YS5odG1s"
+            ]
+        }
+    ],
+    "downloads": []
+}

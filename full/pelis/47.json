@@ -1,0 +1,51 @@
+{
+    "url": "https://cuevana.pizza/pelicula/me-llamo-venganza",
+    "title": "Me llamo venganza",
+    "duration": "1h 30m",
+    "year": "2022",
+    "genres": [
+        "Accion",
+        "Misterio",
+        "Suspenso",
+        "Crimen",
+        "Aventura"
+    ],
+    "actors": [
+        "Alessandro Gassmann",
+        "Ginevra Francesconi",
+        "Remo Girone",
+        "Alessio Praticò",
+        "Marcello Mazzarella",
+        "Sinja Dieks",
+        "Gabriele Falsetta",
+        "Marco Boriero"
+    ],
+    "description": "Cuando unos viejos enemigos matan a su familia, un antiguo sicario de la mafia huye a Milán con su intrépida hija para esconderse mientras planean su venganza.",
+    "cover": "https://cuevana.pizza/resize/###/storage/58008/LHJNOO983pUgJQyOPDG2pO2lPpbAF2Mx74lLXOPC.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtMDgzaTdwZndoNXM2Lmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLTZrcWNvczM4Y2RuOS5odG1s"
+            ]
+        },
+        {
+            "type": "cas",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtcG1ucGE3ZWo4aHM2Lmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLTNkNDhlNnlubnczNi5odG1s"
+            ]
+        }
+    ],
+    "downloads": [
+        {
+            "url": "https://1fichier.com/?c6u0gd1bo8pk7h9tvd3r",
+            "type": "la"
+        },
+        {
+            "url": "https://1fichier.com/?4i5aok4a4gc2i4xpwcwv",
+            "type": "es"
+        }
+    ]
+}

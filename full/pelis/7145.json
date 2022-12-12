@@ -1,0 +1,52 @@
+{
+    "url": "https://cuevana.pizza/pelicula/midnight-special",
+    "title": "Midnight Special",
+    "duration": "1h 52m",
+    "year": "2016",
+    "genres": [
+        "Drama",
+        "Misterio",
+        "Ciencia Ficcion"
+    ],
+    "actors": [
+        "Michael Shannon",
+        "Jaeden Martell",
+        "Joel Edgerton",
+        "Kirsten Dunst",
+        "Adam Driver",
+        "David Jensen",
+        "Sam Shepard",
+        "Scott Haze",
+        "Dana Gourrier",
+        "Paul Sparks",
+        "Kerry Cahill",
+        "Bill Camp",
+        "Billy Slaughter",
+        "Lucy Faust",
+        "Sean Bridgers",
+        "Allison King",
+        "Sharon Landry",
+        "Sharon Garrison",
+        "James Moses Black",
+        "Yvonne Landry"
+    ],
+    "description": "Un hombre, Roy (Michael Shannon), y su hijo de 8 años Alton (Jaeden Lieberher) son perseguidos por el gobierno cuando el niño desarrolla poderes especiales.",
+    "cover": "https://cuevana.pizza/resize/###/storage/844/RYZMpcfxgEE9iREhyedGfCMSFabD6EaMSIRJccfS.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQteG53MTF5N2hvZmJnLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLXgyYmpyY2t1OWk3OS5odG1s"
+            ]
+        },
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtZW0xNDVjYXkwcmE2Lmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLWVka292ZW4xMmxrei5odG1s"
+            ]
+        }
+    ],
+    "downloads": []
+}

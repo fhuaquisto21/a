@@ -1,0 +1,52 @@
+{
+    "url": "https://cuevana.pizza/pelicula/lugares-oscuros",
+    "title": "Lugares Oscuros",
+    "duration": "1h 53m",
+    "year": "2015",
+    "genres": [
+        "Accion",
+        "Drama",
+        "Misterio"
+    ],
+    "actors": [
+        "Charlize Theron",
+        "Nicholas Hoult",
+        "Chloë Grace Moretz",
+        "Christina Hendricks",
+        "Tye Sheridan",
+        "Corey Stoll",
+        "Andrea Roth",
+        "Sterling Jerins",
+        "Shannon Kook",
+        "Drea de Matteo",
+        "Sean Bridgers",
+        "J. LaRose",
+        "Jennifer Pierce Mathus",
+        "Denise Williamson",
+        "Natalie Precht",
+        "Madison McGuire",
+        "Addy Miller",
+        "Jeff Chase",
+        "Laura Cayouette",
+        "Richard Gunn"
+    ],
+    "description": "Una chica de Kansas sobrevive a la masacre de su familia y testifica en contra de su hermano como el asesino. Veinticinco años después será visitada por una sociedad secreta que reclama la inocencia de su hermano. De algún modo, tan sólo reviviendo la tragedia podrá averiguar la verdad.",
+    "cover": "https://cuevana.pizza/resize/###/storage/699/hJMHGpJFqaOZdMdvF0vNMLoicTPsarlF6l5P0q7e.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtbDhsOHViMXZnZThxLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLTN3M2g4aXNqNDZvdi5odG1s"
+            ]
+        },
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQteHduNDhod3N1YW1rLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLWp2bGo0Ym55N3NzaC5odG1s"
+            ]
+        }
+    ],
+    "downloads": []
+}

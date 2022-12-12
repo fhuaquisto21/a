@@ -1,0 +1,47 @@
+{
+    "url": "https://cuevana.pizza/pelicula/senorita-j",
+    "title": "Mademoiselle de Joncquières",
+    "duration": "1h 49m",
+    "year": "2018",
+    "genres": [
+        "Drama",
+        "Romance"
+    ],
+    "actors": [
+        "Cécile de France",
+        "Alice Isaaz",
+        "Edouard Baer",
+        "Natalia Dontcheva",
+        "Laure Calamy",
+        "Manon Kneusé",
+        "Arnaud Dupont",
+        "Emilie Aubertot",
+        "Alban Casterman"
+    ],
+    "description": "Madame de La Pommeraye se retira de su reclusión debido a la muerte de su marido, siendo seducida por el Marqués de Arcis. Cuando su romance con el lujurioso marqués da un giro inesperado, la rica viuda trama un plan para vengarse con la ayuda de una joven.",
+    "cover": "https://cuevana.pizza/resize/###/storage/24924/6BwGAjIZqkxsLpyVNNNPLkT0NVBjixQLiTkfhvri.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtYmkyaGNmN3p1a2NjLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLWwwZ3ZmcjI1bmhwNC5odG1s"
+            ]
+        },
+        {
+            "type": "cas",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtMTl1d2szMzA0bGdvLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLXhyMTk3dDA3MHh3ZC5odG1s"
+            ]
+        },
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtZm5hN3UyMHcydDJhLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLXB6Nms0NWRoaWxncy5odG1s"
+            ]
+        }
+    ],
+    "downloads": []
+}

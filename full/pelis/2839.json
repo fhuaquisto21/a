@@ -1,0 +1,60 @@
+{
+    "url": "https://cuevana.pizza/pelicula/forever-rich",
+    "title": "Forever Rich",
+    "duration": "1h 30m",
+    "year": "2021",
+    "genres": [
+        "Comedia",
+        "Drama",
+        "Crimen"
+    ],
+    "actors": [
+        "Jonas Smulders",
+        "Daniël Kolf",
+        "Sinem Kavus",
+        "Hadewych Minis",
+        "Yootha Wong-Loi-Sing",
+        "Mustafa Duygulu",
+        "Yassin Dardour",
+        "Sergio Krijnen"
+    ],
+    "description": "Esta es la historia de Richie y su viaje para convertirse en el mejor artista de rap de los Países Bajos. Una noche es asaltado violentamente por un grupo de adolescentes y pierde su posesión más preciada: un reloj caro. Cuando las imágenes del humillante robo se vuelven virales, la reputación ganada con tanto esfuerzo de Richie se daña.",
+    "cover": "https://cuevana.pizza/resize/###/storage/11008/Qad0WLno8d4OaT1sUPSL52PbMRAGY1fqg0VezUMG.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtZ2tmb2s1cmwxY2JoLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLXh4a2RveG42MTA2ZS5odG1s"
+            ]
+        },
+        {
+            "type": "cas",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtM256dm8zZzc1YnZrLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLW5qcHg5eWxrcmltMC5odG1s"
+            ]
+        },
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtZ2RwNGpzNm81emFwLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLWl3Y2Z3aW44bGx1dS5odG1s"
+            ]
+        }
+    ],
+    "downloads": [
+        {
+            "url": "https://1fichier.com/?qp5wto33awmp298zi1dm",
+            "type": "la"
+        },
+        {
+            "url": "https://1fichier.com/?94ep3sciigh7uve7zvxo",
+            "type": "es"
+        },
+        {
+            "url": "https://1fichier.com/?0g55l2ysow6wc78c80so",
+            "type": "en"
+        }
+    ]
+}

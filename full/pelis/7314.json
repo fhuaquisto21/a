@@ -1,0 +1,50 @@
+{
+    "url": "https://cuevana.pizza/pelicula/every-thing-will-be-fine",
+    "title": "Todo saldrá bien",
+    "duration": "1h 58m",
+    "year": "2015",
+    "genres": [
+        "Drama"
+    ],
+    "actors": [
+        "James Franco",
+        "Rachel McAdams",
+        "Charlotte Gainsbourg",
+        "Marie-Josée Croze",
+        "Peter Stormare",
+        "Patrick Bauchau",
+        "Julia Sarah Stone",
+        "Lilah Fitzgerald",
+        "Robert Naylor",
+        "Jack Fulton",
+        "Céline Bonnier",
+        "Peter Miller",
+        "Martin Sims",
+        "Anne-Sophie Bozon",
+        "Julien Boissaud",
+        "Philippe Vanasse-Paquet",
+        "Jessy Gagnon",
+        "Diane Arson",
+        "Rachelle Bergeron",
+        "Benoit Priest"
+    ],
+    "description": "La vida del escritor Tomas Eldan (James Franco) cambia el día que, tras una acalorada discusión con su novia, atropella a un niño. Doce años después, Tomas sigue culpándose sin poder olvidar la tragedia. Aquel fatídico accidente afectó a Kate, la madre del niño, y todos los que rodean a Tomas, incluida su novia.",
+    "cover": "https://cuevana.pizza/resize/###/storage/27325/HVOE3Aevnt0dXfRUIa6LpMPMONoz1p1Oz4GHsk6Y.jpg",
+    "players": [
+        {
+            "type": "cas",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtaTlnbHFoaTZ1MXZ4Lmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLWg4MDEzMmxmNmpwdy5odG1s"
+            ]
+        },
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtNWR5Z3FlZ201dHZiLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLWgwdjBvOTBxN20wZS5odG1s"
+            ]
+        }
+    ],
+    "downloads": []
+}

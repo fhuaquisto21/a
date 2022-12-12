@@ -1,0 +1,51 @@
+{
+    "url": "https://cuevana.pizza/pelicula/ibiza",
+    "title": "Ibiza",
+    "duration": "1h 34m",
+    "year": "2018",
+    "genres": [
+        "Comedia",
+        "Romance"
+    ],
+    "actors": [
+        "Gillian Jacobs",
+        "Vanessa Bayer",
+        "Phoebe Robinson",
+        "Michaela Watkins",
+        "Jordi Mollà",
+        "Richard Madden",
+        "Anjela Nedyalkova",
+        "Nelson Dante",
+        "Augustus Prew",
+        "Anthony Welsh",
+        "Humphrey Ker",
+        "Gwen Elizabeth Duchon",
+        "Félix Gómez",
+        "Tea Vracic",
+        "Bojan Ban",
+        "Tara Thaller",
+        "Marko Paradzik",
+        "Ivan Devcic",
+        "Jani Zombori",
+        "Bozena Bilanovic"
+    ],
+    "description": "Una joven estadounidense y sus dos mejores amigas buscan un DJ caliente en España.",
+    "cover": "https://cuevana.pizza/resize/###/storage/26104/Mm2B0DKwJieFl5qr5zy4W0WIk6fZVGYJS0Ns4kHb.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtNTMwM2hvZnVsZ2RhLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLW45NzFtODA4NjB2NS5odG1s"
+            ]
+        },
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtbHdwNDc3cmo0YnRrLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLTRjcGxhbHM0MnlqaC5odG1s"
+            ]
+        }
+    ],
+    "downloads": []
+}

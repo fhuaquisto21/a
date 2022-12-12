@@ -1,0 +1,56 @@
+{
+    "url": "https://cuevana.pizza/pelicula/project-gutenberg",
+    "title": "Project Gutenberg",
+    "duration": "2h 10m",
+    "year": "2018",
+    "genres": [
+        "Accion",
+        "Misterio",
+        "Suspenso",
+        "Crimen"
+    ],
+    "actors": [
+        "Chow Yun-Fat",
+        "Aaron Kwok",
+        "Zhang Jingchu",
+        "冯文娟",
+        "Liu Kai-Chi",
+        "Catherine Chau",
+        "David Wang",
+        "Paulyn Sun",
+        "Deon Cheung",
+        "Justin Cheung",
+        "Carl Ng",
+        "Alex Fong",
+        "Jack Kao",
+        "Xing Jiadong",
+        "Leung Kin-Ping",
+        "Felix Lok Ying-Kwan"
+    ],
+    "description": "Lee Man (Aaron Kwok) es un artista de la falsificación que ha sido arrestado en Tailandia y extraditado a Hong Kong por la policía. Antes de ser juzgado llega a un acuerdo con Yuen Man (Zhang Jingchu), uno de los tesoros nacionales del país, por el cual deberá de desenmascarar a la persona que se encuentra tras el denominado \"Pintor\" (Chow Yun-fat), el líder de una banda que se dedica a falsificar billetes. Lee no tiene otro remedio que testificar para evitar ingresar en prisión, pero este hecho le lleva a sufrir una serie de amenazas por parte de las personas a las que está a punto de delatar.",
+    "cover": "https://cuevana.pizza/resize/###/storage/25595/VOfq5sTlD9PfH7XbXKvtZeijwVZy8Y6b1TLVnpFa.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtNzRxMXphbWk5bGNyLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLWlnMnh2YzJlaHV3aS5odG1s"
+            ]
+        },
+        {
+            "type": "cas",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtMjNpOGdiOWQwbDhtLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLTBpNWJva3d1YmlpNy5odG1s"
+            ]
+        },
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtZXByNmwwZDI0d3h5Lmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLXE0MTZpYWNhZHNjbi5odG1s"
+            ]
+        }
+    ],
+    "downloads": []
+}

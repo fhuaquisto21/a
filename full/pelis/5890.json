@@ -1,0 +1,27 @@
+{
+    "url": "https://cuevana.pizza/pelicula/playing-hard",
+    "title": "Playing Hard",
+    "duration": "1h 31m",
+    "year": "2018",
+    "genres": [
+        "Documental"
+    ],
+    "actors": [
+        "Stéphane Cardin",
+        "Luc Duchaine",
+        "Yannis Mallat",
+        "Jason Vandenberghe"
+    ],
+    "description": "En las oficinas de Ubisoft, el diseñador Jason VandenBerghe se deja la piel durante más de cuatro años para crear el videojuego \"For Honor\".",
+    "cover": "https://cuevana.pizza/resize/###/storage/25129/UNJUeQHHWmZm1BiD5ruNPNYIZ2lrUL4oF86K8e3a.jpg",
+    "players": [
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtc3RxeHhkZ3h0bnkwLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLWQxb3U5dmw5ajBnai5odG1s"
+            ]
+        }
+    ],
+    "downloads": []
+}

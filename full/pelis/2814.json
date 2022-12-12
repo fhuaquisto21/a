@@ -1,0 +1,61 @@
+{
+    "url": "https://cuevana.pizza/pelicula/spin",
+    "title": "Spin",
+    "duration": "1h 33m",
+    "year": "2021",
+    "genres": [
+        "Drama",
+        "Familia"
+    ],
+    "actors": [
+        "Avantika Vandanapu",
+        "Kerri Medders",
+        "Anna Cathcart",
+        "Michael Bishop",
+        "Michela Luci",
+        "Agam Darshi",
+        "Abhay Deol",
+        "Aryan Simhadri",
+        "Marcus Craig",
+        "Kyle Kass"
+    ],
+    "description": "Rhea descubre su pasión por crear mezclas de DJ que combinan las ricas texturas de su cultura del sur de Asia y el mundo que la rodea.",
+    "cover": "https://cuevana.pizza/resize/###/storage/11068/pxTJk87L5IPcI0FM9l69hAdTkE4DbFDpJ4IbDnjt.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtdGJmYnBsa2FkMWdwLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLW9hb3BlMncxdjl0eS5odG1s"
+            ]
+        },
+        {
+            "type": "cas",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtYzZ5OXpjZnFwc29iLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLW5xNXcwOTBjdG00bS5odG1s"
+            ]
+        },
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtM3o1Nnk2OXF2eW0zLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLXdhNDJmbHRyNm1wdC5odG1s"
+            ]
+        }
+    ],
+    "downloads": [
+        {
+            "url": "https://1fichier.com/?pztkt4cg0vdbe0rcdmfh",
+            "type": "la"
+        },
+        {
+            "url": "https://1fichier.com/?ltqja121dqff6llc5vam",
+            "type": "es"
+        },
+        {
+            "url": "https://1fichier.com/?ac9t0dvkasgol4bbsr34",
+            "type": "en"
+        }
+    ]
+}

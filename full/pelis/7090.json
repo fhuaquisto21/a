@@ -1,0 +1,44 @@
+{
+    "url": "https://cuevana.pizza/pelicula/this-beautiful-fantastic",
+    "title": "El maravilloso jardín secreto de Bella Brown",
+    "duration": "1h 40m",
+    "year": "2016",
+    "genres": [
+        "Comedia",
+        "Drama",
+        "Fantasia"
+    ],
+    "actors": [
+        "Jessica Brown Findlay",
+        "Tom Wilkinson",
+        "Andrew Scott",
+        "Jeremy Irvine",
+        "Anna Chancellor",
+        "Mia Farkasovska",
+        "Eileen Davies",
+        "Natalie Nasseraldeen",
+        "Nancy Nasseraldeen",
+        "Paul Hunter",
+        "Sheila Hancock",
+        "Charlotte Asprey"
+    ],
+    "description": "Una mujer joven que sueña con ser autora infantil entabla amistad con un cascarrabias viejo, viudo y rico.",
+    "cover": "https://cuevana.pizza/resize/###/storage/28167/qoGrHg49MtLCg3fmQ9EoTWRFShzQppdhBoZQKd9N.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtcnEwa2tnNTVtOHBzLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLXI1aWk1eWgxN21hZy5odG1s"
+            ]
+        },
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtdXNwdHEwZWEzamZ6Lmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLXE0YjdlcHVhdHJ6eS5odG1s"
+            ]
+        }
+    ],
+    "downloads": []
+}

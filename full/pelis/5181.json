@@ -1,0 +1,51 @@
+{
+    "url": "https://cuevana.pizza/pelicula/el-canto-del-lobo",
+    "title": "El canto del lobo",
+    "duration": "1h 55m",
+    "year": "2019",
+    "genres": [
+        "Accion",
+        "Drama"
+    ],
+    "actors": [
+        "François Civil",
+        "Omar Sy",
+        "Mathieu Kassovitz",
+        "Reda Kateb",
+        "Paula Beer",
+        "Alexis Michalik",
+        "Jean-Yves Berteloot",
+        "Damien Bonnard",
+        "Pierre Cévaër",
+        "Sébastien Libessart",
+        "Paul Granier",
+        "Etienne Guillou-Kervern",
+        "Guillaume Duhesme",
+        "Simon Thomas",
+        "Bastien Ughetto",
+        "Marc Ruchmann",
+        "Nicolas Van Beveren",
+        "Sébastien Landry",
+        "Sylvain Loreau",
+        "Arthur Choisnet"
+    ],
+    "description": "Ante una inminente guerra nuclear, un militar experto en acústica submarina debe demostrar con la ayuda de su oído, que las cosas no son como parecen ni como suenan.",
+    "cover": "https://cuevana.pizza/resize/###/storage/18258/N8A2v3fd4IC4pjgLogAxchlDfwO1UbKGW5mKKhWP.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtY3p1YXpscHoxZ2lrLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLThqOGNkcW9zeWFpay5odG1s"
+            ]
+        },
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtZzJ4djdlbzF5Y3MyLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLTZiaDYxYTM2YXQ1by5odG1s"
+            ]
+        }
+    ],
+    "downloads": []
+}

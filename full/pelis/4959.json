@@ -1,0 +1,57 @@
+{
+    "url": "https://cuevana.pizza/pelicula/mas-que-madres",
+    "title": "Más que madres",
+    "duration": "1h 40m",
+    "year": "2019",
+    "genres": [
+        "Comedia"
+    ],
+    "actors": [
+        "Angela Bassett",
+        "Patricia Arquette",
+        "Felicity Huffman",
+        "Jake Hoffman",
+        "Jake Lacy",
+        "Sinqua Walls",
+        "Heidi Gardner",
+        "Frank De Julio",
+        "Damian Young",
+        "Stephen Kunken",
+        "Afton Williamson",
+        "Becki Newton",
+        "Mario Cantone",
+        "Tim Bagley",
+        "Molly Bernard",
+        "Emily Tremaine",
+        "Kate Easton",
+        "Kelcy Griffin",
+        "Elizabeth Cappuccino",
+        "Rosanny Zayas"
+    ],
+    "description": "Carol (Angela Bassett), Gillian (Patricia Arquette) y Helen (Felicity Huffman), amigas de toda la vida, se sienten marginadas y olvidadas por sus hijos ya adultos. Se van a Nueva York para verlos y allí descubren que tienen que cambiar algo en sus vidas, tanto ellos como ellas. La aventura se convierte en un viaje interior, en el que deben redefinir su relación con hijos, amigos, parejas y, lo más importante, ellas mismas.",
+    "cover": "https://cuevana.pizza/resize/###/storage/21066/h5JcbgXYh99BtGRFN6uaoyz4L1uxiJ77vKzHSzjV.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtMGd5Zm9xZWF5emQ0Lmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLXYzNGpjdDEwczh1ai5odG1s"
+            ]
+        },
+        {
+            "type": "cas",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtbnF0dXhvNTJkeXdnLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLXNtcWs3ZjVkNm4yZC5odG1s"
+            ]
+        },
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQteWYyNWVpcXVkdXNiLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLWE2N3prcnd6dGVzNS5odG1s"
+            ]
+        }
+    ],
+    "downloads": []
+}

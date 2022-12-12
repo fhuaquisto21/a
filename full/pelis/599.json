@@ -1,0 +1,63 @@
+{
+    "url": "https://cuevana.pizza/pelicula/juntos-son-dinamita",
+    "title": "Juntos son dinamita",
+    "duration": "1h 30m",
+    "year": "2022",
+    "genres": [
+        "Accion",
+        "Comedia"
+    ],
+    "actors": [
+        "Alessandro Roja",
+        "Edoardo Pesce",
+        "Alessandra Mastronardi",
+        "Christian De Sica",
+        "Massimiliano Rossi",
+        "Francesco Bruni",
+        "Michael Schermi",
+        "Gabriele Cristini",
+        "Christian Monaldi",
+        "Mauro Aversano",
+        "Nana Funabiki",
+        "Carlo Valli"
+    ],
+    "description": "Remake de \"...Y si no, nos enfadamos\" de Terence Hill y Bud Spencer. En esta versión de la película de los 70 con Bud Spencer y Terence Hill, dos hermanos que llevan 25 años sin hablarse se reúnen para recuperar el minibólido de su padre.",
+    "cover": "https://cuevana.pizza/resize/###/storage/48574/pzDPb7dnQvnu5DnxXvkXZRIftZHaMUn0NCL1DTIf.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtcjd6b3JqenFla2lzLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLTdjcXV2YXQ5bWZhMS5odG1s"
+            ]
+        },
+        {
+            "type": "cas",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtaHRxb3VqOW5zM3EyLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLW1vbWVscXNoZ29qOS5odG1s"
+            ]
+        },
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtd3EzejZvMGwwZmdvLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLXpzMm9jMm5oMjhwbC5odG1s"
+            ]
+        }
+    ],
+    "downloads": [
+        {
+            "url": "https://1fichier.com/?v2u9rzg5dhhe2u81izfw",
+            "type": "la"
+        },
+        {
+            "url": "https://1fichier.com/?orneb3oymavnvqb6uwri",
+            "type": "es"
+        },
+        {
+            "url": "https://1fichier.com/?86yus5alwya1w2ci88tc",
+            "type": "en"
+        }
+    ]
+}

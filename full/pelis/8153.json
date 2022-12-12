@@ -1,0 +1,55 @@
+{
+    "url": "https://cuevana.pizza/pelicula/daredevil-el-hombre-sin-miedo",
+    "title": "Daredevil",
+    "duration": "1h 43m",
+    "year": "2003",
+    "genres": [
+        "Accion",
+        "Suspenso",
+        "Ciencia Ficcion",
+        "Crimen",
+        "Fantasia",
+        "Marvel Comics"
+    ],
+    "actors": [
+        "Ben Affleck",
+        "Jennifer Garner",
+        "Colin Farrell",
+        "Michael Clarke Duncan",
+        "Jon Favreau",
+        "Scott Terra",
+        "Ellen Pompeo",
+        "Joe Pantoliano",
+        "Leland Orser",
+        "Lennie Loftin",
+        "Erick Avari",
+        "Derrick O'Connor",
+        "Paul Ben-Victor",
+        "David Keith",
+        "Frankie J. Allison",
+        "Joe J. Garcia",
+        "John Rothman",
+        "Jim Fitzgerald",
+        "Casey McCarthy",
+        "Louis Bernstein"
+    ],
+    "description": "Adaptación del legendario héroe de cómic de Marvel -conocido como el Hombre sin Miedo-. El abogado Matt Murdock es ciego a causa de un residuo radioactivo, pero sus otros cuatro sentidos están especialmente agudizados. De día, Murdock representa a los oprimidos. Por la noche, es Daredevil, un vigilante enmascarado que acecha las oscuras calles de la ciudad, un implacable vengador de justicia.",
+    "cover": "https://cuevana.pizza/resize/###/storage/28706/Ag8JRVE75V45UM8NasNHmVIstdtzSNhD3SVlPqmY.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtam9oY2E2emRobDAzLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLTl2Mnd3OWtxanBnaS5odG1s"
+            ]
+        },
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtbDQ4NTU4eXpiNTMxLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLXZtNGhuZDRvdWJneS5odG1s"
+            ]
+        }
+    ],
+    "downloads": []
+}

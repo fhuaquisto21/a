@@ -1,0 +1,55 @@
+{
+    "url": "https://cuevana.pizza/pelicula/butchers",
+    "title": "Butchers",
+    "duration": "1h 33m",
+    "year": "2021",
+    "genres": [
+        "Terror"
+    ],
+    "actors": [
+        "Anne-Carolyne Binette",
+        "James Hicks",
+        "Julie Mainville",
+        "Michael Swatton",
+        "Simon Phillips"
+    ],
+    "description": "Una familia de carniceros sádicos vive en las profundidades del campo. Desde el final del invierno hasta los días caninos del verano, cualquiera que se cruce en su camino es carne muerta.",
+    "cover": "https://cuevana.pizza/resize/###/storage/5717/xwuoeCgXoX6AIk1g6gAP1zCDWsuM50zQOWj7aGm3.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtZG1kMzlobGVkODRjLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLXJycm8xMnVzcXp6bS5odG1s"
+            ]
+        },
+        {
+            "type": "cas",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQta2Fjd29jeDlvYW9zLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLWcybWdmbG5vMGFzNS5odG1s"
+            ]
+        },
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtemtpNmpoMDhyemk5Lmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLXl2aXhuNTJ6ZHE3di5odG1s"
+            ]
+        }
+    ],
+    "downloads": [
+        {
+            "url": "https://1fichier.com/?agczt6mtcp7bfycza52o",
+            "type": "la"
+        },
+        {
+            "url": "https://1fichier.com/?4t6gofhdb9l9w42kbzfa",
+            "type": "es"
+        },
+        {
+            "url": "https://1fichier.com/?tzxa7fngr8aobcirq5qu",
+            "type": "en"
+        }
+    ]
+}

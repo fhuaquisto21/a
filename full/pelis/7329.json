@@ -1,0 +1,62 @@
+{
+    "url": "https://cuevana.pizza/pelicula/home",
+    "title": "Home: Hogar dulce hogar",
+    "duration": "1h 34m",
+    "year": "2015",
+    "genres": [
+        "Comedia",
+        "Aventura",
+        "Animacion"
+    ],
+    "actors": [
+        "Jim Parsons",
+        "Rihanna",
+        "Steve Martin",
+        "Jennifer Lopez",
+        "Matt Jones",
+        "Brian Stepanek",
+        "April Lawrence",
+        "Lisa Stewart",
+        "Stephen Kearin",
+        "April Winchell"
+    ],
+    "description": "Un grupo de pacíficos alienígenas se encuentran huyendo de sus enemigos, y deciden esconderse de ellos en la Tierra. Sin embargo, uno de estos humildes extraterrestres accidentalmente notifica a sus perseguidores cuál es su ubicación, y no le queda más remedio que huir junto con una chica adolescente.",
+    "cover": "https://cuevana.pizza/resize/###/storage/658/KcGZTWIeSNvNkyNocVXepZ133OPFZxRYAsAQ5mf2.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtNWU3MnU2Yzl3aWIyLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLXVzZnN1Z2E3ZjRkOS5odG1s"
+            ]
+        },
+        {
+            "type": "cas",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtczRsdjhwbDJmaHRwLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLWQ2N2d2cHV1ZGp0Zy5odG1s"
+            ]
+        },
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtbWlqcW1hZGsxeDZiLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLXU1N2VnZmF6aTJmei5odG1s"
+            ]
+        }
+    ],
+    "downloads": [
+        {
+            "url": "https://1fichier.com/?mu5dnowx7kdvm67szrgm",
+            "type": "la"
+        },
+        {
+            "url": "https://1fichier.com/?vvxt59myua5p80xf3wu6",
+            "type": "es"
+        },
+        {
+            "url": "https://1fichier.com/?zi7rj5s5adbxeftt6i4h",
+            "type": "en"
+        }
+    ]
+}

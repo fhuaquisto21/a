@@ -1,0 +1,59 @@
+{
+    "url": "https://cuevana.pizza/pelicula/mighty-oak",
+    "title": "Juntos otra vez",
+    "duration": "1h 42m",
+    "year": "2020",
+    "genres": [
+        "Comedia",
+        "Drama"
+    ],
+    "actors": [
+        "Janel Parrish",
+        "Alexa PenaVega",
+        "Carlos PenaVega",
+        "Tommy Ragen",
+        "Levi Dylan",
+        "Raven-Symoné",
+        "Ben Milliken",
+        "Nana Ghana"
+    ],
+    "description": "La vida de Gina Jackson se hace añicos cuando su hermano y vocalista principal de la banda Army of Love, Vaughn, muere en un trágico accidente. Diez años después, el joven prodigio de la guitarra Oak Scoggins entra en su órbita y se convence de que este joven es la reencarnación de Vaughn. ¿Pero es él?",
+    "cover": "https://cuevana.pizza/resize/###/storage/25026/STubmYvg9UK3BTZ631YJtHCtMq4jWPzlKiKlpn7x.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtd3V0YXF3ZnMwenJvLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLTh2MGpvMW5pdTR3ZC5odG1s"
+            ]
+        },
+        {
+            "type": "cas",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtcDN3N205eHZ4d2UxLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLTJmendlYWd4cHFwYi5odG1s"
+            ]
+        },
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtY2JyN25wMzc0Mmd5Lmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLWZqZ2ZnMnQ0NnN0MS5odG1s"
+            ]
+        }
+    ],
+    "downloads": [
+        {
+            "url": "https://1fichier.com/?e6ddm36iilwsh356qbpp#Synchronization+Service",
+            "type": "la"
+        },
+        {
+            "url": "https://1fichier.com/?p3wxqkokxa7cqepmwlgh#Synchronization+Service",
+            "type": "es"
+        },
+        {
+            "url": "https://1fichier.com/?g3x0wv7b36lv7i7vgc8y#Synchronization+Service",
+            "type": "en"
+        }
+    ]
+}

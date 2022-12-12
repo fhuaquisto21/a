@@ -1,0 +1,75 @@
+{
+    "url": "https://cuevana.pizza/pelicula/high-school-musical",
+    "title": "High School Musical",
+    "duration": "1h 38m",
+    "year": "2006",
+    "genres": [
+        "Comedia",
+        "Drama",
+        "Romance",
+        "Familia",
+        "Musical",
+        "Disney"
+    ],
+    "actors": [
+        "Zac Efron",
+        "Vanessa Hudgens",
+        "Ashley Tisdale",
+        "Lucas Grabeel",
+        "Corbin Bleu",
+        "Monique Coleman",
+        "Bart Johnson",
+        "Alyson Reed",
+        "Chris Warren",
+        "Olesya Rulin",
+        "Joey Miyashima",
+        "Ryan Templeman",
+        "Irene Santiago",
+        "Leslie Wing",
+        "Joyce Cohen",
+        "Anne Kathryn Parma",
+        "Charles Klapow",
+        "Brad Tobler",
+        "Allison Holker",
+        "Britt Stewart"
+    ],
+    "description": "Durante unas vacaciones de Navidad, los jóvenes Troy y Gabriella (dos adolescentes en principo con pocas cosas en común) se conocen. Ambos descubren su interés mutuo por la música durante un concurso de karaoke, y deciden presentarse al casting del musical del instituto.",
+    "cover": "https://cuevana.pizza/resize/###/storage/43889/wmsG89Q8o8EHsRFhJfXslfYApTn4GJUx3T5B9alx.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtZ3B1eWgwZXN0NGtzLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLXp4bmFtaDE4emxqdy5odG1s"
+            ]
+        },
+        {
+            "type": "cas",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtcnBwdXU0NDFneHBrLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLTN4bDBmcnRidWd4Ny5odG1s"
+            ]
+        },
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtMjk2NmViNjdoeWJyLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLXFpMm8zMzZram9vcS5odG1s"
+            ]
+        }
+    ],
+    "downloads": [
+        {
+            "url": "https://1fichier.com/?laykfjttlx5b7ebomewc#Synchronization+Service",
+            "type": "la"
+        },
+        {
+            "url": "https://1fichier.com/?9t8cme881gir0siesxmi#Synchronization+Service",
+            "type": "es"
+        },
+        {
+            "url": "https://1fichier.com/?xb6qstzkc31z9s44x5gb#Synchronization+Service",
+            "type": "en"
+        }
+    ]
+}

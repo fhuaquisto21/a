@@ -1,0 +1,49 @@
+{
+    "url": "https://cuevana.pizza/pelicula/navidad-en-la-granja",
+    "title": "Navidad en la granja",
+    "duration": "1h 42m",
+    "year": "2022",
+    "genres": [
+        "Comedia",
+        "Familia",
+        "Navidad"
+    ],
+    "actors": [
+        "Scott Garnham",
+        "Scott Paige",
+        "Ashley Jensen",
+        "Gabriel Vick",
+        "Celia Imrie",
+        "Kathryn Drysdale",
+        "Carolyn Pickles",
+        "Jonny Weldon",
+        "Stewart Wright",
+        "Richard Price",
+        "Nick Owenford",
+        "Mhairi Angus",
+        "Simon Lipkin",
+        "Jack Chissick",
+        "Dexter Ansell",
+        "Inel Tomlinson",
+        "Jamie Chapman"
+    ],
+    "description": "Un padre viudo hereda una granja en plena Navidad. Mientras él lucha por adaptarse a la vida en el campo, sus hijos traman un plan para quedarse allí para siempre.",
+    "cover": "https://cuevana.pizza/resize/###/storage/57600/Po0CPvwZPS3UBnljRdDz2WCs1c18ogyPSka43L8K.jpg",
+    "players": [
+        {
+            "type": "cas",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtZTlnMmtpdWQyNmdqLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLWh6Z3V1MGplZXJkbC5odG1s"
+            ]
+        },
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQta3VrM2wybGk3anJyLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLWN5ZGk0MndqNmJmZS5odG1s"
+            ]
+        }
+    ],
+    "downloads": []
+}

@@ -1,0 +1,72 @@
+{
+    "url": "https://cuevana.pizza/pelicula/max",
+    "title": "Max",
+    "duration": "1h 51m",
+    "year": "2015",
+    "genres": [
+        "Drama",
+        "Aventura",
+        "Familia"
+    ],
+    "actors": [
+        "Thomas Haden Church",
+        "Josh Wiggins",
+        "Lauren Graham",
+        "Robbie Amell",
+        "Mia Xitlali",
+        "Luke Kleintank",
+        "Jay Hernandez",
+        "Joseph Julian Soria",
+        "Zeeko Zaki",
+        "Edgar Arreola",
+        "Christian Brunetti",
+        "Jason Davis",
+        "Miles Mussenden",
+        "Nazareth Dairian",
+        "Ethan Alexander McGee",
+        "Carlos",
+        "Dejon LaQuake",
+        "Owen Harn",
+        "Kelly Borgnis",
+        "Chris Matheny"
+    ],
+    "description": "Un perro que ayudó a los soldados en Afganistán regresa a los Estados Unidos y es adoptado por la familia de su adiestrador después de sufrir una experiencia traumática.",
+    "cover": "https://cuevana.pizza/resize/###/storage/26701/PjeQxsh8PO3CPWfDmbbP0X4cFz8byznIiBV7UEMo.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQta25lbHFnZmtidnh1Lmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLXhvemtrOHZzZG9oNy5odG1s"
+            ]
+        },
+        {
+            "type": "cas",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtbHgwcTZsMmN6bGVnLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLXVpMWl1YzQ5bXIwdi5odG1s"
+            ]
+        },
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtYjFubnprbmFwZ3BkLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLWRtcndzeXZsbmU2Ny5odG1s"
+            ]
+        }
+    ],
+    "downloads": [
+        {
+            "url": "https://1fichier.com/?054n55cfu1jcmkmal97w",
+            "type": "la"
+        },
+        {
+            "url": "https://1fichier.com/?wq5lzq5ernwitndg4bwn",
+            "type": "es"
+        },
+        {
+            "url": "https://1fichier.com/?xg64kr2k1n5lq0olbuey",
+            "type": "en"
+        }
+    ]
+}

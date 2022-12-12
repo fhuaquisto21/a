@@ -1,0 +1,59 @@
+{
+    "url": "https://cuevana.pizza/pelicula/wall-e-batallon-de-limpieza",
+    "title": "WALL·E: Batallón de limpieza",
+    "duration": "1h 37m",
+    "year": "2008",
+    "genres": [
+        "Ciencia Ficcion",
+        "Familia",
+        "Animacion"
+    ],
+    "actors": [
+        "Ben Burtt",
+        "Elissa Knight",
+        "Jeff Garlin",
+        "MacInTalk",
+        "Fred Willard",
+        "John Ratzenberger",
+        "Kathy Najimy",
+        "Sigourney Weaver",
+        "Teddy Newton",
+        "Bob Bergen",
+        "John Cygan",
+        "Pete Docter",
+        "Paul Eiding",
+        "Donald Fullilove",
+        "Teresa Ganzel",
+        "Mickie McGowan",
+        "Laraine Newman",
+        "Lori Alan",
+        "Jeff Pidgeon",
+        "Jan Rabson"
+    ],
+    "description": "En el año 2700, en un planeta Tierra devastado y sin vida, tras cientos de solitarios años haciendo aquello para lo que fue construido -limpiar el planeta de basura- el pequeño robot WALL•E descubre una nueva misión en su vida cuando se encuentra con una moderna y lustrosa robot exploradora llamada EVE. Ambos viajarán a lo largo de la galaxia y vivirán una emocionante e inolvidable aventura.",
+    "cover": "https://cuevana.pizza/resize/###/storage/42061/FLFVEFVXxE9OkUUTulJF3EnLazJwYs8UfUmGYoGc.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtYjg3bWRjM2tvczR4Lmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLTdpaGd6ejByczVsbC5odG1s"
+            ]
+        },
+        {
+            "type": "cas",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtNm1wZWhyemh2cGUwLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLWg0M3RseWVydXlobi5odG1s"
+            ]
+        },
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtbG9wOXljZHNqcnl4Lmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLWN1ZDRyZDIwbGNyZC5odG1s"
+            ]
+        }
+    ],
+    "downloads": []
+}

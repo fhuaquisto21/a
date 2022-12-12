@@ -1,0 +1,62 @@
+{
+    "url": "https://cuevana.pizza/pelicula/el-grito",
+    "title": "El grito",
+    "duration": "1h 31m",
+    "year": "2004",
+    "genres": [
+        "Misterio",
+        "Suspenso",
+        "Terror"
+    ],
+    "actors": [
+        "Sarah Michelle Gellar",
+        "Jason Behr",
+        "William Mapother",
+        "Clea DuVall",
+        "KaDee Strickland",
+        "Grace Zabriskie",
+        "Bill Pullman",
+        "Rosa Blasi",
+        "Ted Raimi",
+        "Ryo Ishibashi"
+    ],
+    "description": "La aparente normalidad de la fachada de una modesta casa de Tokio oculta el horror que se encuentra en su interior. La vivienda está poseída por una violenta plaga que destruye las vidas de todos los que entran en ella.",
+    "cover": "https://cuevana.pizza/resize/###/storage/18213/U3XGBOcdNttDRgjrS78YcsXjqqFj0PQCiu8fZCEU.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtZGkzMXI3bzd1cTQ4Lmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLXk4ZHN6Z281dGJhOC5odG1s"
+            ]
+        },
+        {
+            "type": "cas",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQta2U4cmN4ZTFxN21uLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLWxtNnl1cWMxb3o3NS5odG1s"
+            ]
+        },
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtM2xkY2N1ZTVoM2J6Lmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLXlic3hncXlqMW5taC5odG1s"
+            ]
+        }
+    ],
+    "downloads": [
+        {
+            "url": "https://1fichier.com/?r3dmru9idc1gwm87c39k",
+            "type": "la"
+        },
+        {
+            "url": "https://1fichier.com/?n3cuivr7atdbtf15ypl8",
+            "type": "es"
+        },
+        {
+            "url": "https://1fichier.com/?a2ikesby3pecg7946ftg",
+            "type": "en"
+        }
+    ]
+}

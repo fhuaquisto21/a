@@ -1,0 +1,73 @@
+{
+    "url": "https://cuevana.pizza/pelicula/thor",
+    "title": "Thor",
+    "duration": "1h 55m",
+    "year": "2011",
+    "genres": [
+        "Accion",
+        "Aventura",
+        "Fantasia",
+        "Marvel Comics"
+    ],
+    "actors": [
+        "Chris Hemsworth",
+        "Natalie Portman",
+        "Tom Hiddleston",
+        "Anthony Hopkins",
+        "Stellan Skarsgård",
+        "Kat Dennings",
+        "Clark Gregg",
+        "Colm Feore",
+        "Idris Elba",
+        "Ray Stevenson",
+        "Tadanobu Asano",
+        "Josh Dallas",
+        "Jaimie Alexander",
+        "Rene Russo",
+        "Adriana Barraza",
+        "Maximiliano Hernández",
+        "Richard Cetrone",
+        "Darren Kendrick",
+        "Joshua Cox",
+        "Justice Jesse Smith"
+    ],
+    "description": "Thor es un arrogante y codicioso guerrero cuya imprudencia desata una antigua guerra. Por ese motivo, su padre Odín lo castiga desterrándolo a la Tierra para que viva entre los hombres y descubra así el verdadero sentido de la humildad. Cuando el villano más peligroso de su mundo envía a la Tierra a las fuerzas más oscuras de Asgard, Thor se dará cuenta de lo que realmente hace falta para ser un verdadero héroe.",
+    "cover": "https://cuevana.pizza/resize/###/storage/21096/IDno0MsQROZm3MYAPieFfj78xOvmix35rrsHTFqG.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtZzliZDZlZzRzdnYyLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLTJiNWltYjQ3NTBzcS5odG1s"
+            ]
+        },
+        {
+            "type": "cas",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtNjIwZmc3d3FrNmg2Lmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLW9qa2NyNWV0amM3di5odG1s"
+            ]
+        },
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQteGR6M2MxZTJjaTBxLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLXg3cTczODBtZG80eS5odG1s"
+            ]
+        }
+    ],
+    "downloads": [
+        {
+            "url": "https://1fichier.com/?lkffjledgn",
+            "type": "la"
+        },
+        {
+            "url": "https://1fichier.com/?502z6drsycrbeoziiw1r",
+            "type": "es"
+        },
+        {
+            "url": "https://1fichier.com/?eqioz41awptfe4izouvo",
+            "type": "en"
+        }
+    ]
+}

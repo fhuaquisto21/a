@@ -1,0 +1,43 @@
+{
+    "url": "https://cuevana.pizza/pelicula/enamorado-de-mi-mujer",
+    "title": "Enamorado de mi mujer",
+    "duration": "1h 24m",
+    "year": "2018",
+    "genres": [
+        "Comedia"
+    ],
+    "actors": [
+        "Daniel Auteuil",
+        "Gérard Depardieu",
+        "Sandrine Kiberlain",
+        "Adriana Ugarte",
+        "John Sehil",
+        "Christina Crevillén",
+        "Joffrey Platel",
+        "Brigitte Aubry",
+        "Sonia Bonny Eboumbou",
+        "Monica Ledesma",
+        "Eva Chico",
+        "Florence Coste",
+        "Alain Doutey"
+    ],
+    "description": "En París, el veterano editor Daniel (Auteuil) se encuentra con su amigo Patrick (Gérard Depardieu) que no veía hace mucho tiempo y le invita a cenar a su casa. Su amigo Patrick llega acompañado de su nueva novia Emma (Adriana Ugarte), mucho más joven que ellos dos. Daniel empieza a fantasear sobre tener una aventura con ella, mientras que su mujer Isabelle (Sandrine Kiberlain) sospecha de sus intenciones.",
+    "cover": "https://cuevana.pizza/resize/###/storage/25482/O5FtzwjuVEvRlYEBYTaI4fsoMSKqPddMvNyIPN9S.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtbnJhbWVhYzdkOHZ2Lmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLTFxY2hpZ2xpNjJwdi5odG1s"
+            ]
+        },
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtMnRrODN1aGdnNHIzLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLTc0OXZiYW5kMjFrZC5odG1s"
+            ]
+        }
+    ],
+    "downloads": []
+}

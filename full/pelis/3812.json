@@ -1,0 +1,61 @@
+{
+    "url": "https://cuevana.pizza/pelicula/mainstream",
+    "title": "Popular",
+    "duration": "1h 34m",
+    "year": "2020",
+    "genres": [
+        "Comedia",
+        "Drama"
+    ],
+    "actors": [
+        "Andrew Garfield",
+        "Maya Hawke",
+        "Nat Wolff",
+        "Jason Schwartzman",
+        "Johnny Knoxville",
+        "Alexa Demie",
+        "Casey Frey",
+        "Kalena Yiaueki",
+        "Jacqui Getty",
+        "Nick Darmstaedter"
+    ],
+    "description": "Una joven encuentra el camino hacia el estrellato en Internet cuando empieza a hacer vídeos con un carismático desconocido.",
+    "cover": "https://cuevana.pizza/resize/###/storage/23212/5WlHqWu8YXW3FwURoNkfvtO0dp8OE50h49hSFmVU.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQteXdzaDF5ajlhd3h2Lmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLXZhZnRsbThidjRldS5odG1s"
+            ]
+        },
+        {
+            "type": "cas",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtbHB2dGx5bndqZW4wLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLTRpejB3cmxsdHp6aS5odG1s"
+            ]
+        },
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtZjBlbW5rMGU1cGo5Lmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLXV3d2ltYzRuazY2Ni5odG1s"
+            ]
+        }
+    ],
+    "downloads": [
+        {
+            "url": "https://1fichier.com/?7t13g2jaw3zjmnps2eh5",
+            "type": "la"
+        },
+        {
+            "url": "https://1fichier.com/?0pq0ctpf4b7akv4f5rng",
+            "type": "es"
+        },
+        {
+            "url": "https://1fichier.com/?n3dkibx84dsb9mxlmj0a",
+            "type": "en"
+        }
+    ]
+}

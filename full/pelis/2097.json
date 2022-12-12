@@ -1,0 +1,62 @@
+{
+    "url": "https://cuevana.pizza/pelicula/no-me-mates",
+    "title": "No me mates",
+    "duration": "1h 30m",
+    "year": "2021",
+    "genres": [
+        "Drama",
+        "Romance",
+        "Terror"
+    ],
+    "actors": [
+        "Alice Pagani",
+        "Rocco Fasano",
+        "Silvia Calderoni",
+        "Fabrizio Ferracane",
+        "Sergio Albelli",
+        "Giacomo Ferrara",
+        "Anita Caprioli",
+        "Federico Ielapi",
+        "Esther Elisha",
+        "Marco Pancrazi"
+    ],
+    "description": "Mirta, una adolescente de 19 años, muere de sobredosis junto a Robin, su novio. Entonces, resucita sola y se da cuenta de que para seguir viviendo necesita devorar a otras personas.",
+    "cover": "https://cuevana.pizza/resize/###/storage/21578/CEcXHdBwKEpsenwQ1RUDytWR1oWB8a7EOCsK7bgi.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtNTZicnU2dmJmNHBkLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLWZlcGhmODk5NjIzNy5odG1s"
+            ]
+        },
+        {
+            "type": "cas",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtcTh6MTdraHZmdjlxLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLW4yM2xycmJscjN1My5odG1s"
+            ]
+        },
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtNGVmZ3JsamY5NDRhLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLTBic2NndXNhZ2pocy5odG1s"
+            ]
+        }
+    ],
+    "downloads": [
+        {
+            "url": "https://1fichier.com/?hj33icx9270z3mp83x6d",
+            "type": "la"
+        },
+        {
+            "url": "https://1fichier.com/?ty2oaeb1bll2twvqxius",
+            "type": "es"
+        },
+        {
+            "url": "https://1fichier.com/?z6ta42jwzvf2khdd58uk",
+            "type": "en"
+        }
+    ]
+}

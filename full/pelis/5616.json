@@ -1,0 +1,50 @@
+{
+    "url": "https://cuevana.pizza/pelicula/father-of-the-year",
+    "title": "El padre del año",
+    "duration": "1h 34m",
+    "year": "2018",
+    "genres": [
+        "Comedia"
+    ],
+    "actors": [
+        "David Spade",
+        "Nat Faxon",
+        "Joey Bragg",
+        "Matt Shively",
+        "Bridgit Mendler",
+        "Bill Kottkamp",
+        "Jackie Sandler",
+        "Ashley Spillers",
+        "Moses Storm",
+        "Allen Covert",
+        "Melanie Hutsell",
+        "Alin Halajian",
+        "Kateri DeMartino",
+        "Edward James Gage",
+        "Ralph Ayala",
+        "Anthony Pelton",
+        "Jessica Rockwood",
+        "Peyton Russ",
+        "Paul Melendy",
+        "Ken Kansky"
+    ],
+    "description": "Dos universitarios recién graduados discuten borrachos sobre quién de sus padres ganaría una pelea. Debate que desata el caos cuando sus padres se lo toman en serio.",
+    "cover": "https://cuevana.pizza/resize/###/storage/44608/k6MAyu4MvopUTMqGisE9KfTweUbwh6Nlgsp7LCLr.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtMHVjOWoyYWt4ZzlyLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLW1lbGFwZHNkbnp6ci5odG1s"
+            ]
+        },
+        {
+            "type": "cas",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtczA5NHY3aG1pZ3pwLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLTNjNGNocTAyNHo0Yi5odG1s"
+            ]
+        }
+    ],
+    "downloads": []
+}

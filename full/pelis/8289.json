@@ -1,0 +1,53 @@
+{
+    "url": "https://cuevana.pizza/pelicula/2010-odisea-dos",
+    "title": "2010: Odisea dos",
+    "duration": "1h 56m",
+    "year": "1984",
+    "genres": [
+        "Misterio",
+        "Suspenso",
+        "Ciencia Ficcion",
+        "Aventura"
+    ],
+    "actors": [
+        "Roy Scheider",
+        "John Lithgow",
+        "Helen Mirren",
+        "Bob Balaban",
+        "Keir Dullea",
+        "Douglas Rain",
+        "Madolyn Smith Osborne",
+        "Savely Kramarov",
+        "Taliesin Jaffe",
+        "James McEachin",
+        "Mary Jo Deschanel",
+        "Elya Baskin",
+        "Dana Elcar",
+        "Oleg Rudnik",
+        "Natasha Shneider",
+        "Vladimir Skomarovsky",
+        "Victor Steinbach",
+        "Candice Bergen",
+        "Gene McGarr",
+        "Herta Ware"
+    ],
+    "description": "Nueve años después de que la USS Discovery se perdiese en el espacio, una expedición conjunta de los Estados Unidos y la Unión Soviética es enviada a Júpiter para reactivar el ordenador Hal 9000, que dirigía la nave accidentada, y descubrir el problema que frustró la expedición del Discovery misión así como el significado de las últimas transmisiones de uno de los tripulantes. El doctor Floyd, jefe de la expedición, a su llegada a Júpiter se encuentra con el gran monolito negro que la primera misión pretendía investigar.",
+    "cover": "https://cuevana.pizza/resize/###/storage/30084/URihapARqbXc5HUjM14Ywdi1gO9xoBvylWoMfMAX.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtZDVzMHRyOHh2YzR2Lmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLWlpZ3hzejhldXpndi5odG1s"
+            ]
+        },
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtZ2pmcm5oOWZrdzhmLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLWdpbnZpYmRidnEway5odG1s"
+            ]
+        }
+    ],
+    "downloads": []
+}

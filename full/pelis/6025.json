@@ -1,0 +1,59 @@
+{
+    "url": "https://cuevana.pizza/pelicula/dragged-across-concrete",
+    "title": "Al otro lado de la ley",
+    "duration": "2h 39m",
+    "year": "2018",
+    "genres": [
+        "Accion",
+        "Suspenso",
+        "Crimen"
+    ],
+    "actors": [
+        "Mel Gibson",
+        "Vince Vaughn",
+        "Tory Kittles",
+        "Michael Jai White",
+        "Jennifer Carpenter",
+        "Laurie Holden",
+        "Fred Melamed",
+        "Udo Kier",
+        "Tattiawna Jones",
+        "Justine Warrington",
+        "Jordyn Ashley Olson",
+        "Myles Truitt",
+        "Vanessa Bell Calloway",
+        "Noel Gugliemi",
+        "Primo Allon",
+        "Matthew MacCaull",
+        "Thomas Kretschmann",
+        "Don Johnson",
+        "Clare Filipow",
+        "Richard Newman"
+    ],
+    "description": "Dos policías, uno veterano (Gibson) y el otro más joven y volátil (Vaughn), son suspendidos cuando un vídeo de sus duras tácticas de detención de delincuentes se convierte en la noticia del día en los medios de comunicación.",
+    "cover": "https://cuevana.pizza/resize/###/storage/24488/WlA44YWCT0wDw7VQwUTynELnL68Sx6wqaHn0eart.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtbTJzM3Fld3A3aXprLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLTgxM3hzaXA3ZTc3di5odG1s"
+            ]
+        },
+        {
+            "type": "cas",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtaTI3bXNoNDdibXpoLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLXFjazA3cmV6dmwzYy5odG1s"
+            ]
+        },
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtd3c5NDJ5cnhxZWJsLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLWpmN3gxd2dhd3p0di5odG1s"
+            ]
+        }
+    ],
+    "downloads": []
+}

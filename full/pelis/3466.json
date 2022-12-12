@@ -1,0 +1,57 @@
+{
+    "url": "https://cuevana.pizza/pelicula/separation",
+    "title": "Separation",
+    "duration": "1h 47m",
+    "year": "2021",
+    "genres": [
+        "Terror"
+    ],
+    "actors": [
+        "Brian Cox",
+        "Rupert Friend",
+        "Madeline Brewer",
+        "Violet McGraw",
+        "Mamie Gummer",
+        "Troy James",
+        "Simon Quarterman"
+    ],
+    "description": "Una joven encuentra consuelo en su padre artista y en el fantasma de su madre muerta.",
+    "cover": "https://cuevana.pizza/resize/###/storage/11421/LfIC9sX9mOJMlapcMkq2MsJsgsIz0mNQHgAdUWo0.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtd3l0cDdvbGoyYnFiLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLXRldWExenNyb29xeC5odG1s"
+            ]
+        },
+        {
+            "type": "cas",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQteGFmYjQ0ZHdqMTAxLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLXRpcnhmeDlnMDk3Zi5odG1s"
+            ]
+        },
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtYzZ0anBnYTRya2Z0Lmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLXY1amhkdGh1cXJkay5odG1s"
+            ]
+        }
+    ],
+    "downloads": [
+        {
+            "url": "https://1fichier.com/?3x82gewg08s9b4pnh8mi",
+            "type": "la"
+        },
+        {
+            "url": "https://1fichier.com/?iagy5kzc4zaw66sji06u",
+            "type": "es"
+        },
+        {
+            "url": "https://1fichier.com/?kqy8t66729yenh1ncg3l",
+            "type": "en"
+        }
+    ]
+}

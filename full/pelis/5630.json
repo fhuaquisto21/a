@@ -1,0 +1,42 @@
+{
+    "url": "https://cuevana.pizza/pelicula/family-blood",
+    "title": "Family Blood",
+    "duration": "1h 32m",
+    "year": "2018",
+    "genres": [
+        "Terror"
+    ],
+    "actors": [
+        "Vinessa Shaw",
+        "James Ransone",
+        "Colin Ford",
+        "Ajiona Alexus",
+        "Carson Meyer",
+        "France Jean-Baptiste",
+        "Ciaran Brown",
+        "Davis Aguila",
+        "Eloise Lushina",
+        "Denise Santos",
+        "Matthew Davis",
+        "Bishop Stevens"
+    ],
+    "description": "Ellie, una drogadicta en rehabilitación, acaba de mudarse a una nueva ciudad con sus dos hijos adolescentes. Ella ha luchado por mantenerse sobria y está decidida a dejar las drogas, encontrar un trabajo estable y asistiendo regularmente a sus reuniones. Desafortunadamente, nuevos amigos, un nuevo trabajo y la posibilidad de una nueva vida no pueden evitar que Ellie resbale una vez más. Su vida cambia cuando conoce a Christopher, un tipo diferente de adicto, lo que obliga a su hija e hijo a aceptar una nueva versión de Ellie.",
+    "cover": "https://cuevana.pizza/resize/###/storage/26079/aHnSJanvIAFE1xnYdjTdeRsNoOh3aae7BFwuAmOx.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtOWg4bWdqdmFncmx2Lmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLTYxZXBwMDRvODljcy5odG1s"
+            ]
+        },
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtZjJpOWJ3Z29zYmkyLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLWo4ZmpuaW1hZTExNy5odG1s"
+            ]
+        }
+    ],
+    "downloads": []
+}

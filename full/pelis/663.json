@@ -1,0 +1,56 @@
+{
+    "url": "https://cuevana.pizza/pelicula/365-dias-mas",
+    "title": "365 días más",
+    "duration": "1h 52m",
+    "year": "2022",
+    "genres": [
+        "Drama",
+        "Romance"
+    ],
+    "actors": [
+        "Anna-Maria Sieklucka",
+        "Michele Morrone",
+        "Magdalena Lamparska",
+        "Simone Susinna",
+        "Otar Saralidze"
+    ],
+    "description": "La relación de Laura y Massimo pende de un hilo mientras intentan superar los problemas de confianza y los celos, mientras que un tenaz Nacho trabaja para separarlos.",
+    "cover": "https://cuevana.pizza/resize/###/storage/47676/f7xMo37jgJq6Oj6tkweIYqRHiJRtcDIouZW4Gh48.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtYThvc20wczR4Z28xLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLWc3cXh4NG03OTlhZy5odG1s"
+            ]
+        },
+        {
+            "type": "cas",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtbnp6a21pY2V2Nm9kLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLXBiaGs1dXVtaGVmdy5odG1s"
+            ]
+        },
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtNjhzMmhkZjZ4aHE1Lmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLWp6NHU0dTZ3a25qZi5odG1s"
+            ]
+        }
+    ],
+    "downloads": [
+        {
+            "url": "https://1fichier.com/?r77gw6xoglzzpew5ef4q",
+            "type": "la"
+        },
+        {
+            "url": "https://1fichier.com/?g3kwd7wcs68vwxvlr28i",
+            "type": "es"
+        },
+        {
+            "url": "https://1fichier.com/?zn52m24i7ao9a2zsp9a4",
+            "type": "en"
+        }
+    ]
+}

@@ -1,0 +1,56 @@
+{
+    "url": "https://cuevana.pizza/pelicula/doula",
+    "title": "Doula",
+    "duration": "1h 45m",
+    "year": "2022",
+    "genres": [
+        "Comedia"
+    ],
+    "actors": [
+        "Troian Bellisario",
+        "Arron Shiver",
+        "Will Greenberg",
+        "Will Janowitz",
+        "Amanda Walsh",
+        "Chris Pine"
+    ],
+    "description": "Tras la repentina muerte de su comadrona, una pareja de Los Ángeles contrata al hijo de esta para que sea su doula.",
+    "cover": "https://cuevana.pizza/resize/###/storage/38034/fVyZ9Th4sOxLLLFtJBdzwhiVL45F1OG8sbrg3Z2y.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtd283dTZqYzJzbzd0Lmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLWMybDR6em8zdWxodC5odG1s"
+            ]
+        },
+        {
+            "type": "cas",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtMWo0dXJveWhkdnZ6Lmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLTlvdWE1YjF3MDU3My5odG1s"
+            ]
+        },
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtMnFwYmJuaGptcTlqLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLWNxdGI5cmpyb2V6bi5odG1s"
+            ]
+        }
+    ],
+    "downloads": [
+        {
+            "url": "https://1fichier.com/?z1daapzml4sdoy4kflgm",
+            "type": "la"
+        },
+        {
+            "url": "https://1fichier.com/?4vw8d9ew35wksl3e2boj",
+            "type": "es"
+        },
+        {
+            "url": "https://1fichier.com/?5vyrgfiloirratlczuzw",
+            "type": "en"
+        }
+    ]
+}

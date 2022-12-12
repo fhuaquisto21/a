@@ -1,0 +1,56 @@
+{
+    "url": "https://cuevana.pizza/pelicula/lassie-vuelve-a-casa",
+    "title": "Lassie Vuelve a Casa",
+    "duration": "1h 40m",
+    "year": "2020",
+    "genres": [
+        "Drama",
+        "Aventura",
+        "Familia"
+    ],
+    "actors": [
+        "Anna Maria Mühe",
+        "Johann von Bülow",
+        "Jana Pallaske",
+        "Sebastian Bezzel"
+    ],
+    "description": "Florian, de 12 años, y su querido perro viven en un pueblo idílico en el campo alemán. Pero cuando el padre de Florian pierde su trabajo, la familia tiene que mudarse a un pequeño departamento donde no se permiten perros. Lassie se entrega al conde von Sprengel, pero el perro y el niño todavía se anhelan el uno al otro.",
+    "cover": "https://cuevana.pizza/resize/###/storage/3932/QdN6gSfguTKJbwUNsSLOawCNk7J1RcMP1gA1H5Pu.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtczZvdzA1dWp2ZTEyLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLWIwMWo4MWg2N3k0dy5odG1s"
+            ]
+        },
+        {
+            "type": "cas",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtdWhkYXR1bXpyNHZlLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLTBzem85a3UxeHdhZy5odG1s"
+            ]
+        },
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtdXQ0NGVzOWYxMmlhLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLWlrdjVybG54anV6Yy5odG1s"
+            ]
+        }
+    ],
+    "downloads": [
+        {
+            "url": "https://1fichier.com/?2dvnglxyyhi0256lby7m",
+            "type": "la"
+        },
+        {
+            "url": "https://1fichier.com/?3dvp15qvwujjrd5sfagm",
+            "type": "es"
+        },
+        {
+            "url": "https://1fichier.com/?zi287l9ar8jy5e35m2pj",
+            "type": "en"
+        }
+    ]
+}

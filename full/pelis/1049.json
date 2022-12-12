@@ -1,0 +1,36 @@
+{
+    "url": "https://cuevana.pizza/pelicula/la-gran-aventura-de-winnie-the-pooh",
+    "title": "La gran aventura de Winnie the Pooh",
+    "duration": "1h 16m",
+    "year": "1997",
+    "genres": [
+        "Aventura",
+        "Familia",
+        "Animacion",
+        "Disney"
+    ],
+    "actors": [
+        "Jim Cummings",
+        "John Fiedler",
+        "Ken Sansom",
+        "Paul Winchell",
+        "Peter Cullen",
+        "Brady Bluhm",
+        "Andre Stojka",
+        "David Warner",
+        "Steven Schatzberg",
+        "Frankie J. Galasso"
+    ],
+    "description": "De la espesura del Bosque de los Cien Acres llega una nueva y encantadora película protagonizada por el más querido de los osos. Es el último día de verano, y Christopher Robin no se atreve a decirle a Pooh que se marcha para ir al colegio. Así que decide escribirle una nota, que Pooh y el resto de sus amigos malinterpretan. Creyendo que su querido amiguito se ha perdido y tiene problemas, Pooh, Piglet, Igor y Conejo se embarcan en la que será la mayor aventura de sus vidas: ¡la búsqueda de Christopher Robin! Cinco deliciosas nuevas canciones que realzan el mensaje que transmite la historia: aunque estén separados por la distancia, los amigos siempre permanecen unidos en el corazón. Una preciosa historia que cautivará al público de todas las edades.",
+    "cover": "https://cuevana.pizza/resize/###/storage/43450/ef63FxuHVEbgpOkpGy73mJ3akscgQ5cEbmJMHvwS.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtd2twZGExa3RiaGNyLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLW1xczZ0eWsza3pudy5odG1s"
+            ]
+        }
+    ],
+    "downloads": []
+}

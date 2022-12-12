@@ -1,0 +1,27 @@
+{
+    "url": "https://cuevana.pizza/pelicula/the-bleeding-edge",
+    "title": "Salud a la Venta",
+    "duration": "1h 39m",
+    "year": "2018",
+    "genres": [
+        "Documental"
+    ],
+    "actors": [
+        "Robert Bridges",
+        "Angie Firmalino",
+        "Rita Redberg",
+        "Stephen Tower"
+    ],
+    "description": "Cada año en los Estados Unidos, llegan al mercado innovaciones incomparables en diagnóstico, tratamiento y tecnología médica. Pero cuando los mismos dispositivos diseñados para salvar a los pacientes terminan perjudicándolos, ¿quién es responsable?.",
+    "cover": "https://cuevana.pizza/resize/###/storage/25053/ZOQiGMXKDKZoS21cuWlE9PoXReMM3zQiKr3YRj2v.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtNzZrbzk1bHBuNTNtLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLXpvMWlqN2Q5MmdnaS5odG1s"
+            ]
+        }
+    ],
+    "downloads": []
+}

@@ -1,0 +1,45 @@
+{
+    "url": "https://cuevana.pizza/pelicula/el-bar",
+    "title": "El bar",
+    "duration": "1h 42m",
+    "year": "2017",
+    "genres": [
+        "Comedia",
+        "Suspenso",
+        "Terror"
+    ],
+    "actors": [
+        "Blanca Suárez",
+        "Mario Casas",
+        "Carmen Machi",
+        "Secun de la Rosa",
+        "Jaime Ordóñez",
+        "Terele Pávez",
+        "Alejandro Awada",
+        "Tony Lam",
+        "Sue Flack",
+        "Daniele Fileti",
+        "Miguel Fajardo",
+        "Daniel Arribas",
+        "Mamen García",
+        "Paco Sarro",
+        "Mariano Andrés Soto",
+        "Diego Braguinsky",
+        "Jordi Aguilar",
+        "Mari Giner",
+        "Helena Resano",
+        "Joaquín Climent"
+    ],
+    "description": "Son las nueve de la mañana y un heterogéneo grupo de personas desayuna en un bar del centro de Madrid. Uno de ellos tiene prisa y decide marcharse. Pero recibe un disparo en la cabeza nada más salir por la puerta. Nadie puede ir a socorrerlo y tampoco entienden lo que ocurre. Todos quedan atrapados dentro del bar.",
+    "cover": "https://cuevana.pizza/resize/###/storage/27813/NgdDgW5JWsaXNpjn3O0zUfCBPU0velVvpIYuimpG.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtcXBxd2JwNXM0bHMwLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLTZ0Y3lkbHQ2c2lwbS5odG1s"
+            ]
+        }
+    ],
+    "downloads": []
+}

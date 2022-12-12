@@ -1,0 +1,48 @@
+{
+    "url": "https://cuevana.pizza/pelicula/land-of-smiles",
+    "title": "Land of Smiles",
+    "duration": "1h 42m",
+    "year": "2017",
+    "genres": [
+        "Suspenso",
+        "Terror",
+        "Aventura"
+    ],
+    "actors": [
+        "Alexandra Turshen",
+        "Caitlin Stryker",
+        "Bradley Stryker",
+        "Amie Barsky",
+        "Keenan Henson",
+        "Krista Donargo",
+        "Leandra Ramm"
+    ],
+    "description": "La joven Abby es una mochilera que llega a Tailandia en busca de su mejor amiga que ha sido secuestrada.",
+    "cover": "https://cuevana.pizza/resize/###/storage/26142/J4wfVbH1KSxzDQCMQaHHL9fxezikrBfHfQr0XF0q.jpg",
+    "players": [
+        {
+            "type": "cas",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtZHZjZm1jNDdzd2s2Lmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLTZkNjlvcWx2dG11ei5odG1s"
+            ]
+        },
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtcXFwb3V4Ymd2YmxxLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLWx4dmYwZmJ1d3d2MS5odG1s"
+            ]
+        }
+    ],
+    "downloads": [
+        {
+            "url": "https://1fichier.com/?1kr8gkbj00cjh5tqeq71",
+            "type": "es"
+        },
+        {
+            "url": "https://1fichier.com/?2mbd70r4ykmzcd9hwryk",
+            "type": "en"
+        }
+    ]
+}

@@ -1,0 +1,67 @@
+{
+    "url": "https://cuevana.pizza/pelicula/todo-todo",
+    "title": "El amor lo es todo, todo",
+    "duration": "1h 36m",
+    "year": "2017",
+    "genres": [
+        "Drama",
+        "Romance"
+    ],
+    "actors": [
+        "Amandla Stenberg",
+        "Nick Robinson",
+        "Anika Noni Rose",
+        "Ana de la Reguera",
+        "Taylor Hickson",
+        "Danube R. Hermosillo",
+        "Dan Payne",
+        "Fiona Loewi",
+        "Robert Lawrenson",
+        "Peter Benson",
+        "Françoise Yip",
+        "Marion Eisman",
+        "Farryn VanHumbeck",
+        "Allison Riley",
+        "Sage Brocklebank",
+        "Valareen Friday"
+    ],
+    "description": "Madeline, una adolescente que vive completamente aislada del mundo exterior porque es alérgica a todo, se enamora de Olly, su vecino de la puerta de al lado.",
+    "cover": "https://cuevana.pizza/resize/###/storage/1479/w0iyLHVnU7h52kl2iyiiya5j2HpGY76ekAwHlUM0.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtcHhueTNjOTJwa2F5Lmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLW53cXUzeXY3Z3JpYi5odG1s"
+            ]
+        },
+        {
+            "type": "cas",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtcXo4bDc4Y2w0eml2Lmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLTVsaHNtZGdtbjE4ci5odG1s"
+            ]
+        },
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtNTA1aTd6bjU3eDQ0Lmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLWV3Z24zaHJ4c3dxZy5odG1s"
+            ]
+        }
+    ],
+    "downloads": [
+        {
+            "url": "https://1fichier.com/?3hkycxcd6dnihguznqnt",
+            "type": "la"
+        },
+        {
+            "url": "https://1fichier.com/?qtfnyuqbplixi592fpiq",
+            "type": "es"
+        },
+        {
+            "url": "https://1fichier.com/?9ya0t6dyfoe4dfkt9hdp",
+            "type": "en"
+        }
+    ]
+}

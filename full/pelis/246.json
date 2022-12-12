@@ -1,0 +1,33 @@
+{
+    "url": "https://cuevana.pizza/pelicula/noche-de-sustos",
+    "title": "Noche de sustos",
+    "duration": "1h 27m",
+    "year": "2022",
+    "genres": [
+        "Terror",
+        "Aventura",
+        "Fantasia",
+        "Familia"
+    ],
+    "actors": [
+        "Christopher Lloyd",
+        "Rachael Leigh Cook",
+        "Donovan Colan",
+        "Dylan Martin Frankel",
+        "Jaiden Smith",
+        "Marissa Reyes",
+        "Marla Gibbs"
+    ],
+    "description": "Cuando se abre una tienda de Halloween en un centro comercial desierto, tres amigos, pensando que han superado el truco o trato, deciden pasar la noche encerrados en el interior. Pero su noche de diversión llena de fantasmas pronto se convierte en una supervivencia extravagante",
+    "cover": "https://cuevana.pizza/resize/###/storage/55693/MRvMoGPfdquXQwlEha2VJ7mqxl0DxPUw6I6yJwFp.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtemFtdGRxYjF0ajIyLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLWFqenpwbHB5dXl1dC5odG1s"
+            ]
+        }
+    ],
+    "downloads": []
+}

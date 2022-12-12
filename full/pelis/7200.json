@@ -1,0 +1,50 @@
+{
+    "url": "https://cuevana.pizza/pelicula/call-of-heroes",
+    "title": "Legión de héroes",
+    "duration": "2h 0m",
+    "year": "2016",
+    "genres": [
+        "Accion"
+    ],
+    "actors": [
+        "Lau Ching-wan",
+        "Louis Koo",
+        "Eddie Peng",
+        "Wu Jing",
+        "Maggie Jiang",
+        "Quan Yuan",
+        "Liu Kai-Chi",
+        "Philip Keung",
+        "Xing Yu",
+        "Berg Ng",
+        "Sun Jiaolong",
+        "Sammy Hung",
+        "Chen Shengwei",
+        "He Gang",
+        "Wang Shengli",
+        "Sammo Hung",
+        "Li Jing",
+        "Chun Kit Chang",
+        "Edward Ma",
+        "Sula Wenya"
+    ],
+    "description": "Un pueblo llamado Pucheng, que hasta el momento no había sido atacado por las tropas enemigas, recibe la visita del sanguinario comandante Cao, llevando al pueblo a un ultimatum de 24 horas antes de ser arrasado.",
+    "cover": "https://cuevana.pizza/resize/###/storage/26894/QzhB48ptggyjOj3J1wL8e9RrsN4etL9PCUvDGcOc.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtcjJ3Mnp0ODBydWtmLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLW14dWd1aGFxbDRveS5odG1s"
+            ]
+        },
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtamlta2hxMmJvY3NlLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLXQ5cHZrcTY1bTUyMS5odG1s"
+            ]
+        }
+    ],
+    "downloads": []
+}

@@ -1,0 +1,43 @@
+{
+    "url": "https://cuevana.pizza/pelicula/let-s-be-tigers",
+    "title": "Let's Be Tigers",
+    "duration": "15m",
+    "year": "2021",
+    "genres": [
+        "Drama"
+    ],
+    "actors": [
+        "Otmara Marrero",
+        "Dash McCloud",
+        "Greg Worswick",
+        "Mike Millan"
+    ],
+    "description": "Avalon no está lista para aceptar la muerte de su madre, pero, cuando se queda toda la noche a cargo de un niño de 4 años, encuentra más consuelo del que esperaba.",
+    "cover": "https://cuevana.pizza/resize/###/storage/8078/UiHVpTBwZZI89zTXMDuSA4twDF7r1lBSKzF3fNqI.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtZDlvZGIyY2Q5OXdzLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLXVqNGVnN2JzenJvbS5odG1s"
+            ]
+        },
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtZDlvZGIyY2Q5OXdzLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLXVqNGVnN2JzenJvbS5odG1s"
+            ]
+        }
+    ],
+    "downloads": [
+        {
+            "url": "https://1fichier.com/?6hx61rkjjz1e9jrt98md",
+            "type": "la"
+        },
+        {
+            "url": "https://1fichier.com/?jxy3tvg216hc3fzczhdx",
+            "type": "en"
+        }
+    ]
+}

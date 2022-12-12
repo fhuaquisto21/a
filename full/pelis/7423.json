@@ -1,0 +1,51 @@
+{
+    "url": "https://cuevana.pizza/pelicula/grandma",
+    "title": "Grandma",
+    "duration": "1h 19m",
+    "year": "2015",
+    "genres": [
+        "Comedia",
+        "Drama"
+    ],
+    "actors": [
+        "Lily Tomlin",
+        "Julia Garner",
+        "Marcia Gay Harden",
+        "Judy Greer",
+        "Laverne Cox",
+        "Elizabeth Peña",
+        "Sarah Burns",
+        "Colleen Camp",
+        "Lauren Tom",
+        "Judy Geeson",
+        "Frank Collison",
+        "Sam Elliott",
+        "Carlos Miranda",
+        "John Cho",
+        "Nat Wolff",
+        "Aaron Bilyeu",
+        "Mo Aboul-Zelof",
+        "Missy Doty",
+        "Don McManus",
+        "Willem Miller"
+    ],
+    "description": "Elle acaba de romper con su novia Olive, cuando su nieta Sage aparece inesperadamente pidiéndole dinero con urgencia. Aún dolida por su ruptura sentimental, la abuela Elle y Sage pasarán todo el día intentando conseguir dinero visitando a antiguos amigos, lo que hará que comiencen a desvelarse secretos del pasado.",
+    "cover": "https://cuevana.pizza/resize/###/storage/26772/w3nD08C4dl9OQoIJdepP9NCh8sD4BzmoV4VRaQUx.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQta2U2MnJmcnhoa2NmLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLTY3d3F5am5hajg2Ny5odG1s"
+            ]
+        },
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtNTUzeHFzdzQyY3NlLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLXRycGVhNzhqaWV5eC5odG1s"
+            ]
+        }
+    ],
+    "downloads": []
+}

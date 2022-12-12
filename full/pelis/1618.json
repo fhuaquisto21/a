@@ -1,0 +1,70 @@
+{
+    "url": "https://cuevana.pizza/pelicula/toscana",
+    "title": "Toscana",
+    "duration": "1h 30m",
+    "year": "2022",
+    "genres": [
+        "Comedia",
+        "Drama",
+        "Romance"
+    ],
+    "actors": [
+        "Anders Matthesen",
+        "Cristiana Dell'Anna",
+        "Andrea Bosca",
+        "Ghita Nørby",
+        "Sebastian Jessen",
+        "Ari Alexander",
+        "Christopher Lund Nissen",
+        "Karoline Brygmann",
+        "Lærke Winther",
+        "Christoffer Jindyl",
+        "Pino Ammendola",
+        "Sergio Pantani",
+        "Thue Ersted Rasmussen",
+        "Sarah Juel Werner",
+        "Esther Hansen",
+        "Renzo Del Lungo",
+        "Kaiser Houborg",
+        "Elva Garcia Seidler"
+    ],
+    "description": "Cuando un chef danés viaja a la Toscana para vender el negocio de su padre, conoce a una mujer local que lo inspira a repensar su enfoque de la vida y el amor.",
+    "cover": "https://cuevana.pizza/resize/###/storage/29506/3b2pAVY3uvDqGd47g5PqBRoPJZOpCYDNPjs3W5vt.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtbTN5dXpoMWt2ZmM5Lmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLW90YmdyOTNsbHU1ci5odG1s"
+            ]
+        },
+        {
+            "type": "cas",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtZWRpYWowNmNkcjVqLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLWw3NnRldmlvbWt1NS5odG1s"
+            ]
+        },
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtaG4xYXBuOHZwcHRoLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLTF5cmExNHRsbWUwai5odG1s"
+            ]
+        }
+    ],
+    "downloads": [
+        {
+            "url": "https://1fichier.com/?mql83c7rx2a4csjabklj",
+            "type": "la"
+        },
+        {
+            "url": "https://1fichier.com/?sycyh7gd9hkul33969jy",
+            "type": "es"
+        },
+        {
+            "url": "https://1fichier.com/?pnxc9g6q6gsotgwgophb",
+            "type": "en"
+        }
+    ]
+}

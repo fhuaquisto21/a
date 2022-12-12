@@ -1,0 +1,57 @@
+{
+    "url": "https://cuevana.pizza/pelicula/mi-hermano-mi-hermana",
+    "title": "Mi hermano, mi hermana",
+    "duration": "1h 50m",
+    "year": "2021",
+    "genres": [
+        "Drama"
+    ],
+    "actors": [
+        "Alessandro Preziosi",
+        "Claudia Pandolfi",
+        "Ludovica Martino",
+        "Stella Egitto",
+        "Caterina Murino",
+        "Frank Gerrish",
+        "Fausto Morciano"
+    ],
+    "description": "Cuando la voluntad de su padre los obliga a vivir juntos, los hermanos Nik y Tesla, y los hijos de Tesla, intentan superar sus diferencias para convertirse en una familia.",
+    "cover": "https://cuevana.pizza/resize/###/storage/11131/Rs7RxEKeYZUTJTxsFMTReeqRM2odgJTc1Lzrcp0k.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtYjFmZ2pmbWsydWkyLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLXU0N2pkeWMwdnRyNy5odG1s"
+            ]
+        },
+        {
+            "type": "cas",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtdnFzZXQ0cW5yc3p0Lmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLXdtYWxjYmlobXhoMS5odG1s"
+            ]
+        },
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtcWRmeWZvbTQyd2lhLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLWV5MmI4ejJ5YWs4di5odG1s"
+            ]
+        }
+    ],
+    "downloads": [
+        {
+            "url": "https://1fichier.com/?sl8jpkg5ct89efh6t4s3",
+            "type": "la"
+        },
+        {
+            "url": "https://1fichier.com/?k2iwfmxbqczh680q62iu",
+            "type": "es"
+        },
+        {
+            "url": "https://1fichier.com/?ha11tfqeu2uxyq8b9cq5",
+            "type": "en"
+        }
+    ]
+}

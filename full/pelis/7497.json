@@ -1,0 +1,36 @@
+{
+    "url": "https://cuevana.pizza/pelicula/the-gambler",
+    "title": "El Jugador",
+    "duration": "1h 50m",
+    "year": "2014",
+    "genres": [
+        "Drama",
+        "Suspenso",
+        "Crimen"
+    ],
+    "actors": [
+        "George Kennedy",
+        "Griffin Cleveland",
+        "Jessica Lange",
+        "Mark Wahlberg"
+    ],
+    "description": "Catedrático de literatura y a la vez jugador de altos vuelos, Jim Bennett se juega todo lo que le presta un gangster (Michael Kenneth Williams) y llega a ofrecer su vida en prenda. Siempre un paso por delante, Bennett enfrenta a su acreedor contra el gerente de unos garitos de apuestas (Alvin Ing) y como consecuencia rompe su relación disfuncional con su acaudalada madre (la oscarizada Jessica Lange). Lleva a cabo un doble juego, sumergiéndose en un mundo ilícito y clandestino y llamando a la vez la atención de Frank (John Goodman), un tiburón de las finanzas que siente un interés paternal por el futuro de Bennett.",
+    "cover": "https://cuevana.pizza/resize/###/storage/15526/UnZNUyfDyPabHoadBKpq1XdWbVADkOKBxDhPj9ej.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtcDN3YnhxZmMxd213Lmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLTBxaW5wMDg4bTAwNC5odG1s"
+            ]
+        },
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtZmZsdjBhbmdtaG4zLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLTd1eWJqOGtxdXA3bC5odG1s"
+            ]
+        }
+    ],
+    "downloads": []
+}

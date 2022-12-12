@@ -1,0 +1,49 @@
+{
+    "url": "https://cuevana.pizza/pelicula/mi-gran-amiga-ana-frank",
+    "title": "Mi gran amiga Ana Frank",
+    "duration": "1h 43m",
+    "year": "2021",
+    "genres": [
+        "Drama",
+        "Historia",
+        "Belica"
+    ],
+    "actors": [
+        "Josephine Arendsen",
+        "Aiko Beemsterboer",
+        "Roeland Fernhout",
+        "Lottie Hellingman",
+        "Simone Canaris",
+        "Stefan de Walle",
+        "Adél Jordán",
+        "Tünde Szalontay"
+    ],
+    "description": "Película basada en las memorias de la mejor amiga de Anna Frank, Hannah Goslar.",
+    "cover": "https://cuevana.pizza/resize/###/storage/22123/lkNB60bBL54KITEo5Yq0aWyrfEP98XBkmLWY2EjG.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtaXBxZHQyaGRoNGp6Lmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLWZhNDdoemttOTl5Zy5odG1s"
+            ]
+        },
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtdzhianhoNnRkamMzLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLXM2OXZzaGNhZGR3Ny5odG1s"
+            ]
+        }
+    ],
+    "downloads": [
+        {
+            "url": "https://1fichier.com/?3yd17etehwc970nio94m",
+            "type": "la"
+        },
+        {
+            "url": "https://1fichier.com/?mdacyunz0s8nqy34in2p",
+            "type": "en"
+        }
+    ]
+}

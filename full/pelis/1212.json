@@ -1,0 +1,57 @@
+{
+    "url": "https://cuevana.pizza/pelicula/pesadilla-en-elm-street",
+    "title": "Pesadilla en Elm Street",
+    "duration": "1h 28m",
+    "year": "1984",
+    "genres": [
+        "Terror"
+    ],
+    "actors": [
+        "Heather Langenkamp",
+        "Robert Englund",
+        "John Saxon",
+        "Ronee Blakley",
+        "Amanda Wyss",
+        "Jsu Garcia",
+        "Johnny Depp",
+        "Charles Fleischer",
+        "Joseph Whipp",
+        "Lin Shaye",
+        "Joe Unger",
+        "Mimi Craven",
+        "Jack Shea",
+        "Ed Call",
+        "Sandy Lipton",
+        "David Andrews",
+        "Jeff Levine",
+        "Donna Woodrum",
+        "Shashawnee Hall",
+        "Carol Pritikin"
+    ],
+    "description": "Varios jóvenes de una pequeña localidad tienen habitualmente pesadillas en las que son perseguidos por un hombre deformado por el fuego y que usa un guante terminado en afiladas cuchillas. Algunos de ellos comienzan a ser asesinados mientras duermen por este ser, que resulta ser un asesino al que los padres de estos jóvenes quemaron vivo hace varios años tras descubrir que había asesinado a varios niños.",
+    "cover": "https://cuevana.pizza/resize/###/storage/41299/9noOai449SoaJWE9BeKY2bPxP8HcqHZqZIjySrSq.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtYm84Y3Z2N2Vqc2N1Lmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLTA5aTZpdjU0d3Z0My5odG1s"
+            ]
+        },
+        {
+            "type": "cas",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtNHB1Z3Q4OXg2b2NnLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLXJsZzBjOTlxbDFnNC5odG1s"
+            ]
+        },
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtazl4aTFpZDE1cHM2Lmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLXdydHAxcmk4eTloMy5odG1s"
+            ]
+        }
+    ],
+    "downloads": []
+}

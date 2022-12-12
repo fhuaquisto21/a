@@ -1,0 +1,51 @@
+{
+    "url": "https://cuevana.pizza/pelicula/psychokinesis",
+    "title": "Psychokinesis",
+    "duration": "1h 41m",
+    "year": "2018",
+    "genres": [
+        "Accion",
+        "Comedia",
+        "Aventura"
+    ],
+    "actors": [
+        "Ryu Seung-ryong",
+        "Shim Eun-kyung",
+        "Park Jeong-min",
+        "Kim Min-jae",
+        "Jung Yu-mi",
+        "Yoo Seung-mok",
+        "Kim Yeong-seon",
+        "Ye Soo-jung",
+        "Tae Hang-ho",
+        "Jung Young-ki",
+        "Lee Je-yeon",
+        "Kim Ki-chun",
+        "Go Na-Hee",
+        "Lee Jeong-eun",
+        "Kim Do-yoon",
+        "Woo Jung-kook",
+        "Han Sung-soo",
+        "Hwang Yeon-hui",
+        "Yoon Don-sun"
+    ],
+    "description": "Con sus recién adquiridos poderes sobrehumanos, un padre se dispone a ayudar a su hija, que está a punto de perder todo lo que da sentido a su vida.",
+    "cover": "https://cuevana.pizza/resize/###/storage/25634/OsZqK7HhzQfDYFkKiyfjaMUTQp0OF3Rdb6CzPo4U.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtMzZ6YzBxdTdscXJtLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLTd5anV6NDFjNTlpNC5odG1s"
+            ]
+        },
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtMnVieWkyZjRqcnR0Lmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLWV2eHk2enlncTRtYS5odG1s"
+            ]
+        }
+    ],
+    "downloads": []
+}

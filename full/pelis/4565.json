@@ -1,0 +1,59 @@
+{
+    "url": "https://cuevana.pizza/pelicula/the-vanished-hour-of-lead",
+    "title": "The Vanished (Hour Of Lead)",
+    "duration": "1h 55m",
+    "year": "2020",
+    "genres": [
+        "Misterio",
+        "Suspenso"
+    ],
+    "actors": [
+        "Anne Heche",
+        "Thomas Jane",
+        "Jason Patric",
+        "John D. Hickman",
+        "Peter Facinelli",
+        "Alex Haydon",
+        "Aleksei Archer",
+        "Kristopher Wente"
+    ],
+    "description": "Unas vacaciones familiares toman un giro aterrador cuando los padres Paul y Wendy descubren que su pequeña hija ha desaparecido sin dejar rastro. Sin detenerse ante nada para encontrarla, la búsqueda de la verdad conduce a una revelación impactante.",
+    "cover": "https://cuevana.pizza/resize/###/storage/4684/8aOXoddNqKwTRvqI0FmIeptgw8547Kac6kmZNQPG.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtbDhoOGxkN2F5dGxvLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLTQxeDBtbmp6N3ljZS5odG1s"
+            ]
+        },
+        {
+            "type": "cas",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtZzZsb2I0OHlmeG5lLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLXVsYmJ4a3V5ODgwbS5odG1s"
+            ]
+        },
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQteTI4ZzhqNzNyeDIyLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLW1tdmwxd295MXBycC5odG1s"
+            ]
+        }
+    ],
+    "downloads": [
+        {
+            "url": "https://1fichier.com/?vnqfzgfkrmx36o0ev6k7#Synchronization+Service",
+            "type": "la"
+        },
+        {
+            "url": "https://1fichier.com/?9vev3tbxbld0b2crqmhq#Synchronization+Service",
+            "type": "es"
+        },
+        {
+            "url": "https://1fichier.com/?xjg36nnhlqrxsmncq6mk#Synchronization+Service",
+            "type": "en"
+        }
+    ]
+}

@@ -1,0 +1,46 @@
+{
+    "url": "https://cuevana.pizza/pelicula/homebound",
+    "title": "Homebound",
+    "duration": "1h 11m",
+    "year": "2022",
+    "genres": [
+        "Drama",
+        "Misterio",
+        "Terror"
+    ],
+    "actors": [
+        "Aisling Loftus",
+        "Tom Goodman-Hill",
+        "Raffiella Chapman",
+        "Hattie Gotobed",
+        "Lukas Rolfe"
+    ],
+    "description": "Una mujer joven llega a la casa de la familia separada de su nuevo esposo y descubre que los niños se comportan de manera cada vez más desconcertante.",
+    "cover": "https://cuevana.pizza/resize/###/storage/55082/hDBbcPmwczJ38U3xPOoRo4FfQ9olgMeggpmSg7EQ.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtanhpNm02cHY2Z21kLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLTl2cDV5NG5kMnRmby5odG1s"
+            ]
+        },
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQteDZ6enVzNDI2ZWlrLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLXI5YW4xem4wNmQ0Zy5odG1s"
+            ]
+        }
+    ],
+    "downloads": [
+        {
+            "url": "https://1fichier.com/?2mae7y6wfavi0b4a0sds",
+            "type": "la"
+        },
+        {
+            "url": "https://1fichier.com/?mc85bs4y4pco1r7ni53l",
+            "type": "en"
+        }
+    ]
+}

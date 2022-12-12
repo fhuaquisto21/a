@@ -1,0 +1,60 @@
+{
+    "url": "https://cuevana.pizza/pelicula/the-duke",
+    "title": "The Duke",
+    "duration": "1h 36m",
+    "year": "2021",
+    "genres": [
+        "Drama"
+    ],
+    "actors": [
+        "Helen Mirren",
+        "Jim Broadbent",
+        "Matthew Goode",
+        "Aimee Kelly",
+        "Fionn Whitehead",
+        "Charlotte Spencer",
+        "Jack Bandeira",
+        "Anna Maxwell Martin",
+        "Sian Clifford",
+        "John Heffernan"
+    ],
+    "description": "En 1961, Kempton Bunton, un taxista de 60 años, robó el retrato del duque de Wellington, de Francisco de Goya, de la National Gallery de Londres. Fue el primer (y sigue siendo el único) robo de la historia de la galería. Kempton envió notas de rescate diciendo que devolvería la pintura a condición de que el gobierno invirtiera más en el cuidado de los ancianos. Lo que sucedió a continuación se convirtió en algo legendario.",
+    "cover": "https://cuevana.pizza/resize/###/storage/9081/7asO13jtfnA1E8mAj4wUMPe9IYmLrkTjKwxhH4xQ.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtZ2cxYnAwd2ZvNmpnLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLXFueWFlaHhxbncydi5odG1s"
+            ]
+        },
+        {
+            "type": "cas",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtdGk5ODg0MXlxM3IyLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLTBrZmh4azF6bnk3ay5odG1s"
+            ]
+        },
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtMnZ6MzQybTgyMXNlLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLXM2MGVmcjdmMDJiaS5odG1s"
+            ]
+        }
+    ],
+    "downloads": [
+        {
+            "url": "https://1fichier.com/?fomutf3a62x6ammb2cmc",
+            "type": "la"
+        },
+        {
+            "url": "https://1fichier.com/?kerqz6dm1dq9cshqjz6t",
+            "type": "es"
+        },
+        {
+            "url": "https://1fichier.com/?6vogt3ks1qeamwuvli8i",
+            "type": "en"
+        }
+    ]
+}

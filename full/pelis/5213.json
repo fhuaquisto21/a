@@ -1,0 +1,51 @@
+{
+    "url": "https://cuevana.pizza/pelicula/point-blank",
+    "title": "Point Blank: Cuenta atrás",
+    "duration": "1h 26m",
+    "year": "2019",
+    "genres": [
+        "Accion",
+        "Suspenso"
+    ],
+    "actors": [
+        "Anthony Mackie",
+        "Frank Grillo",
+        "Marcia Gay Harden",
+        "Teyonah Parris",
+        "Boris McGiver",
+        "Christian Cooke",
+        "Markice Moore",
+        "Nik Pajic",
+        "Daniel R. Hill",
+        "Carly Tamborski",
+        "Joe Lynch",
+        "Tony L. Winstead",
+        "Stuart F. Wilson",
+        "Buster Reeves",
+        "Bob Herzog",
+        "Reggie Willis",
+        "Shanessa Sweeney",
+        "Adam G. Simon",
+        "Clara Harris",
+        "Bryan Coffee"
+    ],
+    "description": "Cuenta la historia de una pareja muy inusual: Paul (Anthony Mackie), un enfermo que trabaja en la zona de urgencias de un hospital; y Abe (Frank Grillo), un sospechoso de asesinato. Ambos colaborarán para impedir que una banda de mafiosos terminen con la vida de la mujer y del hijo de Paul, que han sido raptados bajo extrañas circunstancias.",
+    "cover": "https://cuevana.pizza/resize/###/storage/18004/d4N4MMBaPef3aFIqbLMjbZhKvVScEcmES7Rioy73.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtM3RqZGhpNGc3a3JuLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLTkzeXVmaWszNHpscS5odG1s"
+            ]
+        },
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtM3AxbWx0Z2MyMWx4Lmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLWw1YzEyZzhjbHpvMy5odG1s"
+            ]
+        }
+    ],
+    "downloads": []
+}

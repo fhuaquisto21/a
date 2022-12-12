@@ -1,0 +1,50 @@
+{
+    "url": "https://cuevana.pizza/pelicula/the-clapper",
+    "title": "The Clapper",
+    "duration": "1h 29m",
+    "year": "2017",
+    "genres": [
+        "Comedia"
+    ],
+    "actors": [
+        "Ed Helms",
+        "Amanda Seyfried",
+        "Tracy Morgan",
+        "Adam Levine",
+        "Russell Peters",
+        "P.J. Byrne",
+        "Leah Remini",
+        "James Ransone",
+        "Brenda Vaccaro",
+        "Alan Thicke",
+        "Roger Guenveur Smith",
+        "Mark Cuban",
+        "Nico Santos",
+        "Todd Giebenhain",
+        "Billy Blanks",
+        "Rob Gronkowski",
+        "Sara Sampaio",
+        "Charles Halford",
+        "Wendy Braun",
+        "Cody Renee Cameron"
+    ],
+    "description": "Eddie Krumble es un hombre relativamente feliz. Su trabajo consiste en aplaudir como público de programas de televisión y sitcoms. Pero un día las tornas giran y Eddie aparece delante de las cámaras en un talk show, logrando que sus 15 minutos de fama le den una vuelta completa a su vida: pierde su trabajo y su relación en ciernes con Judy, la joven de la que está enamorado.",
+    "cover": "https://cuevana.pizza/resize/###/storage/27728/uzcGADgZuhnkfVtzUUHpkPjvT6ngITKX9PQT88GX.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtNXJ3MXoxNmNmN3R5Lmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLTMwNzJjenlqcnFtdi5odG1s"
+            ]
+        },
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtM2o4d2pjZmhydDllLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLW1nN2l3Z2I4MXk0YS5odG1s"
+            ]
+        }
+    ],
+    "downloads": []
+}

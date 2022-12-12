@@ -1,0 +1,60 @@
+{
+    "url": "https://cuevana.pizza/pelicula/querido-evan-hansen",
+    "title": "Querido Evan Hansen",
+    "duration": "2h 17m",
+    "year": "2021",
+    "genres": [
+        "Drama"
+    ],
+    "actors": [
+        "Ben Platt",
+        "Julianne Moore",
+        "Kaitlyn Dever",
+        "Amy Adams",
+        "Danny Pino",
+        "Amandla Stenberg",
+        "Colton Ryan",
+        "Nik Dodani",
+        "DeMarius R. Copes",
+        "Liz Kate"
+    ],
+    "description": "Una carta que nunca debió ser vista, una mentira que nunca debió ser contada, una vida que nunca soñó que pudiera tener. Evan Hansen (Andrew Barth Feldman) está a punto de obtener lo que siempre ha querido: una oportunidad para finalmente encajar.",
+    "cover": "https://cuevana.pizza/resize/###/storage/11351/AYokOOGPiMqgp4zIqtJhiQ0O6jjiDbItwSyEYSbf.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQteXlzZ3dtc3ZzZnhyLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLTFjOHZlZG85Zm0ydy5odG1s"
+            ]
+        },
+        {
+            "type": "cas",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQteGdrOWYybmhzN2xqLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLXhtMTZocG1iaXYyai5odG1s"
+            ]
+        },
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtcmduZG01ZzNheGVkLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLXVsY2J2dWZkdWtzcS5odG1s"
+            ]
+        }
+    ],
+    "downloads": [
+        {
+            "url": "https://1fichier.com/?lo2t3yf1md0igz7f7u5g",
+            "type": "la"
+        },
+        {
+            "url": "https://1fichier.com/?r69oyr8puj859m5vr95a",
+            "type": "es"
+        },
+        {
+            "url": "https://1fichier.com/?3pcdgt92hp9ryiwj2jqn",
+            "type": "en"
+        }
+    ]
+}

@@ -1,0 +1,46 @@
+{
+    "url": "https://cuevana.pizza/pelicula/planes-diabolicos",
+    "title": "Planes diabólicos",
+    "duration": "1h 31m",
+    "year": "2020",
+    "genres": [
+        "Suspenso",
+        "Terror"
+    ],
+    "actors": [
+        "Spencer MacPherson",
+        "Brittany Raymond",
+        "Keenan Tracey",
+        "Brittany Teo",
+        "Luke Goss",
+        "Emilie Ullerup",
+        "Stephen Bogaert",
+        "Emmanuel Kabongo",
+        "Richard Clarkin",
+        "Suzanne Cyr",
+        "Jean Paul Najm",
+        "Madeleine Claude",
+        "Madeleine Claude",
+        "Joshua Joel Bailey",
+        "David Webster"
+    ],
+    "description": "Miriam, Derek, Ian y Jenny son estudiantes de secundaria muy por encima del promedio y siguen las reglas en todo momento. Excelentes calificaciones, bueno en los deportes, muchas actividades y, cuando el curso lo permite, cometer asesinatos elaborados.",
+    "cover": "https://cuevana.pizza/resize/###/storage/53546/Pti8YSsmN9mOZUtM5pePkPWGPgN6XKBXnuUVKvDM.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtNmtkemlrb3g5enZsLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLXB6c3B1d3Rld3VpbC5odG1s"
+            ]
+        },
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtdzc0bXRhb29iejk2Lmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLWQwZThuZXB4dHRvOS5odG1s"
+            ]
+        }
+    ],
+    "downloads": []
+}

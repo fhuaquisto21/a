@@ -1,0 +1,38 @@
+{
+    "url": "https://cuevana.pizza/pelicula/the-queen-of-sin",
+    "title": "The Queen of Sin",
+    "duration": "1h 30m",
+    "year": "2018",
+    "genres": [
+        "Drama",
+        "Misterio",
+        "Suspenso"
+    ],
+    "actors": [
+        "Christa B. Allen",
+        "Richard de Klerk",
+        "Amber Goldfarb",
+        "Inga Cadranel",
+        "Sergio Di Zio",
+        "Marc Thibaudeau"
+    ],
+    "description": "Para Posy Pinkerton la vida ha sido fácil. Tiene a Tom, su prometido médico, su carrera como ilustradora médica y un pasatiempo como artista visual. Sin embargo, después de un encuentro casual con Jack, el caparazón de Posy comienza a resquebrajarse.",
+    "cover": "https://cuevana.pizza/resize/###/storage/24317/tqv9UIgI1k6AycPKws8VfQ1OtC7aVK5r6cMwP1gF.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtOWM5NWJsZHRiajdhLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLWo3ZGgyMnNzdzV3OC5odG1s"
+            ]
+        },
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQteDhvaXhqa3djZGwyLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLXRmMThvMzBsZXRubS5odG1s"
+            ]
+        }
+    ],
+    "downloads": []
+}

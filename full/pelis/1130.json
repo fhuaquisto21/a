@@ -1,0 +1,55 @@
+{
+    "url": "https://cuevana.pizza/pelicula/aladdin",
+    "title": "Aladdin",
+    "duration": "1h 27m",
+    "year": "1992",
+    "genres": [
+        "Romance",
+        "Aventura",
+        "Fantasia",
+        "Familia",
+        "Animacion",
+        "Disney"
+    ],
+    "actors": [
+        "Scott Weinger",
+        "Robin Williams",
+        "Linda Larkin",
+        "Jonathan Freeman",
+        "Gilbert Gottfried",
+        "Frank Welker",
+        "Douglas Seale",
+        "Brad Kane",
+        "Lea Salonga",
+        "Bruce Adler",
+        "Charlie Adler",
+        "Jack Angel",
+        "Corey Burton",
+        "Philip L. Clarke",
+        "Jim Cummings",
+        "Jennifer Darling",
+        "Debi Derryberry",
+        "Bruce Gooch",
+        "Jerry Houser",
+        "Vera Lockwood"
+    ],
+    "description": "Aladdín es un ingenioso joven que vive en una extrema pobreza, y que sueña con casarse con la bella hija del sultán, la princesa Jasmine. El destino interviene cuando el astuto visir del Sultán, Jafar, recluta a Aladdín para que le ayude a recuperar una lámpara mágica de las profundidades de la Cueva de las Maravillas. Aladdín encuentra una lámpara maravillosa con un genio dentro, y sus deseos comienzan a hacerse realidad.",
+    "cover": "https://cuevana.pizza/resize/###/storage/42053/bVq9fqQ6InN46w0Oa3bzB4NqYmKmlZEYkIj4w8qd.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtcHNpeTJ4NzcxNXJiLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLWx3YWxzNGVvcnZxeC5odG1s"
+            ]
+        },
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtaXNnazZkdzM3OGIxLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLTUxZGg0OGY2NjE0di5odG1s"
+            ]
+        }
+    ],
+    "downloads": []
+}

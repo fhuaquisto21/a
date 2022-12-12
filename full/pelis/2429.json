@@ -1,0 +1,63 @@
+{
+    "url": "https://cuevana.pizza/pelicula/west-side-story",
+    "title": "West Side Story",
+    "duration": "2h 36m",
+    "year": "2021",
+    "genres": [
+        "Drama",
+        "Romance",
+        "Crimen",
+        "Musical"
+    ],
+    "actors": [
+        "Ansel Elgort",
+        "Rachel Zegler",
+        "Rita Moreno",
+        "Ariana DeBose",
+        "David Alvarez",
+        "Corey Stoll",
+        "Brian d'Arcy James",
+        "Josh Andrés Rivera",
+        "Mike Faist",
+        "Ana Isabelle"
+    ],
+    "description": "Nueva versión del legendario musical 'West Side Story' sobre el enfrentamiento entre dos bandas callejeras de Nueva York. Adaptación de una famosa obra de teatro de Broadway que modernizaba el relato de \"Romeo y Julieta\" de Shakespeare.",
+    "cover": "https://cuevana.pizza/resize/###/storage/12998/3UeSJfuNcxisWIgTCIi1PSVOxX0KKXTbPwNYISFl.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtaTk4cDA1d3AwM2Q5Lmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLWpkNDI2ZmxxaW1qZy5odG1s"
+            ]
+        },
+        {
+            "type": "cas",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtdzF2dmNxaHFic2YxLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLTUxYnpzdzY0aGR0My5odG1s"
+            ]
+        },
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtZW9sMWpwN2lxcHBwLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLTJ1OXFqNGw3NnA0Ni5odG1s"
+            ]
+        }
+    ],
+    "downloads": [
+        {
+            "url": "https://1fichier.com/?sg7kbl28id1kj8adsppx",
+            "type": "la"
+        },
+        {
+            "url": "https://1fichier.com/?x02b6jzad5w8pxyixf15",
+            "type": "es"
+        },
+        {
+            "url": "https://1fichier.com/?uu4crwt67dygnhhxzzr6",
+            "type": "en"
+        }
+    ]
+}

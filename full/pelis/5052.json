@@ -1,0 +1,42 @@
+{
+    "url": "https://cuevana.pizza/pelicula/the-hole-in-the-ground",
+    "title": "Bosque maldito",
+    "duration": "1h 40m",
+    "year": "2019",
+    "genres": [
+        "Terror"
+    ],
+    "actors": [
+        "Seána Kerslake",
+        "James Quinn Markey",
+        "Simone Kirby",
+        "Steve Wall",
+        "Eoin Macken",
+        "Sarah Hanly",
+        "James Cosmo",
+        "Kati Outinen",
+        "Bennett Andrew",
+        "David Crowley",
+        "John Quinn",
+        "Miro Lopperi"
+    ],
+    "description": "Una noche, el hijo más joven de Sarah (Seána Kerslake) desaparece entre la maleza que hay tras su casa rural. Aunque parece ser la misma persona cuando regresa a casa, su comportamiento comienza a ser cada vez más errático. Pronto, Sarah descubre que puede que el niño que ha vuelto no sea su hijo...",
+    "cover": "https://cuevana.pizza/resize/###/storage/20374/skj8KtER2vnBxuRjOGrpArYDgQFS16AKrAWP59Ak.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtZTk3aWVlajhicXZ5Lmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLXV1ZnRxdWRmOXprZy5odG1s"
+            ]
+        },
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtYzczb2xpbm94eGUyLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLXR3bHRlczUwOHVkbC5odG1s"
+            ]
+        }
+    ],
+    "downloads": []
+}

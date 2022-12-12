@@ -1,0 +1,35 @@
+{
+    "url": "https://cuevana.pizza/pelicula/rojo",
+    "title": "Rojo",
+    "duration": "1h 46m",
+    "year": "2018",
+    "genres": [
+        "Drama",
+        "Misterio",
+        "Suspenso"
+    ],
+    "actors": [
+        "Darío Grandinetti",
+        "Andrea Frigerio",
+        "Alfredo Castro",
+        "Laura Grandinetti",
+        "Claudio Martínez Bel",
+        "Susana Pampín",
+        "Rafael Federman",
+        "Diego Cremonesi",
+        "Rudy Chernicoff",
+        "Mara Bestelli"
+    ],
+    "description": "A mediados de los años 70, un hombre extraño llega a una tranquila ciudad de provincias. En un restaurante, y sin motivos aparentes, comienza a agredir a Claudio, un reconocido abogado. La comunidad apoya al abogado y el extraño es humillado y expulsado del lugar. Más tarde y camino a casa, Claudio y su mujer, Susana, son interceptados por el hombre extraño, quien está determinado a cobrarse una terrible venganza. El abogado toma entonces un camino sin retorno, de muerte, secretos y silencios.",
+    "cover": "https://cuevana.pizza/resize/###/storage/23697/cJQrReF5pVlORdluVcr7CgquMBsOu6ZCP9cdBVDR.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtN3FzdHZzMGU4dzBmLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLWNmZDIxMTlwb2MzMS5odG1s"
+            ]
+        }
+    ],
+    "downloads": []
+}

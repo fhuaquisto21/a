@@ -1,0 +1,55 @@
+{
+    "url": "https://cuevana.pizza/pelicula/lady-bird",
+    "title": "Lady Bird",
+    "duration": "94",
+    "year": "2017",
+    "genres": [
+        "Comedia",
+        "Drama"
+    ],
+    "actors": [
+        "Laurie Metcalf",
+        "Lucas Hedges",
+        "Saoirse Ronan",
+        "Tracy Letts"
+    ],
+    "description": "Lady Bird explora el vínculo turbulento entre una madre y su hija adolescente. Christine “Lady Bird” McPherson lucha para no ser como su madre, pero es exactamente igual de amorosa, profundamente obstinada y fuerte que ella, una enfermera que trabaja incansablemente para mantener a flote a su familia después de que el padre de Lady Bird, perdiera su trabajo. Ambientada en Sacramento, California en 2002, en medio de un paisaje económico estadounidense que cambia rápidamente.",
+    "cover": "https://cuevana.pizza/resize/###/storage/1120/1N4aL0WADMuuoSVaS0ggTmjUnpSFGmUp3mPADE8d.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQteDZwZG9xZWF1M3VqLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLXp3NGcwbm45NmYxbi5odG1s"
+            ]
+        },
+        {
+            "type": "cas",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtNmFxampneG44YXlvLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLWhjdnNoMTkyaTlscC5odG1s"
+            ]
+        },
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtYzR2b3RnNHRiMnEzLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLTc3bnYzOXN6cjJyaC5odG1s"
+            ]
+        }
+    ],
+    "downloads": [
+        {
+            "url": "https://1fichier.com/?wps9bch9t32ipbkj44g2",
+            "type": "la"
+        },
+        {
+            "url": "https://1fichier.com/?cx0ifh2bottocxm3hpct",
+            "type": "es"
+        },
+        {
+            "url": "https://1fichier.com/?iawa879gjwudlfbmjuxm",
+            "type": "en"
+        }
+    ]
+}

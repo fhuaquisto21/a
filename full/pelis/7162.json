@@ -1,0 +1,24 @@
+{
+    "url": "https://cuevana.pizza/pelicula/tellur-aliens",
+    "title": "Extraterrestres de Tellur",
+    "duration": "1h 7m",
+    "year": "2016",
+    "genres": [
+        "Comedia",
+        "Aventura",
+        "Animacion"
+    ],
+    "actors": [],
+    "description": "Tres mejores amigos adolescentes del planeta Telluria se embarcan en una increíble aventura para luchar contra el ser más maligno del universo.",
+    "cover": "https://cuevana.pizza/resize/###/storage/26975/rsV0aXv6xIyHqrbtUIt9mPstw3zIkBFenoRol5pw.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtcDlrcDlpd2phaGlhLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLTdzcHduMHY0YzVoZS5odG1s"
+            ]
+        }
+    ],
+    "downloads": []
+}

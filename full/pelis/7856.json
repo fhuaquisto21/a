@@ -1,0 +1,52 @@
+{
+    "url": "https://cuevana.pizza/pelicula/los-tres-mosqueteros",
+    "title": "Los tres mosqueteros",
+    "duration": "1h 50m",
+    "year": "2011",
+    "genres": [
+        "Accion",
+        "Suspenso",
+        "Aventura"
+    ],
+    "actors": [
+        "Logan Lerman",
+        "Milla Jovovich",
+        "Matthew Macfadyen",
+        "Ray Stevenson",
+        "Luke Evans",
+        "Mads Mikkelsen",
+        "Orlando Bloom",
+        "Christoph Waltz",
+        "Gabriella Wilde",
+        "James Corden",
+        "Juno Temple",
+        "Til Schweiger",
+        "Freddie Fox",
+        "Dexter Fletcher",
+        "Helen George",
+        "Christian Oliver",
+        "Markus Brandl",
+        "Jane Perry",
+        "Andy Gathergood",
+        "Susanne Wolff"
+    ],
+    "description": "Francia, siglo XVII. Athos, Porthos y Aramis son tres prodigiosos espadachines que pertenecen al cuerpo de mosqueteros del rey Luis XIII de Francia (1610-1643). A París llega un joven y valeroso gascón que ingresa en la guardia del Rey para hacerse mosquetero. Los cuatro tendrán que hacer frente a una maquiavélica conspiración urdida por el cardenal Richelieu para derrocar al rey.",
+    "cover": "https://cuevana.pizza/resize/###/storage/28633/XSVtKuxUs9RSUnVPLrvNOEeyq6LgGFm54d64Mf6S.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtdmQxZWw0aXFoMnJkLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLXpxNnhyaGRmYTNubS5odG1s"
+            ]
+        },
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtaXU0ZGl5aHg0bHlkLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLWMxdThnNGc0bzdoZy5odG1s"
+            ]
+        }
+    ],
+    "downloads": []
+}

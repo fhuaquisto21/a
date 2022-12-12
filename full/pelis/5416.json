@@ -1,0 +1,34 @@
+{
+    "url": "https://cuevana.pizza/pelicula/robert-reborn",
+    "title": "Robert Reborn",
+    "duration": "1h 25",
+    "year": "2019",
+    "genres": [
+        "Terror"
+    ],
+    "actors": [
+        "David Lenik",
+        "Dennis Farrin",
+        "Lee Bane",
+        "Rahel Kapsaski"
+    ],
+    "description": "1951, URSS, el famoso muñeco asesino Robert lucha contra los secuaces de Stalin a bordo de un avión.",
+    "cover": "https://cuevana.pizza/resize/###/storage/2600/QyUtjxyc49j77RiyzacpAOpOBgquz35RnVak2ghp.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQteXZtdjhmamM4MGgxLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLWdhd2xyamIzZ3FiYS5odG1s"
+            ]
+        },
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtbHhocmo5MTBpenY4Lmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLWNydGtzb3FpbWczei5odG1s"
+            ]
+        }
+    ],
+    "downloads": []
+}

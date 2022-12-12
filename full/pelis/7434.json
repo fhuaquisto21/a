@@ -1,0 +1,36 @@
+{
+    "url": "https://cuevana.pizza/pelicula/last-days-in-the-desert",
+    "title": "Últimos días en el desierto",
+    "duration": "1h 38m",
+    "year": "2015",
+    "genres": [
+        "Drama",
+        "Aventura"
+    ],
+    "actors": [
+        "Ewan McGregor",
+        "Ciarán Hinds",
+        "Ayelet Zurer",
+        "Tye Sheridan",
+        "Susan Gray"
+    ],
+    "description": "En medio de un árido paisaje, ante la fatiga y las alucinaciones por el calor y la solitaria estancia desde hace más de una luna, Jesús tiene un encuentro con el Diablo, quien está más que ansioso de tentar al exhausto viajero.",
+    "cover": "https://cuevana.pizza/resize/###/storage/26752/3nBiyIBkJLpsfjmMs5m3aQe3xWAa7IrAi6VUmiNJ.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtYjNheXJzbGxydmwxLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLXYxOGk3cXE3aGxuZy5odG1s"
+            ]
+        },
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtZnJ2YjZjZmN0Y2N0Lmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLXNzYzMybjZ4cThueS5odG1s"
+            ]
+        }
+    ],
+    "downloads": []
+}

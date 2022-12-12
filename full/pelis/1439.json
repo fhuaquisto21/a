@@ -1,0 +1,61 @@
+{
+    "url": "https://cuevana.pizza/pelicula/halftime",
+    "title": "Halftime",
+    "duration": "1h 35m",
+    "year": "2022",
+    "genres": [
+        "Documental",
+        "Musical"
+    ],
+    "actors": [
+        "Jennifer Lopez",
+        "Ben Affleck",
+        "Lorene Scafaria",
+        "Shakira",
+        "Laura Dern",
+        "Constance Wu",
+        "Keke Palmer",
+        "Julia Stiles",
+        "Tom Hanks",
+        "Quentin Tarantino"
+    ],
+    "description": "Una mirada íntima a la actriz y cantante Jennifer Lopez mientras reflexiona sobre sus hitos y su evolución como artista, intentando que a lo largo de toda su carrera no dejar de entretener, empoderar e inspirar.",
+    "cover": "https://cuevana.pizza/resize/###/storage/36174/AE7oNqahUoqZ1yOAedUfZJw4d6nGkeT93YDwR0oe.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtbmhxdm41aGQ2NHlzLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLXM3d3dvYTd5Z3gzdC5odG1s"
+            ]
+        },
+        {
+            "type": "cas",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtNjFyZ2NwZDV6MXcwLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLTg5enE4eXJkN2Uzci5odG1s"
+            ]
+        },
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtMWl1YzF0bjJwNXF6Lmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLWtpcDMydnNqcnZ1bC5odG1s"
+            ]
+        }
+    ],
+    "downloads": [
+        {
+            "url": "https://1fichier.com/?udscishnyuojh8wh2e15",
+            "type": "la"
+        },
+        {
+            "url": "https://1fichier.com/?84f8ug5ifp4semlolmjq",
+            "type": "es"
+        },
+        {
+            "url": "https://1fichier.com/?kyw5jb6bty6rgio0nw3t",
+            "type": "en"
+        }
+    ]
+}

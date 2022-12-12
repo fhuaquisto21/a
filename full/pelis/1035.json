@@ -1,0 +1,46 @@
+{
+    "url": "https://cuevana.pizza/pelicula/frankenweenie",
+    "title": "Frankenweenie",
+    "duration": "1h 27m",
+    "year": "2012",
+    "genres": [
+        "Comedia",
+        "Familia",
+        "Animacion"
+    ],
+    "actors": [
+        "Charlie Tahan",
+        "Catherine O'Hara",
+        "Martin Short",
+        "Martin Landau",
+        "Atticus Shaffer",
+        "Winona Ryder",
+        "Robert Capron",
+        "James Hiroyuki Liao",
+        "Conchata Ferrell",
+        "Tom Kenny",
+        "Frank Welker",
+        "Dee Bradley Baker",
+        "Jeff Bennett",
+        "Christopher Lee"
+    ],
+    "description": "De la mente del director Tim Burton ('Alicia en el país de las maravillas', 'La leyenda de Sleepy Hollow'), surge 'Frankenweenie', la tierna historia de un chico y su mascota. Cuando el pequeño perro Sparky fallece, Víctor (su amo y amigo) trata de usar diversas técnicas científicas para intentar revivir al animal, y traerlo de vuelta al mundo de los vivos, todo ello mediante algunos ajustes corporales. Aunque el chico intenta que nadie vea a su \"monstruo\", el perro Sparky consigue escapar, los amigos del colegio del niño, sus profesores e incluso todos sus vecinos sabrán que construir una nueva vida puede llegar a ser algo terrible y escalofriante.",
+    "cover": "https://cuevana.pizza/resize/###/storage/43558/zNCmpoKKGT7vl5YyXagG4kHmv1FheZX3nYmIWbAy.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQteDVhamk4d2ZyYmhjLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLWFkNXFhZ3ppYXl0NS5odG1s"
+            ]
+        },
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtbjVzZnBlbDlhMTV3Lmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLXB0OWE5cmZndmlrNS5odG1s"
+            ]
+        }
+    ],
+    "downloads": []
+}

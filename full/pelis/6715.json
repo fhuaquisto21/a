@@ -1,0 +1,71 @@
+{
+    "url": "https://cuevana.pizza/pelicula/ava",
+    "title": "Ava",
+    "duration": "1h 46m",
+    "year": "2017",
+    "genres": [
+        "Drama",
+        "Romance"
+    ],
+    "actors": [
+        "Noée Abita",
+        "Juan Cano",
+        "Laure Calamy",
+        "Tamara Cano",
+        "Ismaël Capelot",
+        "Daouda Diakhaté",
+        "Baptiste Archimbaud",
+        "Franck Beckmann",
+        "Valentine Cadic",
+        "Mary Lefèvre",
+        "Vincent Grousset",
+        "Paul Meulins",
+        "Mila Cheuzzi",
+        "Nolan Dos Santos",
+        "Thiméo Méric Guarese",
+        "Romain Biderre",
+        "Cindy Gimenez",
+        "Sabrina Gimenez",
+        "Sarah Utrera",
+        "Stéphane Durieux"
+    ],
+    "description": "Ava, de 13 años, está de vacaciones en el mar cuando se entera que va a perder la vista más rápido de lo que esperaba. Su madre decide actuar como si no ocurriera nada y fueran a pasar el mejor verano de sus vidas. Ava entonces comienza a enfrentar el problema a su manera.",
+    "cover": "https://cuevana.pizza/resize/###/storage/26844/3Acn80l6NnjtVIoatpkcnZlbHGkTC0ML26rHcUC5.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtcHlvcXMzM3BvbGFwLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLWd6amxhd2xnbTU0MC5odG1s"
+            ]
+        },
+        {
+            "type": "cas",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtY2preGxmZW93Z3VwLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLTAyMmFwdDFsenI4ci5odG1s"
+            ]
+        },
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQteGdmb2Vmbmc0MnhuLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLXZ1dXFyNXE5Z3h5dS5odG1s"
+            ]
+        }
+    ],
+    "downloads": [
+        {
+            "url": "https://1fichier.com/?wbkzclngsry9yc2jmxrn",
+            "type": "la"
+        },
+        {
+            "url": "https://1fichier.com/?3srjc16yyqrtgxvu5fni",
+            "type": "es"
+        },
+        {
+            "url": "https://1fichier.com/?wbkzclngsry9yc2jmxrn",
+            "type": "en"
+        }
+    ]
+}

@@ -1,0 +1,33 @@
+{
+    "url": "https://cuevana.pizza/pelicula/stop",
+    "title": "Stop",
+    "duration": "55m",
+    "year": "2021",
+    "genres": [
+        "Musical"
+    ],
+    "actors": [
+        "Laura Antolín",
+        "Jaume Cladera",
+        "Jordi Llobet",
+        "Marc Ribera",
+        "Francina Ribes"
+    ],
+    "description": "Una comedia sobre la tristeza protagonizada por el grupo musical Doble Pletina.",
+    "cover": "https://cuevana.pizza/resize/###/storage/9519/HJi6IGV6HDhcqNXlLLHMEoWMPSkETMmIbyB33VhC.jpg",
+    "players": [
+        {
+            "type": "cas",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtMnlzYTZ3ZHk3amlwLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLTR1enV4OHBkajVjNC5odG1s"
+            ]
+        }
+    ],
+    "downloads": [
+        {
+            "url": "https://1fichier.com/?w435w612som6grsift00",
+            "type": "es"
+        }
+    ]
+}

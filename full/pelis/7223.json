@@ -1,0 +1,59 @@
+{
+    "url": "https://cuevana.pizza/pelicula/jackie",
+    "title": "Jackie",
+    "duration": "1h 35m",
+    "year": "2016",
+    "genres": [
+        "Drama",
+        "Biografia",
+        "Historia"
+    ],
+    "actors": [
+        "Natalie Portman",
+        "Peter Sarsgaard",
+        "Greta Gerwig",
+        "Billy Crudup",
+        "John Hurt",
+        "Richard E. Grant",
+        "Caspar Phillipson",
+        "Beth Grant",
+        "John Carroll Lynch",
+        "Max Casella",
+        "Sara Verhagen",
+        "Hélène Kuhn",
+        "Deborah Findlay",
+        "Corey Johnson",
+        "Aidan O'Hare",
+        "Ralph Brown",
+        "David Caves",
+        "Penny Downie",
+        "Georgie Glen",
+        "Julie Judd"
+    ],
+    "description": "Luego del asesinato del Presidente John F. Kennedy, la primera dama: Jacqueline Kennedy debe atravesar el trauma y el duelo de su pérdida, consolar a sus hijos y definir el legado dejado por su esposo.",
+    "cover": "https://cuevana.pizza/resize/###/storage/26864/OhgGQs1aQLLxoJNGtztx0nZ3QRU3T9FvNvMxEfM5.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtdmw4Y2xidzYwZ2h2Lmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLTFvdTdib2FwMzhqdC5odG1s"
+            ]
+        },
+        {
+            "type": "cas",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtZXlxMTk5NmU4N2k3Lmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLWM0c3gwaDdpdzlzcS5odG1s"
+            ]
+        },
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtczA2YmxhdGNiYjlsLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLTU0bTA1Mm8za3JjZy5odG1s"
+            ]
+        }
+    ],
+    "downloads": []
+}

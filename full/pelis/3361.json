@@ -1,0 +1,61 @@
+{
+    "url": "https://cuevana.pizza/pelicula/pig",
+    "title": "Pig",
+    "duration": "1h 32m",
+    "year": "2021",
+    "genres": [
+        "Drama",
+        "Suspenso"
+    ],
+    "actors": [
+        "Nicolas Cage",
+        "Alex Wolff",
+        "Adam Arkin",
+        "Nina Belforte",
+        "Gretchen Corbett",
+        "Dalene Young",
+        "Darius Pierce",
+        "Elijah Ungvary",
+        "Brian Sutherland",
+        "David Knell"
+    ],
+    "description": "Un cazador de trufas que vive sólo en la zona salvaje de Oregón, regresa a Portland para recuperar a su querida cerda trufera, que ha sido secuestrada.",
+    "cover": "https://cuevana.pizza/resize/###/storage/8915/4VhTHotH7oKobAYYLk7jkUwcRNg2F6LeAP2rqxvD.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtZmt4a29xZW03YnJ3Lmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLXZpdnhvN25lZnd6aS5odG1s"
+            ]
+        },
+        {
+            "type": "cas",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQta2V0YWVpcW40a2twLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLThxMXBoeXFsMTE2dS5odG1s"
+            ]
+        },
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQteWUwNHVuYWtkeXkyLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLWRtM2U3cXgyaXY3cS5odG1s"
+            ]
+        }
+    ],
+    "downloads": [
+        {
+            "url": "https://1fichier.com/?7ka3i8m2ulszd684ch48",
+            "type": "la"
+        },
+        {
+            "url": "https://1fichier.com/?oq33m7h1stxgekfyiq1w",
+            "type": "es"
+        },
+        {
+            "url": "https://1fichier.com/?urodhvo3e2ek6x1btcad",
+            "type": "en"
+        }
+    ]
+}

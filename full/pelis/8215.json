@@ -1,0 +1,50 @@
+{
+    "url": "https://cuevana.pizza/pelicula/magnolia",
+    "title": "Magnolia",
+    "duration": "3h 8m",
+    "year": "1999",
+    "genres": [
+        "Drama"
+    ],
+    "actors": [
+        "Tom Cruise",
+        "Philip Baker Hall",
+        "Philip Seymour Hoffman",
+        "William H. Macy",
+        "Julianne Moore",
+        "John C. Reilly",
+        "Jason Robards",
+        "Melora Walters",
+        "Alfred Molina",
+        "Jeremy Blackman",
+        "Michael Bowen",
+        "Emmanuel Johnson",
+        "Melinda Dillon",
+        "Felicity Huffman",
+        "April Grace",
+        "Cleo King",
+        "Orlando Jones",
+        "Ricky Jay",
+        "Patton Oswalt",
+        "Neil Flynn"
+    ],
+    "description": "La película consta de nueve tramas paralelas que tienen lugar en el Valle de San Fernando, en Los Angeles: un niño prodigio, el presentador de un concurso de televisión, un ex-niño prodigio, un moribundo, su hijo perdido, la mujer y el enfermero del moribundo. Son historias aparentemente independientes, pero que guardan entre sí una extraña relación. Magnolia es el retrato de la vida americana visto a través de una serie de viñetas cómicas y conmovedoras.",
+    "cover": "https://cuevana.pizza/resize/###/storage/29844/TExT8xRJeBZQfMHR8zBndAEe6l2F3IVfDbektnMq.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtbnB2MzMxajl4d3g0Lmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLTRpenU3bGxiaDA0eC5odG1s"
+            ]
+        },
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtZXUzd3RpaDZpeWFqLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLXQ0cm83bDJlcHR3MS5odG1s"
+            ]
+        }
+    ],
+    "downloads": []
+}

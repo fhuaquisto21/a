@@ -1,0 +1,52 @@
+{
+    "url": "https://cuevana.pizza/pelicula/a-kind-of-murder",
+    "title": "El cuchillo",
+    "duration": "1h 35m",
+    "year": "2016",
+    "genres": [
+        "Drama",
+        "Suspenso",
+        "Crimen"
+    ],
+    "actors": [
+        "Patrick Wilson",
+        "Jessica Biel",
+        "Vincent Kartheiser",
+        "Haley Bennett",
+        "Eddie Marsan",
+        "Lucas Bentley",
+        "Corrie Danieley",
+        "Radek Lord",
+        "Jennifer Enskat",
+        "Jon Osbeck",
+        "Christine Dye",
+        "Ken Strunk",
+        "Emily Scott",
+        "Barry Mulholland",
+        "Ian Short",
+        "Jerry Rowlands",
+        "Kelly Mengelkoch",
+        "Buz Davis",
+        "Richard Hagerman",
+        "Michael Hall"
+    ],
+    "description": "Walter es un joven y prometedor abogado casado con Clara; viven en una bonita casa en un barrio residencial y parecen una pareja perfecta. Pero Clara ha ido aislando a Walter, y a veces da la impresión de que quiere más a su perro que a él... Un día asesinan a Helen Kimmel, una respetable mujer de clase media, y quizá el asesino sea su esposo. A partir de entonces Walter se obsesiona con el crimen y no deja de hacerse todo tipo de preguntas. Y entre las que se formula, dos que le arrastrarán al fondo de una trama criminal: ¿por qué no mirarse en ese asesinato, el espejo de sus deseos más ocultos? ¿Por qué no matar a Clara?.",
+    "cover": "https://cuevana.pizza/resize/###/storage/28134/CwiU2kNA5rXXD01jQAzI6yxunyKGUTJyTTAgVdsz.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtdjJtOWgzejAxcm50Lmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLTZwenJtZTIwOXgzYS5odG1s"
+            ]
+        },
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtaHl4OXRoMHhvdW43Lmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLXl4cWY2aWU4cXpyMC5odG1s"
+            ]
+        }
+    ],
+    "downloads": []
+}

@@ -1,0 +1,39 @@
+{
+    "url": "https://cuevana.pizza/pelicula/la-cueva",
+    "title": "La cueva",
+    "duration": "1h 20m",
+    "year": "2014",
+    "genres": [
+        "Terror"
+    ],
+    "actors": [
+        "Eva García-Vacas",
+        "Marcos Ortiz",
+        "Marta Castellote",
+        "Xoel Fernández"
+    ],
+    "description": "Formentera, playas de arena blanca, Mediterráneo de aguas cristalinas, naturaleza virgen… y cinco amigos con sus mochilas buscando pasar las vacaciones de su vida en este lugar idílico. El segundo día en la isla, Celia, Iván, Begoña, Carlos y Jaco descubren la entrada a una cueva escondida en un acantilado. Con ganas de aventura se adentran en la cueva por estrechos e incontables pasadizos sin apenas mirar atrás, entre bromas y risas. Pronto descubren que se han perdido. Tratan de encontrar la salida durante horas pero es inútil. Sin agua ni comida, sin pilas suficientes para las linternas, y sin medio de comunicarse con el exterior, se ven abocados a realizar actos inimaginables en pos de la supervivencia. A los pocos días, cada uno de ellos tiene un sólo objetivo: sobrevivir a cualquier precio.",
+    "cover": "https://cuevana.pizza/resize/###/storage/15714/MbHi2curmnrUi31goqG9fMbs3x2BM5dTdhEJJYBj.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtb3dwZmw2NnRrZWFnLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLXBuNzBrY2l3MnRxYi5odG1s"
+            ]
+        },
+        {
+            "type": "cas",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtdDJzNXc2MGg2aWtxLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLW5pNmoxam1yempiMy5odG1s"
+            ]
+        }
+    ],
+    "downloads": [
+        {
+            "url": "https://1fichier.com/?863d56n5xhpm7yrpvgtm",
+            "type": "es"
+        }
+    ]
+}

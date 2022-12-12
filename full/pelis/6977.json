@@ -1,0 +1,44 @@
+{
+    "url": "https://cuevana.pizza/pelicula/i-am-bolt",
+    "title": "Yo Soy Bolt",
+    "duration": "1h 47m",
+    "year": "2016",
+    "genres": [
+        "Biografia",
+        "Documental",
+        "Deportes"
+    ],
+    "actors": [
+        "Usain Bolt",
+        "Neymar Jr",
+        "Serena Williams"
+    ],
+    "description": "Documental sobre la historia de Usain Bolt, su vida y los problemas que superó por completo, para llegar a ser el hombre más rápido en la historia.",
+    "cover": "https://cuevana.pizza/resize/###/storage/27922/z8UDJYJF83Vkzg7GJ8jf1mbErE1VEoDTfxwMBI5P.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtc3FrcDVkOHhjNGVnLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLXpjNzhtangxajlkbS5odG1s"
+            ]
+        },
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtemwwcjlsNXk1eTlsLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLXd4aXB4b2s4NzI4Zy5odG1s"
+            ]
+        }
+    ],
+    "downloads": [
+        {
+            "url": "https://1fichier.com/?p7z65aqvxvhdh5aeyck0",
+            "type": "la"
+        },
+        {
+            "url": "https://1fichier.com/?zwxte9fr18j8xei2x2hk",
+            "type": "en"
+        }
+    ]
+}

@@ -1,0 +1,57 @@
+{
+    "url": "https://cuevana.pizza/pelicula/amadrinhada",
+    "title": "Amadrinadas",
+    "duration": "1h 50m",
+    "year": "2020",
+    "genres": [
+        "Comedia",
+        "Fantasia",
+        "Familia",
+        "Navidad"
+    ],
+    "actors": [
+        "Jillian Bell",
+        "Isla Fisher",
+        "Jane Curtin",
+        "Mary Elizabeth Ellis"
+    ],
+    "description": "Eleanor, una joven hada madrina que se encuentra en plena formación debido a su inexperiencia. Cuando se entera de que su profesión elegida se enfrenta a la extinción, decide mostrarle al mundo que la gente todavía necesita a sus hadas madrinas. Al encontrar una carta extraviada de una niña de 12 años en apuros, Eleanor la localiza y descubre que la niña, Mackenzie, es ahora una madre soltera de 40 años.",
+    "cover": "https://cuevana.pizza/resize/###/storage/24236/Mrhk7IajoZ9kMKkBU9fz0W72qaXJVvkyYZlnFkSj.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtcnQwcWQyM2VvbTg2Lmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLTg1aWxvajlob21yeC5odG1s"
+            ]
+        },
+        {
+            "type": "cas",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtYzdjcjNjOHh5cjFvLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLW42dms5dnZnMnhydy5odG1s"
+            ]
+        },
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtZzJmZXVxZWc1NHJ5Lmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLWMxaGZvYXZvbGRsdi5odG1s"
+            ]
+        }
+    ],
+    "downloads": [
+        {
+            "url": "https://1fichier.com/?3fbbivvzxn57nnvdzy3i#Synchronization+Service",
+            "type": "la"
+        },
+        {
+            "url": "https://1fichier.com/?sibhobm4lqongbfvdnv5#Synchronization+Service",
+            "type": "es"
+        },
+        {
+            "url": "https://1fichier.com/?u281hqmowqhvaqgw9vih#Synchronization+Service",
+            "type": "en"
+        }
+    ]
+}

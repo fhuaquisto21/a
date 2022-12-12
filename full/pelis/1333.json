@@ -1,0 +1,55 @@
+{
+    "url": "https://cuevana.pizza/pelicula/pequenos-guerreros",
+    "title": "Pequeños guerreros",
+    "duration": "1h 51m",
+    "year": "1998",
+    "genres": [
+        "Accion",
+        "Comedia",
+        "Ciencia Ficcion",
+        "Aventura",
+        "Fantasia",
+        "Infantil"
+    ],
+    "actors": [
+        "Gregory Smith",
+        "Kirsten Dunst",
+        "Denis Leary",
+        "Phil Hartman",
+        "David Cross",
+        "Jay Mohr",
+        "Kevin Dunn",
+        "Ann Magnuson",
+        "Wendy Schaal",
+        "Jacob Smith",
+        "Tommy Lee Jones",
+        "Frank Langella",
+        "Ernest Borgnine",
+        "Jim Brown",
+        "Bruce Dern",
+        "George Kennedy",
+        "Clint Walker",
+        "Christopher Guest",
+        "Michael McKean",
+        "Harry Shearer"
+    ],
+    "description": "El Comando Elite está formado por una patrulla de muñecos militares muy arrogantes y agresivos que han cobrado vida y escapado de sus cajas para acabar con los gorgonitas, unos muñecos de aspecto extraño pero absolutamente pacíficos que sólo sueñan con encontrar la isla de Gorgon. El adolescente Alan Abernathy se verá envuelto en esta contienda y tomará posiciones a favor de los Gorgonitas, lo que le llevará a él y a toda su familia a convertirse en el nuevo objetivo del Comando Elite, capaces de crear el caos en toda la ciudad.",
+    "cover": "https://cuevana.pizza/resize/###/storage/38888/eMpz3HDPimyF8Acj0REgBtsSU7gv1vWwojl2reOj.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtOHRvZGNtdzJ0ejNyLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLTZpdnA4aDI1djE2cS5odG1s"
+            ]
+        },
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtcTNnNXN1ZzIyanBqLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLWdwZHRiZzRlengzYS5odG1s"
+            ]
+        }
+    ],
+    "downloads": []
+}

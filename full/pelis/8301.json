@@ -1,0 +1,58 @@
+{
+    "url": "https://cuevana.pizza/pelicula/el-padrino",
+    "title": "El Padrino",
+    "duration": "2h 55m",
+    "year": "1972",
+    "genres": [
+        "Drama",
+        "Crimen"
+    ],
+    "actors": [
+        "Marlon Brando",
+        "Al Pacino",
+        "James Caan",
+        "Robert Duvall",
+        "Richard S. Castellano",
+        "Diane Keaton",
+        "Talia Shire",
+        "Gianni Russo",
+        "Sterling Hayden",
+        "Al Lettieri",
+        "Abe Vigoda",
+        "John Cazale",
+        "Richard Conte",
+        "John Marley",
+        "Rudy Bond",
+        "Al Martino",
+        "Morgana King",
+        "Lenny Montana",
+        "John Martino",
+        "Alex Rocco"
+    ],
+    "description": "Don Vito Corleone, conocido dentro de los círculos del hampa como 'El Padrino', es el patriarca de una de las cinco familias que ejercen el mando de la Cosa Nostra en Nueva York en los años cuarenta. Don Corleone tiene cuatro hijos: una chica, Connie, y tres varones; Sonny, Michael y Fredo. Cuando el Padrino reclina intervenir en el negocio de estupefacientes, empieza una cruenta lucha de violentos episodios entre las distintas familias del crimen organizado.",
+    "cover": "https://cuevana.pizza/resize/###/storage/19639/L77TFqqO4J7qzUESKMQmTjl5UVe1wZrxAswhLugi.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtdXA0aGdoZnRhdGE3Lmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLWFiZnp3djNvbjlseS5odG1s"
+            ]
+        },
+        {
+            "type": "cas",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtZnhicTlxM3k4ZzFlLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLXNvenFmNGY3N2k3ci5odG1s"
+            ]
+        },
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtMGM3c3p4ZDljbTV2Lmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLXkwdTJjeXVuYjhibi5odG1s"
+            ]
+        }
+    ],
+    "downloads": []
+}

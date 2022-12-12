@@ -1,0 +1,47 @@
+{
+    "url": "https://cuevana.pizza/pelicula/todas-las-lunas",
+    "title": "Todas las lunas",
+    "duration": "1h 20m",
+    "year": "2021",
+    "genres": [
+        "Drama",
+        "Terror",
+        "Fantasia"
+    ],
+    "actors": [
+        "Itziar Ituñohttps://1fichier.com/?ikknmfu9kc6zuxhw7w0r#Synchronization+Service",
+        "Haizea Carneros",
+        "Josean Bengoetxea",
+        "Lier Quesada",
+        "Zorion Eguileor",
+        "Elena Uriz"
+    ],
+    "description": "Bosques eternos y montañas nevadas… Es el último tercio del siglo XIX y en algún valle del norte de Navarra se viven los estertores de la última guerra carlista…Un proyectil destruye un hospicio de niñas y tan solo sobrevive una niña, que mal herida, es rescatada por una hermosa mujer que la cuida hasta que se cura. Sin embargo, el destino no está de su lado, y como consecuencia de un inesperado ataque a su escondite, la niña vuelve a quedarse sola y aislada en las montañas. Será entonces cuando descubrirá su nueva y extraña condición, que le impedirá ver la luz del día, y volver a tener una vida corriente como cualquier otra niña.",
+    "cover": "https://cuevana.pizza/resize/###/storage/10184/POHizXUzpxRBIMyZa1JfkLkexVOMw67Rkann9Y5y.jpg",
+    "players": [
+        {
+            "type": "cas",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtdmIydDNudmJ3bjlwLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLTFvOHh6d3RjYXAyZy5odG1s"
+            ]
+        },
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtMWZsb2tic3hvd2tuLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLXR3aW1uYWtiOWlxOS5odG1s"
+            ]
+        }
+    ],
+    "downloads": [
+        {
+            "url": "https://1fichier.com/?ikknmfu9kc6zuxhw7w0r",
+            "type": "es"
+        },
+        {
+            "url": "https://1fichier.com/?3ci6jtdz2pt1bngs7cj2",
+            "type": "en"
+        }
+    ]
+}

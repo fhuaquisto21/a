@@ -1,0 +1,44 @@
+{
+    "url": "https://cuevana.pizza/pelicula/the-reason",
+    "title": "The Reason",
+    "duration": "1h 22m",
+    "year": "2020",
+    "genres": [
+        "Drama",
+        "Familia"
+    ],
+    "actors": [
+        "Louis Gossett Jr.",
+        "Burgess Jenkins",
+        "Alan Powell",
+        "Tatyana Ali"
+    ],
+    "description": "La película, basada en el libro de William Sirls, sigue a un pastor de un pueblo pequeño, su esposa y su hijo enfermo mientras un hombre misterioso es enviado para darles esperanza. Sirls adaptó su libro para la pantalla, escribiendo el guión con Aviv Rubinstein y Richard Clark Jr.",
+    "cover": "https://cuevana.pizza/resize/###/storage/24169/CXwPG1hoViJQXStmf1yg1bqtZzw6JfzDpB1Dtt5R.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtN2NsdGs0dGdsZGJ6Lmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLWszNGQyNHRnczBwOC5odG1s"
+            ]
+        },
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtbzd5NDJwN2lkejYyLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLXg4d3pxMHExMDlqYS5odG1s"
+            ]
+        }
+    ],
+    "downloads": [
+        {
+            "url": "https://1fichier.com/?c1iw0un0lyptomm4cf0r#Synchronization+Service",
+            "type": "la"
+        },
+        {
+            "url": "https://1fichier.com/?0p4ziresben3zp4shoft#Synchronization+Service",
+            "type": "en"
+        }
+    ]
+}

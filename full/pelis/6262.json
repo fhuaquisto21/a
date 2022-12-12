@@ -1,0 +1,57 @@
+{
+    "url": "https://cuevana.pizza/pelicula/only-the-brave",
+    "title": "Héroes en el infierno",
+    "duration": "2h 15m",
+    "year": "2017",
+    "genres": [
+        "Accion",
+        "Drama",
+        "Biografia",
+        "Historia"
+    ],
+    "actors": [
+        "Jeff Bridges",
+        "Jennifer Connelly",
+        "Josh Brolin",
+        "Miles Teller"
+    ],
+    "description": "Los valientes bomberos conocidos como los Granite Mountain Hotshots tuvieron que enfrentarse a uno de los incendios más catastróficos de la historia en junio de 2013, producido en el pueblo de Yarnell Hill, Arizona, que acabó suponiendo la muerte de 19 miembros del cuerpo, durante casi dos semanas cuando la montaña ardió airosamente.",
+    "cover": "https://cuevana.pizza/resize/###/storage/25449/e7R901mjhfjSgZYC1ZsVTWY009LU21Vd9Xt6seyh.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtYWZ4ZzhqcnBzcm1iLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLTR4YXhhZ2NzOGxhdC5odG1s"
+            ]
+        },
+        {
+            "type": "cas",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtbWh1dml0c2RvbjQyLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLWYwM2J3YTBxNnJsNy5odG1s"
+            ]
+        },
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtOTUwbTV6aG5nbXV2Lmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLXBicXdxZjI1anNybC5odG1s"
+            ]
+        }
+    ],
+    "downloads": [
+        {
+            "url": "https://1fichier.com/?5wbdyli8ixp59gi1mumj#Synchronization+Service",
+            "type": "la"
+        },
+        {
+            "url": "https://1fichier.com/?x7xqdl31xlmfpq8tqgoa#Synchronization+Service",
+            "type": "es"
+        },
+        {
+            "url": "https://1fichier.com/?efz0t3rqbsfap5qrfcwp#Synchronization+Service",
+            "type": "en"
+        }
+    ]
+}

@@ -1,0 +1,61 @@
+{
+    "url": "https://cuevana.pizza/pelicula/alvin-y-las-ardillas",
+    "title": "Alvin y las ardillas",
+    "duration": "1h 30m",
+    "year": "2007",
+    "genres": [
+        "Comedia",
+        "Fantasia",
+        "Familia",
+        "Animacion",
+        "Disney"
+    ],
+    "actors": [
+        "Jason Lee",
+        "David Cross",
+        "Cameron Richardson",
+        "Jane Lynch",
+        "Justin Long",
+        "Matthew Gray Gubler",
+        "Jesse McCartney",
+        "Veronica Alicino",
+        "Allison Karman",
+        "Tiara Parker",
+        "Kira Verrastro",
+        "Beth Riesgraf",
+        "Adriane Lenox",
+        "Don Tiffany",
+        "Frank Maharajh",
+        "Kevin Symons",
+        "Jayden Lund",
+        "Alexis Boyd",
+        "Kyndra Reevey",
+        "Jay Bird"
+    ],
+    "description": "La vida de Dave Seville (Jason Lee), un compositor sin éxito, es monótona y frustrante, hasta que encuentra con tres ardillas (Alvin, Simon y Theodore) que vienen del bosque. Dave las expulsa de su casa al no encontrar natural que las ardillas hablen, pero cambia de opinión cuando las oye cantar y los invita a cantar sus letras. Dave acude a su discográfica para mostrar las ardillas a su jefe, pero este las engaña para que se queden con él.",
+    "cover": "https://cuevana.pizza/resize/###/storage/42039/EYq12v0t0XWE13ZPLYJZyiRrarDFwXZeTYA2y1tj.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtZ2hsNHk1bnU2cWhxLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLThkcGRvd3o0YXE3YS5odG1s"
+            ]
+        },
+        {
+            "type": "cas",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtZGZudDA2dTBuMHE0Lmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLW96YTFmbTBkeG1hNi5odG1s"
+            ]
+        },
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtemxtOW0xNjB2cms2Lmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLWozM3lzd214cHllYy5odG1s"
+            ]
+        }
+    ],
+    "downloads": []
+}

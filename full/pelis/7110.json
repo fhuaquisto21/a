@@ -1,0 +1,54 @@
+{
+    "url": "https://cuevana.pizza/pelicula/wakefield",
+    "title": "El Señor Wakefield",
+    "duration": "1h 46m",
+    "year": "2017",
+    "genres": [
+        "Drama"
+    ],
+    "actors": [
+        "Bryan Cranston",
+        "Jennifer Garner",
+        "Jason O'Mara",
+        "Beverly D'Angelo",
+        "Ian Anthony Dale",
+        "Pippa Bennett-Warner",
+        "Ellery Sprayberry",
+        "Victoria Bruno",
+        "Monica Lawson",
+        "Isaac Leyva",
+        "Frederick Keeve",
+        "Alexander Zale",
+        "Eliza Coleman",
+        "Bill Timoney",
+        "Derek Weston"
+    ],
+    "description": "Un hombre estresado y harto de su monótona vida decide abandonar a su familia para vivir en el ático de su casa durante meses sin que nadie lo sepa, considerándole tanto la policía como su familia una persona \"desparecida\".",
+    "cover": "https://cuevana.pizza/resize/###/storage/28130/vN3bFy8q1fK1DcCG8C2k4B5qLMV9nDQQPxS4tNSL.jpg",
+    "players": [
+        {
+            "type": "cas",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtN2NobmFwdDYybnZwLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLTQ1bWRqbHdzaWV6ay5odG1s"
+            ]
+        },
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtZWx0OTM4b2Z2MDIwLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLThmdzU4bmxwNzBpai5odG1s"
+            ]
+        }
+    ],
+    "downloads": [
+        {
+            "url": "https://1fichier.com/?9ipy21kku0ujj3cuwyv3",
+            "type": "es"
+        },
+        {
+            "url": "https://1fichier.com/?9qw0ei2m4prnfa1d87bn",
+            "type": "en"
+        }
+    ]
+}

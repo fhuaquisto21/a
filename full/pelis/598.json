@@ -1,0 +1,29 @@
+{
+    "url": "https://cuevana.pizza/pelicula/el-caso-figo",
+    "title": "El Caso Figo",
+    "duration": "1h 45m",
+    "year": "2022",
+    "genres": [
+        "Documental"
+    ],
+    "actors": [
+        "Luís Figo"
+    ],
+    "description": "Los fans se quedaron impactados cuando Luís Figo dejó el Barcelona por uno de sus rivales: Real Madrid. Conoce las tensas negociaciones privadas en este documental.",
+    "cover": "https://cuevana.pizza/resize/###/storage/48576/MgiWBQyKIWZw7jZXuXBarY7kH6tZNcXIX7dLmWOw.jpg",
+    "players": [
+        {
+            "type": "cas",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtajc1ZGdyZXphd3JxLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLTV5MXB5aDFmd3F4eS5odG1s"
+            ]
+        }
+    ],
+    "downloads": [
+        {
+            "url": "https://1fichier.com/?kmz1y71sd3w9ucrw8l6u",
+            "type": "es"
+        }
+    ]
+}

@@ -1,0 +1,44 @@
+{
+    "url": "https://cuevana.pizza/pelicula/the-blackout-experiment",
+    "title": "The Blackout Experiment",
+    "duration": "1h 21m",
+    "year": "2021",
+    "genres": [
+        "Drama",
+        "Terror"
+    ],
+    "actors": [
+        "Troy Jones",
+        "Dom Cole",
+        "Yasmin Irvine",
+        "Steven Synstelien",
+        "Stefani Rose",
+        "Cheverly Amalia",
+        "Cheryl Lyone",
+        "Uli Auliani"
+    ],
+    "description": "6 extraños se despiertan dentro de una habitación adornada con armas y se ven obligados a matarse entre sí o ver morir a alguien que les importa profundamente.",
+    "cover": "https://cuevana.pizza/resize/###/storage/8886/VmPy7DbPaDkiwAhfD7rxLN2YEpcCqzdrXqGtubff.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtN3V6bmI5N3FyZW5kLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLXdmZjNza2w4cWQwaS5odG1s"
+            ]
+        },
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtODhhdzluaDA1czNwLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLW44bGg5Y2Nsc2M5bi5odG1s"
+            ]
+        }
+    ],
+    "downloads": [
+        {
+            "url": "https://1fichier.com/?ay9yp173hiboqec48g64",
+            "type": "en"
+        }
+    ]
+}

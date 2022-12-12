@@ -1,0 +1,51 @@
+{
+    "url": "https://cuevana.pizza/pelicula/frente-al-mar",
+    "title": "Frente al mar",
+    "duration": "2h 2m",
+    "year": "2015",
+    "genres": [
+        "Drama",
+        "Romance"
+    ],
+    "actors": [
+        "Angelina Jolie",
+        "Brad Pitt",
+        "Mélanie Laurent",
+        "Melvil Poupaud",
+        "Niels Arestrup",
+        "Richard Bohringer",
+        "Sarah Naudi",
+        "Marika Green",
+        "Aldo Buontempo",
+        "George Camilleri",
+        "Philippe Martinet",
+        "Francis Xuereb",
+        "Malcolm Beethans",
+        "Kathleen Beethans",
+        "Bjorn Kubin",
+        "Penny Dix",
+        "Arcadia Vodka",
+        "Indi Marceau Coppola",
+        "Anna Cachia",
+        "Frédéric Dessains"
+    ],
+    "description": "El escritor estadounidense Roland (Brad Pitt) y Vanessa (Angelina Jolie), un matrimonio en crisis, llegan a un bonito y tranquilo pueblo francés en los años setenta. La pareja empieza a resolver sus problemas al conocer mejor a los recién casados Lea (Mélanie Laurent) y François (Melvil Poupaud), así como al resto de vecinos del pueblo, entre los que se encuentran Michael (Niels Arestrup) y Patrice (Richard Bohringer).",
+    "cover": "https://cuevana.pizza/resize/###/storage/27683/FUmq9yhdvDkjCVpdXibUK9HXpzNVpcgXpCARZvmC.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtdnlmNXAwY3A2MXZqLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLThyb3drZnZvbmh6di5odG1s"
+            ]
+        },
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtbWduYWhoaGYwc2FtLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLXdhZndiZ2Y3Y2gwaS5odG1s"
+            ]
+        }
+    ],
+    "downloads": []
+}

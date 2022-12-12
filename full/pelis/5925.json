@@ -1,0 +1,41 @@
+{
+    "url": "https://cuevana.pizza/pelicula/the-wind",
+    "title": "The Wind",
+    "duration": "1h 26m",
+    "year": "2019",
+    "genres": [
+        "Suspenso",
+        "Terror",
+        "Western"
+    ],
+    "actors": [
+        "Ashley Zukerman",
+        "Caitlin Gerard",
+        "Julia Goldani Telles",
+        "Miles Anderson"
+    ],
+    "description": "Una mujer de las llanuras se enfrenta a la dureza y el aislamiento de la tierra indómita en la frontera occidental de finales del siglo XIX.",
+    "cover": "https://cuevana.pizza/resize/###/storage/2085/crT4TNpsUvaER6QlqubEsiEaa9hW1jfUv6dIpW2h.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtd24ydXhqZm9oNHE0Lmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLTV5cmNuYTd3NzZwai5odG1s"
+            ]
+        },
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtbHRiamExc3d6bGR5Lmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLW42anhtYndsamtreS5odG1s"
+            ]
+        }
+    ],
+    "downloads": [
+        {
+            "url": "https://1fichier.com/?8x3yc3t5wy933v2ls3gu",
+            "type": "en"
+        }
+    ]
+}

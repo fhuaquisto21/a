@@ -1,0 +1,43 @@
+{
+    "url": "https://cuevana.pizza/pelicula/abandoned",
+    "title": "Abandoned",
+    "duration": "1h 42m",
+    "year": "2022",
+    "genres": [
+        "Terror"
+    ],
+    "actors": [
+        "Emma Roberts",
+        "John Gallagher Jr.",
+        "Michael Shannon",
+        "Kate Arrington"
+    ],
+    "description": "Después de que una joven pareja se mude a una remota casa de campo con su hijo pequeño, las luchas de la mujer con la psicosis posparto comienzan a intensificarse… mientras la casa revela sus propios secretos.",
+    "cover": "https://cuevana.pizza/resize/###/storage/38848/dWBMSveGG4PiJz20rmGTBb7gmTzQBhyiRzKgpbYx.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtOTI4anN4ejRrczMxLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLTlmZXI2bjBpZmxtMy5odG1s"
+            ]
+        },
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtcGttZ29hcXoya2IyLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLXlsOTBsZGplbXcyaS5odG1s"
+            ]
+        }
+    ],
+    "downloads": [
+        {
+            "url": "https://1fichier.com/?o9iboc1pltj7g7pnyqly",
+            "type": "la"
+        },
+        {
+            "url": "https://1fichier.com/?aovt6fsy1nkfc8j42g8l",
+            "type": "en"
+        }
+    ]
+}

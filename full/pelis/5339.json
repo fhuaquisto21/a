@@ -1,0 +1,49 @@
+{
+    "url": "https://cuevana.pizza/pelicula/don-t-stop-me-now",
+    "title": "Mi Mamá es una Espía",
+    "duration": "1h 42m",
+    "year": "2019",
+    "genres": [
+        "Comedia"
+    ],
+    "actors": [
+        "Paola Cortellesi",
+        "Stefano Fresi",
+        "Tomas Arana",
+        "Giampaolo Morelli",
+        "Vinicio Marchioni",
+        "Carla Signoris",
+        "Claudia Pandolfi",
+        "Lucia Mascino",
+        "Paola Minaccioni",
+        "Ricky Memphis",
+        "Remo Girone",
+        "Teco Celio",
+        "Alessandro Roja",
+        "Emanuele Armani",
+        "Chiara Luzzi",
+        "Marco Pancrazi",
+        "Paolo Antonini",
+        "Jacopo Carta",
+        "Eliana Miglio"
+    ],
+    "description": "Paola, una mujer moderna acostumbrada a las dificultades de la vida moderna, aprovecha su oportunidad para hacer las cosas bien para ella.",
+    "cover": "https://cuevana.pizza/resize/###/storage/18058/g8mTUqBgDi5uof7klNhdgK8HDRlRs66ghHEF6lnk.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtcmx4Nng1c3NlZ2RuLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLTBiZzJlOXFldDd3cC5odG1s"
+            ]
+        },
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtaWd2cW54cTRwYnIwLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLWtxczE5OGhzdWlxcC5odG1s"
+            ]
+        }
+    ],
+    "downloads": []
+}

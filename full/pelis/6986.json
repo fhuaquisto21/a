@@ -1,0 +1,72 @@
+{
+    "url": "https://cuevana.pizza/pelicula/la-llegada",
+    "title": "La llegada",
+    "duration": "1h 56m",
+    "year": "2016",
+    "genres": [
+        "Drama",
+        "Misterio",
+        "Ciencia Ficcion"
+    ],
+    "actors": [
+        "Amy Adams",
+        "Jeremy Renner",
+        "Forest Whitaker",
+        "Michael Stuhlbarg",
+        "Tzi Ma",
+        "Mark O'Brien",
+        "Julia Scarlett Dan",
+        "Abigail Pniowsky",
+        "Jadyn Malone",
+        "Carmela Nozza Guizzo",
+        "Andrew Shaver",
+        "Shawn Campbell",
+        "Larry Day",
+        "Pat Kiely",
+        "Frank Schorpion",
+        "Lucas Chartier-Dessert",
+        "Lucy Van Oldenbarneveld",
+        "Sonia Vigneault",
+        "Mark Camacho",
+        "Sabrina Reeves"
+    ],
+    "description": "Unas misteriosas naves espaciales aterrizan por todo el mundo. Un equipo, liderado por la lingüista Louise Banks, intenta descifrar el motivo de su visita. A medida que la humanidad se tambalea al borde de la guerra, Louise y su equipo luchan contra el tiempo, llegando a poner en peligro su vida y, muy posiblemente, la del resto de la humanidad.",
+    "cover": "https://cuevana.pizza/resize/###/storage/27905/OyYZojIuyjGyf63YY5zQhiEXpuIHJju7DRwnmYxZ.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtZmgydWxlZXZpeHRjLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLXo1Y212NjB0ZWxteC5odG1s"
+            ]
+        },
+        {
+            "type": "cas",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtM2hweW15ejNzdmNxLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLXY5aHpiYmozZzk4Zi5odG1s"
+            ]
+        },
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtZW50Njk4YXcwcWY4Lmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLXVubDNvNWU1a2t5bS5odG1s"
+            ]
+        }
+    ],
+    "downloads": [
+        {
+            "url": "https://1fichier.com/?kv85sz9i20j0ckadag8v",
+            "type": "la"
+        },
+        {
+            "url": "https://1fichier.com/?uc4jgdzyo2k8fw7xf673",
+            "type": "es"
+        },
+        {
+            "url": "https://1fichier.com/?4mrx28qg3v210h74yj6d",
+            "type": "en"
+        }
+    ]
+}

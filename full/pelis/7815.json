@@ -1,0 +1,52 @@
+{
+    "url": "https://cuevana.pizza/pelicula/jackass-3-5",
+    "title": "Jackass 3.5",
+    "duration": "1h 25m",
+    "year": "2011",
+    "genres": [
+        "Accion",
+        "Comedia",
+        "Documental"
+    ],
+    "actors": [
+        "Johnny Knoxville",
+        "Ryan Dunn",
+        "Dave England",
+        "Preston Lacy",
+        "Bam Margera",
+        "Ehren McGhehey",
+        "Steve-O",
+        "Chris Pontius",
+        "Jason Acuña",
+        "Andy Bell",
+        "Mat Hoffman",
+        "Jesse Merlin",
+        "Stevie Lee",
+        "Brandon Novak",
+        "Tommy Passemante",
+        "Mark Zupan",
+        "Manny Puig",
+        "Priya Swaminathan",
+        "Loomis Fall",
+        "Jeff Tremaine"
+    ],
+    "description": "Porque todas las anteriores no bastan! Johnny Knoxville y sus chicos aparecen de vuelta en esta entrega de Jackass 3.5. Escenas nunca antes vistas. Una nueva película de los locos chicos de la MTV en donde realizarán pruebas cuya finalidad es infligirse dolor y hacer reir a mucha gente al mismo tiempo.",
+    "cover": "https://cuevana.pizza/resize/###/storage/28933/dpyJSilgNPcQHgTqTHUzeWTDuLi5Xw8glConKBRb.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtZ3ZwMnUxN2tpNjRsLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLW1jaXNyZmwwZ3pzZy5odG1s"
+            ]
+        },
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtZzNyM2QxdzM1ZWd2Lmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLTR3b3R1enM1ZXNkNS5odG1s"
+            ]
+        }
+    ],
+    "downloads": []
+}

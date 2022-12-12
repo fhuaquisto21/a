@@ -1,0 +1,45 @@
+{
+    "url": "https://cuevana.pizza/pelicula/red-dog",
+    "title": "Red Dog, una historia de lealtad",
+    "duration": "1h 32m",
+    "year": "2011",
+    "genres": [
+        "Comedia",
+        "Drama",
+        "Biografia"
+    ],
+    "actors": [
+        "Josh Lucas",
+        "Rachael Taylor",
+        "Rohan Nichol",
+        "Luke Ford",
+        "Arthur Angel",
+        "John Batchelor",
+        "Koko",
+        "Keisha Castle-Hughes",
+        "Noah Taylor",
+        "Loene Carmen",
+        "Loene Carmen",
+        "Jacquy Phillips",
+        "Joey Kennedy"
+    ],
+    "description": "Adaptación de la novela Louis De Bernieres basada en un hecho real, narra como un perro kelpie australiano une a una comunidad minera durante los setenta.",
+    "cover": "https://cuevana.pizza/resize/###/storage/28905/Oe4CAOItss8vibHBuqX6B6MtVzpN9GOvwm69UQgl.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtNXZsZGQzOGU2d2Q4Lmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLW83cm9ucmFzZm42ci5odG1s"
+            ]
+        },
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtMGY4c2xiZ3p2eHE5Lmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLXc1YjJmYWtmdnE2OS5odG1s"
+            ]
+        }
+    ],
+    "downloads": []
+}

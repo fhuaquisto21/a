@@ -1,0 +1,60 @@
+{
+    "url": "https://cuevana.pizza/pelicula/la-pasajera-2",
+    "title": "La pasajera",
+    "duration": "1h 34m",
+    "year": "2022",
+    "genres": [
+        "Accion",
+        "Suspenso"
+    ],
+    "actors": [
+        "Ruby Rose",
+        "Patrick Schwarzenegger",
+        "Frank Grillo",
+        "Danny Bohnen",
+        "Scotty Bohnen",
+        "Luis Da Silva Jr.",
+        "Vernon Davis",
+        "Emma Maddock",
+        "Major Dodge"
+    ],
+    "description": "Tres ladrones se hacen con el yate de lujo de una mujer fiestera, quién lucha por sobrevivir después de los hechos.",
+    "cover": "https://cuevana.pizza/resize/###/storage/52359/1tUcYNvWLdGqZRiqhwxkugy5j0HAeqVh6U9fhp2P.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtdjE5M3Fjbjc0dTh0Lmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLXhzZGR3Nm1zazRqZC5odG1s"
+            ]
+        },
+        {
+            "type": "cas",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtdzFiNXVxdHF3YXI0Lmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLTNrMWk1eHZxdHVwZi5odG1s"
+            ]
+        },
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtNWV1bnRvdTM3NWUzLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLTFpMGZmbnd0OWZmaC5odG1s"
+            ]
+        }
+    ],
+    "downloads": [
+        {
+            "url": "https://1fichier.com/?7kkg3r5cdrlzug7i2ax1",
+            "type": "la"
+        },
+        {
+            "url": "https://1fichier.com/?d5yvvhdhqurm27a5s9re",
+            "type": "es"
+        },
+        {
+            "url": "https://1fichier.com/?cigjnp8f0j9mjc2bwtif",
+            "type": "en"
+        }
+    ]
+}

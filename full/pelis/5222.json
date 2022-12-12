@@ -1,0 +1,38 @@
+{
+    "url": "https://cuevana.pizza/pelicula/what-happened-on-september-11",
+    "title": "¿Qué pasó el 11 de Septiembre?",
+    "duration": "0h 30m",
+    "year": "2019",
+    "genres": [
+        "Documental"
+    ],
+    "actors": [],
+    "description": "Una introducción a los ataques terroristas en los Estados Unidos el 11 de septiembre de 2001 presentada para una audiencia joven.",
+    "cover": "https://cuevana.pizza/resize/###/storage/2796/bLdnSXn6eZPlQK1WQD6ZIg1LuypJYt7mEcuZiUUD.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtOW95eHZucjY3N3BnLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLTRmZzNiZGVvMGluNC5odG1s"
+            ]
+        },
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtaHA1ZGlmeXRqeW84Lmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLW9kaXljcmk2cDdmYS5odG1s"
+            ]
+        }
+    ],
+    "downloads": [
+        {
+            "url": "https://1fichier.com/?2720ql7w2jgbadbx560j",
+            "type": "la"
+        },
+        {
+            "url": "https://1fichier.com/?8uo5pb3zqfxhuv1na31s",
+            "type": "en"
+        }
+    ]
+}

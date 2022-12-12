@@ -1,0 +1,51 @@
+{
+    "url": "https://cuevana.pizza/pelicula/solo-las-bestias",
+    "title": "Solo las bestias",
+    "duration": "1h 57m",
+    "year": "2019",
+    "genres": [
+        "Drama",
+        "Thriller"
+    ],
+    "actors": [
+        "Laure Calamy",
+        "Denis Ménochet",
+        "Valeria Bruni‑Tedeschi",
+        "Damien Bonnard",
+        "Bastien Bouillon",
+        "Nadia Tereszkiewicz",
+        "Jenny Bellay",
+        "Guy Roger N'Drin",
+        "Marie Victoire Amie",
+        "Fred Ulysse",
+        "Colin Niel"
+    ],
+    "description": "Después de la desaparición de una mujer durante una tormenta de nieve, cinco desconocidos de un pueblo remoto de las montañas se verán envueltos en un misterio que trasciende los continentes y que ninguno de ellos esperaba.",
+    "cover": "https://cuevana.pizza/resize/###/storage/20391/UqB15EKKesDnQV86dy4WmtEjPGqa5GAaWW1EIlyi.jpg",
+    "players": [
+        {
+            "type": "cas",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtaWVlY2w5c2VpMDJ4Lmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLTJqdW8zenIxN25vdi5odG1s"
+            ]
+        },
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtdG52czFpeXZ5dGF6Lmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLXJsNDRkN25yYmkyNi5odG1s"
+            ]
+        }
+    ],
+    "downloads": [
+        {
+            "url": "https://1fichier.com/?l2o8enfopo4cuzcluqrj",
+            "type": "es"
+        },
+        {
+            "url": "https://1fichier.com/?yqeze9w3a1obr3c5tseb",
+            "type": "en"
+        }
+    ]
+}

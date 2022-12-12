@@ -1,0 +1,47 @@
+{
+    "url": "https://cuevana.pizza/pelicula/killing-salazar",
+    "title": "Maten a Salazar",
+    "duration": "1h 30m",
+    "year": "2017",
+    "genres": [
+        "Accion",
+        "Misterio",
+        "Crimen"
+    ],
+    "actors": [
+        "Steven Seagal",
+        "Luke Goss",
+        "Georges St-Pierre",
+        "Bruce Crawford",
+        "Lauro Chartrand",
+        "Darren E. Scott",
+        "Florin Piersic Jr.",
+        "Martine Argent",
+        "Claudiu Bleonţ",
+        "Howard Dell",
+        "Adina Galupa",
+        "Sharlene Royer",
+        "George Ramos",
+        "Bogdan Farcaș",
+        "Massimo Dobrovic"
+    ],
+    "description": "Un equipo de élite de agentes de la DEA son asignados para proteger a un capo de la droga peligrosa y refugiarse en un hotel de lujo, mientras esperan la extracción. Pronto se encuentran en el centro de una emboscada como ex socios del capo de la droga lanzan un asalto explosivo en el hotel.",
+    "cover": "https://cuevana.pizza/resize/###/storage/27201/8nOwYXJEf5JrdJZ4I0KwWGwNofYuL7dLCpahEcib.jpg",
+    "players": [
+        {
+            "type": "cas",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtMDl6azIzMmZya2NuLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLW05cTJ1cm51bmc3dS5odG1s"
+            ]
+        },
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtMjdycjMwMXk1OTQ0Lmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLWMxeWx2MTBycWZqZy5odG1s"
+            ]
+        }
+    ],
+    "downloads": []
+}

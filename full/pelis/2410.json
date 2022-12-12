@@ -1,0 +1,49 @@
+{
+    "url": "https://cuevana.pizza/pelicula/la-cronica-francesa",
+    "title": "La crónica francesa",
+    "duration": "1h 48m",
+    "year": "2021",
+    "genres": [
+        "Drama"
+    ],
+    "actors": [
+        "Benicio del Toro",
+        "Adrien Brody",
+        "Tilda Swinton",
+        "Léa Seydoux",
+        "Frances McDormand",
+        "Timothée Chalamet",
+        "Lyna Khoudri",
+        "Jeffrey Wright",
+        "Mathieu Amalric",
+        "Steve Park"
+    ],
+    "description": "Una carta de amor al mundo del periodismo, ambientada en el contexto de la redacción de un periódico americano en el París del siglo XX, con tres historias interconectadas entre sí.",
+    "cover": "https://cuevana.pizza/resize/###/storage/13128/bKFeC9ryEvaiNN2FRMBXKNN5djKSbtUsJUlIXfjb.jpg",
+    "players": [
+        {
+            "type": "cas",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtMGZ6bGkyZjVhM3pvLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLWJkaDdjaXRoYXA1aC5odG1s"
+            ]
+        },
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtMDk0enJ3eXl5aDljLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLXA3a3drZWozc3FycS5odG1s"
+            ]
+        }
+    ],
+    "downloads": [
+        {
+            "url": "https://1fichier.com/?3cb0fljdjmnauc58lb9u",
+            "type": "es"
+        },
+        {
+            "url": "https://1fichier.com/?ac8sbeq4tlkpxdqgptxw",
+            "type": "en"
+        }
+    ]
+}

@@ -1,0 +1,72 @@
+{
+    "url": "https://cuevana.pizza/pelicula/pixie",
+    "title": "Pixie",
+    "duration": "1h 33m",
+    "year": "2020",
+    "genres": [
+        "Comedia",
+        "Suspenso",
+        "Crimen"
+    ],
+    "actors": [
+        "Olivia Cooke",
+        "Ben Hardy",
+        "Daryl McCormack",
+        "Colm Meaney",
+        "Alec Baldwin",
+        "Rory Fleck-Byrne",
+        "Fra Fee",
+        "Turlough Convery",
+        "Chris Walley",
+        "Pat Shortt",
+        "Frankie McCafferty",
+        "Ned Dennehy",
+        "Dylan Moran",
+        "Sebastian de Souza",
+        "Esme Thompson",
+        "Packy Lee",
+        "Olivia Byrne",
+        "Brenda McNeill",
+        "Barbara Adair",
+        "Donal O'Farrell"
+    ],
+    "description": "Para vengar la muerte de su madre, Pixie planea un atraco, pero debe huir a través de Irlanda de los gánsteres, enfrentarse al patriarcado y elegir su propio destino.",
+    "cover": "https://cuevana.pizza/resize/###/storage/20375/08rvluxOaU04eGA1NGXKlzgKnuFJCHyv9bEv3OBF.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQteDQ3b2kwbzNibnl5Lmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLWxqN2UzOXY1enFpYS5odG1s"
+            ]
+        },
+        {
+            "type": "cas",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtb3p4anpmYmJ3YTdzLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLXloNXdseTFuZ2Y1bi5odG1s"
+            ]
+        },
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtNmswbDQ2ZGIxMTNtLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLW1tNzlnc3ltbXM3ZC5odG1s"
+            ]
+        }
+    ],
+    "downloads": [
+        {
+            "url": "https://1fichier.com/?wkbspvzlv113hd3ydxsp",
+            "type": "la"
+        },
+        {
+            "url": "https://1fichier.com/?uuoifgrrbhk5r6li6gvc",
+            "type": "es"
+        },
+        {
+            "url": "https://1fichier.com/?13emkxdm9m8p6s91cn49",
+            "type": "en"
+        }
+    ]
+}

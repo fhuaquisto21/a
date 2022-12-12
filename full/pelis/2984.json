@@ -1,0 +1,49 @@
+{
+    "url": "https://cuevana.pizza/pelicula/schumacher",
+    "title": "Schumacher",
+    "duration": "1h 52m",
+    "year": "2021",
+    "genres": [
+        "Documental"
+    ],
+    "actors": [
+        "Michael Schumacher",
+        "Mick Schumacher",
+        "Corinna Schumacher",
+        "Ralf Schumacher",
+        "Rolf Schumacher",
+        "Gina Schumacher",
+        "Jean Todt",
+        "Bernie Ecclestone",
+        "Sebastian Vettel",
+        "Mika Häkkinen"
+    ],
+    "description": "A través de entrevistas exclusivas e imágenes de archivo, este documental traza un retrato íntimo del siete veces campeón de Fórmula 1 Michael Schumacher.",
+    "cover": "https://cuevana.pizza/resize/###/storage/10409/XLsroNjcQtW0E0Q9sEvhdjArAsjdhIBbXpXb5pWy.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtNGMwZ3Z5NjloOTAxLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLXVkdXVlOTJwamlsZy5odG1s"
+            ]
+        },
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtbnA1bXQ0YXgyem1rLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLW9ndGlvNHZ6MmxwNS5odG1s"
+            ]
+        }
+    ],
+    "downloads": [
+        {
+            "url": "https://1fichier.com/?fhv83snj4w87k1wbdqv3",
+            "type": "la"
+        },
+        {
+            "url": "https://1fichier.com/?csm5d4k1np04s37x25np",
+            "type": "en"
+        }
+    ]
+}

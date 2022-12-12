@@ -1,0 +1,58 @@
+{
+    "url": "https://cuevana.pizza/pelicula/la-sociedad-de-los-poetas-muertos",
+    "title": "El club de los poetas muertos",
+    "duration": "2h 8m",
+    "year": "1989",
+    "genres": [
+        "Comedia",
+        "Drama"
+    ],
+    "actors": [
+        "Robin Williams",
+        "Ethan Hawke",
+        "Robert Sean Leonard",
+        "Gale Hansen",
+        "Josh Charles",
+        "Dylan Kussman",
+        "Allelon Ruggiero",
+        "James Waterston",
+        "Norman Lloyd",
+        "Kurtwood Smith",
+        "Carla Belver",
+        "Leon Pownall",
+        "George Martin",
+        "Joe Aufiery",
+        "Matt Carey",
+        "Kevin Cooney",
+        "Jane Moore",
+        "Lara Flynn Boyle",
+        "Colin Irving",
+        "Alexandra Powers"
+    ],
+    "description": "En un elitista y estricto colegio privado de Nueva Inglaterra, un grupo de alumnos descubrirá la poesía, el significado de \"Carpe Diem\" -aprovechar el momento- y la importancia de perseguir los sueños, gracias a un excéntrico profesor que despierta sus mentes por medio de métodos poco convencionales.",
+    "cover": "https://cuevana.pizza/resize/###/storage/30058/gFiwCRu7LqS3ROOyY6dYuVlwfA7DCIkjYwaHR7VC.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtempsNm11NWdqMWFhLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLWxwdTFxdzEybjc1YS5odG1s"
+            ]
+        },
+        {
+            "type": "cas",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtaHVqcnd6dnc3emxqLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLTA2ZnZjZ3VrdWE4MC5odG1s"
+            ]
+        },
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtMGdqa3I5cGIzMnRlLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLTR5a3FkcmRicGxmZC5odG1s"
+            ]
+        }
+    ],
+    "downloads": []
+}

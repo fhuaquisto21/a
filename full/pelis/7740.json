@@ -1,0 +1,28 @@
+{
+    "url": "https://cuevana.pizza/pelicula/joe",
+    "title": "JOE",
+    "duration": "1h 57m",
+    "year": "2014",
+    "genres": [
+        "Drama",
+        "Crimen"
+    ],
+    "actors": [
+        "Gary Poulter",
+        "Nicolas Cage",
+        "Ronnie Gene Blevins",
+        "Tye Sheridan"
+    ],
+    "description": "La historia, ambientada en Misisipi, se centra en dos personajes, Joe, un exconvicto, un hombre sin rumbo que ha vivido siempre al límite, y Gary, un chaval de quince años que desea huir de un hogar destruido por un padre alcohólico; Joe y Gary se convertirán en atípicos aliados con un plan que podría suponer un gran cambio sus vidas, para bien o para mal.",
+    "cover": "https://cuevana.pizza/resize/###/storage/16501/44W9d0ZIdNwhnkzMWvcn4oYdpGxv2mtwkHq0RwfD.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtaTUyNXZ5ZDdneG1xLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLTJ4bndxZjZmazRnZC5odG1s"
+            ]
+        }
+    ],
+    "downloads": []
+}

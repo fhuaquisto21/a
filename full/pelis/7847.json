@@ -1,0 +1,52 @@
+{
+    "url": "https://cuevana.pizza/pelicula/soy-el-numero-cuatro",
+    "title": "Soy el número cuatro",
+    "duration": "1h 42m",
+    "year": "2011",
+    "genres": [
+        "Accion",
+        "Ciencia Ficcion",
+        "Aventura"
+    ],
+    "actors": [
+        "Alex Pettyfer",
+        "Dianna Agron",
+        "Teresa Palmer",
+        "Timothy Olyphant",
+        "Kevin Durand",
+        "Callan McAuliffe",
+        "Jake Abel",
+        "Garrett M. Brown",
+        "Patrick Sebes",
+        "Emily Wickersham",
+        "Jeff Hochendoner",
+        "Greg Townley",
+        "Reuben Langdon",
+        "Molly McGinnis",
+        "Brian Howe",
+        "Andy Owen",
+        "Sophia Anne Caruso",
+        "Charles Carroll",
+        "L. Derek Leonidoff",
+        "Sabrina de Matteo"
+    ],
+    "description": "Después de que su mundo haya sido destruido por seres de otro planeta, nueve jóvenes alienígenas se esconden de la Tierra. Uno de ellos, el cuarto del grupo y que se hace llamar John Smith (Alex Pettyfer), descubre que no está a salvo: sus enemigos se encuentran en la Tierra, han acabado con los tres anteriores, y le siguen los pasos para dar con él. Para intentar no ser descubierto el joven cuenta con la ayuda de un guardián que le protege, Henri (Timothy Olyphant).",
+    "cover": "https://cuevana.pizza/resize/###/storage/28919/Iipz9GLVoaWi0FAcWH0xV0eWdGrE0kVpKyyHUMvI.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtcWVrMHl2dGN4cXdrLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLTlnNmF3YjlrMmYzYS5odG1s"
+            ]
+        },
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtemtpeG1lcHgyN2t6Lmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLXA1dm8yYWgyczUyaS5odG1s"
+            ]
+        }
+    ],
+    "downloads": []
+}

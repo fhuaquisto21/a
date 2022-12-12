@@ -1,0 +1,37 @@
+{
+    "url": "https://cuevana.pizza/pelicula/the-escape",
+    "title": "La búsqueda de la felicidad",
+    "duration": "1h 41m",
+    "year": "2017",
+    "genres": [
+        "Drama"
+    ],
+    "actors": [
+        "Gemma Arterton",
+        "Dominic Cooper",
+        "Frances Barber",
+        "Marthe Keller",
+        "Montserrat Lombard",
+        "Jalil Lespert",
+        "Laura Donoughue"
+    ],
+    "description": "Tara (Gemmar Arterton) ama profundamente a sus hijos y, para todos los que la rodean, su vida es aparentemente perfecta. Pero en realidad se siente atrapada. Le falta algo. Algo no cumplido y desconocido que le genera un vacío interior. Aunque su familia y amigos no comprenden la profundidad de su desesperación, Tara decide huir para encontrar un lugar donde poder volver a ser ella misma. Emprende así un viaje íntimo y personal, rompiendo con su rutina y marchándose a otra ciudad. A través de una serie de encuentros descubre la mujer que realmente es, lo que realmente siente y la vida que realmente quiere.",
+    "cover": "https://cuevana.pizza/resize/###/storage/26858/4e4l4lupvMphe7h4h5XxFRXTnHQ8TTXuLCW1oMjm.jpg",
+    "players": [
+        {
+            "type": "cas",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtNDJ2NWY3aGhsMGlyLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLXFiamFyYzFibXB1bi5odG1s"
+            ]
+        },
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtb3Jud2E0aHRhbGViLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLXlsdHdmd3g4amp2NS5odG1s"
+            ]
+        }
+    ],
+    "downloads": []
+}

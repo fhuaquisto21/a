@@ -1,0 +1,26 @@
+{
+    "url": "https://cuevana.pizza/pelicula/hello-privilege-it-s-me-chelsea",
+    "title": "Hello, Privilege. It's Me, Chelsea",
+    "duration": "1h 4m",
+    "year": "2019",
+    "genres": [
+        "Documental"
+    ],
+    "actors": [
+        "Chelsea Handler",
+        "Tiffany Haddish",
+        "Kevin Hart"
+    ],
+    "description": "Documental que sigue a la comediante Chelsea Handler.",
+    "cover": "https://cuevana.pizza/resize/###/storage/20606/ZNOzX4M0wqZRlsDgVbhX5oAESae3DYQ0heyaIHZx.jpg",
+    "players": [
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtNTN5Mm1zZWc3Y2FlLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLXpzZHY1aXEwdmdhaS5odG1s"
+            ]
+        }
+    ],
+    "downloads": []
+}

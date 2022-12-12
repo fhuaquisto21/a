@@ -1,0 +1,58 @@
+{
+    "url": "https://cuevana.pizza/pelicula/scream-2",
+    "title": "Scream 2",
+    "duration": "2h 2m",
+    "year": "1997",
+    "genres": [
+        "Misterio",
+        "Terror"
+    ],
+    "actors": [
+        "Neve Campbell",
+        "Courteney Cox",
+        "David Arquette",
+        "Jerry O'Connell",
+        "Timothy Olyphant",
+        "Jamie Kennedy",
+        "Laurie Metcalf",
+        "Elise Neal",
+        "Sarah Michelle Gellar",
+        "Liev Schreiber",
+        "Jada Pinkett Smith",
+        "Omar Epps",
+        "Duane Martin",
+        "Lewis Arquette",
+        "Rebecca Gayheart",
+        "Portia de Rossi",
+        "Heather Graham",
+        "Roger L. Jackson",
+        "Joshua Jackson",
+        "Marisol Nichols"
+    ],
+    "description": "La universidad de Windsor ofrece una variada opción de materias para sus estudiantes, justo lo que Sidney Prescott necesita. Es primavera, dos años después de los asesinatos en Woodsboro, California, y el año escolar está llegando a su fin. Sid tiene una compañera de habitación, un novio y es la elegida para encabezar el reparto de la obra que se representa en la universidad este curso. Randy, otro de los supervivientes de los asesinatos de Woodsboro, estudia cine en Windsor. También es feliz, como Sid. Pero el pasado nunca queda atrás. De hecho, vuelve y alguien es asesinado mientras ve la película \"Stab\" (Puñalada) en el cine del campus, el día del estreno nacional. Stab, basada en la novela superventas escrita por la periodista Gale Weathers, describe los asesinatos de Woodsboro. El libro no sólo se vendió como rosquillas, además ayudó a salir de la prisión a Cotton Weary, el hombre acusado por Sidney de la muerte de su madre.",
+    "cover": "https://cuevana.pizza/resize/###/storage/41162/8ZhKJTqnkH1UP3W0uX7fPGjvqty4D51G6kt7La7O.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtM3ltcjFiajlsdTJtLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLThxNGV6N3dkOXIwdi5odG1s"
+            ]
+        },
+        {
+            "type": "cas",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtdDQ4cDZuYjVscHIwLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLW1qajcwMjV1MTR0MS5odG1s"
+            ]
+        },
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtNHcydWRkczZyYW5zLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLTFrMzJrbHFzOGg4bC5odG1s"
+            ]
+        }
+    ],
+    "downloads": []
+}

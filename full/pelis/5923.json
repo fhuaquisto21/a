@@ -1,0 +1,47 @@
+{
+    "url": "https://cuevana.pizza/pelicula/the-big-take",
+    "title": "The Big Take",
+    "duration": "1h 23m",
+    "year": "2018",
+    "genres": [
+        "Suspenso"
+    ],
+    "actors": [
+        "James McCaffrey",
+        "Ebon Moss-Bachrach",
+        "Oksana Lada",
+        "Zoë Bell",
+        "Robert Forster",
+        "Dan Hedaya",
+        "Bill Sage",
+        "Slate Holmgren",
+        "Tara Westwood",
+        "John Enos III",
+        "Taylor Black",
+        "Nick Daly",
+        "Candra Docherty",
+        "Joslyn Jensen",
+        "Donna Mitchell",
+        "Sid O'Connell",
+        "MJ Rodriguez"
+    ],
+    "description": "Douglas Brown (Robert Forster) es una estrella de cine que se despierta un día y descubre que está siendo chantajeado por alguien que no conoce. Luego decide contratar a un detective privado para averiguar quién está detrás de él. El detective parece estar bien pero encuentra a la persona equivocada. Esa persona es un futuro director y cree que a Douglas Brown le gusta jugar en su nueva película.",
+    "cover": "https://cuevana.pizza/resize/###/storage/25074/goXMCOLLE7X44G0tPOWpaNodegtAwRH3zAqnbDCB.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQteGNlMWdvdWYzamliLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLWgwZThicWc1OW01ZC5odG1s"
+            ]
+        },
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtbGVjZWN2ejI5ZjIwLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLXk1ZWZ5dmxnNTl2OS5odG1s"
+            ]
+        }
+    ],
+    "downloads": []
+}

@@ -1,0 +1,49 @@
+{
+    "url": "https://cuevana.pizza/pelicula/slalom",
+    "title": "Slalom",
+    "duration": "1h 30m",
+    "year": "2021",
+    "genres": [
+        "Drama"
+    ],
+    "actors": [
+        "Noée Abita",
+        "Jérémie Renier",
+        "Marie Denarnaud",
+        "Muriel Combeau",
+        "Maïra Schmitt",
+        "Axel Auriant-Blot",
+        "Catherine Marchal",
+        "Dominique Thomas",
+        "François Godart",
+        "Frédéric Epaud"
+    ],
+    "description": "Bajo la guía de un estricto ex campeón, una adolescente entrena como prometedora estrella del esquí profesional. Pero será un reto para la joven sobrevivir a la enorme presión física y emocional que ello conlleva.",
+    "cover": "https://cuevana.pizza/resize/###/storage/10543/0xALwmv8DY9r0esQ1xLPYDc5xC3SgQrTAnXcQJOX.jpg",
+    "players": [
+        {
+            "type": "cas",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtcG9ibG16ZGdlb3hkLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLTk0cmZzM2IyNHNyai5odG1s"
+            ]
+        },
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtY2xiMGJzZ3R3b3ViLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLW53emV4d3BvMWZjYi5odG1s"
+            ]
+        }
+    ],
+    "downloads": [
+        {
+            "url": "https://1fichier.com/?cu6pvneoi6xam62l7750",
+            "type": "es"
+        },
+        {
+            "url": "https://1fichier.com/?vsuhznefg1w788fjj0bw",
+            "type": "en"
+        }
+    ]
+}

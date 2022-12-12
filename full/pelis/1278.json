@@ -1,0 +1,45 @@
+{
+    "url": "https://cuevana.pizza/pelicula/dragon-knight",
+    "title": "Dragon Knight",
+    "duration": "1h 30m",
+    "year": "2022",
+    "genres": [
+        "Accion",
+        "Aventura",
+        "Fantasia"
+    ],
+    "actors": [
+        "Ryan Livingstone",
+        "Megan Tremethick",
+        "Regan Walker",
+        "Michael Daviot"
+    ],
+    "description": "Muchos años después de que se perdió la guerra y todos los dragones fueron asesinados, un caballero solitario viaja por las tierras de Agonos buscando formar un ejército contra el señor de los demonios Abaddon. Cuando la visión de un sanador revela que un dragón aún vive, y junto con un joven escudero entusiasta, el caballero parte en busca de la legendaria criatura. A medida que los ejércitos de Abaddon descienden sobre los reinos humanos, el dragón es su última esperanza para defenderse de la horda, antes de que arrase las tierras de los hombres. Pero, ¿existe la criatura? Y si lo hace, ¿luchará por ellos una vez más?",
+    "cover": "https://cuevana.pizza/resize/###/storage/40049/foJQwiaIStteBb7mGtcwI57dxhBn0uSDJvEUrltn.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtNm9ueDdtNTI3a2N5Lmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLTcxenFheHJpYmJ3ZC5odG1s"
+            ]
+        },
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtZTY3dWprbjRwdHNjLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLTB2Nzlhb3J1MjBtbi5odG1s"
+            ]
+        }
+    ],
+    "downloads": [
+        {
+            "url": "https://1fichier.com/?m6u4rrhqpo1tdzstvecc",
+            "type": "la"
+        },
+        {
+            "url": "https://1fichier.com/?r6weeaik45n3ucfoirpe",
+            "type": "en"
+        }
+    ]
+}

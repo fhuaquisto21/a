@@ -1,0 +1,57 @@
+{
+    "url": "https://cuevana.pizza/pelicula/matrix-revoluciones",
+    "title": "Matrix Revolutions",
+    "duration": "2h 8m",
+    "year": "2003",
+    "genres": [
+        "Accion",
+        "Suspenso",
+        "Ciencia Ficcion",
+        "Aventura"
+    ],
+    "actors": [
+        "Carrie-Anne Moss",
+        "Jada Pinkett Smith",
+        "Laurence Fishburne",
+        "Nona Gaye"
+    ],
+    "description": "Todo comienzo tiene su final. La guerra estalla en la superficie de la tierra mientras las máquinas invaden Zion. Allí donde recargado significaba vida, revoluciones apunta a la muerte...",
+    "cover": "https://cuevana.pizza/resize/###/storage/4512/uIlMAXWehdb9lPXxhSXoU4KTgfQgEyUhMAyLY3uW.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtaHZkNGpubHA0ZndhLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLWJzMGoxbDV4cmg5bC5odG1s"
+            ]
+        },
+        {
+            "type": "cas",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtaWZqbWM0anNwdmVtLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLWwzYWJsYWNhdG0wOC5odG1s"
+            ]
+        },
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtNGlrNjcxZTViaHZxLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLWZrcGZsc2IzYWYwYi5odG1s"
+            ]
+        }
+    ],
+    "downloads": [
+        {
+            "url": "https://1fichier.com/?x5hdzetz5j7powd02zqq#Synchronization+Service",
+            "type": "la"
+        },
+        {
+            "url": "https://1fichier.com/?qhyystg5vh3tk3mgkpml#Synchronization+Service",
+            "type": "es"
+        },
+        {
+            "url": "https://1fichier.com/?vqgmd49rlrxvhvyzxglm#Synchronization+Service",
+            "type": "en"
+        }
+    ]
+}

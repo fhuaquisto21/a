@@ -1,0 +1,33 @@
+{
+    "url": "https://cuevana.pizza/pelicula/entre-la-vida-y-la-muerte",
+    "title": "Entre la vida y la muerte",
+    "duration": "1h 39m",
+    "year": "2022",
+    "genres": [
+        "Drama",
+        "Suspenso"
+    ],
+    "actors": [
+        "Antonio de la Torre",
+        "Marine Vacth",
+        "Olivier Gourmet",
+        "Tibo Vandenborre",
+        "Noé Englebert",
+        "Fabrice Adde",
+        "Alexandre Bouyer",
+        "Lila Jonas",
+        "Hugo Quero"
+    ],
+    "description": "Una noche, Leo, un español que trabaja en Bruselas como conductor de metro, ve a un joven al borde del andén, justo antes de caer a las vías.",
+    "cover": "https://cuevana.pizza/resize/###/storage/57726/mkLhjgIIAYTv7vTS9aJgXHI3iaFPUbnzTZPUgfHV.jpg",
+    "players": [
+        {
+            "type": "cas",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQteDN5M3d5Y21xamxtLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLXE4NnRmMXI4NXNhei5odG1s"
+            ]
+        }
+    ],
+    "downloads": []
+}

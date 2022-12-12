@@ -1,0 +1,42 @@
+{
+    "url": "https://cuevana.pizza/pelicula/la-bruma",
+    "title": "La bruma",
+    "duration": "1h 30m",
+    "year": "2018",
+    "genres": [
+        "Drama",
+        "Suspenso",
+        "Ciencia Ficcion"
+    ],
+    "actors": [
+        "Romain Duris",
+        "Olga Kurylenko",
+        "Fantine Harduin",
+        "Michel Robin",
+        "Anna Gaylor",
+        "Réphaël Ghrenassia",
+        "Erja Malatier",
+        "Alexis Manenti",
+        "Maurice Antoni",
+        "Robin Barde"
+    ],
+    "description": "Cuando una niebla mortal envuelve París, la gente encuentra refugio en los pisos superiores de los edificios. Sin información, sin electricidad y sin apenas suministros, Mathieu, Anna y su hija Sarah intentan sobrevivir al desastre…",
+    "cover": "https://cuevana.pizza/resize/###/storage/25158/8bhoGNx1AXbUw51NiYtIcehaRcnF88VODtBpmEe9.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtMDVxdHk4bzZlb3JmLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLTQwdmRtNW16Ynh6Zy5odG1s"
+            ]
+        },
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtOXM0cm9oaGljdzRxLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLTY2MGUyaWI1ZThsaS5odG1s"
+            ]
+        }
+    ],
+    "downloads": []
+}

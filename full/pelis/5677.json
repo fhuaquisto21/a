@@ -1,0 +1,38 @@
+{
+    "url": "https://cuevana.pizza/pelicula/something",
+    "title": "Something",
+    "duration": "1h 26m",
+    "year": "2019",
+    "genres": [
+        "Drama",
+        "Misterio",
+        "Terror"
+    ],
+    "actors": [
+        "Michael Gazin",
+        "Jane Rowen",
+        "Eric Roberts",
+        "Joel Clark Ackerman",
+        "Evan Carver",
+        "Elise Zell",
+        "Adrian Bustamante",
+        "SungWon Cho",
+        "Tom Dusenbery",
+        "Mark Christiansen",
+        "Jose Rosete",
+        "Elizabeth Saydah",
+        "Brittany Morgan Williams"
+    ],
+    "description": "Un hombre y una mujer intentan adaptarse a su nueva vida con un bebé, pero su situación se complica cuando empiezan a sospechar que alguien les está observando.",
+    "cover": "https://cuevana.pizza/resize/###/storage/22038/MX7DNjM0RXTOPYVyAz1uGuvIed0zPQUgTzgmU2yw.jpg",
+    "players": [
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtcjhydHljdG5scjBpLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLWFuanFzNXg3eDFjNC5odG1s"
+            ]
+        }
+    ],
+    "downloads": []
+}

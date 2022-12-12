@@ -1,0 +1,44 @@
+{
+    "url": "https://cuevana.pizza/pelicula/sgt-will-gardner",
+    "title": "SGT. Will Gardner",
+    "duration": "2h 5m",
+    "year": "2019",
+    "genres": [
+        "Accion",
+        "Drama",
+        "Aventura",
+        "Belica"
+    ],
+    "actors": [
+        "Max Martini",
+        "Omari Hardwick",
+        "Lily Rabe",
+        "Robert Patrick",
+        "Elisabeth Röhm",
+        "Dermot Mulroney",
+        "Gary Sinise",
+        "Luis Bordonada",
+        "JoBeth Williams",
+        "Leo Martini",
+        "Holt McCallany"
+    ],
+    "description": "Un problemático veterano de la guerra de Irak que lucha por reintegrarse en la sociedad emprende un viaje a través del país con la esperanza de reunirse con su hijo pequeño.",
+    "cover": "https://cuevana.pizza/resize/###/storage/53422/KWeWPhNfjgXE5RhTA3tPahoEruQOE2rqcLbxJ92D.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtNDNnN3A4ZXNybWw3Lmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLWNkY2x5b2pqYTM5ay5odG1s"
+            ]
+        },
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtdnA3eHcyNmV2MmlyLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLXlyamZjODZuMjJ2MS5odG1s"
+            ]
+        }
+    ],
+    "downloads": []
+}

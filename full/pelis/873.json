@@ -1,0 +1,59 @@
+{
+    "url": "https://cuevana.pizza/pelicula/supereroi",
+    "title": "Supereroi",
+    "duration": "2h 2m",
+    "year": "2021",
+    "genres": [
+        "Comedia",
+        "Drama",
+        "Romance"
+    ],
+    "actors": [
+        "Alessandro Borghi",
+        "Jasmine Trinca",
+        "Greta Scarano",
+        "Vinicio Marchioni",
+        "Linda Caridi",
+        "Gwendolyn Gourvenec",
+        "Beppe Severgnini",
+        "Flavio Parenti",
+        "Angelica Leo",
+        "Giacomo Mattia",
+        "Elena Sofia Ricci"
+    ],
+    "description": "La historia de una pareja enamorada que lucha por mantener viva su relación contra el ineludible paso del tiempo, contada de manera no lineal a lo largo de diez años de sus vidas.",
+    "cover": "https://cuevana.pizza/resize/###/storage/44913/rTszZytCqqhHV8NPi1A9H4ddooRV4rxrCJhBhmH1.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtdmlveDJlbzM4cHZrLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLTV0MHp0bW1wNnFxOS5odG1s"
+            ]
+        },
+        {
+            "type": "cas",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtbzA1cTh6dHJod2g5Lmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLTVudThnZTh6cjRtMi5odG1s"
+            ]
+        },
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQteTM4cm1wMWg3MG84Lmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLXhhYmdjMTBqcHRkay5odG1s"
+            ]
+        }
+    ],
+    "downloads": [
+        {
+            "url": "https://1fichier.com/?130jf3ub2if4a4aofyu8",
+            "type": "la"
+        },
+        {
+            "url": "https://1fichier.com/?i6twgtglsmcztrtq2icu",
+            "type": "en"
+        }
+    ]
+}

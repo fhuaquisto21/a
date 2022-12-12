@@ -1,0 +1,61 @@
+{
+    "url": "https://cuevana.pizza/pelicula/oslo",
+    "title": "Oslo",
+    "duration": "1h 58m",
+    "year": "2021",
+    "genres": [
+        "Drama",
+        "Historia"
+    ],
+    "actors": [
+        "Ruth Wilson",
+        "Andrew Scott",
+        "Salim Dau",
+        "Waleed Zuaiter",
+        "Jeff Wilbusch",
+        "Igal Naor",
+        "Doval'e Glickman",
+        "Rotem Keinan",
+        "Itzik Cohen",
+        "Tobias Zilliacus"
+    ],
+    "description": "Recrea la historia del acuerdo entre israelíes, palestinos y una pareja noruega que dio lugar a los Acuerdos de Paz de Oslo de 1993 entre Israel y la OLP.",
+    "cover": "https://cuevana.pizza/resize/###/storage/7455/HolD3b3tA0xD5CVUeCGbZRrDv2kilY2tE5evgrv0.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtMGhzcGd4MmNhMXhoLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLTEzcTY4aGJ6dnhuay5odG1s"
+            ]
+        },
+        {
+            "type": "cas",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtbWQ5d2hvNmRyajMwLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLXlmZjhqODRhNjAxMy5odG1s"
+            ]
+        },
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtbml3d296YTlkcjBwLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLTJ5OGIxb2dldnBxby5odG1s"
+            ]
+        }
+    ],
+    "downloads": [
+        {
+            "url": "https://1fichier.com/?246ltwt7dkheud7xywqk#",
+            "type": "la"
+        },
+        {
+            "url": "https://1fichier.com/?08nhggog1esq2tdrss87",
+            "type": "es"
+        },
+        {
+            "url": "https://1fichier.com/?3f388r8888tv2x5whyrf",
+            "type": "en"
+        }
+    ]
+}

@@ -1,0 +1,45 @@
+{
+    "url": "https://cuevana.pizza/pelicula/deliormanli",
+    "title": "Deliormanlı",
+    "duration": "0h 0m",
+    "year": "2016",
+    "genres": [
+        "Deportes"
+    ],
+    "actors": [
+        "Sarp Levendoğlu",
+        "Birce Akalay",
+        "Gürkan Uygun",
+        "Danny Williams",
+        "Murat Akkoyunlu",
+        "Derya Şensoy"
+    ],
+    "description": "",
+    "cover": "https://cuevana.pizza/resize/###/storage/28413/F4t7hUhQe3qgz5nSQ5uoplcTCOHKSZ42h2A0uOU7.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQteTgycXN2MGZ2b3NjLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLWhzcHVmano5czNkZi5odG1s"
+            ]
+        },
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtMDZnOXZ2bGo4dGlxLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLTAxMG0zazNzd290cy5odG1s"
+            ]
+        }
+    ],
+    "downloads": [
+        {
+            "url": "https://1fichier.com/?lxpi6hqajsg6k3b6icr4",
+            "type": "la"
+        },
+        {
+            "url": "https://1fichier.com/?xkn3jpaqo7iqpnryx2nb",
+            "type": "en"
+        }
+    ]
+}

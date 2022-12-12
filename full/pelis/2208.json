@@ -1,0 +1,50 @@
+{
+    "url": "https://cuevana.pizza/pelicula/quien-es-quien",
+    "title": "¿Quién es quién?",
+    "duration": "1h 32m",
+    "year": "2021",
+    "genres": [
+        "Comedia",
+        "Fantasia"
+    ],
+    "actors": [
+        "Franck Dubosc",
+        "Alexandra Lamy",
+        "Christiane Millet",
+        "Rose de Kervenoaël",
+        "Mathilde Roehrich",
+        "Nils Othenin-Girard",
+        "Artus",
+        "Jackie Berroyer",
+        "Christophe Canard",
+        "Michaël Vander-Meiren"
+    ],
+    "description": "Una mañana, los Morel se despiertan con un gran problema. ¡Descubren que sus mentes se han intercambiado y que cada uno de ellos está atrapado en el cuerpo de otro miembro de la familia! Chacha, de 6 años, está en el cuerpo del padre, el padre en el cuerpo de su hijo adolescente, el hijo en el cuerpo de la hermana mayor, la hermana mayor en el cuerpo de la madre y la madre en el cuerpo de Chacha... ¿Te has perdido? Ellos también. Y esto es solo el principio.",
+    "cover": "https://cuevana.pizza/resize/###/storage/14163/bmE7MQzoE6xF4B19fbaqovu7N70Jpzfv1hv9c9iS.jpg",
+    "players": [
+        {
+            "type": "cas",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtdHYyMmF2dDM0czJ4Lmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLWR0ZWU3eW1rcGE5bS5odG1s"
+            ]
+        },
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtaHQxdGZkbnhiNHZhLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLWM2bHRtNzd5cG82MS5odG1s"
+            ]
+        }
+    ],
+    "downloads": [
+        {
+            "url": "https://1fichier.com/?782e6xbepnbt51757hx1",
+            "type": "es"
+        },
+        {
+            "url": "https://1fichier.com/?r86d1d88wgd6l90i4k96",
+            "type": "en"
+        }
+    ]
+}

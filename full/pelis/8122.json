@@ -1,0 +1,48 @@
+{
+    "url": "https://cuevana.pizza/pelicula/el-aro-2",
+    "title": "El Aro 2",
+    "duration": "1h 51m",
+    "year": "2005",
+    "genres": [
+        "Misterio",
+        "Terror"
+    ],
+    "actors": [
+        "Naomi Watts",
+        "Simon Baker",
+        "David Dorfman",
+        "Elizabeth Perkins",
+        "Ryan Merriman",
+        "Sissy Spacek",
+        "Gary Cole",
+        "Emily VanCamp",
+        "Mary Elizabeth Winstead",
+        "Kelly Overton",
+        "James Lesure",
+        "Daveigh Chase",
+        "Kelly Stables",
+        "Cooper Thornton",
+        "Jesse Burch",
+        "Chane't Johnson",
+        "Marilyn McIntyre"
+    ],
+    "description": "Seis meses después de los incidentes relacionados con una cinta de vídeo donde se aprecia la muerte de una joven a manos de sus padres, Rachel Keller decide mudarse con su hijo de Seattle a un lugar donde puedan sentirse más seguros y empezar una nueva vida. La cinta de vídeo un tanto siniestra que acabó misteriosamente con la vida de un niño no deja de preocupar a Rachel, que decide emprender una investigación sobre todos aquellos que desaparecieron y saber qué tipo de maldición esconde la cinta.",
+    "cover": "https://cuevana.pizza/resize/###/storage/28764/PIIMVx5y3tFiyNlTss9jyV2A1Bk22kyIIR0pXw27.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtZ3hjeTZpbXhsODBmLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLXBtYjhlNnY0NmZxdi5odG1s"
+            ]
+        },
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtZzhidXR2a3NlbHZqLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLTE5dGhsa2Q1eGFleC5odG1s"
+            ]
+        }
+    ],
+    "downloads": []
+}

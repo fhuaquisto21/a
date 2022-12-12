@@ -1,0 +1,46 @@
+{
+    "url": "https://cuevana.pizza/pelicula/eliminators",
+    "title": "Eliminators",
+    "duration": "1h 34m",
+    "year": "2016",
+    "genres": [
+        "Accion"
+    ],
+    "actors": [
+        "Scott Adkins",
+        "Stuart Bennett",
+        "Daniel Caltagirone",
+        "James Cosmo",
+        "Mehmet Ferda",
+        "Ty Glaser",
+        "Olivia Mace",
+        "Stephen Marcus",
+        "Bruce Lester-Johnson",
+        "Sean Cronin",
+        "Lee Charles",
+        "Marc Edwards",
+        "David William Bryan",
+        "Franco Flammia",
+        "Ellie Goffe",
+        "Frances Millar"
+    ],
+    "description": "Un ex agente federal de Estados Unidos debe abandonar el programa de protección de testigos y salir de su escondite cuando su casa de Londres es invadida por error debido a una dirección equivocada.",
+    "cover": "https://cuevana.pizza/resize/###/storage/27041/wsvntukbJO0HkL4RWrSwHz5eeF57EROJvudIzQnN.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtZGpmMHRvNGNrcDR3Lmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLWc5cXV4MDJkbXV6YS5odG1s"
+            ]
+        },
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtamhkazhtMnc0dXFpLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLWYzZjg1MmFvdTc5dC5odG1s"
+            ]
+        }
+    ],
+    "downloads": []
+}

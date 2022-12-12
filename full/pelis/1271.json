@@ -1,0 +1,56 @@
+{
+    "url": "https://cuevana.pizza/pelicula/maleficio",
+    "title": "Maleficio",
+    "duration": "1h 51m",
+    "year": "2022",
+    "genres": [
+        "Terror"
+    ],
+    "actors": [
+        "Hsuan-yen Tsai",
+        "Kao Ying-Hsuan",
+        "Sin-Ting Huang",
+        "Sean Lin",
+        "RQ",
+        "Queenie Chen"
+    ],
+    "description": "Una extraña maldición parece estar atormentando a una niña. Su madre intenta romper el maleficio regresando al lugar donde se originó todo.",
+    "cover": "https://cuevana.pizza/resize/###/storage/54730/r5VwD899oGDuhOKt0eXxqB2FZEhIlFvav0y5eUFy.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtdjNmMzFteDA2N2QzLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLTMzNWlxNDJyMm05cy5odG1s"
+            ]
+        },
+        {
+            "type": "cas",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtb2QwYWh5cjN5MGdtLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLWdzc3loandyYmI1ay5odG1s"
+            ]
+        },
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtNnRkaHJocjA2bW9wLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLWNvcG8wa3lmaXV2cy5odG1s"
+            ]
+        }
+    ],
+    "downloads": [
+        {
+            "url": "https://1fichier.com/?dl4j66rzxybyxpzfxwjz",
+            "type": "la"
+        },
+        {
+            "url": "https://1fichier.com/?20d8lfeqgyl9cpcf171i",
+            "type": "es"
+        },
+        {
+            "url": "https://1fichier.com/?tae45xg4nq50z69dk89s",
+            "type": "en"
+        }
+    ]
+}

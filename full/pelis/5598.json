@@ -1,0 +1,53 @@
+{
+    "url": "https://cuevana.pizza/pelicula/speed-kills",
+    "title": "Más veloz que la muerte",
+    "duration": "1h 55m",
+    "year": "2018",
+    "genres": [
+        "Accion",
+        "Drama",
+        "Suspenso",
+        "Crimen"
+    ],
+    "actors": [
+        "John Travolta",
+        "Katheryn Winnick",
+        "Jennifer Esposito",
+        "Matthew Modine",
+        "James Remar",
+        "Kellan Lutz",
+        "Moran Atias",
+        "Jordi Mollà",
+        "Michael Weston",
+        "Amaury Nolasco",
+        "Mariana Paola Vicente",
+        "Luis Da Silva Jr.",
+        "Ed Amatrudo",
+        "Keith Hudson",
+        "Rob Gough",
+        "Stewart J. Zully",
+        "Amber Rivera",
+        "Justin Nesbitt",
+        "Omar Cruz Soto",
+        "Charlie Gillespie"
+    ],
+    "description": "Speedboat racing champion and multimillionaire Ben Aronoff leads a double life that lands him in trouble with the law and drug lords.",
+    "cover": "https://cuevana.pizza/resize/###/storage/26102/rH6PFfqOdDaB0LMTwENASElUZUxtDjCEqe5U4RXR.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtYWxmeGEybWRscWJiLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLTg2YzZrdWl2Z2Rkcy5odG1s"
+            ]
+        },
+        {
+            "type": "cas",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtMzZoMXppcmR4cjA0Lmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLTl5NDhkOWp4cXZzcS5odG1s"
+            ]
+        }
+    ],
+    "downloads": []
+}

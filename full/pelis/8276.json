@@ -1,0 +1,57 @@
+{
+    "url": "https://cuevana.pizza/pelicula/la-sirenita-1989",
+    "title": "La Sirenita 1",
+    "duration": "83",
+    "year": "1989",
+    "genres": [
+        "Fantasia",
+        "Familia",
+        "Animacion",
+        "Disney"
+    ],
+    "actors": [
+        "Christopher Daniel Barnes",
+        "Jodi Benson",
+        "Pat Carroll",
+        "Rene Auberjonois"
+    ],
+    "description": "Ariel, hija del rey Tritón, es la princesa de las sirenas. Está a punto de celebrarse su fiesta de cumpleaños, y su mayor ilusión sería la de poder conocer a los humanos, puesto que nunca los ha visto. Ayudada por la bruja Úrsula, Ariel conseguirá subir a la superficie, donde salvará de morir ahogada a un hermoso príncipe, Eric, cuyo barco acaba de naufragar y del que se enamorará perdidamente.",
+    "cover": "https://cuevana.pizza/resize/###/storage/4281/iyCme7iACY9wAlrC43iCuLLrS7Yu7mcGix6LJEZn.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQteHU5Nmdva3d6OWF2Lmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLTJ0anBwanh6eHhvYi5odG1s"
+            ]
+        },
+        {
+            "type": "cas",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtdTVtcGFwNmEycWozLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLWxxbW1yZWJ1eWNwOC5odG1s"
+            ]
+        },
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtYTgzNm9hYnI5MTMzLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLTdoaTBmb3kzNWt3cy5odG1s"
+            ]
+        }
+    ],
+    "downloads": [
+        {
+            "url": "https://1fichier.com/?gtcjwtykswny9xvkrg2b",
+            "type": "la"
+        },
+        {
+            "url": "https://1fichier.com/?yqmu6xtfms7uk45moj7e",
+            "type": "es"
+        },
+        {
+            "url": "https://1fichier.com/?31bqbcpsjfjl47pu3h8g",
+            "type": "en"
+        }
+    ]
+}

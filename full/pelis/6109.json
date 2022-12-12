@@ -1,0 +1,35 @@
+{
+    "url": "https://cuevana.pizza/pelicula/las-vegas",
+    "title": "Las Vegas",
+    "duration": "1h 15m",
+    "year": "2018",
+    "genres": [
+        "Comedia"
+    ],
+    "actors": [
+        "Pilar Gamboa",
+        "Santiago Gobernori",
+        "Valentín Oliva",
+        "Valeria Santa",
+        "Camila Fabbri"
+    ],
+    "description": "Por azar, Martín y Laura viajan a Villa Gesell en los mismos días. Hoy están separados pero hace 18 años concibieron allí a su hijo Pablo. Pronto su encuentro generará situaciones tan absurdas como emotivas.",
+    "cover": "https://cuevana.pizza/resize/###/storage/24313/crxYhsb3Mai78LdurmoYRX7DfLNkLi5UFwUk1zo3.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtMXJ0OTkyc2FubGpuLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLW5jMDlveTFkaW5naC5odG1s"
+            ]
+        },
+        {
+            "type": "cas",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtM3dzNG15MDR4NmM5Lmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLWdwcnB0OGR3aGFrYi5odG1s"
+            ]
+        }
+    ],
+    "downloads": []
+}

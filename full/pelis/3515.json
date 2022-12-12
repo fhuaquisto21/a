@@ -1,0 +1,58 @@
+{
+    "url": "https://cuevana.pizza/pelicula/tenia-buena-pinta",
+    "title": "Tenía buena pinta",
+    "duration": "1h 32m",
+    "year": "2021",
+    "genres": [
+        "Comedia",
+        "Romance"
+    ],
+    "actors": [
+        "Iliza Shlesinger",
+        "Ryan Hansen",
+        "Margaret Cho",
+        "Rebecca Rittenhouse",
+        "Matt McGorry",
+        "Taylor Hill",
+        "Britney Young"
+    ],
+    "description": "Después de años de darle más prioridad a su carrera que al amor, la comediante de stand up Andrea Singer se topa con el hombre perfecto. En teoría, parece cumplir con todos los requisitos, ¿pero es realmente tan ideal como aparenta?",
+    "cover": "https://cuevana.pizza/resize/###/storage/8121/BbLw6XbQqS9Nf0ChXE29L3AyueKMol6H7RFexE31.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtNzhiYjR2ZzVyMnB0Lmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLW8xajM0cjNrM3E1Yi5odG1s"
+            ]
+        },
+        {
+            "type": "cas",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtbDZqN2RteDJ4dnVpLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLXp6bHBtcnhuaTMzNS5odG1s"
+            ]
+        },
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtZWF4eTkwMm9ncHp3Lmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLTk5aTFsYmhjMWFpbS5odG1s"
+            ]
+        }
+    ],
+    "downloads": [
+        {
+            "url": "https://1fichier.com/?dgxzqgbdvwbjhfml168q",
+            "type": "la"
+        },
+        {
+            "url": "https://1fichier.com/?paog9s4yfly608tkun5h",
+            "type": "es"
+        },
+        {
+            "url": "https://1fichier.com/?5ec4d5bbefl4slv5ofwh",
+            "type": "en"
+        }
+    ]
+}

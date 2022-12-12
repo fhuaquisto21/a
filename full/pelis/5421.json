@@ -1,0 +1,52 @@
+{
+    "url": "https://cuevana.pizza/pelicula/riot",
+    "title": "Riot",
+    "duration": "1h 45m",
+    "year": "2018",
+    "genres": [
+        "Drama",
+        "Romance",
+        "Historia"
+    ],
+    "actors": [
+        "Damon Herriman",
+        "Kate Box",
+        "Xavier Samuel",
+        "Jessica De Gouw",
+        "Josh Quong Tart",
+        "Fern Sutherland",
+        "Benedict Hardie",
+        "Eden Falk",
+        "Kate Cheel",
+        "Shaun Martindale",
+        "Luke Mullins",
+        "Luke Fewster",
+        "Andrew McFarlane",
+        "George Harrison Xanthis",
+        "Kieran Clancy-Lowe",
+        "Will McDonald",
+        "Christian Byers",
+        "Hanna Mangan Lawrence",
+        "Max Cullen",
+        "Susan Prior"
+    ],
+    "description": "En 1978, cuando el impulso para despenalizar la homosexualidad se ha estancado, un grupo de activistas decide que deben hacer un intento final para celebrar quiénes son. Liderados por el ex jefe del sindicato, Lance Gowland, obtienen un permiso policial y corren la voz. En una helada noche de invierno, se visten con disfraces, se unen y desfilan por la calle Oxford. Pero no tienen idea de que la policía enojada está al acecho, y el coraje que encuentran esa noche finalmente movilizará a la nación.",
+    "cover": "https://cuevana.pizza/resize/###/storage/23166/77ufn0GGqy1ZvxoMXoci9rLSzxHmZv7D2PDt8t7E.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtaTIxamM3cXRuNXdiLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLWo0Ymo4cTE4ZWtjdi5odG1s"
+            ]
+        },
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtM2VyaDAzZ3Zxbzh5Lmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLWRmbm5qYXZ1MTNzaC5odG1s"
+            ]
+        }
+    ],
+    "downloads": []
+}

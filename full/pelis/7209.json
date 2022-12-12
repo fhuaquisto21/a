@@ -1,0 +1,51 @@
+{
+    "url": "https://cuevana.pizza/pelicula/una-serena-pasion",
+    "title": "Historia de una pasión",
+    "duration": "2h 5m",
+    "year": "2016",
+    "genres": [
+        "Drama",
+        "Biografia"
+    ],
+    "actors": [
+        "Cynthia Nixon",
+        "Jennifer Ehle",
+        "Keith Carradine",
+        "Emma Bell",
+        "Sara Vertongen",
+        "Duncan Duff",
+        "Jodhi May",
+        "Joanna Bacon",
+        "Benjamin Wainwright",
+        "Catherine Bailey",
+        "Annette Badland",
+        "Noémie Schellens",
+        "Rose Williams",
+        "Miles Richardson",
+        "Eric Loren",
+        "Stefan Menaul",
+        "Maurice Cassiers",
+        "Barney Glover",
+        "Simone Milsdochter",
+        "Yasmin Dewilde"
+    ],
+    "description": "Emily Dickinson, nacida en 1803, fue considerada una niña con talento, pero un trauma emocional la obligó a dejar los estudios. A partir de ese momento, se retiró de la sociedad y empezó a escribir poemas. A pesar de su vida solitaria, su obra transporta a sus lectores a su apasionante mundo. Es la historia de la poeta estadounidense Emily Dickinson, desde su infancia hasta convertirse en la famosa artista que conocemos.",
+    "cover": "https://cuevana.pizza/resize/###/storage/26914/r0xQAIKV46ctav1vthyziJTZo7dDrWDoKEFnues9.jpg",
+    "players": [
+        {
+            "type": "cas",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtYXp5YXkwc284YzV5Lmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLWZlNDV1bnhiYWJmNS5odG1s"
+            ]
+        },
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtZWg5Y294d3J1NG10Lmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLWg3anpnNWI3b3JtMS5odG1s"
+            ]
+        }
+    ],
+    "downloads": []
+}

@@ -1,0 +1,61 @@
+{
+    "url": "https://cuevana.pizza/pelicula/rebeca",
+    "title": "Rebeca",
+    "duration": "2h 3m",
+    "year": "2020",
+    "genres": [
+        "Drama",
+        "Misterio",
+        "Romance",
+        "Suspenso"
+    ],
+    "actors": [
+        "Lily James",
+        "Armie Hammer",
+        "Kristin Scott Thomas",
+        "Keeley Hawes",
+        "Ann Dowd",
+        "Sam Riley",
+        "Tom Goodman-Hill",
+        "Mark Lewis Jones"
+    ],
+    "description": "Maximilian De Winter pierde a su esposa Rebeca cuando ésta es dada por muerta después de desaparecer en la costa. Con la intención de olvidar lo sucedido decide ir a Monecarmelo, donde conoce a una joven empleada de la señora Van Hooper como dama de compañía. Ambos se enamoran y se casan rápidamente. Cuando se instalan en la mansión de Maxim, Manderley, la joven esposa se da cuenta de que la sombra de Rebeca aún sigue presente en la casa, en el ama de llaves y en los pensamientos de su marido...",
+    "cover": "https://cuevana.pizza/resize/###/storage/24633/ceU9HNP9AufKG3QY1HWt6zwEIQgn0CBl3lQ9yvPa.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtdm5wamVtNzNlOTVmLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLWFlZTVhNWM4MHh4ai5odG1s"
+            ]
+        },
+        {
+            "type": "cas",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtY2U2bW04cmc0YTB1Lmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLXg5Z2N0amxnc3RlMi5odG1s"
+            ]
+        },
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtYjlqY2dsb2RjMmlvLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLWd4ZjRpdG9iMmFlcS5odG1s"
+            ]
+        }
+    ],
+    "downloads": [
+        {
+            "url": "https://1fichier.com/?mig1og1asqcno8x6pyd1#Synchronization+Service",
+            "type": "la"
+        },
+        {
+            "url": "https://1fichier.com/?02n39uye62j2ikowcvqf#Synchronization+Service",
+            "type": "es"
+        },
+        {
+            "url": "https://1fichier.com/?7qqstrv01ge713jd8jjq#Synchronization+Service",
+            "type": "en"
+        }
+    ]
+}

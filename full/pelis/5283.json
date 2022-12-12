@@ -1,0 +1,71 @@
+{
+    "url": "https://cuevana.pizza/pelicula/a-beautiful-day-in-the-neighborhood",
+    "title": "Un amigo extraordinario",
+    "duration": "1h 55m",
+    "year": "2019",
+    "genres": [
+        "Drama",
+        "Biografia"
+    ],
+    "actors": [
+        "Matthew Rhys",
+        "Tom Hanks",
+        "Chris Cooper",
+        "Susan Kelechi Watson",
+        "Maryann Plunkett",
+        "Enrico Colantoni",
+        "Wendy Makkena",
+        "Tammy Blanchard",
+        "Noah Harpster",
+        "Carmen Cusack",
+        "Kelley Davis",
+        "Christine Lahti",
+        "Maddie Corman",
+        "Daniel Krell",
+        "Jon L Peacock",
+        "Gretchen Koerner",
+        "Gavin Borders",
+        "Mark August",
+        "Tressa Glover",
+        "Jessica Hecht"
+    ],
+    "description": "Una historia en la cual la bondad triunfa sobre el cinismo, y está basada en la historia de una amistad de la vida real entre Fred Rogers y el periodista Tom Junod. Tom es un escritor de revista hastiado (Matthew Rhys, ganador del Emmy) que tiene el encargo de entrevistar a Fred Rogers, quien lo ayudará a superar su escepticismo, y le enseñará sobre la bondad, el amor y el perdón. Después de todo, Fred Rogers es el vecino más querido de Estados Unidos.",
+    "cover": "https://cuevana.pizza/resize/###/storage/21155/nICbLl9N32yGWY2ZpLusB28SaqerYOZyHVAumYA3.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtNWVraGE1eDJzbm44Lmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLWhsZWF2dnR4M21keS5odG1s"
+            ]
+        },
+        {
+            "type": "cas",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtcDBtZDBiY3F3amozLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLTR2amw3ZW40a3hqYy5odG1s"
+            ]
+        },
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtd3NjenBxMmtiaWNrLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLWxrdDdrc2hqdmJrei5odG1s"
+            ]
+        }
+    ],
+    "downloads": [
+        {
+            "url": "https://1fichier.com/?28lj56fkqsrjucqdkl5y",
+            "type": "la"
+        },
+        {
+            "url": "https://1fichier.com/?jpdb09n5azhnp0x4z4b2",
+            "type": "es"
+        },
+        {
+            "url": "https://1fichier.com/?hrjmka9qz1wl6cgpkfu4",
+            "type": "en"
+        }
+    ]
+}

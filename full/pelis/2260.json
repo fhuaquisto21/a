@@ -1,0 +1,60 @@
+{
+    "url": "https://cuevana.pizza/pelicula/andra-sidan",
+    "title": "En la casa de al lado",
+    "duration": "1h 24m",
+    "year": "2020",
+    "genres": [
+        "Misterio",
+        "Suspenso",
+        "Terror"
+    ],
+    "actors": [
+        "Dilan Gwyn",
+        "Linus Wahlgren",
+        "Henrik Norlén",
+        "Niklas Jarneheim",
+        "Janna Granström",
+        "Karin Holmberg",
+        "Sovi Rydén",
+        "Troy James"
+    ],
+    "description": "Sarah, su novio y su hijo Lucas de cinco años se mudan a una casa adosada. Pero el otro lado está perseguido por algo maligno, que quiere a Lucas a toda costa. Inspirado en hechos reales.",
+    "cover": "https://cuevana.pizza/resize/###/storage/19154/q3zwPUd59hVJVm3ph76n6GI2RQIrnkvm8iFLJmB8.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtNmEzd25kNmw3cTZ4Lmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLW90bzJodWYwanVsdy5odG1s"
+            ]
+        },
+        {
+            "type": "cas",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtdGV4dDQ5bmJwa2oyLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLTRwY3NjaDcwazVuYy5odG1s"
+            ]
+        },
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtdGlhczBydjR0NTQxLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLWR3azNzazI3cmg5eC5odG1s"
+            ]
+        }
+    ],
+    "downloads": [
+        {
+            "url": "https://1fichier.com/?uraqzycpoifsddludhl5",
+            "type": "la"
+        },
+        {
+            "url": "https://1fichier.com/?8ozvgu1y2w45t2vchs6a",
+            "type": "es"
+        },
+        {
+            "url": "https://1fichier.com/?8rxvzasgc1l3zg8vh2on",
+            "type": "en"
+        }
+    ]
+}

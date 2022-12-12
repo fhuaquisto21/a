@@ -1,0 +1,49 @@
+{
+    "url": "https://cuevana.pizza/pelicula/france",
+    "title": "France",
+    "duration": "2h 13m",
+    "year": "2021",
+    "genres": [
+        "Comedia",
+        "Drama"
+    ],
+    "actors": [
+        "Léa Seydoux",
+        "Blanche Gardin",
+        "Benjamin Biolay",
+        "Emanuele Arioli",
+        "Juliane Köhler",
+        "Gaëtan Amiel",
+        "Jawad Zemmar",
+        "Marc Bettinelli",
+        "Emmanuel Macron"
+    ],
+    "description": "París, hoy. France de Meurs es una periodista estrella que corre entre un televisor, una guerra lejana y el ajetreo y el bullicio de su ajetreada vida familiar. Su mundo frenético de alto perfil se vuelve repentinamente patas arriba después de un accidente de tráfico en el que hiere a un peatón. Esta irrupción inesperada de la realidad pone todo en cuestión. Mientras Francia intenta desacelerar y retirarse a una vida anónima simple, su fama continúa persiguiéndola hasta que una historia de amor desconcertada parece poner fin a su búsqueda.",
+    "cover": "https://cuevana.pizza/resize/###/storage/24661/fN7HZCZkrNAgr5VOh6HPGPYVy7OLKSimqJg6h5IN.jpg",
+    "players": [
+        {
+            "type": "cas",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtbnZ3bms5cHN1bmtoLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLXp3eGc3dzVyOWI3Zy5odG1s"
+            ]
+        },
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtejVyenQxaTJ6dG00Lmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLWN5NXhwY2w1Y2EybS5odG1s"
+            ]
+        }
+    ],
+    "downloads": [
+        {
+            "url": "https://1fichier.com/?kr39t7tcoeotcuusuu8w",
+            "type": "es"
+        },
+        {
+            "url": "https://1fichier.com/?zzat9t2e7y5x6od0zwik",
+            "type": "en"
+        }
+    ]
+}

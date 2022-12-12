@@ -1,0 +1,53 @@
+{
+    "url": "https://cuevana.pizza/pelicula/entergalactic",
+    "title": "Entergalactic",
+    "duration": "1h 32m",
+    "year": "2022",
+    "genres": [
+        "Comedia",
+        "Drama",
+        "Animacion",
+        "Musical"
+    ],
+    "actors": [
+        "Kid Cudi",
+        "Jessica Williams",
+        "Timothée Chalamet",
+        "Ty Dolla Sign",
+        "Laura Harrier",
+        "Vanessa Hudgens",
+        "Christopher Abbott",
+        "070 Shake",
+        "Jaden Smith",
+        "Keith David",
+        "Teyana Taylor",
+        "Arturo Castro",
+        "Macaulay Culkin",
+        "Fawn Stone",
+        "Shawna Thomas"
+    ],
+    "description": "Sigue la historia de dos jóvenes artistas que navegan por los giros y vueltas de encontrar el amor en la ciudad de Nueva York.",
+    "cover": "https://cuevana.pizza/resize/###/storage/53499/tjnlChcfAQFQ0XqvKlMIbVnus27lcaT7CiYdHlqd.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtbmgyN3ZzeXdodTNsLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLWN3OXl0czM5aWR1ci5odG1s"
+            ]
+        },
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtOHJ3NGFkOG1hZTFtLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLXR3NG0zeXQ0amNsdy5odG1s"
+            ]
+        }
+    ],
+    "downloads": [
+        {
+            "url": "https://1fichier.com/?ivqpa82p6p1eh85resgu",
+            "type": "la"
+        }
+    ]
+}

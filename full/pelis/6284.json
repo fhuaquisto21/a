@@ -1,0 +1,72 @@
+{
+    "url": "https://cuevana.pizza/pelicula/la-razon-de-estar-contigo",
+    "title": "Tu mejor amigo",
+    "duration": "1h 41m",
+    "year": "2017",
+    "genres": [
+        "Comedia",
+        "Drama",
+        "Aventura"
+    ],
+    "actors": [
+        "Josh Gad",
+        "K.J. Apa",
+        "Britt Robertson",
+        "Dennis Quaid",
+        "Peggy Lipton",
+        "Juliet Rylance",
+        "Luke Kirby",
+        "John Ortiz",
+        "Kirby Howell-Baptiste",
+        "Pooch Hall",
+        "Logan Miller",
+        "Gabrielle Rose",
+        "Caroline Cave",
+        "Nicole LaPlaca",
+        "Michael Patric",
+        "Michael Bofshever",
+        "Primo Allon",
+        "Kalyn Bomback",
+        "Peter Kelamis",
+        "Jane McGregor"
+    ],
+    "description": "Toby es un perro que se pregunta el sentido de su vida cuando, sorprendido, se da cuenta de que se ha reencarnado en un cachorrito. Así, a lo largo de sus vidas se cuestionará su sentido mientras ayuda a distintos dueños, pero siempre con el objetivo de encontrarse con el primero.",
+    "cover": "https://cuevana.pizza/resize/###/storage/25540/OG9UKSdWM48QsHX7CXgnQ61xKBxsW4QfqhUEoLNb.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtZWxtN21hNWU5dzNjLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLTE4Ymo3MzF6aDY3ci5odG1s"
+            ]
+        },
+        {
+            "type": "cas",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQteTN0aDZzbDBudjYxLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLTh2dXl3eXBjZHp1Zy5odG1s"
+            ]
+        },
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtODJ1ZG11NmR3b2c3Lmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLXMzOXYwM2k5aXJoNC5odG1s"
+            ]
+        }
+    ],
+    "downloads": [
+        {
+            "url": "https://1fichier.com/?9eyxxa9c3e",
+            "type": "la"
+        },
+        {
+            "url": "https://1fichier.com/?a5164uub564boufvofyc#Synchronization+Service",
+            "type": "es"
+        },
+        {
+            "url": "https://1fichier.com/?vya5k281qohglgnlrtoq#Synchronization+Service",
+            "type": "en"
+        }
+    ]
+}

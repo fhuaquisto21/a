@@ -1,0 +1,52 @@
+{
+    "url": "https://cuevana.pizza/pelicula/seven-in-heaven",
+    "title": "Seven in Heaven",
+    "duration": "1h 23m",
+    "year": "2018",
+    "genres": [
+        "Terror"
+    ],
+    "actors": [
+        "Travis Tope",
+        "Jacinda Barrett",
+        "Gary Cole",
+        "Haley Ramm",
+        "Clark Backo",
+        "Vinson Tran",
+        "Gage Munroe",
+        "Milton Barnes",
+        "Claire Rankin",
+        "Debra Hale",
+        "Jeff Clarke",
+        "Paulino Nunes",
+        "Grant Nickalls",
+        "Jake Manley",
+        "Dylan Everett"
+    ],
+    "description": "Jude y June entran en un armario oculto y emergen en una realidad alternativa, donde nada es como parece. Los adolescentes tienen que encontrar su camino de regreso a través del armario antes de que se cierre para siempre.",
+    "cover": "https://cuevana.pizza/resize/###/storage/25081/PZqfdDDUtYnmI25HZMESlS564YNeONXmF9jXb3z0.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtajNqcWJ5ZWQ1cWs0Lmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLWI3MWl4empjZXBvYi5odG1s"
+            ]
+        },
+        {
+            "type": "cas",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtN2NqaHIzajFhOTNpLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLXduc2FmdW1nMG5oZC5odG1s"
+            ]
+        },
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtYTFjcXlnbTlhbnB1Lmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLTh2emVrM3o1bGw1eS5odG1s"
+            ]
+        }
+    ],
+    "downloads": []
+}

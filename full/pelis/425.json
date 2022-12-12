@@ -1,0 +1,39 @@
+{
+    "url": "https://cuevana.pizza/pelicula/persecucion-mortal",
+    "title": "Persecución mortal",
+    "duration": "1h 21m",
+    "year": "2022",
+    "genres": [
+        "Accion",
+        "Crimen"
+    ],
+    "actors": [
+        "Vinnie Jones",
+        "Lina Lecompte",
+        "James Clayton",
+        "Janvier Katabarwa",
+        "Danny Mac",
+        "Glenn Ennis",
+        "Philip Granger",
+        "Lori Triolo"
+    ],
+    "description": "El ladrón lleva a cabo el robo de su vida cuando roba al psicótico señor de la droga, Temple. El plan se lleva a cabo sin problemas hasta que el ladrón descubre un polizón en su coche de huida: la esposa embarazada de Temple, Mia. Con Temple y su mejor asesino, el francés, en plena persecución, el ladrón se debate entre emprender una rápida huida o dar un arriesgado rodeo para ayudar a Mia a escapar de las garras de su marido. En cualquier caso, su única posibilidad de escapar con vida es conducir.",
+    "cover": "https://cuevana.pizza/resize/###/storage/52857/1QbAeg1p6FYz9azi7P11rG8GEYT3YC4AJq1IIKRL.jpg",
+    "players": [
+        {
+            "type": "cas",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtbzI1NDk0YjNpdjRkLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLTFrNDZqdnZiMXQ5ay5odG1s"
+            ]
+        },
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQta3hiMXl0bDNzaGJhLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLWYyNXF0NmVjb3FkeC5odG1s"
+            ]
+        }
+    ],
+    "downloads": []
+}

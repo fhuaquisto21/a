@@ -1,0 +1,58 @@
+{
+    "url": "https://cuevana.pizza/pelicula/the-hater",
+    "title": "The Hater",
+    "duration": "2h 15m",
+    "year": "2020",
+    "genres": [
+        "Drama",
+        "Suspenso"
+    ],
+    "actors": [
+        "Maciej Musiałowski",
+        "Danuta Stenka",
+        "Jacek Koman",
+        "Vanessa Aleksander",
+        "Maciej Stuhr",
+        "Agata Kulesza",
+        "Adam Gradowski"
+    ],
+    "description": "Un joven duplicado encuentra el éxito en el oscuro mundo de las tácticas de desprestigio de las redes sociales, pero su vitriolo virtual pronto tiene consecuencias violentas en la vida real.",
+    "cover": "https://cuevana.pizza/resize/###/storage/4204/eAMTMkt7BDqQUeAHtLSVcacxL2oHquGkBrVsgNDt.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtcDBlYmJkemRwYTluLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLWxrcDd2NnlvdDJ6MC5odG1s"
+            ]
+        },
+        {
+            "type": "cas",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtNWR4bWNsYmJxOHkxLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLWZlN25uN25tcDd3ei5odG1s"
+            ]
+        },
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtc2dpZ2J5dTVrOWsxLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLXdzNnhvdGZibTR0Yi5odG1s"
+            ]
+        }
+    ],
+    "downloads": [
+        {
+            "url": "https://1fichier.com/?zzockyggme6ulbt1zlv9",
+            "type": "la"
+        },
+        {
+            "url": "https://1fichier.com/?k0uuarej3wp0yw906fpa",
+            "type": "es"
+        },
+        {
+            "url": "https://1fichier.com/?lzr2rqaep23vfmw77x66",
+            "type": "en"
+        }
+    ]
+}

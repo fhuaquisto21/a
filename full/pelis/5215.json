@@ -1,0 +1,59 @@
+{
+    "url": "https://cuevana.pizza/pelicula/what-men-want",
+    "title": "¿En qué piensan los hombres?",
+    "duration": "1h 57m",
+    "year": "2019",
+    "genres": [
+        "Comedia",
+        "Romance",
+        "Fantasia"
+    ],
+    "actors": [
+        "Taraji P. Henson",
+        "Aldis Hodge",
+        "Josh Brener",
+        "Erykah Badu",
+        "Richard Roundtree",
+        "Tracy Morgan",
+        "Wendi McLendon-Covey",
+        "Tamala Jones",
+        "Phoebe Robinson",
+        "Max Greenfield",
+        "Jason Jones",
+        "Brian Bosworth",
+        "Chris Witaske",
+        "Shane Paul McGhie",
+        "Kellan Lutz",
+        "John Collins",
+        "Shaquille O'Neal",
+        "Grant Hill",
+        "Mark Cuban",
+        "Karl-Anthony Towns"
+    ],
+    "description": "Una mujer que se dedica al mundo de las agencias deportivas se siente menospreciada por los hombres en un mundo que considera machista. Cuando un día adquiere la habilidad de escuchar sus pensamientos, descubre cómo manipularlos para beneficio propio.",
+    "cover": "https://cuevana.pizza/resize/###/storage/18211/TsZYwBTaP6x85mUGkyoUWRUXjdrRga6Bdxhsbk51.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtamp0eG1vNHFrcnloLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLXZxbW9nZnNocHk4eC5odG1s"
+            ]
+        },
+        {
+            "type": "cas",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtcmYxZ2I1aTRldmphLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLWY0MndmcXJpY2F4YS5odG1s"
+            ]
+        },
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtb3VwMXNnOXE0dXowLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLW4zNnhpdWkwZGlwbC5odG1s"
+            ]
+        }
+    ],
+    "downloads": []
+}

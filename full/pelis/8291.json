@@ -1,0 +1,59 @@
+{
+    "url": "https://cuevana.pizza/pelicula/star-wars-episodio-vi-el-retorno-del-jedi",
+    "title": "Star Wars. Episodio VI: El retorno del Jedi",
+    "duration": "2h 13m",
+    "year": "1983",
+    "genres": [
+        "Accion",
+        "Aventura",
+        "Fantasia"
+    ],
+    "actors": [
+        "Mark Hamill",
+        "Harrison Ford",
+        "Carrie Fisher",
+        "Billy Dee Williams",
+        "Anthony Daniels",
+        "Peter Mayhew",
+        "Sebastian Shaw",
+        "Ian McDiarmid",
+        "Frank Oz",
+        "James Earl Jones",
+        "David Prowse",
+        "Alec Guinness",
+        "Kenny Baker",
+        "Michael Pennington",
+        "Kenneth Colley",
+        "Michael Carter",
+        "Denis Lawson",
+        "Tim Rose",
+        "Dermot Crowley",
+        "Caroline Blakiston"
+    ],
+    "description": "Luke Skywalker y la princesa Leia deben viajar a Tatooine para liberar a Han Solo. Para conseguirlo, deben infiltrarse en la peligrosa guarida de Jabba the Hutt, el gángster más temido de la galaxia. Una vez reunidos, el equipo recluta a tribus de Ewoks para combatir a las fuerzas imperiales en los bosques de la luna de Endor. Mientras tanto, el Emperador y Darth Vader conspiran para convertir a Luke al lado oscuro, pero el joven Skywalker, por su parte, está decidido a reavivar el espíritu del Jedi en su padre. La guerra civil galáctica culmina en un último enfrentamiento entre las fuerzas rebeldes unificadas y una segunda Estrella de la Muerte, indefensa e incompleta, en una batalla que decidirá el destino de la galaxia.",
+    "cover": "https://cuevana.pizza/resize/###/storage/19669/KJxbhD67xRPTJMSUYR44dbUAq0ybPkwMf6gYpXgb.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtejN2YjM2OHl5aHpwLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLWM4OWN5bHFtcjNxeS5odG1s"
+            ]
+        },
+        {
+            "type": "cas",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtMDNzd2k3eHlkcndkLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLW9sYnBpOGJlbzhxeC5odG1s"
+            ]
+        },
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtOWdtYXlxZGsyZDBwLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLTAzNTVxMWt6eGsxMy5odG1s"
+            ]
+        }
+    ],
+    "downloads": []
+}

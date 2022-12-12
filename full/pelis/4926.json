@@ -1,0 +1,66 @@
+{
+    "url": "https://cuevana.pizza/pelicula/wendy",
+    "title": "Wendy",
+    "duration": "1h 52m",
+    "year": "2020",
+    "genres": [
+        "Aventura",
+        "Fantasia",
+        "Familia"
+    ],
+    "actors": [
+        "Devin France",
+        "Shay Walker",
+        "Tommie Lynn Milazzo",
+        "Gage Naquin",
+        "Yashua Mack",
+        "Gavin Naquin",
+        "Ahmad Cage",
+        "Krzysztof Meyn",
+        "Romyri Ross",
+        "Stephanie Lynn Wilson",
+        "Lowell Landes",
+        "Matt Owens",
+        "Kevin Pugh",
+        "Cleopatra King Welch"
+    ],
+    "description": "Perdida en una isla misteriosa donde el tiempo y el envejecimiento se han detenido, Wendy debe luchar para salvar a su familia, su libertad y al espíritu alegre de la juventud, del peligro mortal de crecer.",
+    "cover": "https://cuevana.pizza/resize/###/storage/19903/7Hww2AghhpWEJfN2GD7j49OEx2fp4C0JsFYKIJq4.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtc3kzZXh0b2l2aW5rLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLWNrZDg3MGkydnlubS5odG1s"
+            ]
+        },
+        {
+            "type": "cas",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtbmN3bjh5bWozNTUzLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLWE3MnRxeDlwZjV1eC5odG1s"
+            ]
+        },
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtYzBsOHhvdmk3Y2ZlLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLWFxdG1qMzUyamJvMS5odG1s"
+            ]
+        }
+    ],
+    "downloads": [
+        {
+            "url": "https://1fichier.com/?x572ayro46cg5aohe7sm",
+            "type": "la"
+        },
+        {
+            "url": "https://1fichier.com/?r1w498shwzjgbg7o91wn",
+            "type": "es"
+        },
+        {
+            "url": "https://1fichier.com/?kx3d2e6c3r1zqhh34xv8",
+            "type": "en"
+        }
+    ]
+}

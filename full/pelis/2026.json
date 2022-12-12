@@ -1,0 +1,62 @@
+{
+    "url": "https://cuevana.pizza/pelicula/el-proyecto-adam",
+    "title": "El Proyecto Adam",
+    "duration": "1h 46m",
+    "year": "2022",
+    "genres": [
+        "Comedia",
+        "Ciencia Ficcion",
+        "Aventura"
+    ],
+    "actors": [
+        "Ryan Reynolds",
+        "Walker Scobell",
+        "Mark Ruffalo",
+        "Jennifer Garner",
+        "Zoe Saldana",
+        "Catherine Keener",
+        "Alex Mallari Jr.",
+        "Braxton Bjerken",
+        "Kasra Wong",
+        "Lucie Guest"
+    ],
+    "description": "Adam Reed es un piloto de caza que viaja en el tiempo. Cuando se estrella en el año 2022, conoce a su yo de 12 años y juntos emprenden una misión para salvar el futuro.",
+    "cover": "https://cuevana.pizza/resize/###/storage/15338/8LISvQSmjLPu8MyV1cWByOqPUi1pqVVAP4f6L17B.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtYWk3dTEwcTZlNmIzLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLXZrbTZ6cHJ6d3Q5by5odG1s"
+            ]
+        },
+        {
+            "type": "cas",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtNG8zN3J5b21meDU0Lmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLWN3cG9rYjdzcG1oMC5odG1s"
+            ]
+        },
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtOGlhdGZvZjZtYjdzLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLXF3eXppbDc2Znh6OS5odG1s"
+            ]
+        }
+    ],
+    "downloads": [
+        {
+            "url": "https://1fichier.com/?3cltpvul2lxcp30011e0",
+            "type": "la"
+        },
+        {
+            "url": "https://1fichier.com/?veerxzw9muayv3ixjpec",
+            "type": "es"
+        },
+        {
+            "url": "https://1fichier.com/?7g94b8sma7rpjzyxc9ik",
+            "type": "en"
+        }
+    ]
+}

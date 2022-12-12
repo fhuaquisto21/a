@@ -1,0 +1,50 @@
+{
+    "url": "https://cuevana.pizza/pelicula/yo-me-encargo-de-la-cerveza",
+    "title": "Yo me encargo de la cerveza",
+    "duration": "2h 6m",
+    "year": "2022",
+    "genres": [
+        "Comedia",
+        "Drama",
+        "Belica"
+    ],
+    "actors": [
+        "Zac Efron",
+        "Russell Crowe",
+        "Kyle Allen",
+        "Bill Murray",
+        "Jake Picking",
+        "Will Ropp",
+        "Archie Renaux",
+        "Ruby Ashbourne Serkis",
+        "Will Hochman",
+        "Christopher Reed Brown",
+        "Joe Adler",
+        "MacGregor Arney",
+        "Hal Cumpston",
+        "Kristin Carey",
+        "Paul Adelstein",
+        "Matt Cook",
+        "Shirleyann Kaladjian",
+        "Kevin Tran"
+    ],
+    "description": "Nueva York, 1967. Para demostrar su apoyo a sus colegas del barrio que están combatiendo en Vietnam, Chickie Donohue (Zac Efron) decide viajar a la primera línea del frente para llevar a los soldados unas latas de su cerveza norteamericana favorita. Lo que empieza como un viaje repleto de buenas intenciones se convierte rápidamente en una aventura iniciática cuando Chickie se enfrenta a la realidad de esa controvertida guerra, y cuando el reencuentro con sus amigos de la infancia le muestra las complejidades y responsabilidades de la vida adulta.",
+    "cover": "https://cuevana.pizza/resize/###/storage/53509/RNCr6kKMAC1ncpugCbpdfSwlj98SaVEeiHWAttE3.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtcXMwejU1Y3VocTA1Lmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLWVscWIwaXlhMHRweC5odG1s"
+            ]
+        },
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtcnM5dTJkdnVldGt3Lmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLWd4NWpuNjZpem9wbS5odG1s"
+            ]
+        }
+    ],
+    "downloads": []
+}

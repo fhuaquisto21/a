@@ -1,0 +1,48 @@
+{
+    "url": "https://cuevana.pizza/pelicula/un-mal-viaje",
+    "title": "Un mal viaje",
+    "duration": "1h 27m",
+    "year": "2021",
+    "genres": [
+        "Comedia"
+    ],
+    "actors": [
+        "Adam Meir",
+        "Anthony J. James",
+        "Charles Green",
+        "Cory DeMeyers",
+        "Eric André",
+        "Lil Rel Howery",
+        "Michaela Conlin",
+        "Rebecca Rose Goodman",
+        "Tiffany Haddish"
+    ],
+    "description": "Dos amigos se embarcan en un viaje por carretera a través del país haciendo bromas con cámara oculta a la gente.",
+    "cover": "https://cuevana.pizza/resize/###/storage/6330/o4m7qU1voROdXhdx9wwXczNsiWcizkszRt1JpT5E.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtem9vZ2hjeWMzYmhwLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLWQwYjNobnplMHhnai5odG1s"
+            ]
+        },
+        {
+            "type": "cas",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtYmJ4eGF1bXdteGNqLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLTZia3hqMGczY2FlNC5odG1s"
+            ]
+        }
+    ],
+    "downloads": [
+        {
+            "url": "https://1fichier.com/?d7kss87cf61vup2m7onf",
+            "type": "la"
+        },
+        {
+            "url": "https://1fichier.com/?drfkqk4j54bsdakfi7yf",
+            "type": "es"
+        }
+    ]
+}

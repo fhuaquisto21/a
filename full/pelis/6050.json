@@ -1,0 +1,61 @@
+{
+    "url": "https://cuevana.pizza/pelicula/asterix-el-secreto-de-la-pocion-magica",
+    "title": "Astérix - El secreto de la poción mágica",
+    "duration": "1h 26m",
+    "year": "2018",
+    "genres": [
+        "Comedia",
+        "Aventura",
+        "Fantasia",
+        "Familia",
+        "Animacion"
+    ],
+    "actors": [
+        "Christian Clavier",
+        "Guillaume Briat",
+        "Alex Lutz",
+        "Alexandre Astier",
+        "Élie Semoun",
+        "Daniel Mesguich",
+        "Bernard Alane",
+        "François Morel",
+        "Lionnel Astier",
+        "Florence Foresti",
+        "Ethan Astier",
+        "Dominique Bastien",
+        "Yoann Blanc",
+        "Patrick Bonnel",
+        "Eric Bougnon",
+        "Max Brunner",
+        "Simon Brunner",
+        "Jacques Chambon",
+        "Louis Clichy",
+        "Krystoff Fluder"
+    ],
+    "description": "Tras sufrir una caída recogiendo muérdago, Panoramix decide que ha llegado la hora de asegurar el futuro del pueblo. Acompañado por Asterix y Obelix, emprende la búsqueda de un talentoso druida al que quiere transmitirle el secreto de la poción mágica.",
+    "cover": "https://cuevana.pizza/resize/###/storage/24429/G4damnKqnU1npYLCFG5u1QgPQ25Zjuyl4UAEIDU4.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtcTZ5MGZrNTJpaWpkLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLTk1aG5jdWZiNjZ2eS5odG1s"
+            ]
+        },
+        {
+            "type": "cas",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtbHR3NWZzOWM3bXF5Lmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLW54OGVxMmMxdjZ3NC5odG1s"
+            ]
+        },
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQteDFnaXpjcngyYTNlLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLTZzYjNwNzlqZTF0dS5odG1s"
+            ]
+        }
+    ],
+    "downloads": []
+}

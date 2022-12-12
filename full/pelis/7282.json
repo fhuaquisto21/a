@@ -1,0 +1,52 @@
+{
+    "url": "https://cuevana.pizza/pelicula/true-story",
+    "title": "Una historia real",
+    "duration": "1h 40m",
+    "year": "2015",
+    "genres": [
+        "Drama",
+        "Misterio",
+        "Crimen"
+    ],
+    "actors": [
+        "Jonah Hill",
+        "James Franco",
+        "Felicity Jones",
+        "Maria Dizzia",
+        "Ethan Suplee",
+        "Robert John Burke",
+        "Charlotte Driscoll",
+        "Kohl Sudduth",
+        "Conor Kikot",
+        "Stella Rae Payne",
+        "Byron Jennings",
+        "Gretchen Mol",
+        "Betty Gilpin",
+        "Seth Barrish",
+        "Robert Stanton",
+        "Michael Countryman",
+        "Steve Routman",
+        "Genevieve Angelson",
+        "Adam Mucci",
+        "David Wilson Barnes"
+    ],
+    "description": "Cuando Michael Finkel (Jonah Hill), un desacreditado reportero del New York Times, conoce a Christian Longo (James Franco), un asesino buscado por el FBI, éste se apodera de su identidad. Su investigación se convierte entonces en una especie de juego del gato y el ratón. Basada en hechos reales, narra la incesante búsqueda de la verdadera historia de Longo por parte de Finkel.",
+    "cover": "https://cuevana.pizza/resize/###/storage/27379/yLuIYZLc9Z7Ttsyp9P4QGKHTl4KoMkeIKHJwna95.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtdnluczJqa2l3OG1wLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLWdpMTdqcWl0NHV1NS5odG1s"
+            ]
+        },
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQteWhpZjJ3bGkyemF2Lmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLXg2aWI3ejdkNTd5Yy5odG1s"
+            ]
+        }
+    ],
+    "downloads": []
+}

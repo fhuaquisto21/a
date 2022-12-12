@@ -1,0 +1,35 @@
+{
+    "url": "https://cuevana.pizza/pelicula/mine",
+    "title": "Mine",
+    "duration": "1h 46m",
+    "year": "2016",
+    "genres": [
+        "Guerra",
+        "Suspenso"
+    ],
+    "actors": [
+        "Armie Hammer",
+        "Annabelle Wallis",
+        "Tom Cullen",
+        "Geoff Bell",
+        "Juliet Aubrey",
+        "Clint Dyer",
+        "Luka Peroš",
+        "David Kirk Traylor",
+        "Ines Pinar Mille",
+        "Daniel Sandoval",
+        "Ed Hendrik"
+    ],
+    "description": "Un soldado se queda de repente solo y perdido en medio del desierto tras una misión que sale mal.",
+    "cover": "https://cuevana.pizza/resize/###/storage/27045/PbDsqfcQstpOOV3waXGbWmJl5CbebTq9nPHb6rjV.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtaTN5NG5yemMyYzY5Lmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLWhtbG81OGZleGNtby5odG1s"
+            ]
+        }
+    ],
+    "downloads": []
+}

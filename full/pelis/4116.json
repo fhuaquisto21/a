@@ -1,0 +1,66 @@
+{
+    "url": "https://cuevana.pizza/pelicula/silk-road",
+    "title": "Silk Road",
+    "duration": "1h 52m",
+    "year": "2021",
+    "genres": [
+        "Drama",
+        "Suspenso",
+        "Crimen"
+    ],
+    "actors": [
+        "Alexandra Shipp",
+        "Beth Bailey",
+        "Daniel David Stewart",
+        "Darrell Britt-Gibson",
+        "David DeLao",
+        "Emmanualle Sale Taylor",
+        "Esodie Geiger",
+        "Jason Clarke",
+        "Jason Coviello",
+        "Jennifer Yun",
+        "Jimmi Simpson",
+        "John C. Fitzgerald",
+        "Jordyn Aquinio",
+        "Katie Aselton"
+    ],
+    "description": "Relata la historia de Ross Ulbricht, creador de “Silk Road”, una página web de la darknet dedicada a la venta y tráfico de estupefacientes.",
+    "cover": "https://cuevana.pizza/resize/###/storage/5830/d1gchCpuJkBT4T8Tkhpp8Dws37GZleQvBigs7rY8.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtYmN3aGQxNDYyZGVyLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLWlrYW53eGNzdHJvbi5odG1s"
+            ]
+        },
+        {
+            "type": "cas",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQteDJjd2ttN2h2aXg5Lmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLWUyNjJodXN5d2ZiZC5odG1s"
+            ]
+        },
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtbmdueXlhZjdjMHV4Lmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLWhidTNtOXo1d3FvMS5odG1s"
+            ]
+        }
+    ],
+    "downloads": [
+        {
+            "url": "https://1fichier.com/?fr2up030khr2y5wtajrd",
+            "type": "la"
+        },
+        {
+            "url": "https://1fichier.com/?2ipmr3rcpn0nzhvr1m3s",
+            "type": "es"
+        },
+        {
+            "url": "https://1fichier.com/?vgvge9gnn7yy91iqcxug",
+            "type": "en"
+        }
+    ]
+}

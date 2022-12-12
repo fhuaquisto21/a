@@ -1,0 +1,58 @@
+{
+    "url": "https://cuevana.pizza/pelicula/buba",
+    "title": "Buba",
+    "duration": "1h 34m",
+    "year": "2022",
+    "genres": [
+        "Comedia",
+        "Drama"
+    ],
+    "actors": [
+        "Bjarne Mädel",
+        "Georg Friedrich",
+        "Anita Vulesica",
+        "Maren Kroymann",
+        "Soma Pysall",
+        "Michael Schertenleib",
+        "Jasmin Shakeri"
+    ],
+    "description": "Cuando un estafador de un pequeño pueblo se une a la mafia local con su hermano manipulador, su obsesión por equilibrar el karma se vuelve tan divertido como brutal.",
+    "cover": "https://cuevana.pizza/resize/###/storage/44404/p7Ki6RiCEe7pqcziE5S5HAOi48fmSoIWB1FCpGQU.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtbnA1OHpuODh5MnN0Lmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLXVhMjlmcGd0emptei5odG1s"
+            ]
+        },
+        {
+            "type": "cas",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtanh5cGliZjR3aWU2Lmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLWtzNW81YjY2bXV5cy5odG1s"
+            ]
+        },
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtMTRrdWE4azhibmI3Lmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLTVyNjk1cWJhMjNraS5odG1s"
+            ]
+        }
+    ],
+    "downloads": [
+        {
+            "url": "https://1fichier.com/?6heqkpzaa5271zsmwiie",
+            "type": "la"
+        },
+        {
+            "url": "https://1fichier.com/?nq20wc9cyeeyqs7ue3gh",
+            "type": "es"
+        },
+        {
+            "url": "https://1fichier.com/?j9err87290awj5dgdsue",
+            "type": "en"
+        }
+    ]
+}

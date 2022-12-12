@@ -1,0 +1,58 @@
+{
+    "url": "https://cuevana.pizza/pelicula/sightless",
+    "title": "Sightless",
+    "duration": "1h 29m",
+    "year": "2020",
+    "genres": [
+        "Suspenso"
+    ],
+    "actors": [
+        "Madelaine Petsch",
+        "Deniz Akdeniz",
+        "Alexander Koch",
+        "Matthew Yang King",
+        "Lee Jones",
+        "December Ensminger",
+        "Courtney Compton",
+        "Jarrod Crawford"
+    ],
+    "description": "Ellen, después de ser brutalmente cegada por un asaltante no identificado, se ha convertido en una verdadera encerrada, viviendo y trabajando fuera de su apartamento, sin aventurarse nunca afuera, esperando que su asaltante haga su próximo movimiento.",
+    "cover": "https://cuevana.pizza/resize/###/storage/24655/vgjcgc4ntAQV2OuCCjq9UdYS8ERhXG1n1Z90Sw8I.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtNzNpZGp5Ynp0ZmswLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLWtsd210YjRka3dnNy5odG1s"
+            ]
+        },
+        {
+            "type": "cas",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtMDV6NTBiaW1pcDMxLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLXVxY3V4ZWZtOGhnaS5odG1s"
+            ]
+        },
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtdzY5bnRtZ2E1ZG9kLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLTJvamY0MjRhMnAxdC5odG1s"
+            ]
+        }
+    ],
+    "downloads": [
+        {
+            "url": "https://1fichier.com/?82v5kknbzbbf51283tm0#Synchronization+Service",
+            "type": "la"
+        },
+        {
+            "url": "https://1fichier.com/?i4efsvlrerzoiontjhvg#Synchronization+Service",
+            "type": "es"
+        },
+        {
+            "url": "https://1fichier.com/?7v9vgq9a24xas44hjj6g#Synchronization+Service",
+            "type": "en"
+        }
+    ]
+}

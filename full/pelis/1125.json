@@ -1,0 +1,60 @@
+{
+    "url": "https://cuevana.pizza/pelicula/mary-poppins",
+    "title": "Mary Poppins",
+    "duration": "2h 19m",
+    "year": "1964",
+    "genres": [
+        "Comedia",
+        "Fantasia",
+        "Familia",
+        "Disney"
+    ],
+    "actors": [
+        "Julie Andrews",
+        "Dick Van Dyke",
+        "David Tomlinson",
+        "Glynis Johns",
+        "Hermione Baddeley",
+        "Karen Dotrice",
+        "Matthew Garber",
+        "Elsa Lanchester",
+        "Arthur Treacher",
+        "Reginald Owen",
+        "Ed Wynn",
+        "Reta Shaw",
+        "Don Barclay",
+        "Marjorie Bennett",
+        "Arthur Malet",
+        "Jane Darwell",
+        "Marjorie Eaton",
+        "James Logan",
+        "Alma Lawton",
+        "Betty Lou Gerson"
+    ],
+    "description": "Reinado de Eduardo VII (1901-1910). Una familia inglesa formada por un padre banquero, una madre sufragista y dos niños rebeldes -que pretenden llamar la atención de su padre haciendo la vida imposible a todas las niñeras-, se verá alterada con la llegada de Mary Poppins, una institutriz muy especial, que desciende de las nubes empleando su paraguas como paracaídas. Debut y Oscar para Julie Andrews en este clásico del cine familiar que en su día batió récords de taquilla. Una niñera mágica y canciones pegadizas que harán las delicias de los más pequeños de la casa.",
+    "cover": "https://cuevana.pizza/resize/###/storage/42063/fDdv6SzgytrLdFQ4r8W7E71hpEgmccCKdc2kMUUV.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtZTlxc254N3NjaGFxLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLWhieWFrOHhvODB1Ni5odG1s"
+            ]
+        },
+        {
+            "type": "cas",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQta3oyNnU4bnV1YWgxLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLTVkbjczZGF0c2Zjei5odG1s"
+            ]
+        },
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtbXdnZTB5MDlqMjM4Lmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLWpvNW0xODI1YmVyeC5odG1s"
+            ]
+        }
+    ],
+    "downloads": []
+}

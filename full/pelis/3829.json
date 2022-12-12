@@ -1,0 +1,63 @@
+{
+    "url": "https://cuevana.pizza/pelicula/la-apariencia-de-las-cosas",
+    "title": "La apariencia de las cosas",
+    "duration": "2h 1m",
+    "year": "2021",
+    "genres": [
+        "Drama",
+        "Misterio",
+        "Suspenso",
+        "Terror"
+    ],
+    "actors": [
+        "Amanda Seyfried",
+        "James Norton",
+        "Natalia Dyer",
+        "Alex Neustaedter",
+        "Rhea Seehorn",
+        "Michael O'Keefe",
+        "Karen Allen",
+        "Jack Gore",
+        "F. Murray Abraham",
+        "James Urbaniak"
+    ],
+    "description": "Después de dejar atrás su vida en Manhattan y mudarse a un pueblo, una joven descubre que tanto su marido como su nuevo hogar ocultan siniestros secretos.",
+    "cover": "https://cuevana.pizza/resize/###/storage/6921/7s34gYtW9Dn0yR30R88ufaQHVUehvVme69P8WcrJ.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtN3RtbG5hYXo0aXlnLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLXc1YjJjd2dhbzNsaS5odG1s"
+            ]
+        },
+        {
+            "type": "cas",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtNGkzZGlrMWdnenY3Lmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLWp4NXh3bmMyaGd3Yi5odG1s"
+            ]
+        },
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtMWJ2djBhdzhkN3NxLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLW4wZjd6N3llYTc3Ni5odG1s"
+            ]
+        }
+    ],
+    "downloads": [
+        {
+            "url": "https://1fichier.com/?2wow0kja3hvyjn3ugef9",
+            "type": "la"
+        },
+        {
+            "url": "https://1fichier.com/?d1w56jta2nzaapeajgcr",
+            "type": "es"
+        },
+        {
+            "url": "https://1fichier.com/?trj0ciih20i3bw3nwwa6",
+            "type": "en"
+        }
+    ]
+}

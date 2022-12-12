@@ -1,0 +1,60 @@
+{
+    "url": "https://cuevana.pizza/pelicula/mision-imposible",
+    "title": "Misión imposible",
+    "duration": "1h 50m",
+    "year": "1996",
+    "genres": [
+        "Accion",
+        "Misterio",
+        "Ciencia Ficcion",
+        "Aventura"
+    ],
+    "actors": [
+        "Tom Cruise",
+        "Jon Voight",
+        "Henry Czerny",
+        "Emmanuelle Béart",
+        "Ving Rhames",
+        "Kristin Scott Thomas",
+        "Vanessa Redgrave",
+        "Jean Reno",
+        "Emilio Estevez",
+        "Ingeborga Dapkūnaitė",
+        "Rolf Saxon",
+        "Marcel Iureș",
+        "Karel Dobrý",
+        "Andreas Wisniewski",
+        "Annabel Mullion",
+        "Olegar Fedoro",
+        "Morgan Deare",
+        "Valentina Yakunina",
+        "Marek Vašut",
+        "Nathan Osgood"
+    ],
+    "description": "MISIÓN IMPOSIBLE 1: Ethan Hunt es un superespía capaz de resolver cualquier arriesgada situación con la máxima elegancia. Forma parte de un competente equipo dirigido por el agente Jim Phelps, que ha vuelto a reunir a sus hombres para participar en una dificilísima misión: evitar la venta de un disco robado que contiene información secreta de vital importancia.",
+    "cover": "https://cuevana.pizza/resize/###/storage/46291/Lc2IFb2Jgn0Fl2opOBqz8cf4WTEn92ilja581Ta6.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtaDRxbTd1dGN3MnpjLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLWY2MW0zaGNpbXZsNy5odG1s"
+            ]
+        },
+        {
+            "type": "cas",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtNjYxa3E1aWpieWhhLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLWd1NXg2ZjR0cmNuMy5odG1s"
+            ]
+        },
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtZmhydjBnOWF1dTJlLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLXMwcDljN2c0c3c0Zy5odG1s"
+            ]
+        }
+    ],
+    "downloads": []
+}

@@ -1,0 +1,48 @@
+{
+    "url": "https://cuevana.pizza/pelicula/a-violent-separation",
+    "title": "A Violent Separation",
+    "duration": "1h 46m",
+    "year": "2018",
+    "genres": [
+        "Suspenso",
+        "Crimen"
+    ],
+    "actors": [
+        "Alycia Debnam-Carey",
+        "Brenton Thwaites",
+        "Claire Holt",
+        "Ben Robson",
+        "Ted Levine",
+        "Francesca Eastwood",
+        "Gerald McRaney",
+        "Michael Malarkey",
+        "Peter Michael Goetz",
+        "Lynne Ashe",
+        "Cotton Yancey",
+        "William McGovern",
+        "Silas Cooper",
+        "Bowen Hoover",
+        "Jason Edwards",
+        "Kim Collins",
+        "Patrick Kirton"
+    ],
+    "description": "Dos hermanos luchan para superar la terrible verdad que se esconde tras la tragedia que destrozó a su familia tres generaciones atrás en el tiempo.",
+    "cover": "https://cuevana.pizza/resize/###/storage/25484/VBCFJTI5nnAENrNconS6YSDNt5uRbR4nnUqzwv4P.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtNGVvNWt0ajh3bW5pLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLWR5MXVkd3o4Z3liZS5odG1s"
+            ]
+        },
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtYnVnMXdtMHZzc3B1Lmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLTI4cnU1NXM1cHVpbS5odG1s"
+            ]
+        }
+    ],
+    "downloads": []
+}

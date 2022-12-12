@@ -1,0 +1,38 @@
+{
+    "url": "https://cuevana.pizza/pelicula/heavy-metal-2",
+    "title": "Heavy Metal 2",
+    "duration": "1h 28m",
+    "year": "2000",
+    "genres": [
+        "Accion",
+        "Ciencia Ficcion",
+        "Aventura",
+        "Fantasia",
+        "Animacion"
+    ],
+    "actors": [
+        "Michael Ironside",
+        "Billy Idol",
+        "Julie Strain",
+        "Pier Paquette"
+    ],
+    "description": "En épocas pasadas, una raza malévola llamada Arakacians descubrió un lugar donde el espacio-tiempo goteaba un agua inmortal. Los arakacianos conquistaron el universo conocido durante siglos, y finalmente fueron vencidos después de que la cámara de la fuente fuera sellada por los luchadores por la libertad. Al descubrir un fragmento del Loc-Nar (el orbe malvado de la película original), un minero llamado Tyler se siente poseído por un hambre insaciable de poder y una sed de inmortalidad. En su camino hacia un planeta que tiene la fuente de la inmortalidad, Tyler hace una breve parada en FAKK² (zona de muerte cetogénica asignada por la Federación) porque sus habitantes llevan un poco de agua de inmortalidad en sus cuerpos. Tyler invade la colonia espacial, aniquila a la mayoría de los habitantes y secuestra a una bella mujer llamada Kerrie.",
+    "cover": "https://cuevana.pizza/resize/###/storage/5628/A1njqz0zqRmbGGZPpaTE03ziM4vuOcw6KdzRV4wy.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtb283azVzc29nNDZuLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLTc1NzluMG9yZnV3eS5odG1s"
+            ]
+        },
+        {
+            "type": "cas",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtaTlidGQ4dmdnd2hiLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLWhhejJqMjIxbTFhZC5odG1s"
+            ]
+        }
+    ],
+    "downloads": []
+}

@@ -1,0 +1,72 @@
+{
+    "url": "https://cuevana.pizza/pelicula/emma",
+    "title": "Emma",
+    "duration": "2h 4m",
+    "year": "2020",
+    "genres": [
+        "Comedia",
+        "Drama",
+        "Romance"
+    ],
+    "actors": [
+        "Anya Taylor-Joy",
+        "Johnny Flynn",
+        "Josh O'Connor",
+        "Callum Turner",
+        "Mia Goth",
+        "Miranda Hart",
+        "Bill Nighy",
+        "Rupert Graves",
+        "Gemma Whelan",
+        "Amber Anderson",
+        "Tanya Reynolds",
+        "Connor Swindells",
+        "Angus Imrie",
+        "Letty Thomas",
+        "Aidan White",
+        "Edward Davis",
+        "Chris White",
+        "Myra McFadyen",
+        "Esther Coles",
+        "Suzy Bloom"
+    ],
+    "description": "Guapa, inteligente y rica, la joven Emma Woodhouse es una reina sin rival en su pequeño pueblo. Nueva adaptación de la novela de Jane Austen publicada en 1815 sobre la vida de la joven Emma.",
+    "cover": "https://cuevana.pizza/resize/###/storage/19930/N3GqelPp2fBsPVtyH9FwuDP40ZhvEnNGzVsgA1um.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtNGx4bTFhYWIycHZoLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLWdyaDluNjVlYmg2dy5odG1s"
+            ]
+        },
+        {
+            "type": "cas",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQteGczcThnd2Z0YzdiLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLW01bmhrbjNjenh2cC5odG1s"
+            ]
+        },
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtdXozMWI5a3B4MG81Lmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLXYxdnF5cmxzYWI5ay5odG1s"
+            ]
+        }
+    ],
+    "downloads": [
+        {
+            "url": "https://1fichier.com/?bctthli5hcu0pyf078l1",
+            "type": "la"
+        },
+        {
+            "url": "https://1fichier.com/?9llgk70rnwlkoo4ed2ez",
+            "type": "es"
+        },
+        {
+            "url": "https://1fichier.com/?q7g09zxkjj43991nh421",
+            "type": "en"
+        }
+    ]
+}

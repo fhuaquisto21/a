@@ -1,0 +1,60 @@
+{
+    "url": "https://cuevana.pizza/pelicula/el-privilegio",
+    "title": "El privilegio",
+    "duration": "1h 47m",
+    "year": "2022",
+    "genres": [
+        "Terror"
+    ],
+    "actors": [
+        "Max Schimmelpfennig",
+        "Lea van Acken",
+        "Tijan Marei",
+        "Milena Tscharntke",
+        "Lise Risom Olsen",
+        "Roman Knizka",
+        "Nadeshda Brennicke",
+        "Horst Janson",
+        "Caroline Hartig",
+        "Jeanette Spassova"
+    ],
+    "description": "Un adolescente acomodado y sus amigos, alumnos de un instituto de élite, destapan una siniestra conspiración mientras investigan una serie de extraños eventos sobrenaturales.",
+    "cover": "https://cuevana.pizza/resize/###/storage/14687/AUGWtdu50vcCt2XdQ0q2l9r1iCavGKEYvZmn68z2.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQteWNzamhmM21zcnlmLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLXhra216c2pkOHd0My5odG1s"
+            ]
+        },
+        {
+            "type": "cas",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtMWR4bXprcmF4em9zLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLXk3bGJtdGlmYzh2aS5odG1s"
+            ]
+        },
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtZWw2cmdpd2xpYnQ0Lmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLXBlNG80N29hZDhvZS5odG1s"
+            ]
+        }
+    ],
+    "downloads": [
+        {
+            "url": "https://1fichier.com/?ntp1flrqm1i6ziohsh0j",
+            "type": "la"
+        },
+        {
+            "url": "https://1fichier.com/?icj27cq3rpxg7ltxaqgq",
+            "type": "es"
+        },
+        {
+            "url": "https://1fichier.com/?vc18nagvllqp8qztjeuz",
+            "type": "en"
+        }
+    ]
+}

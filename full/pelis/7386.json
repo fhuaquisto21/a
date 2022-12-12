@@ -1,0 +1,50 @@
+{
+    "url": "https://cuevana.pizza/pelicula/the-benefactor",
+    "title": "El benefactor",
+    "duration": "1h 33m",
+    "year": "2015",
+    "genres": [
+        "Drama"
+    ],
+    "actors": [
+        "Dakota Fanning",
+        "Theo James",
+        "Richard Gere",
+        "Clarke Peters",
+        "Cheryl Hines",
+        "Dylan Baker",
+        "Tibor Feldman",
+        "Roy James Wilson",
+        "Brian Anthony Wilson",
+        "Dennisha Pratt",
+        "Lyssa Roberts",
+        "Matthew Daisher",
+        "Michael Daisher",
+        "Justin Goncalves",
+        "Ian Bonner",
+        "Derrick T. Lewis",
+        "Andrea Havens",
+        "Rory Ogden",
+        "Jeffrey Mowery",
+        "Michele Everwine"
+    ],
+    "description": "Franny es un filántropo rico y excéntrico. En un intento por revivir su pasado, acaba interfiriendo en la vida de los recién casados, Olivia, la joven hija de un amigo fallecido, y Lucas, su prometido.",
+    "cover": "https://cuevana.pizza/resize/###/storage/27145/8vO6xTCrbrp3NrjQhgpKh6E6Dt5h67YHGITkY2EG.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtaHd6cTNvZHA3c24xLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLWdzeWExOHJhbm9yaC5odG1s"
+            ]
+        },
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtcjV1dmFmcDR5dnV0Lmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLWk4a2c0ZmRubHpsay5odG1s"
+            ]
+        }
+    ],
+    "downloads": []
+}

@@ -1,0 +1,52 @@
+{
+    "url": "https://cuevana.pizza/pelicula/sexto-sentido",
+    "title": "El sexto sentido",
+    "duration": "1h 49m",
+    "year": "1999",
+    "genres": [
+        "Drama",
+        "Misterio",
+        "Suspenso"
+    ],
+    "actors": [
+        "Bruce Willis",
+        "Haley Joel Osment",
+        "Toni Collette",
+        "Olivia Williams",
+        "Donnie Wahlberg",
+        "Mischa Barton",
+        "Trevor Morgan",
+        "Glenn Fitzgerald",
+        "Bruce Norris",
+        "Angelica Page",
+        "Greg Wood",
+        "M. Night Shyamalan",
+        "Peter Anthony Tambakis",
+        "Jeffrey Zubernis",
+        "Lisa Summerour",
+        "Samia Shoaib",
+        "Janis Dardaris",
+        "Sarah Ripard",
+        "KaDee Strickland",
+        "Kate Kearney-Patch"
+    ],
+    "description": "El Dr. Malcom Crowe es un conocido psicólogo infantil obsesionado con el doloroso recuerdo de un joven paciente desequilibrado al que fue incapaz de ayudar. Cole Sear es un aterrorizado y confuso niño de ocho años que necesita tratamiento, y Crowe ve la oportunidad de redimirse haciendo todo lo posible por ayudarle. Sin embargo, el psicólogo infantil no está preparado para conocer la terrible verdad acerca del don sobrenatural de su paciente: recibe visitas no deseadas de espíritus atormentados.",
+    "cover": "https://cuevana.pizza/resize/###/storage/19536/N9Sc5zFPfACeB5PkZYCcXHV5n0q9Die3XC6SJtND.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtZHN1eWk3bnJ3ZWp6Lmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLWkxYjA5cjIzcDY0by5odG1s"
+            ]
+        },
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtZHdzZnByODBxNHNqLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLWpob2kzYnh2empyMy5odG1s"
+            ]
+        }
+    ],
+    "downloads": []
+}

@@ -1,0 +1,46 @@
+{
+    "url": "https://cuevana.pizza/pelicula/koati",
+    "title": "Koati",
+    "duration": "1h 25m",
+    "year": "2021",
+    "genres": [
+        "Animacion",
+        "Musical"
+    ],
+    "actors": [
+        "Sofía Vergara",
+        "Joe Manganiello",
+        "Eduardo Franco",
+        "Adriana Barraza",
+        "Evaluna Montaner",
+        "Sebastián Villalobos"
+    ],
+    "description": "Un coatí, una mariposa y una rana se unen para evitar una serpiente malvada que está destruyendo sus hogares.",
+    "cover": "https://cuevana.pizza/resize/###/storage/12690/r74S0wy3abOG3ABY6O7VvC7N08fg0lmqfzhw3CMn.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtOTJvdnV1ODlseDZ3Lmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLTdvODR0ZW42MXRmMC5odG1s"
+            ]
+        },
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtdHFocW9lMXdtZHJkLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLWpoNTB5Zm80dG9pNS5odG1s"
+            ]
+        }
+    ],
+    "downloads": [
+        {
+            "url": "https://1fichier.com/?zsvyuzilhyil3y38vmhv",
+            "type": "la"
+        },
+        {
+            "url": "https://1fichier.com/?swgegzonhtt3qnlfetlc",
+            "type": "en"
+        }
+    ]
+}

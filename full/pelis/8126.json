@@ -1,0 +1,52 @@
+{
+    "url": "https://cuevana.pizza/pelicula/capote",
+    "title": "Capote",
+    "duration": "1h 54m",
+    "year": "2005",
+    "genres": [
+        "Drama",
+        "Crimen",
+        "Biografia"
+    ],
+    "actors": [
+        "Philip Seymour Hoffman",
+        "Catherine Keener",
+        "Clifton Collins Jr.",
+        "Bruce Greenwood",
+        "Bob Balaban",
+        "Mark Pellegrino",
+        "Marshall Bell",
+        "Amy Ryan",
+        "Bess Meyer",
+        "Chris Cooper",
+        "Allie Mickelson",
+        "Craig Archibald",
+        "Bronwen Coleman",
+        "Kate Shindle",
+        "David Wilson Barnes",
+        "Michael J. Burg",
+        "Kwesi Ameyaw",
+        "Andrew Farago",
+        "Kelci Stephenson",
+        "C. Ernst Harth"
+    ],
+    "description": "Capote es una película sobre escritor Truman Capote y la investigación que tuvo que realizar para escribir \"A sangre fría\", un libro basado en hechos reales. Philip Seymour Hoffman ganó un Oscar al mejor actor por su interpretación de Truman Capote.",
+    "cover": "https://cuevana.pizza/resize/###/storage/28768/bY68yaR9s9BaGiLTCOrzq1IE9OXdSsKdj1E2Kqxa.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtaXQxa3N6Y2J0NDgzLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLXV3ZnIzeW9vbjJ6NS5odG1s"
+            ]
+        },
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtdmRhYXpuMHY1cmtpLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLWJsbjc5cHZoZ294aS5odG1s"
+            ]
+        }
+    ],
+    "downloads": []
+}

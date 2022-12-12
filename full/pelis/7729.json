@@ -1,0 +1,72 @@
+{
+    "url": "https://cuevana.pizza/pelicula/tarzan",
+    "title": "Tarzán",
+    "duration": "1h 34m",
+    "year": "2013",
+    "genres": [
+        "Drama",
+        "Aventura",
+        "Animacion"
+    ],
+    "actors": [
+        "Kellan Lutz",
+        "Spencer Locke",
+        "Les Bubb",
+        "Joe Cappelletti",
+        "Brian Huskey",
+        "Mark Deklin",
+        "Jaime Ray Newman",
+        "Robert Capron",
+        "Jonathan Morgan Heit",
+        "Anton Zetterholm",
+        "Jason Hildebrandt",
+        "Jonathan Tweedie",
+        "Rebecca Reaney",
+        "Trevor St. John",
+        "Brian Bloom",
+        "Edd Osmond",
+        "Maximilian Allgeier",
+        "Lynn Robertson Bruce",
+        "Peter Elliott",
+        "Cecily Fay"
+    ],
+    "description": "Tarzan y Jane Porter se enfrentan a un ejercito de mercenarios al mando del malvado CEO de Greystoke Energies, un hombre que se quedó al mando de la empresa de los padres de Tarzan después de que estos murieran en un accidente de avión.",
+    "cover": "https://cuevana.pizza/resize/###/storage/16481/JbaTMQKw7hc8XdnSkba7Z0BVmSRfXIEocXNxWMeL.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtYjEzbXkxZmpya2N2Lmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLXExM3p6ZXk4bXNuMy5odG1s"
+            ]
+        },
+        {
+            "type": "cas",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtNnNuaTZ2bXcxeGRqLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLWo3OXZ4ZDlxamhyaS5odG1s"
+            ]
+        },
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtaDFvd3dzN3dveXQyLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLXJ1ZXViYm5hM3MyYi5odG1s"
+            ]
+        }
+    ],
+    "downloads": [
+        {
+            "url": "https://1fichier.com/?m6s5bqmllzh31xe1c52s",
+            "type": "la"
+        },
+        {
+            "url": "https://1fichier.com/?8vvs955fid8fk7nq2kfp",
+            "type": "es"
+        },
+        {
+            "url": "https://1fichier.com/?solrsjb5cjkmxv5t9l2a",
+            "type": "en"
+        }
+    ]
+}

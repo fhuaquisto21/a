@@ -1,0 +1,43 @@
+{
+    "url": "https://cuevana.pizza/pelicula/la-vida-es-bella",
+    "title": "La Vida es Bella",
+    "duration": "116",
+    "year": "1997",
+    "genres": [
+        "Comedia",
+        "Drama",
+        "Guerra"
+    ],
+    "actors": [
+        "Giorgio Cantarini",
+        "Giustino Durano",
+        "Nicoletta Braschi",
+        "Roberto Benigni"
+    ],
+    "description": "En 1939, a punto de estallar la Segunda Guerra Mundial (1939-1945), el extravagante Guido llega a Arezzo (Toscana) con la intención de abrir una librería. Allí conoce a Dora y, a pesar de que es la prometida del fascista Ferruccio, se casa con ella y tiene un hijo. Al estallar la guerra, los tres son internados en un campo de exterminio, donde Guido hará lo imposible para hacer creer a su hijo que la terrible situación que están padeciendo es tan sólo un juego.",
+    "cover": "https://cuevana.pizza/resize/###/storage/49/FyGUCc5zhUoo7GPn0qi2LxD5Hux4vTtkMRRJKMX1.png",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtNXR5NXZ4cHR6NTBkLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLWowYjMwNjh3bW9rby5odG1s"
+            ]
+        },
+        {
+            "type": "cas",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtOHNnNDh0YjYzNzRxLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLWdrM2JwMmRnOGhldC5odG1s"
+            ]
+        },
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtZXN4dGVpY3Q2eDEyLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLWJtZ3gzNDBtN3JueC5odG1s"
+            ]
+        }
+    ],
+    "downloads": []
+}

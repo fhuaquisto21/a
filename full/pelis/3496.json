@@ -1,0 +1,50 @@
+{
+    "url": "https://cuevana.pizza/pelicula/hero-mode",
+    "title": "Hero Mode",
+    "duration": "1h 28m",
+    "year": "2021",
+    "genres": [
+        "Comedia",
+        "Familia"
+    ],
+    "actors": [
+        "Chris Carpenter",
+        "Indiana Massara",
+        "Mira Sorvino",
+        "Sean Astin",
+        "Mary Lynn Rajskub",
+        "Erik Griffin",
+        "Creed Bratton",
+        "Nelson Franklin",
+        "Philip Solomon",
+        "Kimia Behpoornia"
+    ],
+    "description": "Un genio de la programación adolescente tiene solo 30 días para crear el mejor videojuego del mundo o su familia lo pierde todo. Sin presión.",
+    "cover": "https://cuevana.pizza/resize/###/storage/8191/d0JM1nu9kcz8eYidvIV1I2fte1HpOHnBNZSAQ9pS.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtN3BseXVrczM2Nnd0Lmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLTB2OGl3M21vZnd6ZS5odG1s"
+            ]
+        },
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtd2JhbTNqb3loMHIzLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLXF5bjl0eDIxeXhoZi5odG1s"
+            ]
+        }
+    ],
+    "downloads": [
+        {
+            "url": "https://1fichier.com/?d5b2oh43coh6kv29cylw",
+            "type": "la"
+        },
+        {
+            "url": "https://1fichier.com/?u02ipr52c14ec84ij04c",
+            "type": "en"
+        }
+    ]
+}

@@ -1,0 +1,52 @@
+{
+    "url": "https://cuevana.pizza/pelicula/the-wandering-earth",
+    "title": "La Tierra Errante",
+    "duration": "2h 6m",
+    "year": "2019",
+    "genres": [
+        "Accion",
+        "Drama",
+        "Ciencia Ficcion"
+    ],
+    "actors": [
+        "Qu Chuxiao",
+        "Li Guangjie",
+        "Zhao Jinmai",
+        "Wu Jing",
+        "Ng Man-tat",
+        "Michael Kai Sui",
+        "Qu Jingjing",
+        "Zhang Yichi",
+        "Haoyu Yang",
+        "Arkady Sharogradsky",
+        "Li Hongchen",
+        "Yang Yi",
+        "Zhigang Jiang",
+        "Zhang Huan",
+        "Lei Jiayin",
+        "Hao Ning",
+        "Liu Cixin",
+        "Guo Jingfei",
+        "Wang Zhi",
+        "Zhang Zixian"
+    ],
+    "description": "Cuando el Sol comienza a expandirse de tal manera que inevitablemente engullirá y destruirá la Tierra en cien años, la humanidad unida encuentra una manera de evitar su extinción propulsando el planeta fuera del Sistema Solar usando motores gigantescos, moviéndolo a un nuevo hogar ubicado a cuatro años luz de distancia, un viaje épico que durará miles de años.",
+    "cover": "https://cuevana.pizza/resize/###/storage/17951/QqWbsQeRl8qqc1JtTbYozdSJk8Hgp2oR9QmYI1wK.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtejR3aDF4Y2VhZzlyLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLWp6MXl4emRqam5qNC5odG1s"
+            ]
+        },
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtczJ4ZXRkbTNnOGc3Lmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLTVnOGpuaHAxcHQ0MC5odG1s"
+            ]
+        }
+    ],
+    "downloads": []
+}

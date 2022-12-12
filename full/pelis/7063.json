@@ -1,0 +1,44 @@
+{
+    "url": "https://cuevana.pizza/pelicula/precious-cargo",
+    "title": "Mercancía peligrosa",
+    "duration": "1h 29m",
+    "year": "2016",
+    "genres": [
+        "Accion",
+        "Comedia",
+        "Crimen"
+    ],
+    "actors": [
+        "Bruce Willis",
+        "Claire Forlani",
+        "Mark-Paul Gosselaar",
+        "John Brotherton",
+        "Lydia Hull",
+        "Daniel Bernhardt",
+        "Ashley Kirk",
+        "Jenna B. Kelly",
+        "Tyler Jon Olsen",
+        "Jean Claude Leuyer",
+        "Nick Loeb",
+        "Madison West"
+    ],
+    "description": "Tras un golpe fallido, el gánster Eddie (Bruce Willis), comienza la búsqueda de la seductora ladrona Karen (Claire Forlani), que le ha fallado. Para ganarse otra vez la confianza de Eddie, Karen recurre a su ex amante y experto ladrón Jack (Mark-Paul Gosselaar).",
+    "cover": "https://cuevana.pizza/resize/###/storage/28217/7S6noOqgsFRIXoPlo62o1lVhsUr6BKCJvvkJYBmq.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtMHBuZjV5cnd1ZXVtLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLXVmdTlyZWgzeDNhZC5odG1s"
+            ]
+        },
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtbHpyajV1MGN2NW05Lmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLTRqMzY0bTFoaWF5NC5odG1s"
+            ]
+        }
+    ],
+    "downloads": []
+}

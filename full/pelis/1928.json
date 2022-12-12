@@ -1,0 +1,63 @@
+{
+    "url": "https://cuevana.pizza/pelicula/sonic-2-the-movie",
+    "title": "Sonic 2: La Película",
+    "duration": "2h 2m",
+    "year": "2022",
+    "genres": [
+        "Accion",
+        "Comedia",
+        "Ciencia Ficcion",
+        "Familia"
+    ],
+    "actors": [
+        "Ben Schwartz",
+        "Jim Carrey",
+        "Idris Elba",
+        "Colleen O'Shaughnessey",
+        "James Marsden",
+        "Tika Sumpter",
+        "Natasha Rothwell",
+        "Adam Pally",
+        "Shemar Moore",
+        "Lee Majdoub"
+    ],
+    "description": "Después de establecerse en Green Hills, Sonic se muere por demostrar que tiene madera de auténtico héroe, pero Robotnik regresa con nuevo compañero Knuckles, en busca de una esmeralda que tiene el poder de destruir civilizaciones, pero Sonic no esta solo lo ayudara Tails.",
+    "cover": "https://cuevana.pizza/resize/###/storage/17109/jm8JXQBfUtpSNvnerBQdKKEMjMPDfKo7zvtgr0FC.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtdzF6NTV3ZWU5ZGo5Lmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLTlhbWc1MG14YW4zMS5odG1s"
+            ]
+        },
+        {
+            "type": "cas",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtNzRqZ3dlNXAxZ2JoLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLXZhZG1zamFieGRhby5odG1s"
+            ]
+        },
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtZWFzbTRkNjB5YmVhLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLXY3eGtvdDAwc2NhNi5odG1s"
+            ]
+        }
+    ],
+    "downloads": [
+        {
+            "url": "https://1fichier.com/?9kwosygf4t3x533m8rot",
+            "type": "la"
+        },
+        {
+            "url": "https://1fichier.com/?ccej2gvxw1qxou66ng8p",
+            "type": "es"
+        },
+        {
+            "url": "https://1fichier.com/?t0wg11mqhgco76aaovjg",
+            "type": "en"
+        }
+    ]
+}

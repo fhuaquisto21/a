@@ -1,0 +1,61 @@
+{
+    "url": "https://cuevana.pizza/pelicula/ovni",
+    "title": "OVNI",
+    "duration": "1h 49m",
+    "year": "2022",
+    "genres": [
+        "Drama",
+        "Romance"
+    ],
+    "actors": [
+        "İpek Filiz Yazıcı",
+        "Mert Ramazan Demir",
+        "Ferit Aktuğ",
+        "Mekin Sezer",
+        "Kerem Alp Kabul",
+        "Enes Külahçı",
+        "Elif Cakman",
+        "Cemile Çigdem Canyurt",
+        "Eda Akalın",
+        "Nilsu Yılmaz"
+    ],
+    "description": "Cuando la música en ciernes y estudiante Deniz pierde la cabeza por un rudo piloto de motos, la tragedia y la oposición de su familia dificultan su camino hacia el amor.",
+    "cover": "https://cuevana.pizza/resize/###/storage/14888/R32tD05XxtQMqHdJroh4gRtp2azby3QzTacFCv7K.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtamdzdjc1dHExNGdlLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLXRmOGRuNDN1dGI3NC5odG1s"
+            ]
+        },
+        {
+            "type": "cas",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQteDY5Y3k4YTN1Y2ViLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLXd4aXlnMW5mM2ZhNi5odG1s"
+            ]
+        },
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtbm02aGp2YmpxMTM0Lmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLXNsa2o2ODl1bDh4Zi5odG1s"
+            ]
+        }
+    ],
+    "downloads": [
+        {
+            "url": "https://1fichier.com/?ob6xnwxc2ar5j0q7goml",
+            "type": "la"
+        },
+        {
+            "url": "https://1fichier.com/?hqybw6y9fpzc6ig71tgq",
+            "type": "es"
+        },
+        {
+            "url": "https://1fichier.com/?b8mh8m1eyrcg0qr1mczb",
+            "type": "en"
+        }
+    ]
+}

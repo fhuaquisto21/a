@@ -1,0 +1,48 @@
+{
+    "url": "https://cuevana.pizza/pelicula/the-dark",
+    "title": "The Dark",
+    "duration": "1h 35m",
+    "year": "2018",
+    "genres": [
+        "Drama",
+        "Terror",
+        "Fantasia"
+    ],
+    "actors": [
+        "Nadia Alexander",
+        "Toby Nichols",
+        "Karl Markovics",
+        "Margarethe Tiesel",
+        "Dylan Trowbridge",
+        "Chris Farquhar",
+        "Scott Beaudin",
+        "Dan Beirne",
+        "Sarah Murphy-Dyson"
+    ],
+    "description": "La zona se conoce como “la guarida del diablo”... solo que el monstruo que la habita no es otro que Mina, una adolescente que convierte en su víctima a cualquiera que se acerque. La llegada de Alex, un chico ciego que acarrea sus propios traumas, despertará en Mina un sentimiento que creía olvidado, el de la empatía. Como Déjame entrar, The Dark explora la tumultuosa época de la adolescencia a partir del terror.",
+    "cover": "https://cuevana.pizza/resize/###/storage/25506/apTU4izeJg1mPLJXkdOTk2e5tH1naVFD54F2dQu8.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtZXZzbnZubnlpdjNrLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLXd6Z3hwdGc0NTNsMy5odG1s"
+            ]
+        },
+        {
+            "type": "cas",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtajRicXNuNzlpcXg4Lmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLWNyMW52YWRucno2Zi5odG1s"
+            ]
+        },
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtdGxmd3JqbGplZ3gyLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLTh3a3FiYWtvejlscy5odG1s"
+            ]
+        }
+    ],
+    "downloads": []
+}

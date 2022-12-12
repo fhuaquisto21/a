@@ -1,0 +1,45 @@
+{
+    "url": "https://cuevana.pizza/pelicula/the-colour-room",
+    "title": "The Colour Room",
+    "duration": "1h 48m",
+    "year": "2021",
+    "genres": [
+        "Drama"
+    ],
+    "actors": [
+        "Phoebe Dynevor",
+        "Matthew Goode",
+        "David Morrissey",
+        "Kerry Fox",
+        "Luke Norris",
+        "Darci Shaw"
+    ],
+    "description": "Sigue a un artista cerámico pionero que saltó a la fama en la década de 1920 mientras trabajaba en la industria de la cerámica de Stoke-on-Trent en Gran Bretaña.",
+    "cover": "https://cuevana.pizza/resize/###/storage/13795/qQiv5RQqAsBdBnqLPTCVuG6rVx7zLe0YpWZHwGcx.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtamVqYXdvOHg0N2w4Lmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLWs5N3RjZmNuem5rcy5odG1s"
+            ]
+        },
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtenJ5NWdsNzlxcmtvLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLXFtdnZnbTFzeDQzeS5odG1s"
+            ]
+        }
+    ],
+    "downloads": [
+        {
+            "url": "https://1fichier.com/?rc3p5uxltz0h26isco0i",
+            "type": "la"
+        },
+        {
+            "url": "https://1fichier.com/?qbdn6gr0oerjc23p6gqa",
+            "type": "en"
+        }
+    ]
+}

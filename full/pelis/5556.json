@@ -1,0 +1,52 @@
+{
+    "url": "https://cuevana.pizza/pelicula/el-increible-viaje-del-faquir",
+    "title": "De la India a París en un armario de Ikea",
+    "duration": "1h 32m",
+    "year": "2018",
+    "genres": [
+        "Comedia",
+        "Drama",
+        "Aventura"
+    ],
+    "actors": [
+        "Dhanush",
+        "Bérénice Bejo",
+        "Erin Moriarty",
+        "Barkhad Abdi",
+        "Gérard Jugnot",
+        "Ben Miller",
+        "Abel Jafri",
+        "Sarah-Jeanne Labrosse",
+        "Kay Greidanus",
+        "Amruta Sant",
+        "Vinod Jaywant",
+        "Naman Jain",
+        "Svar Kamble",
+        "Hearty Singh",
+        "Gandharv Dewan",
+        "Omkar Ketkar",
+        "Preet Bhanushali",
+        "Burjor Dastur",
+        "Rakesh Jaiswal",
+        "Karan Sagar"
+    ],
+    "description": "Aja, un joven estafador de Mumbai, comienza, tras la muerte de su madre, un viaje extraordinario siguiendo las huellas del padre que nunca conoció. Encuentra el amor en París en una tienda de muebles suecos, el peligro en compañía de inmigrantes somalíes en Inglaterra, la fama en una pista de baile en Roma, la aventura en un globo aerostático sobre el Mediterráneo, y finalmente entiende qué es la verdadera riqueza y en quién quiere convertirse.",
+    "cover": "https://cuevana.pizza/resize/###/storage/21736/FiGG8ElxMjeCBAs1TVZrkP9q4hP9VxfFujzK9oul.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtd3poNW5zNTZmdnM5Lmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLTVvNWM0ZWRsb3c5Ni5odG1s"
+            ]
+        },
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtNHExamViY2I2azE0Lmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLXp1ZXloczk4cXN2ei5odG1s"
+            ]
+        }
+    ],
+    "downloads": []
+}

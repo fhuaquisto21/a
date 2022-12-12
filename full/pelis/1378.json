@@ -1,0 +1,55 @@
+{
+    "url": "https://cuevana.pizza/pelicula/first-love",
+    "title": "First Love",
+    "duration": "1h 35m",
+    "year": "2022",
+    "genres": [
+        "Drama",
+        "Romance"
+    ],
+    "actors": [
+        "Hero Fiennes Tiffin",
+        "Sydney Park",
+        "Diane Kruger",
+        "Jeffrey Donovan"
+    ],
+    "description": "La difícil entrada en la vida adulta de un joven que experimenta los altibajos de su primer amor, mientras lidia con las secuelas familiares provocadas por la crisis financiera de 2008.",
+    "cover": "https://cuevana.pizza/resize/###/storage/38006/V7Zjb4sWV0CjcBMkPBnYDW3lT9slp4EsiMUNuxQK.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtdnk0ejE3YWVxZ3hjLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLXlrN2ZoNW5jY3d6dS5odG1s"
+            ]
+        },
+        {
+            "type": "cas",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtOWs5MHdlN3kwNWk4Lmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLWF5NzQwMWJ4Ymlhei5odG1s"
+            ]
+        },
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtempka29tbGkwM3dtLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLTc0Y2tma2RjMnp1MC5odG1s"
+            ]
+        }
+    ],
+    "downloads": [
+        {
+            "url": "https://1fichier.com/?0wpf7yz4qo9te84944he",
+            "type": "la"
+        },
+        {
+            "url": "https://1fichier.com/?ymxifm8u6qxk023vuuyz",
+            "type": "es"
+        },
+        {
+            "url": "https://1fichier.com/?0x8d2dc0eob2ssbhqrba",
+            "type": "en"
+        }
+    ]
+}

@@ -1,0 +1,53 @@
+{
+    "url": "https://cuevana.pizza/pelicula/alicia-en-el-pais-de-las-maravillas",
+    "title": "Alicia en el País de las Maravillas",
+    "duration": "1h 49m",
+    "year": "2010",
+    "genres": [
+        "Aventura",
+        "Fantasia",
+        "Familia",
+        "Disney"
+    ],
+    "actors": [
+        "Mia Wasikowska",
+        "Johnny Depp",
+        "Anne Hathaway",
+        "Helena Bonham Carter",
+        "Crispin Glover",
+        "Matt Lucas",
+        "Alan Rickman",
+        "Stephen Fry",
+        "Michael Sheen",
+        "Timothy Spall",
+        "Marton Csokas",
+        "Lindsay Duncan",
+        "Geraldine James",
+        "Tim Pigott-Smith",
+        "Leo Bill",
+        "Frances de la Tour",
+        "Christopher Lee",
+        "Paul Whitehouse",
+        "Barbara Windsor",
+        "Michael Gough"
+    ],
+    "description": "Alicia, una joven de 19 años, asiste a una fiesta en una mansión victoriana, donde descubre que está a punto de recibir una propuesta de matrimonio frente a un montón de gente estirada de la alta sociedad. Alicia entonces se escapa, corriendo tras un conejo blanco, entra a un agujero tras él... y acaba en el país de las Maravillas, un lugar que visitó hace 10 años, pero el cual no recuerda. El país de las Maravillas era un reino pacífico hasta que la Reina Roja derrocó a su hermana, la Reina Blanca. Las criaturas del país de las maravillas, listos para la revuelta, esperan que Alicia les ayude, y éstas a su vez le ayudarán a recordar su primera visita al mágico reino.",
+    "cover": "https://cuevana.pizza/resize/###/storage/29066/erBh9v3n13BEaLGJFydfjGFb70MQ4RKDjyozSHgi.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtMXZubXZ2enJzbGlnLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLWl0OWkweXo4eW53My5odG1s"
+            ]
+        },
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtMWx0ajc5eXRmbTZyLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLWdwaHZhYTl0M3RwOS5odG1s"
+            ]
+        }
+    ],
+    "downloads": []
+}

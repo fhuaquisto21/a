@@ -1,0 +1,55 @@
+{
+    "url": "https://cuevana.pizza/pelicula/the-wall",
+    "title": "The Wall",
+    "duration": "1h 30m",
+    "year": "2017",
+    "genres": [
+        "Drama",
+        "Guerra",
+        "Suspenso"
+    ],
+    "actors": [
+        "Aaron Taylor-Johnson",
+        "John Cena",
+        "Laith Nakli"
+    ],
+    "description": "Dos francotiradores estadounidenses quedan atrapados en una zona solitaria del desierto de Irak durante una misión. Cuando son atacados intentan ponerse en contacto con sus compañeros, pero al otro lado del teléfono solo se oye a un tirador iraquí que les deja claro que quiere jugar al gato y al ratón. Su única protección es un pequeño muro de ladrillos que separa al atacante de sus víctimas.",
+    "cover": "https://cuevana.pizza/resize/###/storage/1317/V7qnUw6pF54PQkhkeIHzE636BySOEyVbBz7SH40Z.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtd3R1bWd0c3VnMG42Lmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLWxxaGR2NnRsMGFldS5odG1s"
+            ]
+        },
+        {
+            "type": "cas",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtM2dlcmNob2VwaTM0Lmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLXM1ejJtd2oxYTRucC5odG1s"
+            ]
+        },
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtbXQwNGg3Zzd4eHljLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLXhnNjY1MjZpbTB0dC5odG1s"
+            ]
+        }
+    ],
+    "downloads": [
+        {
+            "url": "https://1fichier.com/?ovsruo0ju9pa330foz9l",
+            "type": "la"
+        },
+        {
+            "url": "https://1fichier.com/?81cm08kwxe2jqee4zmp8",
+            "type": "es"
+        },
+        {
+            "url": "https://1fichier.com/?ct97jxalwdggys0efig9",
+            "type": "en"
+        }
+    ]
+}

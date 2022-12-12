@@ -1,0 +1,43 @@
+{
+    "url": "https://cuevana.pizza/pelicula/100-cosas",
+    "title": "100 cosas",
+    "duration": "1h 51m",
+    "year": "2018",
+    "genres": [
+        "Comedia"
+    ],
+    "actors": [
+        "Florian David Fitz",
+        "Matthias Schweighöfer",
+        "Miriam Stein",
+        "Hannelore Elsner",
+        "Wolfgang Stumph",
+        "Katharina Thalbach",
+        "Johannes Allmayer",
+        "Sarah Viktoria Frick",
+        "Maria Furtwängler",
+        "Artjom Gilz",
+        "Daniel Flieger",
+        "Milo Eisenblätter",
+        "Nora Boeckler"
+    ],
+    "description": "Los mejores amigos Toni y Paul deciden renunciar a todas sus pertenencias durante 100 días, por lo que reciben uno de sus artículos cada día. Durante este desafío, los dos se dan cuenta de que lo único que no pueden prescindir es su amistad. Una historia sobre el materialismo contemporáneo y la búsqueda de las cosas verdaderamente importantes en la vida.",
+    "cover": "https://cuevana.pizza/resize/###/storage/23647/4jSFLRystZMXi3WqKrKyc8l5E0qdBrcyTzanBZOF.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtbjRiOWx2eXRtOW9xLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLXNmaWpmbjc1dzZrai5odG1s"
+            ]
+        },
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtemk4dWZod3RwcG03Lmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLXJveHFxN3kwbWczai5odG1s"
+            ]
+        }
+    ],
+    "downloads": []
+}

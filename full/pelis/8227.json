@@ -1,0 +1,72 @@
+{
+    "url": "https://cuevana.pizza/pelicula/the-truman-show",
+    "title": "El show de Truman",
+    "duration": "1h 43m",
+    "year": "1998",
+    "genres": [
+        "Comedia",
+        "Drama",
+        "Ciencia Ficcion"
+    ],
+    "actors": [
+        "Jim Carrey",
+        "Laura Linney",
+        "Noah Emmerich",
+        "Natascha McElhone",
+        "Ed Harris",
+        "Holland Taylor",
+        "Paul Giamatti",
+        "Brian Delate",
+        "Peter Krause",
+        "Blair Slater",
+        "Heidi Schanz",
+        "Una Damon",
+        "Krista Lynn Landolfi",
+        "O-Lan Jones",
+        "Ron Taylor",
+        "Don Taylor",
+        "Ted Raymond",
+        "Harry Shearer",
+        "Jeanette Miller",
+        "Philip Glass"
+    ],
+    "description": "Truman Burbank es un hombre corriente y algo ingenuo que ha vivido toda su vida en uno de esos pueblos donde nunca pasa nada. Sin embargo, de repente, unos extraños sucesos le hacen sospechar que algo anormal está ocurriendo. Todos sus amigos son actores, toda su ciudad es un plató, toda su vida está siendo filmada y emitida como el reality más ambicioso de la historia.",
+    "cover": "https://cuevana.pizza/resize/###/storage/20622/LoktKw1Xle2u7y0jlstAcPbp6thpxXz13HS8HlH8.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtNG43ZG14cm0wajdqLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLW9qZ2JqOTJrbWdnZS5odG1s"
+            ]
+        },
+        {
+            "type": "cas",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtODBnbWtoY21nZ2I4Lmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLXVla3ppanN5eDQzbi5odG1s"
+            ]
+        },
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQteDYxNGozaHpzcmJvLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLTk2YXd1b25yeWtlay5odG1s"
+            ]
+        }
+    ],
+    "downloads": [
+        {
+            "url": "https://1fichier.com/?oxbrx3pb4bc01hk9wxm4",
+            "type": "la"
+        },
+        {
+            "url": "https://1fichier.com/?5h444tp6h5azay8it428",
+            "type": "es"
+        },
+        {
+            "url": "https://1fichier.com/?dd3ktjnqfo6i8iygwtw9",
+            "type": "en"
+        }
+    ]
+}

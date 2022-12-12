@@ -1,0 +1,72 @@
+{
+    "url": "https://cuevana.pizza/pelicula/angry-birds",
+    "title": "Angry Birds: La película",
+    "duration": "1h 37m",
+    "year": "2016",
+    "genres": [
+        "Accion",
+        "Aventura",
+        "Animacion"
+    ],
+    "actors": [
+        "Jason Sudeikis",
+        "Josh Gad",
+        "Danny McBride",
+        "Maya Rudolph",
+        "Bill Hader",
+        "Peter Dinklage",
+        "Sean Penn",
+        "Keegan-Michael Key",
+        "Kate McKinnon",
+        "Tony Hale",
+        "Hannibal Buress",
+        "Ike Barinholtz",
+        "Tituss Burgess",
+        "Ian Hecox",
+        "Anthony Padilla",
+        "Jillian Bell",
+        "Billy Eichner",
+        "Danielle Brooks",
+        "Blake Shelton",
+        "Charli XCX"
+    ],
+    "description": "Basada en la saga de videojuegos \"Angry Birds\", la historia se desarrolla en una isla poblada enteramente por aves felices que no vuelan... o casi enteramente. En este paraíso, Red, un pájaro con problemas de mal genio, el veloz Chuck y el volátil Bomb nunca han terminado de encajar. Pero, cuando la isla recibe la visita de unos misteriosos cerdos verdes, tendrán que ser estos insólitos marginados los que descubran qué traman esos cerdos.",
+    "cover": "https://cuevana.pizza/resize/###/storage/27785/0fKOzxodoAp7elsGajvbXHXVXRAplAMCNuoO7kg8.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtdTVtZXVqeXJtZG04Lmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLWUxbXJ0djlpYW15YS5odG1s"
+            ]
+        },
+        {
+            "type": "cas",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtZm1hcnY5dDk5MnZwLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLWtmODYwbmRlanBzeS5odG1s"
+            ]
+        },
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtaW1zbnp0NXByMDR5Lmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLWRvc2dpMHJncWt4dC5odG1s"
+            ]
+        }
+    ],
+    "downloads": [
+        {
+            "url": "https://1fichier.com/?mm55fmhopwhjl0pjokbd",
+            "type": "la"
+        },
+        {
+            "url": "https://1fichier.com/?3tj07o5th7mu5vmawis0",
+            "type": "es"
+        },
+        {
+            "url": "https://1fichier.com/?u3ye90exavpzszq9rgjg",
+            "type": "en"
+        }
+    ]
+}

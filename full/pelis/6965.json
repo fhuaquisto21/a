@@ -1,0 +1,72 @@
+{
+    "url": "https://cuevana.pizza/pelicula/dark-crimes",
+    "title": "Crímenes oscuros",
+    "duration": "1h 33m",
+    "year": "2016",
+    "genres": [
+        "Drama",
+        "Suspenso",
+        "Crimen"
+    ],
+    "actors": [
+        "Jim Carrey",
+        "Marton Csokas",
+        "Charlotte Gainsbourg",
+        "Kati Outinen",
+        "Vlad Ivanov",
+        "Robert Więckiewicz",
+        "Agata Kulesza",
+        "Piotr Głowacki",
+        "Julia Gdula",
+        "Zbigniew Zamachowski",
+        "Danuta Kowalska",
+        "Zygmunt Jozefczak",
+        "Marianna Figurska",
+        "Anna Polony",
+        "Marcin Stec",
+        "Katarzyna Warnke",
+        "Marcel Sabat",
+        "Anna Moskal",
+        "Michal Kitlinski",
+        "Dominika Bednarczyk"
+    ],
+    "description": "Un detective polaco sospecha de un autor polémico cuando advierte que los incidentes descritos en su novela inédita se asemejan a los detalles no divulgados de un asesinato que permanece sin resolver…",
+    "cover": "https://cuevana.pizza/resize/###/storage/27940/fPF8lORZ2NjwJeWikbdkopTRjxM6jMaqSPuVkiU6.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtZG1qcms1bXgxcm5oLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLTdjMng3emoxNWNrby5odG1s"
+            ]
+        },
+        {
+            "type": "cas",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQteWN5N3dpb2Nkbjd1Lmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLWV5eDRteGYyNTFydi5odG1s"
+            ]
+        },
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtZGI4dmdreG40ZTF3Lmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLXF6cmlvMjc0NW9may5odG1s"
+            ]
+        }
+    ],
+    "downloads": [
+        {
+            "url": "https://1fichier.com/?7f6ggcc21onmjnnj5zy0",
+            "type": "la"
+        },
+        {
+            "url": "https://1fichier.com/?d7dyczjvbg1acowg57jq",
+            "type": "es"
+        },
+        {
+            "url": "https://1fichier.com/?8zg5v248v6mem64dupw6",
+            "type": "en"
+        }
+    ]
+}

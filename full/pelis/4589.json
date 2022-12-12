@@ -1,0 +1,58 @@
+{
+    "url": "https://cuevana.pizza/pelicula/star-trek-primer-contacto",
+    "title": "Star Trek VIII: Primer contacto",
+    "duration": "1h 46m",
+    "year": "1996",
+    "genres": [
+        "Accion",
+        "Suspenso",
+        "Ciencia Ficcion",
+        "Aventura"
+    ],
+    "actors": [
+        "Patrick Stewart",
+        "Jonathan Frakes",
+        "Brent Spiner",
+        "LeVar Burton",
+        "Michael Dorn",
+        "Gates McFadden",
+        "Marina Sirtis",
+        "James Cromwell",
+        "Alfre Woodard",
+        "Alice Krige",
+        "Neal McDonough",
+        "Dwight Schultz",
+        "Cameron Oppenheimer",
+        "Robert Picardo",
+        "Adam Scott",
+        "Ray Uhler",
+        "Eric Steinberg",
+        "Joey Anaya"
+    ],
+    "description": "El Capitán del Enterprise encuentra de nuevo a sus adversarios, los Borg, a quienes intenta impedir modificar la historia y conquistar la Tierra en el siglo XXI, por medio de un viaje en el tiempo, que impediría el primer vuelo warp de la raza humana y el consiguiente primer contacto con una raza extraterrestre: los vulcanos.",
+    "cover": "https://cuevana.pizza/resize/###/storage/4530/dfYjQd8YlxTp4i30MtKnNJ9XCroBAK4z3FUOP1Zj.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtdXI1NnpyMGM4aHgzLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLTNtOGZyMnZwcTJxbC5odG1s"
+            ]
+        },
+        {
+            "type": "cas",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtYWdqZ2I1MDQza3MzLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLWJjM2R5cGdnd2p3Yy5odG1s"
+            ]
+        },
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtM3pkeDhua3BzZzk3Lmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLWx1dGkwZDk4NmN1Ni5odG1s"
+            ]
+        }
+    ],
+    "downloads": []
+}

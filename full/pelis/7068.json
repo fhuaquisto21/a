@@ -1,0 +1,50 @@
+{
+    "url": "https://cuevana.pizza/pelicula/white-girl",
+    "title": "White Girl",
+    "duration": "1h 28m",
+    "year": "2016",
+    "genres": [
+        "Drama"
+    ],
+    "actors": [
+        "Morgan Saylor",
+        "Brian Marc",
+        "Justin Bartha",
+        "Chris Noth",
+        "Bobbi Salvör Menuez",
+        "Adrian Martinez",
+        "Anthony Ramos",
+        "Ralph Rodriguez",
+        "Annabelle Dexter-Jones",
+        "Eden Marryshow",
+        "Charles Barboza",
+        "Graig Guggenheim",
+        "Brendan Burke",
+        "Jermel Howard",
+        "Kyanna Simone Simpson",
+        "Anthony Quarles",
+        "Pete Klein",
+        "Nancy Eng",
+        "Duane Littles",
+        "Tamika Lawrence"
+    ],
+    "description": "Una universitaria de juerga por Nueva York, en busca de droga y emociones fuertes, encuentra algo auténtico a lo que aferrarse y que podría perder más pronto que tarde.",
+    "cover": "https://cuevana.pizza/resize/###/storage/28207/hsKHCj1ftwvRrETss6fcuexH3eqO2bHni9Df0q2K.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtMGhuMmx6ejIzNTl0Lmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLXdpZXh1ZzF2d2xpZi5odG1s"
+            ]
+        },
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtbmZlNXJ1cHVnNnpyLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLXRwb2N2ODIwMjNqOC5odG1s"
+            ]
+        }
+    ],
+    "downloads": []
+}

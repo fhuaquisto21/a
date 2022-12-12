@@ -1,0 +1,43 @@
+{
+    "url": "https://cuevana.pizza/pelicula/atlantico",
+    "title": "Atlantique",
+    "duration": "1h 40m",
+    "year": "2019",
+    "genres": [
+        "Drama"
+    ],
+    "actors": [
+        "Mame Bineta Sane",
+        "Ibrahima Traore",
+        "Amadou Mbow",
+        "Fatou Sougou",
+        "Aminata Kane",
+        "Babacar Sylla",
+        "Mariama Gassama",
+        "Abdou Balde",
+        "Coumba Dieng",
+        "Ibrahima Mbaye",
+        "Diankou Sembene",
+        "Arame Fall Faye",
+        "Babacar Samba"
+    ],
+    "description": "A lo largo de la costa atlántica, una torre futurista que pronto será inaugurada se cierne sobre un suburbio de Dakar. Ada, de 17 años, está enamorada de Souleimane, un joven trabajador de la construcción. Pero ella ha sido prometida a otro hombre. Una noche, Souleimane y sus compañeros desaparecen en el mar. Poco después, regresan para atormentar a su antiguo vecindario tomando posesión de las novias que dejaron atrás. Algunos de los trabajadores han venido reclamando venganza y amenazan con quemar la torre si el desarrollador no paga sus salarios. Pero Souleiman ha regresado por Ada, para que puedan estar juntos por última vez.",
+    "cover": "https://cuevana.pizza/resize/###/storage/17924/Ry1fCBdoSQcjGBtO0KNuAdPqc9KMDD3xnZP9zFfb.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtbDM4c292c3h5Z3A4Lmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLXl0eHh5aHQyeG1sdy5odG1s"
+            ]
+        },
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtaXpleHV6OTNjc2N1Lmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLWM3aGsyM3g2N2dzMy5odG1s"
+            ]
+        }
+    ],
+    "downloads": []
+}

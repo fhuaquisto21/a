@@ -1,0 +1,47 @@
+{
+    "url": "https://cuevana.pizza/pelicula/una-propuesta-navidena",
+    "title": "Una Propuesta Navideña",
+    "duration": "1h 25m",
+    "year": "2021",
+    "genres": [
+        "Romance"
+    ],
+    "actors": [
+        "Adam Rodríguez",
+        "Jessica Camacho",
+        "Luisa d'Oliveira",
+        "Bianca Caroca",
+        "Andres Soto",
+        "Claudia Ferri",
+        "Juan Chioran",
+        "Jaime M. Callica",
+        "Serge Houde",
+        "Shawn Hook",
+        "Malaika Jackson",
+        "Frank Crudele",
+        "Sandra Shapiro",
+        "Renée Taylor",
+        "Geoff Gustafson",
+        "Sorami Moriyama",
+        "Tyler Carver"
+    ],
+    "description": "Una chef acepta hacerse pasar por la novia de un abogado para intentar probar que él es el candidato ideal para liderar la firma de la familia, pero todo se complica cuando empiezan a desarrollar un vínculo real.",
+    "cover": "https://cuevana.pizza/resize/###/storage/58048/9U9I9WK1yGOJ6Kid6nO5cpU5AIZVAt7yvLhickPm.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtbjRqYzk4NzBxeGU1Lmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLTY3dnc3eDlkNWJtcS5odG1s"
+            ]
+        },
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtZTl1Y2xydWI1NmxjLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLWxjaWN1M2Z3eG9jNS5odG1s"
+            ]
+        }
+    ],
+    "downloads": []
+}

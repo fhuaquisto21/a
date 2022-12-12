@@ -1,0 +1,57 @@
+{
+    "url": "https://cuevana.pizza/pelicula/project-almanac",
+    "title": "Project Almanac",
+    "duration": "1h 47m",
+    "year": "2015",
+    "genres": [
+        "Drama",
+        "Suspenso",
+        "Ciencia Ficcion"
+    ],
+    "actors": [
+        "Jonny Weston",
+        "Virginia Gardner",
+        "Sofia Black-D'Elia",
+        "Sam Lerner",
+        "Allen Evangelista",
+        "Amy Landecker",
+        "Gary Weeks",
+        "Gary Grubbs",
+        "Patrick Johnson",
+        "Hillary Harley",
+        "Anthony Reynolds",
+        "Agnes Mayasari",
+        "Katie Garfield",
+        "Michelle DeFraites",
+        "Fred Galle",
+        "Joshua Brady",
+        "Macsen Lintz",
+        "Johnny Otto"
+    ],
+    "description": "Un grupo de jóvenes se embarca en una aventura cuando descubren planes secretos para construir una máquina del tiempo, que utilizarán para arreglar sus problemas y obtener beneficios personales.",
+    "cover": "https://cuevana.pizza/resize/###/storage/28032/0CWGFLVJgKUMpBSIkSWuapy2J99kOW2U0WTVps73.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtYzAwbXJlNnhrY2N2Lmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLTJ0NGllNm11cHBrdi5odG1s"
+            ]
+        },
+        {
+            "type": "cas",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtaDNsMHczeW52cGhqLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLWlwMzdxMXUwZm9nNS5odG1s"
+            ]
+        },
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtbHNjcmJjb3p2anpzLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLWtvOGNvcHZod2Rjai5odG1s"
+            ]
+        }
+    ],
+    "downloads": []
+}

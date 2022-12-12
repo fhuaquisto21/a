@@ -1,0 +1,41 @@
+{
+    "url": "https://cuevana.pizza/pelicula/here-and-now",
+    "title": "Aquí y Ahora",
+    "duration": "1h 30m",
+    "year": "2018",
+    "genres": [
+        "Drama",
+        "Romance",
+        "Musical"
+    ],
+    "actors": [
+        "Sarah Jessica Parker",
+        "Simon Baker",
+        "Jacqueline Bisset",
+        "Common",
+        "Taylor Kinney",
+        "Renée Zellweger",
+        "Waleed Zuaiter",
+        "Gus Birney",
+        "Phillipa Soo"
+    ],
+    "description": "Vivienne, una cantante de jazz neoyorkina, recibe un nefasto diagnóstico que le hace ver sus sueños y su vida en perspectiva.",
+    "cover": "https://cuevana.pizza/resize/###/storage/25488/PPCZVwQ67HD5qdfULPFyFNdVkgH4oUlM5dkzKHyA.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQteDg3M3ZwODlydWdoLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLXcxM2VhYzFpYm5vNC5odG1s"
+            ]
+        },
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtdXFmeWdzNjloMXJjLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLTJtZGwzZG93aW9kbC5odG1s"
+            ]
+        }
+    ],
+    "downloads": []
+}

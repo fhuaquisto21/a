@@ -1,0 +1,57 @@
+{
+    "url": "https://cuevana.pizza/pelicula/la-bestia",
+    "title": "La Bestia",
+    "duration": "1h 30m",
+    "year": "2020",
+    "genres": [
+        "Accion",
+        "Drama",
+        "Suspenso",
+        "Crimen"
+    ],
+    "actors": [
+        "Andrea Pennacchi",
+        "Fabrizio Gifuni",
+        "Monica Piseddu",
+        "Lino Musella"
+    ],
+    "description": "Leonida Riva es un veterano de guerra -sombrío y solitario- que alguna vez fue capitán de las fuerzas especiales del ejército. La vida y el trabajo han separado a Riva de su familia. Su hijo mayor, Mattia, nunca lo ha perdonado mientras que su hija, Teresa, lo ama incondicionalmente. Sin embargo, un trágico suceso obligará a Leonida a transformarse 'la bestia' que pensó que había enterrado en el pasado.",
+    "cover": "https://cuevana.pizza/resize/###/storage/44488/QBoEqfb9sZzyswb6BhsGNVtVuo3IOF6QQJtpfWpi.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtMGh5MjkzY3QwaTc1Lmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLWxpbHZlYmoxbWg3aS5odG1s"
+            ]
+        },
+        {
+            "type": "cas",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtYWI4aXNpYjh4ZjFzLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLXdhNDlyZDkyMjN0Ny5odG1s"
+            ]
+        },
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtbGEwbGEwYTI2cTR6Lmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLW5jOGt0NmplNXA3eC5odG1s"
+            ]
+        }
+    ],
+    "downloads": [
+        {
+            "url": "https://1fichier.com/?qbhfs6zbnwoz84skp2i7",
+            "type": "la"
+        },
+        {
+            "url": "https://1fichier.com/?vlillg41570kew67gh7m",
+            "type": "es"
+        },
+        {
+            "url": "https://1fichier.com/?zfqpvrwgmrrt1rspvj11",
+            "type": "en"
+        }
+    ]
+}

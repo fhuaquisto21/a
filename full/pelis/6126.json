@@ -1,0 +1,57 @@
+{
+    "url": "https://cuevana.pizza/pelicula/el-regreso-de-mary-poppins",
+    "title": "El regreso de Mary Poppins",
+    "duration": "2h 10m",
+    "year": "2018",
+    "genres": [
+        "Comedia",
+        "Fantasia",
+        "Familia",
+        "Musical"
+    ],
+    "actors": [
+        "Ben Whishaw",
+        "Emily Blunt",
+        "Emily Mortimer",
+        "Lin-Manuel Miranda"
+    ],
+    "description": "Mary Poppins es la niñera casi perfecta, con unas extraordinarias habilidades mágicas para convertir una tarea rutinaria en una aventura inolvidable y fantástica. Esta nueva secuela, vuelve para ayudar a la siguiente generación de la familia Banks a encontrar la alegría y la magia que faltan en sus vidas después de una trágica pérdida personal. La niñera viene acompañada de su amigo Jack, un optimista farolero que ayuda a llevar la luz -y la vida- a las calles de Londres.",
+    "cover": "https://cuevana.pizza/resize/###/storage/42065/aUm2zeDxI2VCMTWg9QMZ2XlgLCjMeZGpHdxLmSbw.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtMmExaWdwdmc0MzRuLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLXBuczR5MG1ibGp4aS5odG1s"
+            ]
+        },
+        {
+            "type": "cas",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQteDB6ZXkybXluaTZtLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLTNsbDc1N2czNWdrdi5odG1s"
+            ]
+        },
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtNzA1aThvOG1pMWkyLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLWQ0aTJxZXVsdnBoOC5odG1s"
+            ]
+        }
+    ],
+    "downloads": [
+        {
+            "url": "https://1fichier.com/?ky6t2q6kqw93fbqk1vmt",
+            "type": "la"
+        },
+        {
+            "url": "https://1fichier.com/?ylsf9shdn3d4h05cok2n",
+            "type": "es"
+        },
+        {
+            "url": "https://1fichier.com/?63a2qdauxfc70cwfab0f",
+            "type": "en"
+        }
+    ]
+}

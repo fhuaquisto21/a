@@ -1,0 +1,44 @@
+{
+    "url": "https://cuevana.pizza/pelicula/jackals",
+    "title": "Jackals",
+    "duration": "1h 26m",
+    "year": "2017",
+    "genres": [
+        "Suspenso",
+        "Terror"
+    ],
+    "actors": [
+        "Deborah Kara Unger",
+        "Johnathon Schaech",
+        "Nick Roux",
+        "Stephen Dorff"
+    ],
+    "description": "Ambientada en los 80, un experto consigue rescatar al hijo de la familia, que está metido en una secta, pero los miembros de ésta no renunciarán a él y asediarán a la familia.",
+    "cover": "https://cuevana.pizza/resize/###/storage/25364/jfBhITfN5W3KDe2zlnav6qbC0Qa42D5MjXkH6tYg.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtYjlhZHN6cWs5MGl6Lmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLTF2bGRhdmMxanE4NC5odG1s"
+            ]
+        },
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtMHBmcnZ1a2p3aXA1Lmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLWQ5bW05eDdvbHR6eS5odG1s"
+            ]
+        }
+    ],
+    "downloads": [
+        {
+            "url": "https://1fichier.com/?7g8yzlak6bbgji11zum2",
+            "type": "la"
+        },
+        {
+            "url": "https://1fichier.com/?zeijsjzfjszoi1aqub4j",
+            "type": "en"
+        }
+    ]
+}

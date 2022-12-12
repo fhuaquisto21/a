@@ -1,0 +1,41 @@
+{
+    "url": "https://cuevana.pizza/pelicula/a-demon-within",
+    "title": "A Demon Within",
+    "duration": "1h 31m",
+    "year": "2017",
+    "genres": [
+        "Drama",
+        "Romance",
+        "Terror"
+    ],
+    "actors": [
+        "Charlene Amoia",
+        "Clint Glenn Hummel",
+        "Patricia Ashley",
+        "Michael Ehlers",
+        "Cole Crawford",
+        "Veronika Bonell",
+        "David Sweetman",
+        "Laura Ann Parry",
+        "Tim Jenkins"
+    ],
+    "description": "Un médico de un pequeño pueblo se verá obligado a afrontar sus demonios personales para salvar a una niña que ha sido poseída.",
+    "cover": "https://cuevana.pizza/resize/###/storage/35597/HSFXKcSjGel5WPIP2LdAe7NdpWCDPqOoGQcUeh2v.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtZzNycDZyaXAxOGJsLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLTR0b21panNubG5hMC5odG1s"
+            ]
+        },
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtMWluMGNhd3RzYmNjLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLXM4cjVrdHo0YzB3NS5odG1s"
+            ]
+        }
+    ],
+    "downloads": []
+}

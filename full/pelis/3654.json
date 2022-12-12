@@ -1,0 +1,57 @@
+{
+    "url": "https://cuevana.pizza/pelicula/mi-nina-1",
+    "title": "Mi niña",
+    "duration": "1h 27m",
+    "year": "2019",
+    "genres": [
+        "Comedia",
+        "Drama"
+    ],
+    "actors": [
+        "Sandrine Kiberlain",
+        "Thaïs Alessandrin",
+        "Victor Belmondo",
+        "Mickaël Lumière",
+        "Camille Claris",
+        "Kyan Khojandi",
+        "Arnaud Valois",
+        "Patrick Chesnais",
+        "Yvan Attal",
+        "Marie Bouvet",
+        "Mila Ayache",
+        "Victor Peeters",
+        "Lya Oussadit-Lessert",
+        "Arthur Benzaquen",
+        "Sarah Deffeyes",
+        "Mariama Gueye",
+        "Claire Viville"
+    ],
+    "description": "Heloise es la madre de tres hijos. Jade, su \"hija pequeña\", acaba de cumplir dieciocho años y pronto abandonará el nido para continuar sus estudios en Canadá. A medida que se acerca la partida de Jade, el estrés de Heloise aumenta y recuerda sus momentos compartidos con ella.",
+    "cover": "https://cuevana.pizza/resize/###/storage/20831/aG8sG7UTEAvmaXz01pbhebdFH4nBtbm8AprCtx9C.jpg",
+    "players": [
+        {
+            "type": "cas",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtNW92NXcybzM4bzQ3Lmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLXo1dXFqc2F3MnZjdi5odG1s"
+            ]
+        },
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtcmZxaGlsYWJjeHRlLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLTE4NDcyaThzM2wyZC5odG1s"
+            ]
+        }
+    ],
+    "downloads": [
+        {
+            "url": "https://1fichier.com/?bb6i5mjn74215yoqjtjd",
+            "type": "es"
+        },
+        {
+            "url": "https://1fichier.com/?tp56allrgkdiv4r2ru88",
+            "type": "en"
+        }
+    ]
+}

@@ -1,0 +1,51 @@
+{
+    "url": "https://cuevana.pizza/pelicula/woodlawn",
+    "title": "Woodlawn",
+    "duration": "2h 3m",
+    "year": "2015",
+    "genres": [
+        "Drama",
+        "Deportes"
+    ],
+    "actors": [
+        "C. Thomas Howell",
+        "Sean Astin",
+        "Jon Voight",
+        "Virginia Williams",
+        "Brando Eaton",
+        "Sherri Shepherd",
+        "Nic Bishop",
+        "Caleb Castille",
+        "Kelly Greyson",
+        "Rhoda Griffis",
+        "Marcus Henderson",
+        "Joy Brunson",
+        "Lance E. Nichols",
+        "Kevin Sizemore",
+        "DeVon Franklin",
+        "Brett Rice",
+        "Richard Kohnke",
+        "Jet Jurgensmeyer",
+        "Kirk B.R. Woller",
+        "Blake Burgess"
+    ],
+    "description": "En el año 1973, un renacer espiritual consiguió que el entrenador y casi todos los jugadores de fútbol americano de un equipo de instituto, el Woodlawn, consiguieran superar sus diferencias de racismo y odio.",
+    "cover": "https://cuevana.pizza/resize/###/storage/27266/PgHjG6WhX7XVq1t2u3zhYXSEMFOQOenaFDeT3PKN.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQteTkwdGx4OHg2OWFkLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLXdxaW5qZWR5dnRiai5odG1s"
+            ]
+        },
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtYnJsdTB4NXdneTFuLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLW9ueHVjeTJqamJvdS5odG1s"
+            ]
+        }
+    ],
+    "downloads": []
+}

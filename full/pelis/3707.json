@@ -1,0 +1,61 @@
+{
+    "url": "https://cuevana.pizza/pelicula/friends-la-reunion",
+    "title": "Friends: La Reunión",
+    "duration": "1h 43m",
+    "year": "2021",
+    "genres": [
+        "Comedia",
+        "Romance"
+    ],
+    "actors": [
+        "Jennifer Aniston",
+        "Courteney Cox",
+        "Lisa Kudrow",
+        "David Schwimmer",
+        "Matthew Perry",
+        "Matt LeBlanc",
+        "James Corden",
+        "Maggie Wheeler",
+        "Tom Selleck",
+        "Christina Pickles"
+    ],
+    "description": "Un especial de reunión sin guión con el elenco original de la exitosa comedia de NBC \"Friends\".",
+    "cover": "https://cuevana.pizza/resize/###/storage/7371/jffcgKOcLSEbfzVJNYXkTukDiqwGjPhqHL6h0j75.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtbTM2cng2OWp0anV3Lmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLW5ib2RqYm51anluai5odG1s"
+            ]
+        },
+        {
+            "type": "cas",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtczJsbTdpZXk2dzNrLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLXB6enlqY3Fpenh3MS5odG1s"
+            ]
+        },
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtM2ZseTJxc2tzNXAyLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLTA3cGNxcmJpNm4zcC5odG1s"
+            ]
+        }
+    ],
+    "downloads": [
+        {
+            "url": "https://1fichier.com/?61pl2gq7ea5x09qhs931",
+            "type": "la"
+        },
+        {
+            "url": "https://1fichier.com/?fhh9ka31n7iaaleuitu7",
+            "type": "es"
+        },
+        {
+            "url": "https://1fichier.com/?xyai46minsssqvko9fs2",
+            "type": "en"
+        }
+    ]
+}

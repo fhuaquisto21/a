@@ -1,0 +1,58 @@
+{
+    "url": "https://cuevana.pizza/pelicula/la-llamada-3",
+    "title": "El aro 3",
+    "duration": "1h 57m",
+    "year": "2017",
+    "genres": [
+        "Drama",
+        "Terror"
+    ],
+    "actors": [
+        "Matilda Anna Ingrid Lutz",
+        "Alex Roe",
+        "Johnny Galecki",
+        "Vincent D'Onofrio",
+        "Aimee Teegarden",
+        "Bonnie Morgan",
+        "Chuck David Willis",
+        "Patrick R. Walker",
+        "Zach Roerig",
+        "Laura Slade Wiggins",
+        "Lizzie Brocheré",
+        "Drew Grey",
+        "Kayli Carter",
+        "Jill Jane Clements",
+        "Andrea Laing",
+        "Surely Alvelo",
+        "Adam Fristoe",
+        "Andrea Powell",
+        "Michael Edwin Neil Sanders",
+        "Chris Greene"
+    ],
+    "description": "Precuela de 'The Ring', que contará como una joven mujer se preocupa por su novio cuando él decide explorar una oscura subcultura cuyo centro de atención es una misteriosa cinta de video que, aparentemente, mata al observador siete días después de que éste la ha visto. La joven se sacrifica para salvar a su novio y al mismo tiempo hace un terrible descubrimiento: hay una \"película dentro de la película\" que nadie ha visto antes",
+    "cover": "https://cuevana.pizza/resize/###/storage/19589/zjgacIsi9n7X8fdlFOxcXiJrVToQN5OfOk5zpP39.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtM2NsenV3b2oyMTFlLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLWUybWNxaWFreWppdy5odG1s"
+            ]
+        },
+        {
+            "type": "cas",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtdzg2bjkwYWNmeTdjLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLWRlNW4ya29xMm9jNC5odG1s"
+            ]
+        },
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtaWEyN2V2c3UxeHR2Lmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLXZvOTVjcXl5azhzci5odG1s"
+            ]
+        }
+    ],
+    "downloads": []
+}

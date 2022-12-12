@@ -1,0 +1,71 @@
+{
+    "url": "https://cuevana.pizza/pelicula/john-wick-otro-dia-para-matar",
+    "title": "John Wick (Otro día para matar)",
+    "duration": "1h 41m",
+    "year": "2014",
+    "genres": [
+        "Accion",
+        "Suspenso"
+    ],
+    "actors": [
+        "Keanu Reeves",
+        "Michael Nyqvist",
+        "Alfie Allen",
+        "Adrianne Palicki",
+        "Bridget Moynahan",
+        "Dean Winters",
+        "Lance Reddick",
+        "Toby Leonard Moore",
+        "Ian McShane",
+        "John Leguizamo",
+        "Willem Dafoe",
+        "Omer Barnea",
+        "Daniel Bernhardt",
+        "Bridget Regan",
+        "Keith Jardine",
+        "Tait Fletcher",
+        "Kazy Tauginas",
+        "Thomas Sadoski",
+        "Randall Duk Kim",
+        "David Patrick Kelly"
+    ],
+    "description": "John Wick es un antiguo asesino a sueldo de Nueva York que se había retirado de la profesión después de perder a su esposa. Pero, al descubrir la oscura trama que la mafia había planeado para acabar con él, arrebatándole lo que más quería, volverá a introducirse en el negocio, esta vez por su cuenta, para vengarse.",
+    "cover": "https://cuevana.pizza/resize/###/storage/19832/a9dJ9yPWKQ8v6EUx8D4kCFy6jIipkkRlRhXgbaDT.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtZ2Ntb292MnBzd2RkLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLWQ2bGJ3dnFoY3Y5ci5odG1s"
+            ]
+        },
+        {
+            "type": "cas",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtbmZ0a2xtOHc2bmNsLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLXl6d2drczRuZWxpYi5odG1s"
+            ]
+        },
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtYjZmMWlsOHpxNXg4Lmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLXo4eXIzeGEzc2U2MS5odG1s"
+            ]
+        }
+    ],
+    "downloads": [
+        {
+            "url": "https://1fichier.com/?s3t49k6we84r4jd8jnet",
+            "type": "la"
+        },
+        {
+            "url": "https://1fichier.com/?17wzjsnamb8cjbpzlmll",
+            "type": "es"
+        },
+        {
+            "url": "https://1fichier.com/?6xtt8isinn4dhl8zfv37#Synchronization+Service",
+            "type": "en"
+        }
+    ]
+}

@@ -1,0 +1,42 @@
+{
+    "url": "https://cuevana.pizza/pelicula/heart-shot",
+    "title": "Heart Shot",
+    "duration": "19m",
+    "year": "2022",
+    "genres": [
+        "Romance",
+        "Crimen"
+    ],
+    "actors": [
+        "Elena Heuzé",
+        "Nia Sondaya"
+    ],
+    "description": "Las adolescentes Nikki y Sam están enamoradas y planean su futuro juntas, hasta que el peligroso pasado de Nikki regresa para amenazarlo todo.",
+    "cover": "https://cuevana.pizza/resize/###/storage/14736/HEv9sifrgM55II3vu1IQNoUlDznTFKQayth7jE5D.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtMHRjcHNydmwycHdsLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLWR1bDBxcmlmeG9wdC5odG1s"
+            ]
+        },
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtNXd1bWVtYjcwY3RyLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLTJtNmZra3J5NjRqaC5odG1s"
+            ]
+        }
+    ],
+    "downloads": [
+        {
+            "url": "https://1fichier.com/?8o51vvpbak1b630t85ie",
+            "type": "la"
+        },
+        {
+            "url": "https://1fichier.com/?4ok81k0zwrrm0j9jheg7",
+            "type": "en"
+        }
+    ]
+}

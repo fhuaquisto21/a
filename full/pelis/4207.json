@@ -1,0 +1,53 @@
+{
+    "url": "https://cuevana.pizza/pelicula/la-celula",
+    "title": "La celda",
+    "duration": "1h 47m",
+    "year": "2000",
+    "genres": [
+        "Suspenso",
+        "Terror",
+        "Ciencia Ficcion"
+    ],
+    "actors": [
+        "Jennifer Lopez",
+        "Vincent D'Onofrio",
+        "Vince Vaughn",
+        "Catherine Sutherland",
+        "James Gammon",
+        "Colton James",
+        "Dylan Baker",
+        "Marianne Jean-Baptiste",
+        "Gerry Becker",
+        "Musetta Vander",
+        "Patrick Bauchau",
+        "Jake Weber",
+        "Dean Norris",
+        "Tara Subkoff",
+        "Lauri Johnson",
+        "John Cothran",
+        "Jr.",
+        "Jack Conley",
+        "Kamar de los Reyes",
+        "Pruitt Taylor Vince",
+        "Peter Sarsgaard"
+    ],
+    "description": "Catharine Deane es una psicoterapeuta que forma parte de un nuevo tratamiento revolucionario que permite que su mente entre literalmente en la mente de sus pacientes. Su experiencia en este método da un giro inesperado cuando un agente del FBI viene a pedir un favor desesperado. Acababan de localizar a un famoso asesino en serie, Carl Stargher, cuyo método de operación es secuestrar a las mujeres de una en una y ubicarlas en un área secreta donde permanecen durante unas cuarenta horas hasta que se ahogan lentamente. Desafortunadamente, el asesino ha caído en un coma irreversible, lo que significa que no puede confesar dónde ha llevado a su última víctima antes de que ella muera. Ahora, Catherine Deane debe competir contra el tiempo para explorar la mente retorcida del asesino para obtener la información que necesita, pero la personalidad dañada de Stargher plantea peligros que amenazan con abrumarla.",
+    "cover": "https://cuevana.pizza/resize/###/storage/29351/RxIIKsTAcPjhrG9ElsiT2zI3Y9molQps13wYFSxa.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtNGM4ejRiZWRuamM3Lmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLWtkcnN2N3M5cTRsbi5odG1s"
+            ]
+        },
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtMWVjZDdzMnV4ZHZpLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLTZxbzNsc3I4aWVlbi5odG1s"
+            ]
+        }
+    ],
+    "downloads": []
+}

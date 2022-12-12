@@ -1,0 +1,51 @@
+{
+    "url": "https://cuevana.pizza/pelicula/respect",
+    "title": "Respect",
+    "duration": "2h 25m",
+    "year": "2021",
+    "genres": [
+        "Drama",
+        "Historia",
+        "Musical"
+    ],
+    "actors": [
+        "Jennifer Hudson",
+        "Forest Whitaker",
+        "Marlon Wayans",
+        "Audra McDonald",
+        "Mary J. Blige",
+        "Marc Maron",
+        "Tituss Burgess",
+        "Saycon Sengbloh",
+        "Hailey Kilgore",
+        "Tate Donovan"
+    ],
+    "description": "El ascenso de la carrera de Aretha Franklin desde una niña cantando en el coro de la iglesia de su padre hasta su estrellato internacional.",
+    "cover": "https://cuevana.pizza/resize/###/storage/12479/qr238HaYvNrgqST1jqU3OeYuyHRJcmVzhH8NwCnN.jpg",
+    "players": [
+        {
+            "type": "cas",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtcGNrYWNjNm1wbWh4Lmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLW5tYnlkeG4yaG1waS5odG1s"
+            ]
+        },
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtdmpxaGI4eGY0amxkLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLXE5cGdicHYwazdjZy5odG1s"
+            ]
+        }
+    ],
+    "downloads": [
+        {
+            "url": "https://1fichier.com/?sa82t4q9fq2b4aw4hhp8",
+            "type": "es"
+        },
+        {
+            "url": "https://1fichier.com/?4q1tqyky6u2v2e7voec8",
+            "type": "en"
+        }
+    ]
+}

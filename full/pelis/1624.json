@@ -1,0 +1,73 @@
+{
+    "url": "https://cuevana.pizza/pelicula/everything-everywhere-all-at-once",
+    "title": "Todo en todas partes al mismo tiempo",
+    "duration": "2h 19m",
+    "year": "2022",
+    "genres": [
+        "Accion",
+        "Comedia",
+        "Ciencia Ficcion",
+        "Aventura"
+    ],
+    "actors": [
+        "Michelle Yeoh",
+        "Stephanie Hsu",
+        "Ke Huy Quan",
+        "James Hong",
+        "Jamie Lee Curtis",
+        "Tallie Medel",
+        "Harry Shum Jr.",
+        "Jenny Slate",
+        "Biff Wiff",
+        "Anthony Molinari",
+        "Peter Banifaz",
+        "Audrey Wasilewski",
+        "Andy Le",
+        "Brian Le",
+        "Daniel Scheinert",
+        "Sunita Mani",
+        "Aaron Lazar",
+        "Li Jing",
+        "Panuvat Anthony Nanakornpanom",
+        "Dylan Henry Lau"
+    ],
+    "description": "Una anciana inmigrante china se ve envuelta en una loca aventura, donde solo ella puede salvar lo que es importante para ella al conectarse con las vidas que podría haber llevado en otros universos.",
+    "cover": "https://cuevana.pizza/resize/###/storage/29201/GkYPa7NCkg6wvH0rnLWPFRUDyMm2aV6XROabzaZk.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtNWhwZDVhbGVqYWRpLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLTk1bHFpa3BkcXhvYS5odG1s"
+            ]
+        },
+        {
+            "type": "cas",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtcmg3cjhpNnpkb2VpLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLWMzZDJ5ZWRvbG54OC5odG1s"
+            ]
+        },
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtbW8xcTRuYXNsOXljLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLTNpNnZoMmdwc2RhZi5odG1s"
+            ]
+        }
+    ],
+    "downloads": [
+        {
+            "url": "https://1fichier.com/?ui2wltfuiplw9vi6spto&af",
+            "type": "la"
+        },
+        {
+            "url": "https://1fichier.com/?eusapo7afzglk4tghcs9",
+            "type": "es"
+        },
+        {
+            "url": "https://1fichier.com/?2l6r1vx6xmo054r1o8g8",
+            "type": "en"
+        }
+    ]
+}

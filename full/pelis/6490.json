@@ -1,0 +1,46 @@
+{
+    "url": "https://cuevana.pizza/pelicula/berlin-falling",
+    "title": "Berlin Falling",
+    "duration": "1h 31m",
+    "year": "2017",
+    "genres": [
+        "Suspenso"
+    ],
+    "actors": [
+        "Tom Wlaschiha",
+        "Ken Duken",
+        "Marisa Leonie Bach",
+        "Tim Wilde",
+        "Kida Khodr Ramadan",
+        "Ricardo Ewert",
+        "Amelie Plaas-Link"
+    ],
+    "description": "Cuando Frank ofrece cortésmente a Andreas un paseo en coche por Berlín no es consciente de que su decisión terminará en un violento viaje entre la vida y la muerte.",
+    "cover": "https://cuevana.pizza/resize/###/storage/26183/RCqc8WodSoJB7ZPG9EaR3rTAc3ERxH4UG0ZN27EV.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtNGl5d3U3eWFxeG53Lmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLWR2dmppazlldXAwYy5odG1s"
+            ]
+        },
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtMXdxcW01czR6endiLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLTk0YWlqNHUyZGlrNy5odG1s"
+            ]
+        }
+    ],
+    "downloads": [
+        {
+            "url": "https://1fichier.com/?akie5tnsk5z6oh94m6ad",
+            "type": "la"
+        },
+        {
+            "url": "https://1fichier.com/?h8vi9rdmy6lnwrlyamnf",
+            "type": "en"
+        }
+    ]
+}

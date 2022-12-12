@@ -1,0 +1,44 @@
+{
+    "url": "https://cuevana.pizza/pelicula/pulp-fiction",
+    "title": "Pulp Fiction",
+    "duration": "2h 34m",
+    "year": "1994",
+    "genres": [
+        "Drama",
+        "Crimen"
+    ],
+    "actors": [
+        "John Travolta",
+        "Samuel L. Jackson",
+        "Uma Thurman",
+        "Bruce Willis",
+        "Ving Rhames",
+        "Harvey Keitel",
+        "Eric Stoltz",
+        "Tim Roth",
+        "Amanda Plummer",
+        "Maria de Medeiros",
+        "Quentin Tarantino",
+        "Christopher Walken",
+        "Rosanna Arquette",
+        "Peter Greene",
+        "Duane Whitaker",
+        "Angela Jones",
+        "Phil LaMarr",
+        "Steve Buscemi",
+        "Bronagh Gallagher",
+        "Laura Lovelace"
+    ],
+    "description": "Jules y Vincent, dos asesinos a sueldo con muy pocas luces, trabajan para Marsellus Wallace. Vincent le confiesa a Jules que Marsellus le ha pedido que cuide de Mia, su mujer. Jules le recomienda prudencia porque es muy peligroso sobrepasarse con la novia del jefe. Cuando llega la hora de trabajar, ambos deben ponerse manos a la obra. Su misión: recuperar un misterioso maletín.",
+    "cover": "https://cuevana.pizza/resize/###/storage/30033/roT4dMEpNteX7qFunu0mSycJU23RtmlkUfmrNswu.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtZHJ5bmZmeDg0dzljLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLW1ndjl5anhjZWM2MS5odG1s"
+            ]
+        }
+    ],
+    "downloads": []
+}

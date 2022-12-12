@@ -1,0 +1,51 @@
+{
+    "url": "https://cuevana.pizza/pelicula/noche-de-fin-de-ano",
+    "title": "Noche de fin de año",
+    "duration": "1h 53m",
+    "year": "2011",
+    "genres": [
+        "Comedia",
+        "Romance"
+    ],
+    "actors": [
+        "Robert De Niro",
+        "Michelle Pfeiffer",
+        "Hilary Swank",
+        "Jessica Biel",
+        "Zac Efron",
+        "Ashton Kutcher",
+        "Halle Berry",
+        "Jon Bon Jovi",
+        "Katherine Heigl",
+        "Carla Gugino",
+        "Sarah Jessica Parker",
+        "Lea Michele",
+        "Josh Duhamel",
+        "Sofía Vergara",
+        "Abigail Breslin",
+        "Seth Meyers",
+        "Sarah Paulson",
+        "Til Schweiger",
+        "Alyssa Milano",
+        "Cary Elwes"
+    ],
+    "description": "El director Garry Marshall dará la bienvenida al año nuevo con una comedia romántica. Muestra la celebración de las fiestas, el amor,la esperanza,las segundas oportunidades,el futuro que se anhela, a través de historias entrelazadas. Personas solteras o con pajeras en distintas situaciones de la vida. Todo se desarrolla en 24 hs del 31 de diciembre en la ciudad de New York.",
+    "cover": "https://cuevana.pizza/resize/###/storage/28910/97oVi5bdi5IkYYyAit46hwHsxpqLRixAQsr7fQ4z.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtZm1kNHZ5dGg1Y29kLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLWJlYmZmMDR6YXE4aC5odG1s"
+            ]
+        },
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtOWIxeDY2NXJyMHptLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLWVzaXZsYjgzb3oxay5odG1s"
+            ]
+        }
+    ],
+    "downloads": []
+}

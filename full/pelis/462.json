@@ -1,0 +1,49 @@
+{
+    "url": "https://cuevana.pizza/pelicula/the-alpha-test",
+    "title": "The Alpha Test",
+    "duration": "1h 27m",
+    "year": "2021",
+    "genres": [
+        "Suspenso",
+        "Ciencia Ficcion"
+    ],
+    "actors": [
+        "Rae Hunt",
+        "Wynn Reichert",
+        "David Ditmore",
+        "Brad Belemjian",
+        "Alice Raver",
+        "Bella Martin",
+        "Mack Bayda",
+        "Lacy Hartselle",
+        "Deborah Seidel"
+    ],
+    "description": "Una familia de ciudad lleva a su nuevo dispositivo, The Alpha Home Assistant, a una espiral asesina después de maltratarlo y abusar de él, lo que lleva al I.A. al levantamiento.",
+    "cover": "https://cuevana.pizza/resize/###/storage/51959/DjVZnlwW9QmnSkueKId7g6nLmoljTYB6RaOV2v2B.jpg",
+    "players": [
+        {
+            "type": "cas",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtbHN6b3Rlc2pwb2l6Lmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLTFhcjBlMXkzc3RoMi5odG1s"
+            ]
+        },
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtMm5lNzlsYmxoM2RyLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLTV5MTJtMDhjOXF4ZS5odG1s"
+            ]
+        }
+    ],
+    "downloads": [
+        {
+            "url": "https://1fichier.com/?o1erol28tifpuygrx4r2",
+            "type": "es"
+        },
+        {
+            "url": "https://1fichier.com/?p16w19y4lhm0hgq5zxtl",
+            "type": "en"
+        }
+    ]
+}

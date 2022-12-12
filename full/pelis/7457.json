@@ -1,0 +1,59 @@
+{
+    "url": "https://cuevana.pizza/pelicula/jane-got-a-gun",
+    "title": "La venganza de Jane",
+    "duration": "1h 38m",
+    "year": "2015",
+    "genres": [
+        "Accion",
+        "Drama",
+        "Occidental"
+    ],
+    "actors": [
+        "Natalie Portman",
+        "Joel Edgerton",
+        "Ewan McGregor",
+        "Noah Emmerich",
+        "Boyd Holbrook",
+        "Rodrigo Santoro",
+        "Alex Manette",
+        "Todd Stashwick",
+        "James Burnett",
+        "Sam Quinn",
+        "River Shields",
+        "Chad Brummett",
+        "Boots Southerland",
+        "Nash Edgerton",
+        "Robb Janov",
+        "Maisie McMaster",
+        "Jenny Gabrielle",
+        "Piper Sheets",
+        "Celia Kessler",
+        "Linda Martin"
+    ],
+    "description": "La joven Jane está casada con uno de los tipos más peligrosos del Oeste. Un día su marido regresa a casa con 8 heridas de bala. La banda del cruel Bishop lo ha acribillado. Sobrevive, pero sabe que es cuestión de tiempo que Bishop y sus chicos vengan a rematar la faena. Jane decidirá no esperar a que venga e ir directamente a por ellos. Con la ayuda de un enemigo acérrimo de su marido, un hombre enamorado de ella, Jane irá a enfrentarse la banda de delincuentes.",
+    "cover": "https://cuevana.pizza/resize/###/storage/26692/fUYbeTRkv7MqZGec7ctfRK1DOmrTiwLLkeUj94aG.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtaGh2aHhzNzdzeXR1Lmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLTFjYzZvcHJncmh5di5odG1s"
+            ]
+        },
+        {
+            "type": "cas",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtbHNybGlhb2xlYzNnLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLWF2Zm92anY5eDNxNy5odG1s"
+            ]
+        },
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtdHdhdXd5Mm11a3NkLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLWk3eHhucjhmcmhpOC5odG1s"
+            ]
+        }
+    ],
+    "downloads": []
+}

@@ -1,0 +1,52 @@
+{
+    "url": "https://cuevana.pizza/pelicula/blade-runner",
+    "title": "Blade Runner",
+    "duration": "1h 57m",
+    "year": "1982",
+    "genres": [
+        "Drama",
+        "Suspenso",
+        "Ciencia Ficcion"
+    ],
+    "actors": [
+        "Harrison Ford",
+        "Rutger Hauer",
+        "Sean Young",
+        "Edward James Olmos",
+        "M. Emmet Walsh",
+        "Daryl Hannah",
+        "William Sanderson",
+        "Brion James",
+        "Joe Turkel",
+        "Joanna Cassidy",
+        "James Hong",
+        "Kevin Thompson",
+        "Hy Pyke",
+        "Kimiko Hiroshige",
+        "Ben Astar",
+        "Dawna Lee Heising",
+        "Alexis Rhee",
+        "Bob Okazaki",
+        "Morgan Paull",
+        "John Edward Allen"
+    ],
+    "description": "A principios del siglo XXI, la Tyrell Corporation desarrolló un nuevo tipo de robot llamado Nexus, un ser virtualmente idéntico al hombre y conocido como Replicante. Los Replicantes Nexus-6 eran superiores en fuerza y agilidad, y al menos iguales en inteligencia, a los ingenieros de genética que los crearon. En el espacio exterior, los Replicantes fueron usados como trabajadores esclavos en la arriesgada exploración y colonización de otros planetas. Después de la sangrienta rebelión de un equipo de combate de Nexus-6 en una colonia sideral, los Replicantes fueron declarados proscritos en la Tierra bajo pena de muerte. Brigadas de policías especiales, con el nombre de Unidades de Blade Runners, tenían órdenes de tirar a matar al ver a cualquier Replicante invasor. A esto no se le llamó ejecución, se le llamó retiro.",
+    "cover": "https://cuevana.pizza/resize/###/storage/19673/tLx2YrE3sDjo0pIQmQ01xL5Da6pnc2eFzDBgQ58j.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtMDAxenc4Y3VkbzhpLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLWV0aTk4NWMybjR2MS5odG1s"
+            ]
+        },
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtN2h4ZmQ5eW0ycnpzLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLWxpbTVjaWtmdjRkay5odG1s"
+            ]
+        }
+    ],
+    "downloads": []
+}

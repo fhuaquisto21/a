@@ -1,0 +1,59 @@
+{
+    "url": "https://cuevana.pizza/pelicula/tove",
+    "title": "Tove",
+    "duration": "1h 56m",
+    "year": "2020",
+    "genres": [
+        "Drama"
+    ],
+    "actors": [
+        "Alma Pöysti",
+        "Krista Kosonen",
+        "Shanti Roney",
+        "Eeva Putro",
+        "Joanna Haartti",
+        "Jakob Öhrman",
+        "Robert Enckell",
+        "Kajsa Ernst",
+        "Wilhelm Enckell",
+        "Liisi Tandefelt",
+        "Emma Klingenberg",
+        "Juhana Ryynänen",
+        "Henrik Wolff",
+        "Dick Idman",
+        "Simon Häger",
+        "Kira-Emmi Pohtokari",
+        "Sanna Langinkoski",
+        "Saga Sarkola",
+        "Jon Henriksen",
+        "Lidia Taavitsainen"
+    ],
+    "description": "Biopic sobre Tove Jansson, que indaga en sus relaciones personales y la creación de los populares libros de los Mumin.",
+    "cover": "https://cuevana.pizza/resize/###/storage/20827/XyZt4fXHXmbHQLGFBOY3RHcTWWozG9AYtUEfcLRo.jpg",
+    "players": [
+        {
+            "type": "cas",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtbm5ybjQ0dTh0OWEwLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLXkxOGF2c3J5a3hiOS5odG1s"
+            ]
+        },
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtb3MyOXdnc3F1Zm01Lmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLWM4bDNiY3QwODJneC5odG1s"
+            ]
+        }
+    ],
+    "downloads": [
+        {
+            "url": "https://1fichier.com/?9e6w3ttgtw5636t3e55z",
+            "type": "es"
+        },
+        {
+            "url": "https://1fichier.com/?kmjioq87i197hwwz6lv7",
+            "type": "en"
+        }
+    ]
+}

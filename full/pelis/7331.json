@@ -1,0 +1,51 @@
+{
+    "url": "https://cuevana.pizza/pelicula/home-sweet-hell",
+    "title": "Hogar Dulce Infierno",
+    "duration": "1h 38m",
+    "year": "2015",
+    "genres": [
+        "Comedia",
+        "Suspenso",
+        "Crimen"
+    ],
+    "actors": [
+        "Katherine Heigl",
+        "Patrick Wilson",
+        "Madison Wolfe",
+        "Jim Belushi",
+        "Jordana Brewster",
+        "Kevin McKidd",
+        "Johnny Hawkes",
+        "Artie Baxter",
+        "Aiden Flowers",
+        "Heath Freeman",
+        "A.J. Buckley",
+        "Bryce Johnson",
+        "Yohance Myles",
+        "Alyshia Ochse",
+        "Brandi Nicole Wilson",
+        "Owen Bourgeois",
+        "Chi McBride",
+        "Catherine Ashton",
+        "Steffie Grote"
+    ],
+    "description": "Don Champagne parece tenerlo todo: un negocio de éxito, una casa perfecta, unos niños perfectos y una esposa ideal...hasta que tiene una aventura con una joven mujer, que empieza a chantajearle a cambio de dinero, amenazando con contárselo a su mujer, bipolar y obsesiva compulsiva.",
+    "cover": "https://cuevana.pizza/resize/###/storage/27284/rKJGk0pslwms1JELsZOtLE9OylMJUIqjUcGyLfEZ.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQteTN6bzl6eHhwZjA4Lmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLTRjZzN5b3F4ZWp0NC5odG1s"
+            ]
+        },
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtaGZrOW15bnA3NnBqLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLXJ5eHp6am05YXZqaC5odG1s"
+            ]
+        }
+    ],
+    "downloads": []
+}

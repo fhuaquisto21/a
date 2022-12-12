@@ -1,0 +1,29 @@
+{
+    "url": "https://cuevana.pizza/pelicula/fantasia",
+    "title": "Fantasía",
+    "duration": "2h 0m",
+    "year": "1940",
+    "genres": [
+        "Familia",
+        "Animacion",
+        "Disney"
+    ],
+    "actors": [
+        "Deems Taylor",
+        "Walt Disney",
+        "Julietta Novis",
+        "Leopold Stokowski"
+    ],
+    "description": "Todo un clásico de la Disney, una colección de interpretaciones animadas de grandes obras de música clásica. En \"El Aprendiz de Brujo\" (P. Dukas), Mickey Mouse, discípulo de un mago, se mete en un gran embrollo, pues sus conocimientos de magia son muy limitados. \"La Consagración de la Primavera\" (Stravinsky) cuenta la historia de la evolución, desde los seres unicelulares hasta la extinción de los dinosaurios. \"La Danza de las Horas\" (Ponchielli) es un fragmento de un ballet cómico interpretado por elefantes, hipopótamos, cocodrilos y avestruces. \"Una Noche en el Monte Pelado\" de Mussorgsky y el \"Ave Maria\" de Schubert describen el enfrentamiento entre la oscuridad y la luz.",
+    "cover": "https://cuevana.pizza/resize/###/storage/30184/1yksOy7cuoAmToTOWXNoxZsgb9b8mg1ovBu7nelo.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtOXlpbGF0NWJ1aXN1Lmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLXhuZmZyNjNjNW9nOC5odG1s"
+            ]
+        }
+    ],
+    "downloads": []
+}

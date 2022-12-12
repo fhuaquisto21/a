@@ -1,0 +1,62 @@
+{
+    "url": "https://cuevana.pizza/pelicula/warning",
+    "title": "Warning",
+    "duration": "1h 25m",
+    "year": "2021",
+    "genres": [
+        "Drama",
+        "Suspenso",
+        "Ciencia Ficcion"
+    ],
+    "actors": [
+        "Alex Pettyfer",
+        "Alice Eve",
+        "Annabel Mullion",
+        "Annabelle Wallis",
+        "Benedict Samuel",
+        "Charlotte Le Bon",
+        "Garance Marillier",
+        "Kylie Bunbury",
+        "Patrick Schwarzenegger",
+        "Rupert Everett"
+    ],
+    "description": "Ambientada en un futuro no muy lejano, la obra reflexiona sobre el significado de la vida y la muerte y sobre el sentido de la soledad, intercalando las historias de distintos personajes.",
+    "cover": "https://cuevana.pizza/resize/###/storage/11399/X9z3dhLxI68lj9svH7e9VCpbgBRTpnAMWWrUBW2n.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtMHY2Nm9jdm5zMGJyLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLWF4a3BveW93aGM1My5odG1s"
+            ]
+        },
+        {
+            "type": "cas",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtOXJxMXlkYjg2N3FjLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLTR3MDBmMmNhMXFqdy5odG1s"
+            ]
+        },
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtMmxvZGNtbjd6Y2VyLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLWIweDR2a2JjZHFhbC5odG1s"
+            ]
+        }
+    ],
+    "downloads": [
+        {
+            "url": "https://1fichier.com/?2dw39k0y4d68ah3l67uk",
+            "type": "la"
+        },
+        {
+            "url": "https://1fichier.com/?azzvjvv0jdyvc3pxdbc9",
+            "type": "es"
+        },
+        {
+            "url": "https://1fichier.com/?m2k1yplu8w1u13jqczb0",
+            "type": "en"
+        }
+    ]
+}

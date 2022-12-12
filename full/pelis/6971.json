@@ -1,0 +1,75 @@
+{
+    "url": "https://cuevana.pizza/pelicula/trolls",
+    "title": "Trolls",
+    "duration": "1h 35m",
+    "year": "2016",
+    "genres": [
+        "Comedia",
+        "Aventura",
+        "Fantasia",
+        "Familia",
+        "Animacion",
+        "Musical"
+    ],
+    "actors": [
+        "Anna Kendrick",
+        "Justin Timberlake",
+        "Zooey Deschanel",
+        "Russell Brand",
+        "James Corden",
+        "Gwen Stefani",
+        "Iris Dohrn",
+        "Liam Henry",
+        "Aino Jawo",
+        "Caroline Hjelt",
+        "Ron Funches",
+        "Kunal Nayyar",
+        "Glozell Green",
+        "Meg DeAngelis",
+        "Ricky Dillon",
+        "Kandee Johnson",
+        "Christine Baranski",
+        "John Cleese",
+        "Christopher Mintz-Plasse",
+        "Walt Dohrn"
+    ],
+    "description": "Conocidos por sus pelos de colores, locos y mágicos, los Trolls son las criaturas más felices y alegres que irrumpen en el mundo de la canción. Pero su mundo de arco iris y cupcakes cambiará para siempre cuando su líder Poppy debe embarcarse en una misión de rescate que la llevará muy lejos del único mundo que siempre ha conocido.",
+    "cover": "https://cuevana.pizza/resize/###/storage/3569/skU1yqJgEPmJoERgLyUCakuWJmILNvuairdvfqKD.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtdmdiYzQ2aW5nZnBhLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLW5rcXB2MjZkN3N4cS5odG1s"
+            ]
+        },
+        {
+            "type": "cas",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtY3drcHMyNW9wemx1Lmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLTRocGJ3ZnJzYW9mZS5odG1s"
+            ]
+        },
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtaXplNXYxbWE3amFyLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLWZtc2R6Yno5NDYwbC5odG1s"
+            ]
+        }
+    ],
+    "downloads": [
+        {
+            "url": "https://1fichier.com/?hbasim1lk1iaqb1s1rk3",
+            "type": "la"
+        },
+        {
+            "url": "https://1fichier.com/?7kb255osp7y9e0pb93n4",
+            "type": "es"
+        },
+        {
+            "url": "https://1fichier.com/?uw0ao4c8wau1ypo4ba3c",
+            "type": "en"
+        }
+    ]
+}

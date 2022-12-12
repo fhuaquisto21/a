@@ -1,0 +1,28 @@
+{
+    "url": "https://cuevana.pizza/pelicula/the-cabin",
+    "title": "La Cabaña",
+    "duration": "1h 26m",
+    "year": "2018",
+    "genres": [
+        "Suspenso",
+        "Terror"
+    ],
+    "actors": [
+        "Christopher Lee Page",
+        "Caitlin Crommett",
+        "Thomas Hedengran",
+        "Erik Kammerland"
+    ],
+    "description": "La trama narra como una pareja va a una lejana cabaña para pasar sus vacaciones. Allí se topan con un misterioso hombre, que hará que sus días de descanso se conviertan en una pesadilla.",
+    "cover": "https://cuevana.pizza/resize/###/storage/25124/223J1sxiwgXA0uvQmk14tulCPd99NynxtGe2ewHi.jpg",
+    "players": [
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtd2RsM3BoZHBpZDBpLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLTI2M2F0dnZpdjE5Mi5odG1s"
+            ]
+        }
+    ],
+    "downloads": []
+}

@@ -1,0 +1,51 @@
+{
+    "url": "https://cuevana.pizza/pelicula/demolition",
+    "title": "Demolición",
+    "duration": "1h 41m",
+    "year": "2015",
+    "genres": [
+        "Comedia",
+        "Drama"
+    ],
+    "actors": [
+        "Jake Gyllenhaal",
+        "Naomi Watts",
+        "Chris Cooper",
+        "Judah Lewis",
+        "C.J. Wilson",
+        "Polly Draper",
+        "Malachy Cleary",
+        "Debra Monk",
+        "Heather Lind",
+        "Wass Stevens",
+        "Blaire Brooks",
+        "Ben Cole",
+        "Brendan Dooling",
+        "Madison Arnold",
+        "James Colby",
+        "Alfredo Narciso",
+        "Gregory Haney",
+        "James Young",
+        "Bjorn Dupaty",
+        "Jane Dashow"
+    ],
+    "description": "Un exitoso banquero de inversión lucha después de perder a su esposa en un trágico accidente automovilístico. Con la ayuda de un representante de servicio al cliente y su hijo, comienza a reconstruirse a partir de la demolición de la vida que una vez conoció.",
+    "cover": "https://cuevana.pizza/resize/###/storage/27693/5LXtc6wKGMT0NIxi0srAqWbYFUzfszepHUMKfEon.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtdTAyaTFpcDFqNXlqLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLTlzN2RrYmtnbGw0eS5odG1s"
+            ]
+        },
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtOG02bGlnbDQ0dmNwLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLTlmNXR2YmhzYTdnaC5odG1s"
+            ]
+        }
+    ],
+    "downloads": []
+}

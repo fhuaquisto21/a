@@ -1,0 +1,37 @@
+{
+    "url": "https://cuevana.pizza/pelicula/ghosthunters",
+    "title": "Ghosthunters",
+    "duration": "1h 30m",
+    "year": "2016",
+    "genres": [
+        "Terror"
+    ],
+    "actors": [
+        "Liz Fenning",
+        "Anna Harr",
+        "Stephen Manley",
+        "Aaron Moses",
+        "David O'Donnell",
+        "London Grace",
+        "Francesca Santoro"
+    ],
+    "description": "Cuando uno de ellos pierde su esposa e hija a manos de un asesino en serie, un equipo de cazadores de fantasmas se determina para capturar el espíritu de los seres queridos para que sus espíritus finalmente puede descansar en paz. Pero a medida que el equipo se adentra en la casa, los fantasmas se vuelven más hostiles, y el grupo descubre los verdaderos secretos de la casa y su asesino.",
+    "cover": "https://cuevana.pizza/resize/###/storage/26888/0yKrsz76KUG16k53VyviTsuuI1BkGYwUcmYwg4Oj.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtMW5pbDc2M3I1b2tuLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLXA2MWx2MGxiNGM2ci5odG1s"
+            ]
+        },
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtajZxMHk5anJxdTI3Lmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLXY0MDg3N20za3Z1bC5odG1s"
+            ]
+        }
+    ],
+    "downloads": []
+}

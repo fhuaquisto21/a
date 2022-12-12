@@ -1,0 +1,55 @@
+{
+    "url": "https://cuevana.pizza/pelicula/hogar-a-la-deriva",
+    "title": "Hogar a la deriva",
+    "duration": "2h 0m",
+    "year": "2022",
+    "genres": [
+        "Drama",
+        "Misterio",
+        "Fantasia",
+        "Familia",
+        "Animacion",
+        "Anime"
+    ],
+    "actors": [
+        "Mutsumi Tamura",
+        "Asami Seto",
+        "Ayumu Murase",
+        "Daiki Yamashita",
+        "Yumiko Kobayashi",
+        "Inori Minase",
+        "Kana Hanazawa",
+        "Bin Shimada",
+        "Rikako Aikawa",
+        "Nana Mizuki",
+        "Aya Endo",
+        "Masaaki Ihara",
+        "Junji Tachibana",
+        "Ryunosuke Watanuki",
+        "Anri Tachibana",
+        "Ayano Shibuya",
+        "Minami Iinuma",
+        "Yuki Tanaka",
+        "Yuki Kazu",
+        "Haruna Mikawa"
+    ],
+    "description": "Un día de verano, Kosuke y sus amigos deciden explorar un edificio que será demolido. Pero la aventura resulta ser más extraña de lo que pensaban: mágicamente, aparecen en medio del océano.",
+    "cover": "https://cuevana.pizza/resize/###/storage/52081/XnpuiFVlY5OHAT4kcQjTKnAEEkXK1R2l5Txlsbx8.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtbWRtaWxjcmliajRhLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLTdleW1janY5ZGVwby5odG1s"
+            ]
+        },
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQta2h5dG5kNWdidG10Lmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLXFoY2lhZzBtdGNmMS5odG1s"
+            ]
+        }
+    ],
+    "downloads": []
+}

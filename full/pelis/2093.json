@@ -1,0 +1,70 @@
+{
+    "url": "https://cuevana.pizza/pelicula/monday",
+    "title": "Monday",
+    "duration": "1h 56m",
+    "year": "2021",
+    "genres": [
+        "Drama"
+    ],
+    "actors": [
+        "Sebastian Stan",
+        "Denise Gough",
+        "Yorgos Pirpassopoulos",
+        "Dominique Tipper",
+        "Vangelis Mourikis",
+        "Elli Tringou",
+        "Marisha Triantafyllidou",
+        "Syllas Tzoumerkas",
+        "Orfeas Avgoustidis",
+        "Andreas Konstantinou",
+        "Alexandros Logothetis",
+        "Sofia Kokkali",
+        "Michalis Ikonomou",
+        "Andreas Konstantinou",
+        "Dimitris Kouroubalis",
+        "Chloe Sirene",
+        "Grigoris Sarantis",
+        "Prometheus Aleifer",
+        "Panagos Ioakeim",
+        "Efi Gousi"
+    ],
+    "description": "Un chispazo un viernes puede llevar a un apasionante romance de fin de semana, pero ¿qué pasa cuando se llega al inevitable lunes?",
+    "cover": "https://cuevana.pizza/resize/###/storage/21571/10etEeg3nHTBMYwAonrDuMRUHwXRn2oSGhweWaEj.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtZzMyZHY5MTR5ZWR5Lmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLTh6N256emJ1cXVsbi5odG1s"
+            ]
+        },
+        {
+            "type": "cas",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtNjR5aXN2ODlxeHl0Lmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLXNlYmV4ZDg2OXFpNC5odG1s"
+            ]
+        },
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtenN6b2d5Ym85eWhnLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLXh1aGl0bHhjdGN2dS5odG1s"
+            ]
+        }
+    ],
+    "downloads": [
+        {
+            "url": "https://1fichier.com/?mltdwrb7srlzpg11irqm",
+            "type": "la"
+        },
+        {
+            "url": "https://1fichier.com/?lwrubjm0xinf4ib52bdg",
+            "type": "es"
+        },
+        {
+            "url": "https://1fichier.com/?g2a3g51abcymfgelsws5",
+            "type": "en"
+        }
+    ]
+}

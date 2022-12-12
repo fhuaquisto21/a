@@ -1,0 +1,61 @@
+{
+    "url": "https://cuevana.pizza/pelicula/uncharted",
+    "title": "Uncharted",
+    "duration": "1h 56m",
+    "year": "2022",
+    "genres": [
+        "Accion",
+        "Aventura"
+    ],
+    "actors": [
+        "Tom Holland",
+        "Mark Wahlberg",
+        "Antonio Banderas",
+        "Sophia Ali",
+        "Tati Gabrielle",
+        "Steven Waddington",
+        "Pingi Moli",
+        "Tiernan Jones",
+        "Rudy Pankow",
+        "Pilou Asbæk"
+    ],
+    "description": "Un descendiente del explorador Sir Francis Drake descubre la ubicación de la legendaria ciudad de El Dorado. Con la ayuda de su mentor Victor Sullivan y la ambiciosa periodista Elena Fischer, Nathan Drake trabajará para descubrir sus secretos, mientras sobreviven en una isla llena de piratas, mercenarios, y un misterioso enemigo, se embarcarán en una búsqueda sin precedentes por alcanzar el tesoro antes que sus perseguidores. Adaptación del aclamado videojuego homónimo.",
+    "cover": "https://cuevana.pizza/resize/###/storage/14691/nEk42muduoW9jyHQJietRmzRUjeFPcRAzOZnjHtX.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtdXd1cGp3azg2OHQyLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLWh3d2ZycGZ6bnV4Yy5odG1s"
+            ]
+        },
+        {
+            "type": "cas",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtOWU0cjBmdDA3bjZpLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLXdvYmhsOHhkb2ZlMC5odG1s"
+            ]
+        },
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtemlzbXV6ejU0b3hxLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLTZwYjBiMjFycWgwdi5odG1s"
+            ]
+        }
+    ],
+    "downloads": [
+        {
+            "url": "https://1fichier.com/?mkqnhposzjutjdgqb3pz",
+            "type": "la"
+        },
+        {
+            "url": "https://1fichier.com/?2r96jq1ls904pyms6q0a",
+            "type": "es"
+        },
+        {
+            "url": "https://1fichier.com/?gc0ujpy9dpdrlrhfgczg",
+            "type": "en"
+        }
+    ]
+}

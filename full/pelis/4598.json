@@ -1,0 +1,50 @@
+{
+    "url": "https://cuevana.pizza/pelicula/todo-un-viernes",
+    "title": "Todo en un viernes (Friday)",
+    "duration": "1h 31m",
+    "year": "1995",
+    "genres": [
+        "Comedia"
+    ],
+    "actors": [
+        "Ice Cube",
+        "Chris Tucker",
+        "Nia Long",
+        "Tom 'Tiny' Lister Jr.",
+        "John Witherspoon",
+        "Anna Maria Horsford",
+        "Regina King",
+        "Paula Jai Parker",
+        "Faizon Love",
+        "DJ Pooh",
+        "Tony Cox",
+        "Anthony Johnson",
+        "Bernie Mac",
+        "Meagan Good",
+        "Terri J. Vaughn",
+        "F. Gary Gray",
+        "Reynaldo Rey",
+        "Michael Clarke Duncan",
+        "Kathleen Bradley",
+        "Vickilyn Reynolds"
+    ],
+    "description": "A Craig (Ice Cube) lo han echado del trabajo por un presunto robo, de modo que su único plan para el viernes es pasarse las horas muertas en el porche de su casa con su amigo Smokey (Chris Tucker), que no hace más que fumarse la marihuana que ha de vender. (FILMAFFINITY)",
+    "cover": "https://cuevana.pizza/resize/###/storage/30274/Mi9D6kO1kYfgxciVtsdI1jRyAXshQBaJ7cQTP3wn.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtZnZodmc4c2Z6bjRoLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLW1rczF2ZDUxZXZlcS5odG1s"
+            ]
+        },
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtcHRxNDVjbGcyMDduLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLTJsOHI4emt2OWp5aS5odG1s"
+            ]
+        }
+    ],
+    "downloads": []
+}

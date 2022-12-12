@@ -1,0 +1,31 @@
+{
+    "url": "https://cuevana.pizza/pelicula/survive",
+    "title": "Survive",
+    "duration": "1h 11m",
+    "year": "2021",
+    "genres": [
+        "Suspenso",
+        "Aventura"
+    ],
+    "actors": [
+        "Taylor Girard",
+        "Jennifer Trudrung",
+        "Riya May Atwood",
+        "Adam Burnette",
+        "Blake Watson",
+        "Jack Kickliter",
+        "Stephanie Renee Morgan"
+    ],
+    "description": "En un mundo postapocalíptico del futuro cercano, un padre debe cruzar un paisaje peligroso para reunirse con su esposa e hija.",
+    "cover": "https://cuevana.pizza/resize/###/storage/9806/Mw62Ut1DCfKaE6uSG3d3KECBALyQoJV5mkLemD1E.jpg",
+    "players": [
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtZnp0bHJieTEwdHN1Lmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLXN0YTJhNTVibjhyaS5odG1s"
+            ]
+        }
+    ],
+    "downloads": []
+}

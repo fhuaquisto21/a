@@ -1,0 +1,45 @@
+{
+    "url": "https://cuevana.pizza/pelicula/before-we-go",
+    "title": "Antes de que te Vayas",
+    "duration": "1h 29m",
+    "year": "2014",
+    "genres": [
+        "Comedia",
+        "Drama",
+        "Romance"
+    ],
+    "actors": [
+        "Alice Eve",
+        "Chris Evans",
+        "Emma Fitzpatrick",
+        "John Cullum"
+    ],
+    "description": "Una mujer pierde el tren de la 1:30 de Nueva York a Boston, tras lo cual un músico de la calle pasa la noche tratando de ayudarla a hacer que pueda volver a casa antes de que llegue su marido. A lo largo de la noche aprenden mucho el uno del otro y se enamoran.",
+    "cover": "https://cuevana.pizza/resize/###/storage/15611/2wfnTz6uYf8Y8OIsnTTr9fHyOGmxWdxeDDDzIlJN.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtZXdmdGg5YTVsZjhyLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLWkxN2pxMWxscTNsYS5odG1s"
+            ]
+        },
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtMmFzNzZxZmdlNmVwLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLTY0cGNkdzA1YWZ5by5odG1s"
+            ]
+        }
+    ],
+    "downloads": [
+        {
+            "url": "https://1fichier.com/?ja6jc4igywqplv6vlgck",
+            "type": "la"
+        },
+        {
+            "url": "https://1fichier.com/?2rv3co195b1patbstw6u",
+            "type": "en"
+        }
+    ]
+}

@@ -1,0 +1,57 @@
+{
+    "url": "https://cuevana.pizza/pelicula/who-gets-the-dog",
+    "title": "¿Quién se queda con Wesley?",
+    "duration": "1h 35m",
+    "year": "2016",
+    "genres": [
+        "Comedia"
+    ],
+    "actors": [
+        "Alicia Silverstone",
+        "Ryan Kwanten",
+        "Randall Batinkoff",
+        "Rachel Cerda",
+        "Suzy Brack",
+        "Matty Ryan",
+        "Christine A. Donnelly",
+        "Michele Sweeney Abrams",
+        "Amy J. Carle",
+        "Asta Razma",
+        "Danny Rhodes",
+        "Christopher Kahler",
+        "Scott Silver",
+        "Patrick Zielinski",
+        "Paul Rawson",
+        "Lamar Curtis",
+        "Chris P. Demetriou",
+        "J. Anthony Kopec",
+        "Aaron Blake",
+        "Emer Gomez"
+    ],
+    "description": "Oliva quiere formar una familia, pero su marido, Clay, está ocupado en convertirse en una estrella del hockey. Al borde del divorcio, la pareja no se pone de acuerdo en la custodia de su perro Wesley",
+    "cover": "https://cuevana.pizza/resize/###/storage/28215/Q4tfKhOYDrpuvwbAg5zDfgrNR6kLNi79T1SUtJ87.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtNWNrd3NrZjlucnE2Lmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLWwwcXFuY3J4bHp1dC5odG1s"
+            ]
+        },
+        {
+            "type": "cas",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQta2l3aTM0dTF4N2ZqLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLTdtdzR2cnpjaDduMS5odG1s"
+            ]
+        },
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtc3Z2bzRzc29nOG1hLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLWtrcTQ4cDU3OTlnby5odG1s"
+            ]
+        }
+    ],
+    "downloads": []
+}

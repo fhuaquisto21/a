@@ -1,0 +1,54 @@
+{
+    "url": "https://cuevana.pizza/pelicula/mi-tio-frank",
+    "title": "Mi tío Frank",
+    "duration": "1h 34m",
+    "year": "2020",
+    "genres": [
+        "Drama"
+    ],
+    "actors": [
+        "Sophia Lillis",
+        "Steve Zahn",
+        "Paul Bettany",
+        "Judy Greer"
+    ],
+    "description": "En 1973, una chica de 18 años llamada Beth y su tío Frank se embarcaron en una aventura por carretera que les llevaría de Manhattan a Creekville, en Carolina del Sur, para estar presentes en el funeral del patriarca de su familia. Durante el viaje se une a ellos inesperadamente el amante de Frank, Walid. Juntos, descubrirán el verdadero significado de la familia y de la libertad.",
+    "cover": "https://cuevana.pizza/resize/###/storage/24271/Qle9VoDXwK7QxHh9kAsTt0fwN2l9k7vB1hX7iplw.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtcm8weDFxbTR3YnhpLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLWpiZm55Zmx0Z2tuYS5odG1s"
+            ]
+        },
+        {
+            "type": "cas",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtdXNjNjg2ZGhyeW5jLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLXV0cmkwYmFsZjVjZi5odG1s"
+            ]
+        },
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtaGoxOG5lcnMwNGdvLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLTVmb251Mzk3OTZxdi5odG1s"
+            ]
+        }
+    ],
+    "downloads": [
+        {
+            "url": "https://1fichier.com/?kebqaixav34jkl1oywpd#Synchronization+Service",
+            "type": "la"
+        },
+        {
+            "url": "https://1fichier.com/?y9s3xe8yjk1ht1w9pkiy#Synchronization+Service",
+            "type": "es"
+        },
+        {
+            "url": "https://1fichier.com/?mj8335qox9tic3ejvjlw#Synchronization+Service",
+            "type": "en"
+        }
+    ]
+}

@@ -1,0 +1,61 @@
+{
+    "url": "https://cuevana.pizza/pelicula/una-navidad-en-hollywood",
+    "title": "Una Navidad en Hollywood",
+    "duration": "0h 0m",
+    "year": "2022",
+    "genres": [
+        "Comedia",
+        "Familia",
+        "Navidad"
+    ],
+    "actors": [
+        "Jessika Van",
+        "Josh Swickard",
+        "Missi Pyle",
+        "Anissa Borrego",
+        "Riley Dandy",
+        "Zak Steiner",
+        "Tom Williamson",
+        "Brooke Dillman",
+        "Mark W. Gray"
+    ],
+    "description": "Jessica, se dedica a dirigir películas navideñas con todos sus ingredientes clásicos y en un momento dado, cuando conoce a alguien y las cosas se tuercen, comienza a experimentar en primera persona todos esos ingredientes sobre los que ha hablado en sus pelis millones de veces.",
+    "cover": "https://cuevana.pizza/resize/###/storage/58112/MS9SxSIxPvufNkvDw491LlE0Tme9DN8QCAarkINV.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtbGNnc29yOHhueG0yLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLXdkdnllcWc4ZnN3cy5odG1s"
+            ]
+        },
+        {
+            "type": "cas",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtczJ6ZzhzeWx1amF2Lmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLXAwcWQzcDM3eTZwZy5odG1s"
+            ]
+        },
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtdWtqNmIyNTE5aXpsLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLTRrcWxiNXp1eXIzcy5odG1s"
+            ]
+        }
+    ],
+    "downloads": [
+        {
+            "url": "https://1fichier.com/?bd1bl6szotfu39c2tcvp",
+            "type": "la"
+        },
+        {
+            "url": "https://1fichier.com/?au7e57yrt4rinx95bklj",
+            "type": "es"
+        },
+        {
+            "url": "https://1fichier.com/?feo89k1omtqoeelp8vye",
+            "type": "en"
+        }
+    ]
+}

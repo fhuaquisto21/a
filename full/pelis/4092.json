@@ -1,0 +1,45 @@
+{
+    "url": "https://cuevana.pizza/pelicula/sator",
+    "title": "Sator",
+    "duration": "1h 25m",
+    "year": "2019",
+    "genres": [
+        "Terror"
+    ],
+    "actors": [
+        "Michael Daniel",
+        "Rachel Johnson",
+        "Aurora Lowe",
+        "Gabe Nicholson",
+        "June Peterson",
+        "Wendy Taylor"
+    ],
+    "description": "Aislada en un bosque desolado, una familia rota es observada por Sator, una entidad sobrenatural que intenta reclamarlos.",
+    "cover": "https://cuevana.pizza/resize/###/storage/21002/WiAzsQ9pwnQwXVAhMEZndyeUFwwzBBHcYb2YWsvZ.jpg",
+    "players": [
+        {
+            "type": "cas",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtNTI1NjFuejNibXEzLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLTJwemg1M3llM21zei5odG1s"
+            ]
+        },
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtdXl5cmx5ZWsxZ3EyLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLWFleWdjbGJiN2ZwNy5odG1s"
+            ]
+        }
+    ],
+    "downloads": [
+        {
+            "url": "https://1fichier.com/?te870df9g4vwgdxdf9gs",
+            "type": "es"
+        },
+        {
+            "url": "https://1fichier.com/?jtuh3svs5p24mjmsmbbo",
+            "type": "en"
+        }
+    ]
+}

@@ -1,0 +1,52 @@
+{
+    "url": "https://cuevana.pizza/pelicula/el-poder-de-la-ambicion",
+    "title": "Gold, la gran estafa",
+    "duration": "2h 1m",
+    "year": "2016",
+    "genres": [
+        "Drama",
+        "Suspenso",
+        "Aventura"
+    ],
+    "actors": [
+        "Matthew McConaughey",
+        "Bryce Dallas Howard",
+        "Edgar Ramírez",
+        "Timothy Simons",
+        "Michael Landes",
+        "Stacy Keach",
+        "Rachael Taylor",
+        "Bruce Greenwood",
+        "Craig T. Nelson",
+        "Corey Stoll",
+        "Toby Kebbell",
+        "Macon Blair",
+        "Bill Camp",
+        "Lora Martinez-Cunningham",
+        "Frank Wood",
+        "Adam LeFevre",
+        "Dylan Kenin",
+        "Joshua Harto",
+        "Matthew Page",
+        "Jackamoe Buzzell"
+    ],
+    "description": "Un explorador y un geólogo colaboran para buscar oro en las profundidades de la inexplorada jungla de Indonesia, hallando uno de las minas más importantes de la década.",
+    "cover": "https://cuevana.pizza/resize/###/storage/26890/ISei976GEdP1nqENUMQKuVh9czMVXclL0cxfg3xB.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtNGJvN2ZzOGwzNHRhLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLXpxMnY1YWU1c2k3bS5odG1s"
+            ]
+        },
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtN2c2OGh3dnl1NzgxLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLTQ5NmxucGMzdm9wdC5odG1s"
+            ]
+        }
+    ],
+    "downloads": []
+}

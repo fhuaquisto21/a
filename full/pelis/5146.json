@@ -1,0 +1,73 @@
+{
+    "url": "https://cuevana.pizza/pelicula/yesterday",
+    "title": "Yesterday",
+    "duration": "2h 5m",
+    "year": "2019",
+    "genres": [
+        "Comedia",
+        "Romance",
+        "Fantasia",
+        "Musical"
+    ],
+    "actors": [
+        "Himesh Patel",
+        "Lily James",
+        "Joel Fry",
+        "Ed Sheeran",
+        "Kate McKinnon",
+        "Sanjeev Bhaskar",
+        "Meera Syal",
+        "Harry Michell",
+        "Sophia Di Martino",
+        "Sarah Lancashire",
+        "Justin Edwards",
+        "Alexander Arnold",
+        "Lamorne Morris",
+        "James Corden",
+        "Michael Kiwanuka",
+        "Robert Carlyle",
+        "Karl Theobald",
+        "Vincent Franklin",
+        "Ellise Chappell",
+        "Camilla Rutherford"
+    ],
+    "description": "Ayer todo el mundo conocía a Los Beatles. Hoy Jack (Himesh Patel) es el único que recuerda sus canciones. Este músico que malvive en una pequeña localidad costera de Inglaterra, se ha resignado a renunciar a sus sueños. Pero tras un misterioso apagón en todo el mundo, se despierta en una línea de tiempo alternativa donde nunca existieron Los Beatles. Entonces será su oportunidad de hacerse inmensamente famoso al ritmo de las míticas canciones del cuarteto de Liverpool, eso sí, se arriesgará a perder a Ellie (Lily James), su musa y el amor de su vida.",
+    "cover": "https://cuevana.pizza/resize/###/storage/18292/0HDKekj0jQZj6IbG4Xqw0VZzHRmqgVK8eTPxcJ8h.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQteHR5dTV4cWJ6Zm1mLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLW92dXl1NDExem85di5odG1s"
+            ]
+        },
+        {
+            "type": "cas",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtNTJka3F2a3AwaHI3Lmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLXY5NzI0cXRydjJmbC5odG1s"
+            ]
+        },
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtMTJyc3NlYnN1MjdwLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLWo0Zzk5a25vcmtweS5odG1s"
+            ]
+        }
+    ],
+    "downloads": [
+        {
+            "url": "https://1fichier.com/?nd4hlr0bhr1vn279hh1u",
+            "type": "la"
+        },
+        {
+            "url": "https://1fichier.com/?alyb5rujpmadul1g2xpu",
+            "type": "es"
+        },
+        {
+            "url": "https://1fichier.com/?1tiw4y9gw0ezvmm1q6vn",
+            "type": "en"
+        }
+    ]
+}

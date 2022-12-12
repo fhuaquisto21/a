@@ -1,0 +1,62 @@
+{
+    "url": "https://cuevana.pizza/pelicula/un-romance-con-figaro",
+    "title": "Un romance con Fígaro",
+    "duration": "1h 45m",
+    "year": "2021",
+    "genres": [
+        "Comedia",
+        "Romance",
+        "Musical"
+    ],
+    "actors": [
+        "Danielle Macdonald",
+        "Hugh Skinner",
+        "Joanna Lumley",
+        "Rebecca Benson",
+        "Gary Lewis",
+        "Shazad Latif",
+        "Ian Hanmore",
+        "Bhav Joshi",
+        "Saskia Ashdown",
+        "Sanjeev Kohli"
+    ],
+    "description": "Una amable comedia romántica a la vieja usanza, con triángulo amoroso, lucha por cumplir los sueños y los espectaculares paisajes de las Tierras Altas escocesas como telón de fondo.",
+    "cover": "https://cuevana.pizza/resize/###/storage/14289/z3E23V8mXiMDMLg6ZVNtr2rwI2sk2H288t8gzpi3.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtcWFtNzIwbGc3a3pvLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLWh3YmYwc2l0cTg4ci5odG1s"
+            ]
+        },
+        {
+            "type": "cas",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtMGswZ294NnVtYmpkLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLTM2MGc5c3F1NHJrYy5odG1s"
+            ]
+        },
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtaWFuYW5ibzI4dDRpLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLXR5ZnpsamJmdjd5Zi5odG1s"
+            ]
+        }
+    ],
+    "downloads": [
+        {
+            "url": "https://1fichier.com/?zl3wosv8xr6qczskvrki",
+            "type": "la"
+        },
+        {
+            "url": "https://1fichier.com/?r3dqv6r7cqf6gtxnw6ht",
+            "type": "es"
+        },
+        {
+            "url": "https://1fichier.com/?g5ydaa6xcb3e9hvuyteq",
+            "type": "en"
+        }
+    ]
+}

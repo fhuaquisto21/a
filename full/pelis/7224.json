@@ -1,0 +1,59 @@
+{
+    "url": "https://cuevana.pizza/pelicula/dia-de-heroes",
+    "title": "Día de patriotas",
+    "duration": "2h 10m",
+    "year": "2016",
+    "genres": [
+        "Drama",
+        "Crimen",
+        "Historia"
+    ],
+    "actors": [
+        "Mark Wahlberg",
+        "John Goodman",
+        "J.K. Simmons",
+        "Kevin Bacon",
+        "Michelle Monaghan",
+        "Alex Wolff",
+        "Themo Melikidze",
+        "Michael Beach",
+        "Vincent Curatola",
+        "James Colby",
+        "Jake Picking",
+        "Melissa Benoist",
+        "Jimmy O. Yang",
+        "Chris O'Shea",
+        "Rachel Brosnahan",
+        "Khandi Alexander",
+        "Lana Condor",
+        "Dustin Tucker",
+        "Lucas Thor Kelley",
+        "Martine Assaf"
+    ],
+    "description": "Basada en los hechos que rodearon al atentado sufrido durante la Maratón de Boston de 2013 que dejó un saldo de 3 personas muertas y 282 heridas. Las acciones del Comisionado de la Policía de Boston, Ed Davis, que investigó y cazó a los atacantes luego de una exhaustiva persecución por toda la ciudad.",
+    "cover": "https://cuevana.pizza/resize/###/storage/26866/zM0Zd1OGtnclMYq1bzqUZhhbNo82p0GzH4kBUzO9.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtcjBibDh2NHZjamk2Lmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLW5scWFhNXZwc3kwdy5odG1s"
+            ]
+        },
+        {
+            "type": "cas",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQteWxkbjZpY211cnhuLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLTB0eW9iMXlha3ZnaC5odG1s"
+            ]
+        },
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtbzJ1eGtiam5naXJmLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLWJkaXhqa2N3cTVhOS5odG1s"
+            ]
+        }
+    ],
+    "downloads": []
+}

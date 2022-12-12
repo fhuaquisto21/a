@@ -1,0 +1,48 @@
+{
+    "url": "https://cuevana.pizza/pelicula/los-chicos-estan-bien",
+    "title": "Los chicos están bien",
+    "duration": "1h 46m",
+    "year": "2010",
+    "genres": [
+        "Comedia",
+        "Drama",
+        "Romance"
+    ],
+    "actors": [
+        "Julianne Moore",
+        "Annette Bening",
+        "Mark Ruffalo",
+        "Mia Wasikowska",
+        "Josh Hutcherson",
+        "Yaya DaCosta",
+        "Eric Eisner",
+        "James MacDonald",
+        "Zosia Mamet",
+        "Kunal Sharma",
+        "Eddie Hassell",
+        "Joaquín Garrido",
+        "Rebecca Lawrence Levy",
+        "Lisa Eisner",
+        "Sasha Spielberg",
+        "Margo Victor"
+    ],
+    "description": "Nic (Annette Benning) y Jules (Julianne Moore) son una pareja de lesbianas que viven con sus dos hijos adolescentes: Joni (Mia Wasikowska) y Laser (Josh Hutcherson), ambos fruto de la inseminación artificial. Lo que obsesiona a los dos chicos es conocer a su padre biológico, Paul (Mark Ruffalo), que donó su semen a una clínica cuando era joven. Recién cumplidos los 18 años, Joni se acoge al derecho de solicitar información sobre su padre, y decide llamar a Paul. Ambos jóvenes conciertan una cita, y la primera impresión es positiva, tanto que se lo cuentan a sus madres...",
+    "cover": "https://cuevana.pizza/resize/###/storage/28997/JxBlJVLe4wgsjZDl3eZhHrXt8NeZMARi53JB0JUd.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtZDhnaW8yd2plczFxLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLXJ1cWZ3aHc1OHY0ei5odG1s"
+            ]
+        },
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtb2hyYzd6OTkyYXFyLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLTZ3ZDgxcTFjMWt6aC5odG1s"
+            ]
+        }
+    ],
+    "downloads": []
+}

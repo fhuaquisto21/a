@@ -1,0 +1,50 @@
+{
+    "url": "https://cuevana.pizza/pelicula/american-pie",
+    "title": "American Pie",
+    "duration": "1h 35m",
+    "year": "1999",
+    "genres": [
+        "Comedia"
+    ],
+    "actors": [
+        "Jason Biggs",
+        "Chris Klein",
+        "Thomas Ian Nicholas",
+        "Alyson Hannigan",
+        "Shannon Elizabeth",
+        "Tara Reid",
+        "Eddie Kaye Thomas",
+        "Seann William Scott",
+        "Eugene Levy",
+        "Natasha Lyonne",
+        "Mena Suvari",
+        "Jennifer Coolidge",
+        "Chris Owen",
+        "Eric Lively",
+        "Molly Cheek",
+        "Eli Marienthal",
+        "Tara Subkoff",
+        "Lawrence Pressman",
+        "Clyde Kusatsu",
+        "Christina Milian"
+    ],
+    "description": "Una legión de jóvenes inexpertos viven obsesionados con el sexo opuesto. Jim, uno de ellos, está desesperado porque todavía es virgen. Además, desde que sus padres le sorprendieron viendo películas pornográficas, su situación en casa ha empeorado, porque su bienintencionado padre pretende ocuparse de su educación sexual; en el colegio, las cosas no van mucho mejor: su relación con una chica, gracias a un programa de intercambio, tiene toda la pinta de fracasar. Así que su último recurso se llama Michelle, una integrante de la banda de música que resulta ser todo un prodigio",
+    "cover": "https://cuevana.pizza/resize/###/storage/29842/BBZWFwsPM5l8ZGDjYXJIMhXoQSMqVDAZ1xHbS8sy.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtOG85bWhrMXE4dnRiLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLXFmbGxjdDhidWplcC5odG1s"
+            ]
+        },
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtcXI1c2xrY3dqajR3Lmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLXBkZmhod216OWkwcS5odG1s"
+            ]
+        }
+    ],
+    "downloads": []
+}

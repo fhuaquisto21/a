@@ -1,0 +1,39 @@
+{
+    "url": "https://cuevana.pizza/pelicula/anti-matter",
+    "title": "Anti Matter",
+    "duration": "1h 49m",
+    "year": "2016",
+    "genres": [
+        "Misterio",
+        "Ciencia Ficcion"
+    ],
+    "actors": [
+        "Yaiza Figueroa",
+        "Philippa Carson",
+        "Tom Barber-Duffy",
+        "Noah Maxwell Clarke",
+        "James Farrar",
+        "Yolanda Vazquez",
+        "Casey Lawler",
+        "Harrie Hayes"
+    ],
+    "description": "Una estudiante de Doctorado en Filosofía de Oxford llamada Ana, es incapaz de crear nuevos recuerdos tras haberse expuesto a un experimento cuyo objetivo fue crear un agujero de gusano y viajar a través de él. La trama se desenvuelve mientras Ana trata de comprender su situación y descubrir quien se encuentra detrás de los horrores que acechan su existencia.",
+    "cover": "https://cuevana.pizza/resize/###/storage/26903/O8Bw1MKLVW7ucoxyyfmYNc9q2maVSRhoGQH9kWrs.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtNTV4b3YwZ3dmdnZ6Lmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLXpyMGh1NzYwcXQway5odG1s"
+            ]
+        },
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtYTh2Yjg5YW9jdmNtLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLXNxYXpsdTNxc3R0YS5odG1s"
+            ]
+        }
+    ],
+    "downloads": []
+}

@@ -1,0 +1,56 @@
+{
+    "url": "https://cuevana.pizza/pelicula/welcome-the-stranger",
+    "title": "Welcome the Stranger",
+    "duration": "1h 34m",
+    "year": "2018",
+    "genres": [
+        "Drama",
+        "Misterio"
+    ],
+    "actors": [
+        "Abbey Lee",
+        "Caleb Landry Jones",
+        "Riley Keough",
+        "Rosemary Howard",
+        "John Clofine"
+    ],
+    "description": "Alice llega sin previo aviso a la casa de su hermano distanciado, donde las visiones bizarras, el regreso de la extraña novia de su hermano y la paranoia de Alice y la sospecha obligan a los hermanos a aferrarse a la realidad en medio de extrañas circunstancias.",
+    "cover": "https://cuevana.pizza/resize/###/storage/27543/Ev51Ggs8d3Xhi5V2OVH3kFU5gdck7vFtQW6PQK6k.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtZHZ1aHJhMDJxMHR0Lmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLWhnN2d5Y2ZycWhyOS5odG1s"
+            ]
+        },
+        {
+            "type": "cas",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtM2NwamFuNmR3cGU4Lmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLW90MmdvbTYxamhnOS5odG1s"
+            ]
+        },
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtanM5aDRxaHVjOXlsLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLWRwcXRoaXNsMGJtYi5odG1s"
+            ]
+        }
+    ],
+    "downloads": [
+        {
+            "url": "https://1fichier.com/?xyi1kg9h18muafcwhp6r",
+            "type": "la"
+        },
+        {
+            "url": "https://1fichier.com/?w2t05oq5rvqm9b1p57cx",
+            "type": "es"
+        },
+        {
+            "url": "https://1fichier.com/?o6tkb27z30famkgafw2f",
+            "type": "en"
+        }
+    ]
+}

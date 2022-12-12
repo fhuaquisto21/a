@@ -1,0 +1,41 @@
+{
+    "url": "https://cuevana.pizza/pelicula/star-trek-ii-la-ira-de-khan",
+    "title": "Star Trek II: La ira de Khan",
+    "duration": "1h 52m",
+    "year": "1982",
+    "genres": [
+        "Accion",
+        "Suspenso",
+        "Ciencia Ficcion",
+        "Aventura"
+    ],
+    "actors": [
+        "William Shatner",
+        "Leonard Nimoy",
+        "DeForest Kelley",
+        "Ricardo Montalban",
+        "Kirstie Alley",
+        "Bibi Besch",
+        "Merritt Butrick",
+        "Walter Koenig"
+    ],
+    "description": "Nuevas aventuras del capitán Spock y el resto de la tripulación de la nave Enterprise, que una vez más se atreve a llegar \"donde ningún hombre lo hizo jamás\". Ricardo Montalbán repite su personaje de villano que interpretó en 1967 en el episodio televisivo \"Space Speed\".",
+    "cover": "https://cuevana.pizza/resize/###/storage/4526/s5Y5MvTwPzPP1HsSIMWHaMkAI9yo1ZftRO9hTsSc.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtNjBpdWgxMXQ5bTRvLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLWtjY3N3aXB2c2NmeS5odG1s"
+            ]
+        },
+        {
+            "type": "cas",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtdmFhd2UzaWx0aGFsLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLXU1dDNpbmtkZzd3aC5odG1s"
+            ]
+        }
+    ],
+    "downloads": []
+}

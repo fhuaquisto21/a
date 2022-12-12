@@ -1,0 +1,63 @@
+{
+    "url": "https://cuevana.pizza/pelicula/bambi",
+    "title": "Bambi",
+    "duration": "1h 10m",
+    "year": "1942",
+    "genres": [
+        "Drama",
+        "Familia",
+        "Animacion",
+        "Disney"
+    ],
+    "actors": [
+        "Donnie Dunagan",
+        "Peter Behn",
+        "Stan Alexander",
+        "Cammie King",
+        "Will Wright",
+        "Hardie Albright",
+        "Ann Gillis",
+        "Tim Davis",
+        "Sam Edwards",
+        "Sterling Holloway",
+        "Otis Harlan",
+        "Thelma Boardman",
+        "Clarence Nash",
+        "Marion Darlington"
+    ],
+    "description": "Con los primeros rayos del sol iluminando la pradera, un nuevo príncipe ha nacido en el bosque. Tan pronto como Bambi aprende a dar sus primeros pasos, comienza a jugar con sus nuevos amigos, Tambor, el conejo juguetón, y Flor, la tímida y adorable mofeta. Pero la diversión de patinar sobre el lago helado, de mordisquear las florecillas y de juguetear entre los árboles del bosque será sólo el principio de un largo aprendizaje.",
+    "cover": "https://cuevana.pizza/resize/###/storage/42045/8giLclbTM7sAfemMqQI9Yc3sPjfSWGqKupZOFfZn.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtd3Z1MjNqdnU0bWI0Lmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLTNvb3JhZnFscWluYS5odG1s"
+            ]
+        },
+        {
+            "type": "cas",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtazEwbGozbWdpMTRpLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLTNqdXh2Y2pmdGkycS5odG1s"
+            ]
+        },
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtNjl6b3Z1YTF1M3B4Lmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLW83amVubTRheDJ6cS5odG1s"
+            ]
+        }
+    ],
+    "downloads": [
+        {
+            "url": "https://1fichier.com/?lgx0ttqshzkvsvjeolb7",
+            "type": "la"
+        },
+        {
+            "url": "https://1fichier.com/?89dih1nuiysbs8lqa66k",
+            "type": "es"
+        }
+    ]
+}

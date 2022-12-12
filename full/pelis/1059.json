@@ -1,0 +1,50 @@
+{
+    "url": "https://cuevana.pizza/pelicula/atlantis-el-imperio-perdido",
+    "title": "Atlantis: El imperio perdido",
+    "duration": "1h 35m",
+    "year": "2001",
+    "genres": [
+        "Ciencia Ficcion",
+        "Aventura",
+        "Familia",
+        "Animacion",
+        "Disney"
+    ],
+    "actors": [
+        "Michael J. Fox",
+        "Cree Summer",
+        "James Garner",
+        "Claudia Christian",
+        "Phil Morris",
+        "Leonard Nimoy",
+        "John Mahoney",
+        "Corey Burton",
+        "Don Novello",
+        "Jacqueline Obradors",
+        "Florence Stanley",
+        "David Ogden Stiers",
+        "Natalie Strom",
+        "Jim Varney",
+        "Jim Cummings",
+        "Patrick Pinney"
+    ],
+    "description": "Un joven aventurero llamado Milo encuentra un antiguo diario que contiene pistas de cómo llegar a Atlantis, el mítico reino hundido. Junto a otros intrépidos personajes Milo decide embarcarse en el Ulises, un impresionante submarino, en una arriesgada expedición al fondo del mar.",
+    "cover": "https://cuevana.pizza/resize/###/storage/43375/ycH6BPDc7pafjokchvopWnK6in4kYbTP6xxk5vVW.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQteGxmNGwzZnMwZWE0Lmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLTZhc29reGJuZ3VuZi5odG1s"
+            ]
+        },
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtMTFnNGJ6aGt5NzZlLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLXYzeDRneTNzdmV1aS5odG1s"
+            ]
+        }
+    ],
+    "downloads": []
+}

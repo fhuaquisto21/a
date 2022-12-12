@@ -1,0 +1,46 @@
+{
+    "url": "https://cuevana.pizza/pelicula/iron-man-2",
+    "title": "Iron Man 2",
+    "duration": "2h 5m",
+    "year": "2010",
+    "genres": [
+        "Accion",
+        "Ciencia Ficcion",
+        "Aventura",
+        "Marvel Comics"
+    ],
+    "actors": [
+        "Don Cheadle",
+        "Gwyneth Paltrow",
+        "Robert Downey Jr.",
+        "Scarlett Johansson"
+    ],
+    "description": "El mundo ya sabe que el multimillonario Tony Stark (Robert Downey Jr.) es Iron Man, el superhéroe enmascarado. A pesar de las presiones del gobierno, la prensa y la opinión pública para que comparta su tecnología con el ejército, Tony es reacio a desvelar los secretos de la armadura de Iron Man, porque teme que esa información caiga en en manos de irresponsables. Con Pepper Potts (Gwyneth Paltrow) y James “Rhodey” Rhodes (Don Cheadle) a su lado, Tony forja alianzas nuevas y se enfrenta a nuevas y poderosas fuerzas.",
+    "cover": "https://cuevana.pizza/resize/###/storage/3550/hnzgAgAtPf2guh4cgkYksflVAAiF4qwmubIyqwPO.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtbWFvMHlqNnRncjZpLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLW85bHBqdm5jd2VpNC5odG1s"
+            ]
+        },
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtbGEybTZwZGdwaGpkLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLWV3ZG5idXRlcjEyMi5odG1s"
+            ]
+        }
+    ],
+    "downloads": [
+        {
+            "url": "https://1fichier.com/?hh6ae57fiv",
+            "type": "la"
+        },
+        {
+            "url": "https://1fichier.com/?ysircwenag",
+            "type": "en"
+        }
+    ]
+}

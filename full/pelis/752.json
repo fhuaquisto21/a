@@ -1,0 +1,73 @@
+{
+    "url": "https://cuevana.pizza/pelicula/braveheart",
+    "title": "Braveheart",
+    "duration": "2h 57m",
+    "year": "1995",
+    "genres": [
+        "Accion",
+        "Drama",
+        "Historia",
+        "Belica"
+    ],
+    "actors": [
+        "Mel Gibson",
+        "Catherine McCormack",
+        "Sophie Marceau",
+        "Patrick McGoohan",
+        "Angus Macfadyen",
+        "Brendan Gleeson",
+        "James Robinson",
+        "James Cosmo",
+        "Sean McGinley",
+        "Gerda Stevenson",
+        "Mhairi Calvey",
+        "Jeanne Marine",
+        "Sean Lawlor",
+        "Sandy Nelson",
+        "Alan Tall",
+        "Andrew Weir",
+        "Brian Cox",
+        "Peter Hanly",
+        "Stephen Billington",
+        "Tommy Flanagan"
+    ],
+    "description": "¿Qué clase de hombre desafiaría a un rey? 'Braveheart' es una historia épica medieval sobre la independencia de Escocia en el siglo XIII, basada en la leyenda de William Wallace, un montañés escocés que arrastra a su clan a luchar contra la tiranía del rey Eduardo I de Inglaterra. Después del brutal asesinato de su joven esposa por los ingleses, Wallace sólo busca venganza. Hambrientos y en inferior número, Wallace lidera a los patriotas escoceses y consigue organizar un ejército de guerreros sedientos de libertad logrando recuperar con ello el espíritu que haría a Escocia libre para siempre.",
+    "cover": "https://cuevana.pizza/resize/###/storage/46803/d1aromJEt5LfYT8fjaflrdesWqo4iRG3GPaVGiTq.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtdmszb3hvY3J1bGJpLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLWYzMW9wYm15eWdnZC5odG1s"
+            ]
+        },
+        {
+            "type": "cas",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtaDk0Zmd6Y3FwazRrLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLWxmZWZpdGYxNWRwdS5odG1s"
+            ]
+        },
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtdTRwb215Ym1uZjFwLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLTZ4azhhM3F3M3piZi5odG1s"
+            ]
+        }
+    ],
+    "downloads": [
+        {
+            "url": "https://1fichier.com/?cchdwsb1qjd9cxhvvqnd#Synchronization+Service",
+            "type": "la"
+        },
+        {
+            "url": "https://1fichier.com/?5h2pzmdznvcrmsm8rvpb#Synchronization+Service",
+            "type": "es"
+        },
+        {
+            "url": "https://1fichier.com/?fa8dtyfjw8oxg8s7q5j6#Synchronization+Service",
+            "type": "en"
+        }
+    ]
+}

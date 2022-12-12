@@ -1,0 +1,55 @@
+{
+    "url": "https://cuevana.pizza/pelicula/pimp",
+    "title": "Pimp",
+    "duration": "1h 26m",
+    "year": "2018",
+    "genres": [
+        "Drama"
+    ],
+    "actors": [
+        "Keke Palmer",
+        "Haley Ramm",
+        "Edi Gathegi",
+        "Aunjanue Ellis",
+        "Vanessa Morgan",
+        "DMX",
+        "Paige Searcy",
+        "Tarik Lowe",
+        "Lyrica Okano",
+        "Kaitlyn Bausch",
+        "Rayan Lawrence",
+        "Calvin Dutton",
+        "Paola Lázaro",
+        "Taliyah Whitaker",
+        "Chloe Rayne Watson",
+        "David Hennessey",
+        "Monette McKay",
+        "Tess Strohm"
+    ],
+    "description": "Una proxeneta llamada Wednesday (Keke Palmer) aprende de su padre a trabajar en el oficio de la prostitución callejera. Cuando él ya no está, ella es quien se hace cargo de su madre, una prostituta, y de su novia y mejor amiga, Nikki. La historia se ambienta en las duras calles del Bronx.",
+    "cover": "https://cuevana.pizza/resize/###/storage/25106/rAMfI61a2HPE3n0LG1haVqxxsK36dA8Zj74Orcdw.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtMzB0djE1NzVwZHZ0Lmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLXVzdzR6MzYwOGs2Yi5odG1s"
+            ]
+        },
+        {
+            "type": "cas",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtbXJrbXFucG9xdnhyLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLTVpaGM1YXR2bWM1dC5odG1s"
+            ]
+        },
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtMWoyZ2FkZTEzZ2JyLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLXBzaW1mNmx6cGxiay5odG1s"
+            ]
+        }
+    ],
+    "downloads": []
+}

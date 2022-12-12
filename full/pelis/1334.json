@@ -1,0 +1,68 @@
+{
+    "url": "https://cuevana.pizza/pelicula/elvis",
+    "title": "Elvis",
+    "duration": "2h 39m",
+    "year": "2022",
+    "genres": [
+        "Drama",
+        "Historia",
+        "Musical"
+    ],
+    "actors": [
+        "Austin Butler",
+        "Tom Hanks",
+        "Richard Roxburgh",
+        "Helen Thomson",
+        "Olivia DeJonge",
+        "Dacre Montgomery",
+        "Kelvin Harrison Jr.",
+        "Yola",
+        "David Wenham",
+        "Luke Bracey",
+        "Alex Radu",
+        "Alton Mason",
+        "Xavier Samuel",
+        "Kodi Smit-McPhee",
+        "Natasha Bassett",
+        "Leon Ford",
+        "Kate Mulvany",
+        "Gareth Davies",
+        "Charles Grounds",
+        "Josh McConville"
+    ],
+    "description": "Elvis es una próxima película de drama biográfico sobre Elvis Presley coescrita y dirigida por Baz Luhrmann , y protagonizada por Austin Butler y Tom Hanks .",
+    "cover": "https://cuevana.pizza/resize/###/storage/38887/nyDVdGNjzYBhThcTeXSIoXjY6cgPGOrTxsF2oWCp.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtZDN2b3U5Z2M5eGluLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLWNsNDB0dDl1dDgwNS5odG1s"
+            ]
+        },
+        {
+            "type": "cas",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtaDJ3MTFmam9xa3Q2Lmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLTczZ25wbWR6YzZzcy5odG1s"
+            ]
+        },
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtdDk4MHVocmx6czlpLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLTlhc2x4bm5vMHc0My5odG1s"
+            ]
+        }
+    ],
+    "downloads": [
+        {
+            "url": "https://1fichier.com/?ohu93be5qi1km1ogxya7",
+            "type": "la"
+        },
+        {
+            "url": "https://1fichier.com/?1ja0fuwslla2591edg1k",
+            "type": "en"
+        }
+    ]
+}

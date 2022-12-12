@@ -1,0 +1,51 @@
+{
+    "url": "https://cuevana.pizza/pelicula/el-faro",
+    "title": "El faro",
+    "duration": "1h 50m",
+    "year": "2019",
+    "genres": [
+        "Drama",
+        "Misterio",
+        "Terror",
+        "Fantasia"
+    ],
+    "actors": [
+        "Robert Pattinson",
+        "Willem Dafoe",
+        "Valeriia Karaman",
+        "Logan Hawkes",
+        "Kyla Nicolle",
+        "Shaun Clarke",
+        "Pierre Richard",
+        "Preston Hudson",
+        "Jeff Cruts"
+    ],
+    "description": "Ambientada a finales del siglo XIX, cuenta la historia de dos fareros que trabajan juntos en una misteriosa isla perdida de Nueva Inglaterra.",
+    "cover": "https://cuevana.pizza/resize/###/storage/18371/TtOoLLdmsxWsGZJxXGtsMvm9UXnFTilHbcccqiEl.jpg",
+    "players": [
+        {
+            "type": "cas",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtazA3YWo0eWxkZGF3Lmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLWF6dzF6Z2RyOW0yZS5odG1s"
+            ]
+        },
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtc3prNnkwNGQyYmszLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLWtkY3puZ2tqYnE1cS5odG1s"
+            ]
+        }
+    ],
+    "downloads": [
+        {
+            "url": "https://1fichier.com/?u5b3x1jatqtay0sshafh",
+            "type": "es"
+        },
+        {
+            "url": "https://1fichier.com/?xuwlvr9xm2icd2t5rptw",
+            "type": "en"
+        }
+    ]
+}

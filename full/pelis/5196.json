@@ -1,0 +1,51 @@
+{
+    "url": "https://cuevana.pizza/pelicula/el-caballero-de-la-navidad",
+    "title": "El caballero de la Navidad",
+    "duration": "1h 32m",
+    "year": "2019",
+    "genres": [
+        "Comedia",
+        "Romance"
+    ],
+    "actors": [
+        "Vanessa Hudgens",
+        "Josh Whitehouse",
+        "Emmanuelle Chriqui",
+        "Harry Jarvis",
+        "Ella Kenion",
+        "Isabelle Franca",
+        "Mimi Gianopulos",
+        "Jean-Michel Le Gal",
+        "Arnold Pinnock",
+        "Scott Ryan Yamamura",
+        "Jayne Eastwood",
+        "Shanice Johnson",
+        "Scott Edgecombe",
+        "Kristin Shepherd",
+        "Neil Babcock",
+        "Olivia Gudaniec",
+        "Alex Armbruster",
+        "Brittany Rae Robinson",
+        "Andrea Senior",
+        "Hayley Festeryga"
+    ],
+    "description": "Un caballero medieval británico es transportado mágicamente al presente, donde se enamora perdidamente de una profesora de ciencias que ha perdido la esperanza en el amor.",
+    "cover": "https://cuevana.pizza/resize/###/storage/20594/MhoIcueqhPQifNGeq3qJoXA3SWA16d9g2uPR7ziK.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtaXZsbnBsbncxazN3Lmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLTIzMmc1NGNqcDVhMS5odG1s"
+            ]
+        },
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtOTF4aXZlNjFjZmE0Lmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLWp0Y2tlbXNuN3pudC5odG1s"
+            ]
+        }
+    ],
+    "downloads": []
+}

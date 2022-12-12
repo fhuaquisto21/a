@@ -1,0 +1,25 @@
+{
+    "url": "https://cuevana.pizza/pelicula/another-forever",
+    "title": "Another Forever",
+    "duration": "1h 12m",
+    "year": "2016",
+    "genres": [
+        "Drama"
+    ],
+    "actors": [
+        "Daniela Escobar",
+        "Marlon Moreno"
+    ],
+    "description": "Alice ya pasó de los 40, ya vivió grandes amores y como todos en algún momento de la vida vibró con las alegrías y sufrió con las decepciones.",
+    "cover": "https://cuevana.pizza/resize/###/storage/26962/I5yAEc8RUOBxnQQv8cC9uICFGUtT5BaQVNwVn0Ey.jpg",
+    "players": [
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtOG55MTRpZnE4bHhzLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLTd4eWxlOGUwc2Q1ZS5odG1s"
+            ]
+        }
+    ],
+    "downloads": []
+}

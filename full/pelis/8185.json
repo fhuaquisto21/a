@@ -1,0 +1,50 @@
+{
+    "url": "https://cuevana.pizza/pelicula/american-pie-2",
+    "title": "American Pie 2",
+    "duration": "1h 48m",
+    "year": "2001",
+    "genres": [
+        "Comedia"
+    ],
+    "actors": [
+        "Jason Biggs",
+        "Thomas Ian Nicholas",
+        "Chris Klein",
+        "Seann William Scott",
+        "Eddie Kaye Thomas",
+        "Alyson Hannigan",
+        "Shannon Elizabeth",
+        "Tara Reid",
+        "Mena Suvari",
+        "Natasha Lyonne",
+        "Chris Owen",
+        "Eugene Levy",
+        "Molly Cheek",
+        "Denise Faye",
+        "Lisa Arturo",
+        "John Cho",
+        "Justin Isfeld",
+        "Eli Marienthal",
+        "Casey Affleck",
+        "Tsianina Joelson"
+    ],
+    "description": "Los protagonistas masculinos de la primera entrega, entonces obsesionados por perder la virginidad, se reencuentran en su pueblo natal tras su primer año en la universidad. Ha pasado un año, y Jim, Oz, Kevin y Finch deciden para pasar juntos el verano. Para poder tener independencia y perseguir mujeres, como tradicionalmente acostumbran, aunque sin éxito, deciden alquilar una casa en la playa. Como el alquiler es algo caro deciden invitar también a Stifler, quien además de tener mucho dinero, supuestamente sabe mucho de mujeres, aunque su personalidad es detestable.",
+    "cover": "https://cuevana.pizza/resize/###/storage/28475/TClvEfFbJLRYNNwjyg7PsxEpICPSy4E4Lyb5iKq3.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtYjByMDl2Nnk1eDdnLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLTExdHl4NGRvc2F2bi5odG1s"
+            ]
+        },
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtYXl2eHhucjN4d2RzLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLTZvdXJldWJ5a2ZhNy5odG1s"
+            ]
+        }
+    ],
+    "downloads": []
+}

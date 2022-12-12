@@ -1,0 +1,51 @@
+{
+    "url": "https://cuevana.pizza/pelicula/el-dia-final",
+    "title": "El fin de los días",
+    "duration": "2h 1m",
+    "year": "1999",
+    "genres": [
+        "Accion",
+        "Fantasia"
+    ],
+    "actors": [
+        "Arnold Schwarzenegger",
+        "Gabriel Byrne",
+        "Robin Tunney",
+        "Kevin Pollak",
+        "CCH Pounder",
+        "Derrick O'Connor",
+        "David Weisenberg",
+        "Rainer Judd",
+        "Miriam Margolyes",
+        "Udo Kier",
+        "Luciano Miele",
+        "Michael O'Hagan",
+        "Mark Margolis",
+        "Jack Shearer",
+        "Rod Steiger",
+        "Eve Sigall",
+        "Victor Varnado",
+        "Robert Lesser",
+        "Lloyd Garroway",
+        "Gary Anthony Williams"
+    ],
+    "description": "Nueva York, 1979. En un hospital de Manhattan acaba de nacer Christine, una niña preciosa. Ese mismo día, en el Vaticano, un joven sacerdote informa al Papa del nacimiento de la niña, que lleva la marca del Anticristo. En 1999, Jericho Cane, un ex-policía amargado, salva a una joven del asalto de unos ladrones: es Christine. Desde entonces Cane será víctima de la persecución de terribles fuerzas sobrenaturales.",
+    "cover": "https://cuevana.pizza/resize/###/storage/29870/n4fbpK5pwyrTDK4pZqTWtVU4szho5CHJOajuwA9J.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtcmFnZnk2bWd3Nzd5Lmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLWZvdnMxcHNyMnA2NS5odG1s"
+            ]
+        },
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtMmU1Mmx0dnhtaDJwLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLWdxMzQzMWMwbzF1My5odG1s"
+            ]
+        }
+    ],
+    "downloads": []
+}

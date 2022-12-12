@@ -1,0 +1,61 @@
+{
+    "url": "https://cuevana.pizza/pelicula/joe-bell",
+    "title": "Joe Bell",
+    "duration": "1h 30m",
+    "year": "2021",
+    "genres": [
+        "Drama",
+        "Aventura"
+    ],
+    "actors": [
+        "Mark Wahlberg",
+        "Reid Miller",
+        "Connie Britton",
+        "Maxwell Jenkins",
+        "Morgan Lily",
+        "Gary Sinise",
+        "Tara Buck",
+        "Ash Santos",
+        "Igby Rigney",
+        "Cindy Perez"
+    ],
+    "description": "Jadin, el hijo de Joe (Interpretado por Mark Wahlberg), es un agradable y talentoso chico gay, pero sufre bullying en el instituto y la poca tolerancia y paciencia que tiene su padre no le ayuda. Joe, en lugar de lamentarse, decide recorrer Estados Unidos para hablar en colegios, comunidades y con todo el que quiera escuchar sobre los peligros del bullying.",
+    "cover": "https://cuevana.pizza/resize/###/storage/9463/qKH7QYvp9RXDfkGBSTX8IrsDbxThJPIpXLqcJQC0.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtODhoY2Nrc3BjeGFhLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLXRpemtpZWhoaTdrNy5odG1s"
+            ]
+        },
+        {
+            "type": "cas",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtNDkwNHM2cWxyMDkwLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLWZ1MHdxaDl4bnNkOC5odG1s"
+            ]
+        },
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtdWVsMmN0eGprdDByLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLWYzNnJtdTI2enFicS5odG1s"
+            ]
+        }
+    ],
+    "downloads": [
+        {
+            "url": "https://1fichier.com/?yb85382fmunmyy7f1d2w",
+            "type": "la"
+        },
+        {
+            "url": "https://1fichier.com/?bla6p0xsdx1ve1gm9ujx",
+            "type": "es"
+        },
+        {
+            "url": "https://1fichier.com/?ukm4taw69fiw9l3jajze",
+            "type": "en"
+        }
+    ]
+}

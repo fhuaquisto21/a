@@ -1,0 +1,45 @@
+{
+    "url": "https://cuevana.pizza/pelicula/share",
+    "title": "Share",
+    "duration": "1h 27m",
+    "year": "2019",
+    "genres": [
+        "Suspenso"
+    ],
+    "actors": [
+        "Rhianne Barreto",
+        "Charlie Plummer",
+        "Poorna Jagannathan",
+        "Lovie Simone",
+        "Milcania Diaz-Rojas",
+        "J. C. MacKenzie",
+        "Nicholas Galitzine",
+        "Danny Mastrogiorgio",
+        "Jhaleil Swaby",
+        "Christian Corrao",
+        "Ivan Wanis-Ruiz",
+        "Emily Debowski",
+        "Darlene Cooke",
+        "Kimmy Choi",
+        "Alison Smiley"
+    ],
+    "description": "Después de pasar una noche de fiesta, Mandy, una adolescente en su último año de instituto, descubre que una serie de vídeos de ella, desnuda y semiinconsciente, se han hecho virales en la red. Su vida se convierte en un auténtico caos: es incapaz de volver a su rutina diaria; los padres la presionan para tomar medidas por su propia cuenta y sus amigos tratan de hacer todo lo posible para que se sienta como antes. Sin embargo, nada parece funcionar. Para Mandy, es imposible cerrar una herida sin saber qué ha sido lo que la ha producido, ni cómo.",
+    "cover": "https://cuevana.pizza/resize/###/storage/20635/bH9Srp5JfBElmOW44o0skouBDxDPYHfYZIktZyQ1.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtYnVvbjI3YWVuZHE3Lmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLWk2bXN3NWNzcTVhaC5odG1s"
+            ]
+        },
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtN2lmbmNhOWRxY25zLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLTN0bGdpMHJ6enBoby5odG1s"
+            ]
+        }
+    ],
+    "downloads": []
+}

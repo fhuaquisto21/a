@@ -1,0 +1,56 @@
+{
+    "url": "https://cuevana.pizza/pelicula/frutos-del-viento",
+    "title": "Frutos del viento",
+    "duration": "1h 31m",
+    "year": "2022",
+    "genres": [
+        "Drama",
+        "Suspenso",
+        "Crimen"
+    ],
+    "actors": [
+        "Jason Segel",
+        "Lily Collins",
+        "Jesse Plemons",
+        "Omar Leyva"
+    ],
+    "description": "Un hombre irrumpe en la casa de vacaciones vacía de un multimillonario, pero todo se tuerce cuando él y su esposa llegan en un plan de última hora.",
+    "cover": "https://cuevana.pizza/resize/###/storage/16156/EJg7JLmjU6u9PIyBWDW3tegFGT43lQDKEtzpv790.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtc2FuNmpmdjlvMDUwLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLW1vajhmb2tuZWE0cS5odG1s"
+            ]
+        },
+        {
+            "type": "cas",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtZ2Y1MDF1Ymllam5qLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLWJ6YWUyZzdsMnBjdy5odG1s"
+            ]
+        },
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtMjMwMGp2MWIwam1kLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLTA2NWNhazhjdGhvby5odG1s"
+            ]
+        }
+    ],
+    "downloads": [
+        {
+            "url": "https://1fichier.com/?etbs7c3fvwz6uyda52nm",
+            "type": "la"
+        },
+        {
+            "url": "https://1fichier.com/?bya5jq323x4qqyi796i6",
+            "type": "es"
+        },
+        {
+            "url": "https://1fichier.com/?6krazwizt4619l394tj6",
+            "type": "en"
+        }
+    ]
+}

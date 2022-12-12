@@ -1,0 +1,36 @@
+{
+    "url": "https://cuevana.pizza/pelicula/brothers-of-the-wind",
+    "title": "Hermanos del viento",
+    "duration": "1h 37m",
+    "year": "2015",
+    "genres": [
+        "Drama",
+        "Aventura",
+        "Familia"
+    ],
+    "actors": [
+        "Manuel Camacho",
+        "Jean Reno",
+        "Tobias Moretti",
+        "Eva Kuen"
+    ],
+    "description": "Un chico trata de salvar la vida de una cría de águila que se ha caído de su nido. Todo comienza cuando un águila cría dos polluelos. El destino del más fuerte es arrojar al más débil desde el nido. También el hombre también tiene sus costumbres y a menudo hace daño a los que más quiere. Lukas sufre a manos de un padre, encerrado en sí mismo desde la pérdida de su esposa. Murió cuando rescataba al recién nacido Lukas y ahora, el muchacho lleva la carga de su muerte.En el nido, el polluelo que nació primero empuja a su hermano más débil a una muerte segura en el suelo del bosque. Pero el destino interviene y Lukas encuentra al polluelo. Lukas le llama Abel, y cuida en secreto al pajarillo, buscando el amor y la compañía que le niegan en casa.",
+    "cover": "https://cuevana.pizza/resize/###/storage/22276/i661sqJ5kAVqzVVVgJvgmsRh4PbrXmRli8mdvpaN.jpg",
+    "players": [
+        {
+            "type": "cas",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtMWZrY2tuczlwMDdvLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLXNndnh1eXNwM2Y3MS5odG1s"
+            ]
+        },
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtd2J6aDl0cjBlMms0Lmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLWM3dWYyZG44c2VkMi5odG1s"
+            ]
+        }
+    ],
+    "downloads": []
+}

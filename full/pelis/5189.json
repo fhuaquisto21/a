@@ -1,0 +1,50 @@
+{
+    "url": "https://cuevana.pizza/pelicula/entre-dos-helechos-la-pelicula",
+    "title": "Entre dos helechos: La película",
+    "duration": "1h 22m",
+    "year": "2019",
+    "genres": [
+        "Comedia"
+    ],
+    "actors": [
+        "Zach Galifianakis",
+        "Lauren Lapkus",
+        "Ryan Gaul",
+        "Jiavani Linayao",
+        "Will Ferrell",
+        "Matthew McConaughey",
+        "David Letterman",
+        "Peter Dinklage",
+        "Jon Hamm",
+        "John Legend",
+        "Benedict Cumberbatch",
+        "Brie Larson",
+        "Chrissy Teigen",
+        "Keanu Reeves",
+        "Rashida Jones",
+        "Chance the Rapper",
+        "Hailee Steinfeld",
+        "Bobby Tisdale",
+        "John Cho",
+        "Adam Scott"
+    ],
+    "description": "Zach Galifianakis y su peculiar equipo se ponen en ruta para completar una serie de sus famosas entrevistas entre helechos y, de paso, intentar restaurar su reputación.",
+    "cover": "https://cuevana.pizza/resize/###/storage/18250/1z8CdZhE1gLbwlYbF1SwvEytcF1w3YU8ZVfZBEuj.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtbnBoOTV3OTI5dGkzLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLTFwenlxYnNyZXJzZS5odG1s"
+            ]
+        },
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtYm82Z202djJldXJxLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLWRmb250MTR6MG12dS5odG1s"
+            ]
+        }
+    ],
+    "downloads": []
+}

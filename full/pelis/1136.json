@@ -1,0 +1,62 @@
+{
+    "url": "https://cuevana.pizza/pelicula/alvin-y-las-ardillas-2",
+    "title": "Alvin y las ardillas 2",
+    "duration": "1h 28m",
+    "year": "2009",
+    "genres": [
+        "Comedia",
+        "Fantasia",
+        "Familia",
+        "Animacion",
+        "Musical",
+        "Disney"
+    ],
+    "actors": [
+        "Zachary Levi",
+        "David Cross",
+        "Jason Lee",
+        "Justin Long",
+        "Matthew Gray Gubler",
+        "Jesse McCartney",
+        "Amy Poehler",
+        "Anna Faris",
+        "Christina Applegate",
+        "Wendie Malick",
+        "Anjelah Johnson-Reyes",
+        "Kathryn Joosten",
+        "Kevin Schmidt",
+        "Chris Warren",
+        "Bridgit Mendler",
+        "Aimee Carrero",
+        "Alexandra Shipp",
+        "Gregg Binkley",
+        "Jake Zyrus",
+        "Bernard White"
+    ],
+    "description": "Las ardillas más famosas y divertidas del cine regresan a la gran pantalla para protagonizar una nueva aventura. En ella, Alvin y sus compañeros deben enfrentarse a la presión de la escuela, a los problemas de la celebridad y a un grupo de chicas ardilla que les está haciendo la competencia",
+    "cover": "https://cuevana.pizza/resize/###/storage/42041/0L5emh91aLeDxSOUq9LwoDehwQit3RGPzA9cdXNS.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtYnJ3NnhzNDZ4bmJpLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLXFrajR1ZHVheHh2YS5odG1s"
+            ]
+        },
+        {
+            "type": "cas",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtcmo2Z3FodTJ2M2NsLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLXc3bWUyOGw1YmQwYy5odG1s"
+            ]
+        },
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtbDNrdTQ0ajJydTFsLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLXRtZDRveWozZ3hkYi5odG1s"
+            ]
+        }
+    ],
+    "downloads": []
+}

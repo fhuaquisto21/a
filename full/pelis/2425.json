@@ -1,0 +1,61 @@
+{
+    "url": "https://cuevana.pizza/pelicula/en-un-momento-aun-mejor",
+    "title": "En un momento aún mejor",
+    "duration": "1h 53m",
+    "year": "2021",
+    "genres": [
+        "Comedia",
+        "Romance"
+    ],
+    "actors": [
+        "Ludovica Francesconi",
+        "Giancarlo Commare",
+        "Jozef Gjura",
+        "Gaja Masciale",
+        "Jenny De Nucci",
+        "Giuseppe Futia",
+        "Riccardo Niceforo",
+        "Loredana Bertè",
+        "Giorgio Lupano",
+        "Diego Giangrasso"
+    ],
+    "description": "Marta y Arturo se separaron. Marta está ahora envuelta en una relación con Gabriele, pero, por puro celo, comete un gran error. Mientras todo parece ir mal, llega una noticia inesperada: hay un donante compatible para Marta",
+    "cover": "https://cuevana.pizza/resize/###/storage/13009/v5OKQzknShB6N9dfH31LXwyB1SKAvIpeVBpFSZvO.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtdzR6Y25najR4dWtoLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLW13OW1ocm1hb3B1cC5odG1s"
+            ]
+        },
+        {
+            "type": "cas",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtbGEwZ2Nzbms0ajVhLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLTAwMzljd2RpcTNsZC5odG1s"
+            ]
+        },
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtOW8wbWdzbm94emdtLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLWdhZ2xtMWNtMG03aC5odG1s"
+            ]
+        }
+    ],
+    "downloads": [
+        {
+            "url": "https://1fichier.com/?7gd2ihja3u207970vvrp",
+            "type": "la"
+        },
+        {
+            "url": "https://1fichier.com/?eo28ccudlovhzfplw9cw",
+            "type": "es"
+        },
+        {
+            "url": "https://1fichier.com/?sdh0ws5zhxxccaafs1u0",
+            "type": "en"
+        }
+    ]
+}

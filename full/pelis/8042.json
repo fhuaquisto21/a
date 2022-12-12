@@ -1,0 +1,37 @@
+{
+    "url": "https://cuevana.pizza/pelicula/madagascar-2",
+    "title": "Madagascar 2",
+    "duration": "1h 29m",
+    "year": "2008",
+    "genres": [
+        "Comedia",
+        "Aventura",
+        "Familia",
+        "Animacion"
+    ],
+    "actors": [
+        "Ben Stiller",
+        "Chris Rock",
+        "David Schwimmer",
+        "Jada Pinkett Smith"
+    ],
+    "description": "Los protagonistas de la primera película saldrán de la isla en avión y tendrán un accidente mientras sobrevuelan África...",
+    "cover": "https://cuevana.pizza/resize/###/storage/29271/vXsHxgsqlLVs7rVPwgMd4WPlBiq338K9uNTrmUbm.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtdWR3cTk3am04YTVpLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLXd6MTAzb20wMWdhby5odG1s"
+            ]
+        },
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtNjdweTU0bXl4eHlvLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLTA5b3p2aTk0NWpzMC5odG1s"
+            ]
+        }
+    ],
+    "downloads": []
+}

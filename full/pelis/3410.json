@@ -1,0 +1,56 @@
+{
+    "url": "https://cuevana.pizza/pelicula/tides",
+    "title": "Tides",
+    "duration": "1h 44m",
+    "year": "2021",
+    "genres": [
+        "Ciencia Ficcion"
+    ],
+    "actors": [
+        "Nora Arnezeder",
+        "Iain Glen",
+        "Sarah-Sofie Boussnina",
+        "Sope Dirisu",
+        "Sebastian Roché",
+        "Joel Basman"
+    ],
+    "description": "En un futuro no muy lejano: después de que una catástrofe global haya acabado con casi toda la humanidad en la Tierra, un astronauta de élite de la colonia espacial Kepler debe tomar una decisión que sellará el destino de los habitantes de ambos planetas.",
+    "cover": "https://cuevana.pizza/resize/###/storage/8678/Jvap6v7LQXtauL9ODqOTyq7uiXqlvYcFeymrq4uh.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtdjlpYnR0cnR6a3gyLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLWlnOGxmaTd5dGpwNC5odG1s"
+            ]
+        },
+        {
+            "type": "cas",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtcmIwbGk4OHVhZ3VqLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLWNpZW5uNHplbnRmNi5odG1s"
+            ]
+        },
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtaWlneHp3bnc3eHR6Lmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLTFoM3V6ZGNybHVhcS5odG1s"
+            ]
+        }
+    ],
+    "downloads": [
+        {
+            "url": "https://1fichier.com/?7hi4ak1pojnofszbxrqd",
+            "type": "la"
+        },
+        {
+            "url": "https://1fichier.com/?pvf96d3ooxbouc9rb9d7",
+            "type": "es"
+        },
+        {
+            "url": "https://1fichier.com/?o2qm16f3wvry5olx1sub",
+            "type": "en"
+        }
+    ]
+}

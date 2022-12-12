@@ -1,0 +1,52 @@
+{
+    "url": "https://cuevana.pizza/pelicula/tina",
+    "title": "Tina",
+    "duration": "1h 58m",
+    "year": "2021",
+    "genres": [
+        "Documental",
+        "Musical"
+    ],
+    "actors": [
+        "Angela Bassett",
+        "Carl Arrington",
+        "Erwin Bach",
+        "Jimmy Thomas",
+        "Katori Hall",
+        "Kurt Loder",
+        "Le'June Fletcher",
+        "Oprah Winfrey",
+        "Rhonda Graam",
+        "Roger Davies",
+        "Terry Britten",
+        "Tina Turner"
+    ],
+    "description": "Documental sobre la legendaria cantante Tina Turner, icono de la música rock a lo largo de varias décadas. Contada en cinco actos poderosos, esta película es una mirada íntima y reveladora a la vida y carrera de ella.",
+    "cover": "https://cuevana.pizza/resize/###/storage/6399/lnEy9b9Q3FMYFjyl1233pFwjb55DvplzRqJQvnTf.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtdWltdXdkZjlsZHdiLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLWN1YjFiajFzaDJucS5odG1s"
+            ]
+        },
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtMjN4cTBrZnczdGN0Lmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLTc3N2VucHB6MjNray5odG1s"
+            ]
+        }
+    ],
+    "downloads": [
+        {
+            "url": "https://1fichier.com/?gox5qjdodtrnyxvtn12r",
+            "type": "la"
+        },
+        {
+            "url": "https://1fichier.com/?6mximzp0nzt2c4ovfal2",
+            "type": "en"
+        }
+    ]
+}

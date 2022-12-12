@@ -1,0 +1,48 @@
+{
+    "url": "https://cuevana.pizza/pelicula/the-darkness",
+    "title": "The Darkness",
+    "duration": "1h 32m",
+    "year": "2016",
+    "genres": [
+        "Suspenso",
+        "Terror"
+    ],
+    "actors": [
+        "Kevin Bacon",
+        "Radha Mitchell",
+        "David Mazouz",
+        "Lucy Fry",
+        "Parker Mack",
+        "Matt Walsh",
+        "Jennifer Morrison",
+        "Sara Mornell",
+        "Ming-Na Wen",
+        "Paul Reiser",
+        "Tara Lynne Barr",
+        "Judith McConnell",
+        "Krista Marie Yu",
+        "A.J. Tannen",
+        "Jocelyn Ayanna",
+        "Sara Mornell",
+        "Al Coronel"
+    ],
+    "description": "Una familia vuelve de pasar unas vacaciones en el Gran Cañón sin saber que traen consigo una peligrosa fuerza sobrenatural que se alimenta de sus propios temores y vulnerabilidades. Una amenaza que intentará destruirles desde adentro, mientras consume sus vidas con terribles consecuencias.",
+    "cover": "https://cuevana.pizza/resize/###/storage/28232/cHQAeoAYR0NiUbfmrg4rO2NfAORh7MceFcz1mjih.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtbWdlaThhenJ4ZTJtLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLXJiMGUxZzBlaTk1Zy5odG1s"
+            ]
+        },
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtZ25pOXZoanl6eWFzLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLWN6aGhlaWFwbGgyei5odG1s"
+            ]
+        }
+    ],
+    "downloads": []
+}

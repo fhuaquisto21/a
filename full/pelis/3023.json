@@ -1,0 +1,61 @@
+{
+    "url": "https://cuevana.pizza/pelicula/bahia-de-invierno",
+    "title": "Bahía de invierno",
+    "duration": "1h 31m",
+    "year": "2021",
+    "genres": [
+        "Drama",
+        "Romance"
+    ],
+    "actors": [
+        "Elsa Öhrn",
+        "Mustapha Aarab",
+        "Magnus Krepper",
+        "Marika Lagercrantz",
+        "Simon Mezher",
+        "Loreen",
+        "Albin Grenholm",
+        "Jonay Pineda Skallak",
+        "Elsa Bergström Terent",
+        "Otto Hargne"
+    ],
+    "description": "Aunque viven en la misma ciudad, Elisabeth y John‑John habitan mundos distintos. ¿Podrá un apasionado primer amor derribar barreras sociales y culturales?",
+    "cover": "https://cuevana.pizza/resize/###/storage/10218/entpcHezXA7HsTzWA3245vk7Q5h8ENbaVoyT89Wu.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtZXoxY3J6MGV0dGRiLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLTRrM2hqZ29taG9qMS5odG1s"
+            ]
+        },
+        {
+            "type": "cas",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtcXM3dG90NGQ5d2JqLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLXAxZGY4dnM5N2V4aS5odG1s"
+            ]
+        },
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtMXEweDZ4dW84OWVqLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLXkxcDE0Z3J6cGoyZi5odG1s"
+            ]
+        }
+    ],
+    "downloads": [
+        {
+            "url": "https://1fichier.com/?j8azi5wvzaszygzz29lp",
+            "type": "la"
+        },
+        {
+            "url": "https://1fichier.com/?snzyvurr8t1f82fh41up",
+            "type": "es"
+        },
+        {
+            "url": "https://1fichier.com/?x0pmknlelfckys5apk1j",
+            "type": "en"
+        }
+    ]
+}

@@ -1,0 +1,56 @@
+{
+    "url": "https://cuevana.pizza/pelicula/tenet",
+    "title": "Tenet",
+    "duration": "2h 35m",
+    "year": "2020",
+    "genres": [
+        "Accion",
+        "Suspenso",
+        "Ciencia Ficcion"
+    ],
+    "actors": [
+        "John David Washington",
+        "Robert Pattinson",
+        "Elizabeth Debicki",
+        "Kenneth Branagh"
+    ],
+    "description": "En un mundo crepuscular de espionaje internacional, un agente de la CIA sin nombre, conocido como El Protagonista, es reclutado por una misteriosa organización llamada Tenet para participar en una misión global que se desarrolla más allá del tiempo real. La misión: evitar que Andrei Sator, un oligarca ruso renegado con habilidades de precognición, comience la Tercera Guerra Mundial. El Protagonista pronto dominará el arte de la \"inversión del tiempo\" como una forma de contrarrestar la amenaza que se avecina.",
+    "cover": "https://cuevana.pizza/resize/###/storage/4630/3X6dpemiHaCuuPcl6Dzr17HKqYl6XQQ4PTy3bQ8v.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtZGcyaXlza2hia3FtLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLTM5bDF3c2w3dnZjMS5odG1s"
+            ]
+        },
+        {
+            "type": "cas",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtMnhyYWgwYm56cjh1Lmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLTNjM2owdWE0dHc1ZS5odG1s"
+            ]
+        },
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtN21jNnVwb3Q0OGc5Lmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLXVjN3RneWVna3V4ei5odG1s"
+            ]
+        }
+    ],
+    "downloads": [
+        {
+            "url": "https://1fichier.com/?2t0tdr1iqbi5b3kr9htn",
+            "type": "la"
+        },
+        {
+            "url": "https://1fichier.com/?hc85pf079a72ef8i0doy",
+            "type": "es"
+        },
+        {
+            "url": "https://1fichier.com/?y78xky5w1nv0rhusot6j",
+            "type": "en"
+        }
+    ]
+}

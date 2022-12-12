@@ -1,0 +1,36 @@
+{
+    "url": "https://cuevana.pizza/pelicula/riddick",
+    "title": "Riddick: El Amo de la Oscuridad",
+    "duration": "2h",
+    "year": "2013",
+    "genres": [
+        "Accion",
+        "Suspenso",
+        "Ciencia Ficcion"
+    ],
+    "actors": [
+        "Jordi Mollà",
+        "Katee Sackhoff",
+        "Matt Nable",
+        "Vin Diesel"
+    ],
+    "description": "Traicionado por su propia especie y dado por muerto en un lejano y desolado planeta, aparentemente sin vida, el duro Riddick tendrá que luchar por la supervivencia contra depredadores alienígenas y cazarrecompensas, convirtiéndose en un ser más poderoso y peligroso que nunca... Tercera entrega de la saga iniciada en \"Pitch Black\" y continuada en \"Las crónicas de Riddick\".",
+    "cover": "https://cuevana.pizza/resize/###/storage/15994/zdD2MuIs5i4jq8b7cf3eaebJQpnAcShhECo8ZB9S.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtaGphZGU5dGc4bG5pLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLThsbHU5bDYyNDVxcy5odG1s"
+            ]
+        },
+        {
+            "type": "cas",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtOGdqeTQ3NzUyNWdiLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLXNiMnE5Y3FkZGdsOS5odG1s"
+            ]
+        }
+    ],
+    "downloads": []
+}

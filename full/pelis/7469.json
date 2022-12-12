@@ -1,0 +1,35 @@
+{
+    "url": "https://cuevana.pizza/pelicula/un-viaje-de-10-metros",
+    "title": "Un viaje de 10 metros",
+    "duration": "2h 2m",
+    "year": "2014",
+    "genres": [
+        "Comedia",
+        "Drama"
+    ],
+    "actors": [
+        "Charlotte Le Bon",
+        "Helen Mirren",
+        "Manish Dayal",
+        "Om Puri"
+    ],
+    "description": "Hassan Kadam (Manish Dayal) es un ingenuo profesional culinario con un paladar insuperable. La familia Kadam, lejos de su India natal y liderados por Papa (Om Puri), se establecen en el pequeño pueblo de Saint-Antonin-Noble-Val en el sur de Francia. Lleno de encanto, tan pintoresco como elegante, es el lugar ideal para establecer su hogar y abrir un restaurante indio, la Maison Mumbai. O eso parece hasta que la fría propietaria de Le Saul Pleureur, un restaurante francés clásico galardonado con una estrella Michelin, regentado por Madame Mallory (la ganadora del Premio de la Academia Helen Mirren) se hace eco de ello.",
+    "cover": "https://cuevana.pizza/resize/###/storage/15446/45H6mZJk5fAM2xUrp4U7mALwXFQEDHmkxUMDb9Hg.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtZTM1NWhraGRpaHQxLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLWwyaWpyZjBwaXJnay5odG1s"
+            ]
+        },
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtZjg2YXQ1ZzQweGhtLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLXNxOTUxZnI1bzkydy5odG1s"
+            ]
+        }
+    ],
+    "downloads": []
+}

@@ -1,0 +1,54 @@
+{
+    "url": "https://cuevana.pizza/pelicula/inside",
+    "title": "Inside",
+    "duration": "1h 31m",
+    "year": "2016",
+    "genres": [
+        "Suspenso",
+        "Terror"
+    ],
+    "actors": [
+        "Rachel Nichols",
+        "Laura Harring",
+        "Ben Temple",
+        "Gillian Apter",
+        "Andrea Tivadar",
+        "Craig Stevenson",
+        "Stany Coppet",
+        "Richard Felix",
+        "Steve Howard",
+        "Babou Cham",
+        "Maarten Swaan",
+        "David Chevers",
+        "Núria Valls",
+        "Mar Cecilia Valls"
+    ],
+    "description": "Una joven viuda, embarazada y deprimida, intenta reconstruir su vida después del fatídico accidente de tráfico en el que perdió a su pareja y su oído de manera parcial. Ahora, a punto de dar a luz, vive en una casa aislada de un suburbio cuando, una noche de Navidad, recibe la visita inesperada de otra mujer con siniestras intenciones...",
+    "cover": "https://cuevana.pizza/resize/###/storage/27819/CP0IvUtWSY0kWN2A9JsTlXlxTOYOc2bt2vwkRdjJ.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtdG9yNTJ0OWpmbjB0Lmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLXB2d3UxNHQyNzAycy5odG1s"
+            ]
+        },
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtbG40dG5wb25xNGhqLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLWM1NDEwbDh1cnhpYS5odG1s"
+            ]
+        }
+    ],
+    "downloads": [
+        {
+            "url": "https://1fichier.com/?bpswkbqdepz5pzd3h293",
+            "type": "la"
+        },
+        {
+            "url": "https://1fichier.com/?z0opwaje5h2j3c449th1",
+            "type": "en"
+        }
+    ]
+}

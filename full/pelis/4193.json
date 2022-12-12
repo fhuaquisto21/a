@@ -1,0 +1,53 @@
+{
+    "url": "https://cuevana.pizza/pelicula/el-hombre-que-nunca-estuvo-alli",
+    "title": "El hombre que nunca estuvo allí",
+    "duration": "1h 56m",
+    "year": "2001",
+    "genres": [
+        "Drama",
+        "Suspenso",
+        "Crimen",
+        "Thriller"
+    ],
+    "actors": [
+        "Billy Bob Thornton",
+        "Frances McDormand",
+        "Michael Badalucco",
+        "James Gandolfini",
+        "Katherine Borowitz",
+        "Jon Polito",
+        "Scarlett Johansson",
+        "Richard Jenkins",
+        "Tony Shalhoub",
+        "Christopher Kriesa",
+        "Brian Haley",
+        "Jack McGee",
+        "Gregg Binkley",
+        "Alan Fudge",
+        "Lilyan Chauvin",
+        "Adam Alexi-Malle",
+        "Ted Rooney",
+        "Abraham Benrubi",
+        "Christian Ferratti",
+        "Rhoda Gemignani"
+    ],
+    "description": "Verano de 1949. Ed Crane (Billy Bob Thornton), un introvertido barbero de un pueblecito del norte de California, se siente insatisfecho de su rutinaria vida. Las infidelidades de su mujer (Frances McDormand) le brindan la oportunidad de ejercer un chantaje que podría ayudarle a cambiar su apática existencia.",
+    "cover": "https://cuevana.pizza/resize/###/storage/28441/XV8kPIl2UHEJn0kMelbu38zCRbi67kaeTS8joHVD.jpg",
+    "players": [
+        {
+            "type": "cas",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtNW1lcXo0OXoxNWsyLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLWVwZzk0ZjJ4bHd3Ni5odG1s"
+            ]
+        },
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtN2dmb2J1bGFkOTN6Lmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLWZ6eWlnaHN1czAyNy5odG1s"
+            ]
+        }
+    ],
+    "downloads": []
+}

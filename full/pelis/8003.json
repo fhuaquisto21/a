@@ -1,0 +1,51 @@
+{
+    "url": "https://cuevana.pizza/pelicula/la-noche-de-su-vida",
+    "title": "La noche de su vida",
+    "duration": "1h 41m",
+    "year": "2009",
+    "genres": [
+        "Comedia",
+        "Romance"
+    ],
+    "actors": [
+        "Hayden Panettiere",
+        "Paul Rust",
+        "Jack Carpenter",
+        "Lauren London",
+        "Lauren Storm",
+        "Shawn Roberts",
+        "Jared Keeso",
+        "Brendan Penny",
+        "Marie Avgeropoulos",
+        "Josh Emerson",
+        "Alan Ruck",
+        "Cynthia Stevenson",
+        "Pat Finn",
+        "Andrea Savage",
+        "Violet Columbus",
+        "Anna Mae Routledge",
+        "Anja Savcic",
+        "William Vaughan",
+        "Darien Provost",
+        "Samm Levine"
+    ],
+    "description": "El día que un estudiante empollón (Paul Rust) declara públicamente, durante el discurso de graduación, su amor por una guapa y popular cheerleader del instituto (Hayden Panettiere), todo empezará a cambiar para él.",
+    "cover": "https://cuevana.pizza/resize/###/storage/29210/xf3WE65Qs9Etf8HaiSMZfAo6VzL8qIxVfJyjx4kj.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtY29xMmUydWt5NTAwLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLXNuYmE0eDEyenpueS5odG1s"
+            ]
+        },
+        {
+            "type": "cas",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtdHFqdzBkNnI2Ym52Lmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLXBxYjczMHN2dmZqdC5odG1s"
+            ]
+        }
+    ],
+    "downloads": []
+}

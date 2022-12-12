@@ -1,0 +1,59 @@
+{
+    "url": "https://cuevana.pizza/pelicula/freaks-of-nature",
+    "title": "Éramos pocos y llegaron los aliens",
+    "duration": "1h 32m",
+    "year": "2015",
+    "genres": [
+        "Comedia",
+        "Terror",
+        "Ciencia Ficcion"
+    ],
+    "actors": [
+        "Nicholas Braun",
+        "Mackenzie Davis",
+        "Josh Fadem",
+        "Vanessa Hudgens",
+        "Ed Westwick",
+        "Keegan-Michael Key",
+        "Joan Cusack",
+        "Bob Odenkirk",
+        "Chris Zylka",
+        "Cerina Vincent",
+        "Patton Oswalt",
+        "Denis Leary",
+        "Rachael Harris",
+        "Utkarsh Ambudkar",
+        "Pat Healy",
+        "Aurora Perrineau",
+        "Ian Roberts",
+        "Werner Herzog",
+        "Mae Whitman",
+        "Beverly Randolph"
+    ],
+    "description": "En Dillford (Ohio) hace tres días todo estaba tranquilo y se mantenía el estatus de siempre: los vampiros estaban en la parte superior del orden social, los zombis eran en la parte inferior, y los seres humanos se quedaban en el medio. Pero este delicado equilibrio se ve destrozado cuando el apocalipsis alienígena llega a Dillford y pone fin a toda la armonía. Ahora es el humano contra vampiros contra zombies, y todos ellos están en contra de los alienígenas. Corresponde a tres adolescentes —un humano, un vampiro y un zombie— que hacen equipo, y deben encontrar la manera de deshacerse de los visitantes interplanetarios, y tratar de restablecer el orden en esta pequeña ciudad “normal”.",
+    "cover": "https://cuevana.pizza/resize/###/storage/27679/pZwCa4DXH7qdbrVTeHH3nLgrgULPKdRemfOTKfYZ.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQteWhiMnNhcG1hb2NrLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLWgxdnljdWJnYWVyci5odG1s"
+            ]
+        },
+        {
+            "type": "cas",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtdjZsZzMwbjJqN2VvLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLWYzNnYxdDF1M2VvOS5odG1s"
+            ]
+        },
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQteTB5Mmc0djJpNzc2Lmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLXBzeTluNW56YzBoMi5odG1s"
+            ]
+        }
+    ],
+    "downloads": []
+}

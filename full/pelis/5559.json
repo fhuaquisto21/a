@@ -1,0 +1,50 @@
+{
+    "url": "https://cuevana.pizza/pelicula/mala-hierba",
+    "title": "Mala hierba",
+    "duration": "1h 40m",
+    "year": "2018",
+    "genres": [
+        "Comedia"
+    ],
+    "actors": [
+        "Kheiron",
+        "Catherine Deneuve",
+        "André Dussollier",
+        "Hakou Benosmane",
+        "Leila Boumedjane",
+        "Alban Lenoir",
+        "Louison Blivet",
+        "Adil Dehbi",
+        "Youssouf Wague",
+        "Ouassima Zrouki",
+        "Joseph Jovanovic",
+        "Sofiane Zermani",
+        "Ingrid Donnadieu",
+        "Leyla Doriane",
+        "Marion Christmann",
+        "Françoise Remont",
+        "Marc David",
+        "Alexandre Aubry",
+        "Maxime Nourrichard",
+        "Killian Taillasson"
+    ],
+    "description": "Un estafador de poca monta con un pasado difícil que opera con su madre adoptiva se hace cargo de un grupo de estudiantes problemáticos que lo cambiarán todo.",
+    "cover": "https://cuevana.pizza/resize/###/storage/21742/amgVdjiBMEqs7fxPHLcbKlXYhRnvamwMGZHgCsOn.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQta3JjczdhZHgwajI3Lmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLTZxdDVxcWZudzVxNS5odG1s"
+            ]
+        },
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtYjF0ZmNzbnI1aHRwLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLW56cGlheGNlaGF2MS5odG1s"
+            ]
+        }
+    ],
+    "downloads": []
+}

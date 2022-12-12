@@ -1,0 +1,37 @@
+{
+    "url": "https://cuevana.pizza/pelicula/jonathan",
+    "title": "Jonathan",
+    "duration": "1h 41m",
+    "year": "2018",
+    "genres": [
+        "Drama",
+        "Ciencia Ficcion"
+    ],
+    "actors": [
+        "Suki Waterhouse",
+        "Ansel Elgort",
+        "Patricia Clarkson",
+        "Joe Egender",
+        "Douglas Hodge",
+        "Matt Bomer",
+        "Souleymane Sy Savane",
+        "Shunori Ramanathan",
+        "Ian Unterman",
+        "Alok Tewari",
+        "Jeff Kim",
+        "Teo Rapp-Olsson",
+        "Alaska McFadden"
+    ],
+    "description": "Jonathan es un hombre joven con una condición extraña que solo su hermano entiende. Pero cuando comienza a anhelar una vida diferente, su vínculo único se pone a prueba cada vez más.",
+    "cover": "https://cuevana.pizza/resize/###/storage/24050/QbdK59E4cv7mgESAoTJVZm1M5pEydVPyvJAw1i8k.jpg",
+    "players": [
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtZWlrOGlzdHV4dGF5Lmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLWpha3EwdWVqc3V6ai5odG1s"
+            ]
+        }
+    ],
+    "downloads": []
+}

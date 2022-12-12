@@ -1,0 +1,33 @@
+{
+    "url": "https://cuevana.pizza/pelicula/tell-me-who-i-am",
+    "title": "Tell Me Who I Am",
+    "duration": "1h 25m",
+    "year": "2019",
+    "genres": [
+        "Drama",
+        "Misterio",
+        "Documental"
+    ],
+    "actors": [
+        "Alex Lewis",
+        "Marcus Lewis",
+        "Andrew Caley",
+        "Kathleen Rainey",
+        "Thomas Mulhurn",
+        "Luke Mulhurn",
+        "Evan Milton",
+        "Laura Obiols"
+    ],
+    "description": "En este documental, Alex recurre a Marcus, su gemelo, para que le cuente su pasado tras haber perdido la memoria. Pero su hermano oculta un oscuro secreto familiar.",
+    "cover": "https://cuevana.pizza/resize/###/storage/18060/0Ir9mCbry46Ev5UB6j7Vfwd9LRkSTvupZTE82o8o.jpg",
+    "players": [
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtOHZ5Y3FuZ2w2cGgwLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLTduejVpZ3NobzFuZS5odG1s"
+            ]
+        }
+    ],
+    "downloads": []
+}

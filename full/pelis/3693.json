@@ -1,0 +1,61 @@
+{
+    "url": "https://cuevana.pizza/pelicula/police",
+    "title": "Police",
+    "duration": "1h 38m",
+    "year": "2020",
+    "genres": [
+        "Drama",
+        "Crimen"
+    ],
+    "actors": [
+        "Omar Sy",
+        "Virginie Efira",
+        "Grégory Gadebois",
+        "Peyman Maadi",
+        "Anne-Pascale Clairembourg",
+        "Cédric Vieira",
+        "Thierry Levaret",
+        "Emmanuel Barrouyer",
+        "Anne-Gaëlle Jourdain",
+        "Cécile Rebboah"
+    ],
+    "description": "Tres policías parisinos están acusados de llevar a un extraño de regreso a la frontera. Sin embargo, Virginie se da cuenta de que su prisionero probablemente será asesinado al regresar a su país y, por lo tanto, intenta convencer a sus compañeros oficiales de que lo liberen.",
+    "cover": "https://cuevana.pizza/resize/###/storage/21781/bU2OPF84JTY3JEX8cqGtmVdi3V16R8iyyLxX5lhq.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQteGVnNnR0bWx5M2VqLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLXVrbzFqcHB4ODlkZC5odG1s"
+            ]
+        },
+        {
+            "type": "cas",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtOGs1ZmJ0MmlzaTltLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLThhOGh6Y2I2c2R4dS5odG1s"
+            ]
+        },
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtOGE2Nno2YTZxaTZxLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLXkxZTVsY2VoM3VpMC5odG1s"
+            ]
+        }
+    ],
+    "downloads": [
+        {
+            "url": "https://1fichier.com/?xmlfpxj1yzbu2yoqehtv",
+            "type": "la"
+        },
+        {
+            "url": "https://1fichier.com/?47oc4jn2r3jw1yyl26mm",
+            "type": "es"
+        },
+        {
+            "url": "https://1fichier.com/?pfahyb1wqy4nr4t1p9ku",
+            "type": "en"
+        }
+    ]
+}

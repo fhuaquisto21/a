@@ -1,0 +1,62 @@
+{
+    "url": "https://cuevana.pizza/pelicula/the-protege",
+    "title": "The Protégé",
+    "duration": "1h 49m",
+    "year": "2021",
+    "genres": [
+        "Accion",
+        "Suspenso",
+        "Crimen"
+    ],
+    "actors": [
+        "Michael Keaton",
+        "Maggie Q",
+        "Samuel L. Jackson",
+        "Robert Patrick",
+        "Patrick Malahide",
+        "Ekaterina Baker",
+        "Madalina Anea",
+        "Ori Pfeffer",
+        "Jack Derges",
+        "Lili Rich"
+    ],
+    "description": "Un hacker y sus socios roban millones de dólares accidentalmente a un jefe del crimen, y se verán obligados a esconderse para evitar las consecuencias.",
+    "cover": "https://cuevana.pizza/resize/###/storage/9909/xC4ytbhscDjnQIwAfMKSSA7FkFGnDhxvHA2FCRs0.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtN2k4Y3Y2YTl6YTUyLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLXZhcXB0b2tuMGVrNy5odG1s"
+            ]
+        },
+        {
+            "type": "cas",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtYmlxdDE0eTBpaGNkLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLWQxNXI5eWtncmdjdy5odG1s"
+            ]
+        },
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtMnFzN2x6Zmx0aW93Lmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLWh2cHc5djZmNGZqYy5odG1s"
+            ]
+        }
+    ],
+    "downloads": [
+        {
+            "url": "https://1fichier.com/?kxcqh39l3wq4j4qtp5qb",
+            "type": "la"
+        },
+        {
+            "url": "https://1fichier.com/?ct3r43pmw37ad8yulsng",
+            "type": "es"
+        },
+        {
+            "url": "https://1fichier.com/?u8bfn2cce7ai8zvr3pag",
+            "type": "en"
+        }
+    ]
+}

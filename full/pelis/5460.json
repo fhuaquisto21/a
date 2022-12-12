@@ -1,0 +1,45 @@
+{
+    "url": "https://cuevana.pizza/pelicula/andover",
+    "title": "Andover",
+    "duration": "1h 31m",
+    "year": "2018",
+    "genres": [
+        "Comedia",
+        "Romance",
+        "Ciencia Ficcion"
+    ],
+    "actors": [
+        "Jonathan Silverman",
+        "Jennifer Finnigan",
+        "Steven Bauer",
+        "Angela Kinsey",
+        "Richard Kind",
+        "Scout Taylor-Compton",
+        "Bai Ling",
+        "Beth Grant",
+        "Scott Krinsky",
+        "Richard Portnow",
+        "Thomas Q. Jones",
+        "Joel Michaely",
+        "Gena Shaw",
+        "Kerri Medders",
+        "Dwayne Kennedy",
+        "Claudia Funk",
+        "Steve Seagren",
+        "Joshua Mann",
+        "Rich Barnes",
+        "Jesse Ray"
+    ],
+    "description": "",
+    "cover": "https://cuevana.pizza/resize/###/storage/21390/hJm5ng8mMvHFb45YBmMStkXeoztAEDMW1fANCyZ9.jpg",
+    "players": [
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtMWxkZW5zd2YwbjJtLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLXhxZHNkeHh0N2lqei5odG1s"
+            ]
+        }
+    ],
+    "downloads": []
+}

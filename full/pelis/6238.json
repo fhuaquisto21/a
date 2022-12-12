@@ -1,0 +1,55 @@
+{
+    "url": "https://cuevana.pizza/pelicula/the-monster-project",
+    "title": "The Monster Project",
+    "duration": "1h 38m",
+    "year": "2017",
+    "genres": [
+        "Accion",
+        "Terror"
+    ],
+    "actors": [
+        "Jamal Quezaire",
+        "Justin Bruening",
+        "Murielle Zuker",
+        "Toby Hemingway"
+    ],
+    "description": "Unos directores de cine ponen un anuncio para un casting de monstruos reales, para su documental 'The Monster Project'. Encuentran a tres que dicen ser un hombre bestia, un vampiro y un demonio.",
+    "cover": "https://cuevana.pizza/resize/###/storage/25392/D6HTGMfAorSUtYm5l3hjvW3qQoyYA4M3LvuD7fOu.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtbW56dHlpZXBjejJiLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLXEyZTd1dG5jNDNyai5odG1s"
+            ]
+        },
+        {
+            "type": "cas",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtMWpuMjNoOGx0dW1xLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLWwyZXl6bjMyNWJoNS5odG1s"
+            ]
+        },
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtN2V4NWNvbG1wOG83Lmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLW8xcGZpNTRmcHRray5odG1s"
+            ]
+        }
+    ],
+    "downloads": [
+        {
+            "url": "https://1fichier.com/?ozcuf6vhngp4xu4drr1f",
+            "type": "la"
+        },
+        {
+            "url": "https://1fichier.com/?tdgivix8ftlq7pcnldhh",
+            "type": "es"
+        },
+        {
+            "url": "https://1fichier.com/?a6dl3684yw2fcj7vu24g",
+            "type": "en"
+        }
+    ]
+}

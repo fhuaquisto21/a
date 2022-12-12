@@ -1,0 +1,53 @@
+{
+    "url": "https://cuevana.pizza/pelicula/el-retrato-de-dorian-gray-2",
+    "title": "El retrato de Dorian Gray",
+    "duration": "1h 50m",
+    "year": "1945",
+    "genres": [
+        "Drama",
+        "Suspenso",
+        "Terror",
+        "Fantasia"
+    ],
+    "actors": [
+        "Hurd Hatfield",
+        "George Sanders",
+        "Donna Reed",
+        "Angela Lansbury",
+        "Peter Lawford",
+        "Lowell Gilmore",
+        "Richard Fraser",
+        "Douglas Walton",
+        "Morton Lowry",
+        "Miles Mander",
+        "Lydia Bilbrook",
+        "Mary Forbes",
+        "Robert Greig",
+        "Moyna MacGill",
+        "Billy Bevan",
+        "Renee Carson",
+        "Lilian Bond",
+        "Devi Dja",
+        "John George",
+        "William Holmes"
+    ],
+    "description": "Dorian Gray es un joven aristócrata muy atractivo que vende su alma al Diablo a cambio de la eterna juventud. Gracias a una invocación consigue que sea el retrato que le ha hecho su amigo Basil Hallward el que sufra el proceso natural del envejecimiento.",
+    "cover": "https://cuevana.pizza/resize/###/storage/29496/R64iGjUly2wt0GtIVok1W0RSS6ouCSJSIhcyejut.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtZnBid3Nwb3BtdzZqLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLXY5dmlmazZoNmpqMy5odG1s"
+            ]
+        },
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtdms5cWdkMGVjNWRhLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLTlnb2diNnh2Z2JpeC5odG1s"
+            ]
+        }
+    ],
+    "downloads": []
+}

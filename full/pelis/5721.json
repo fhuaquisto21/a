@@ -1,0 +1,51 @@
+{
+    "url": "https://cuevana.pizza/pelicula/el-despertar-de-motti-wolkenbruch",
+    "title": "El despertar de Motti Wolkenbruch",
+    "duration": "1h 34m",
+    "year": "2018",
+    "genres": [
+        "Comedia",
+        "Drama"
+    ],
+    "actors": [
+        "Noémie Schmidt",
+        "Joel Basman",
+        "Sunnyi Melles",
+        "Udo Samel",
+        "Inge Maux",
+        "Alexander Seibt",
+        "Oriana Schrage",
+        "Philippe Graber",
+        "Kamil Krejčí",
+        "Lena Kalisch",
+        "Rachel Braunschweig",
+        "Meytal Gal",
+        "Eli Gorenstein",
+        "Idit Teperson",
+        "Andreas Pegler",
+        "Michael Rutman",
+        "Aaron Arens",
+        "Shelley Kästner",
+        "Joey Zimmermann",
+        "Friederike Frerichs"
+    ],
+    "description": "La vida de Motti, presionado para casarse con una mujer judía ortodoxa, da un vuelco al enamorarse de su compañera de clase. Algo que su madre nunca verá con buenos ojos.",
+    "cover": "https://cuevana.pizza/resize/###/storage/25712/iiDrKLLoN7a5UuhheC5rVkDvVn7JsKJ0wCJ3qn14.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtMzd0OWdsY3B0a2lyLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLTdiN2hkamRuNmcwbi5odG1s"
+            ]
+        },
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtenNmM2Y2Y3ZlbXY0Lmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLXM3bmNvdDdjbHppYi5odG1s"
+            ]
+        }
+    ],
+    "downloads": []
+}

@@ -1,0 +1,46 @@
+{
+    "url": "https://cuevana.pizza/pelicula/a-love-song",
+    "title": "A Love Song",
+    "duration": "1h 21m",
+    "year": "2022",
+    "genres": [
+        "Drama"
+    ],
+    "actors": [
+        "Dale Dickey",
+        "Wes Studi",
+        "Michelle Wilson",
+        "Benja K. Thomas",
+        "John Way",
+        "Marty Grace Dennis",
+        "Sam Engbring",
+        "Scout Engbring",
+        "Gregory Hope",
+        "Jesse Hope",
+        "Felipe Jorge"
+    ],
+    "description": "Dos novios de la infancia, ahora ambos viudos, comparten una noche junto a un lago en las montañas.",
+    "cover": "https://cuevana.pizza/resize/###/storage/54722/ywz92PRj87B8P2pNi7OYftuqmHR19Q9IHbGtr34m.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtMHdncW40bzgyN2FiLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLXRiZ21pamNucTN0MS5odG1s"
+            ]
+        },
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtdzgxZTUxbW52bjAwLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLXlzdWZ2Z3Jib3p1ai5odG1s"
+            ]
+        }
+    ],
+    "downloads": [
+        {
+            "url": "https://1fichier.com/?kgfqpqvjothmdbrbrtcg",
+            "type": "en"
+        }
+    ]
+}

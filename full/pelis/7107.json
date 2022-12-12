@@ -1,0 +1,41 @@
+{
+    "url": "https://cuevana.pizza/pelicula/hard-sell",
+    "title": "Hard Sell",
+    "duration": "1h 36m",
+    "year": "2016",
+    "genres": [
+        "Comedia"
+    ],
+    "actors": [
+        "Katrina Bowden",
+        "Skyler Gisondo",
+        "Kristin Chenoweth",
+        "Hannah Marks",
+        "Bailey Noble",
+        "Kevin Kilner",
+        "Cameron Jebo",
+        "Spencer List",
+        "Garrett Coffey",
+        "Catherine van der Rijt",
+        "Ismaelpeter Casillas Nelson"
+    ],
+    "description": "Un estudiante de secundaria, que lucha para ayudar a su deprimida madre y a su perro enfermo, forma una inesperada amistad con una hermosa fugitiva.",
+    "cover": "https://cuevana.pizza/resize/###/storage/28138/8ULzoDhHrBQh8S8G325rttWgBrC1FGyNEw1etWr4.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtdnloOHpldXA1OXJmLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLWtyc3ppZXp5bDlpNi5odG1s"
+            ]
+        },
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtaDR4cjVubTB5aTRyLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLWRtaTgyZjRiNG5wby5odG1s"
+            ]
+        }
+    ],
+    "downloads": []
+}

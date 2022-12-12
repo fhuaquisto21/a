@@ -1,0 +1,38 @@
+{
+    "url": "https://cuevana.pizza/pelicula/vaya-clase",
+    "title": "¿Quién Ríe Ahora?",
+    "duration": "1h 23m",
+    "year": "2019",
+    "genres": [
+        "Comedia"
+    ],
+    "actors": [
+        "Caroline Anglade",
+        "Laetitia Chambon",
+        "Jérôme Niel",
+        "Ludovik",
+        "Nicolas Berno",
+        "Johann Dionnet",
+        "Joséphine Draï",
+        "Pauline Deshons"
+    ],
+    "description": "Dos amigos ansiosos por presumir de su éxito ante antiguos abusones y amores de juventud pasarán una noche salvaje en una reunión de exalumnos.",
+    "cover": "https://cuevana.pizza/resize/###/storage/21208/owg7Yehw8ifxOIOp6XCPT2UJ8EbpH7RXTlps45m1.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtMDVsbm84OHJicDBpLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLWEzY2ZrampyNDZoei5odG1s"
+            ]
+        },
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtNHp3bXZ4d2UzdXM1Lmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLWcya3h2bzhxeWIwOC5odG1s"
+            ]
+        }
+    ],
+    "downloads": []
+}

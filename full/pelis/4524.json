@@ -1,0 +1,44 @@
+{
+    "url": "https://cuevana.pizza/pelicula/centigrade",
+    "title": "Centigrade",
+    "duration": "1h 29m",
+    "year": "2020",
+    "genres": [
+        "Drama",
+        "Suspenso"
+    ],
+    "actors": [
+        "Génesis Rodríguez",
+        "Vincent Piazza",
+        "Benjamin Sokolow",
+        "Emily Bayiokos"
+    ],
+    "description": "Una joven pareja estadounidense viaja a las montañas árticas de Noruega. Después de detenerse durante una tormenta de nieve, se despiertan atrapados en su SUV, enterrados bajo capas de nieve y hielo. Una joven pareja estadounidense viaja a las montañas árticas de Noruega. Un hombre y su esposa embarazada quedan atrapados en su automóvil cuando una tormenta los entierra debajo de capas de nieve y hielo. A medida que los suministros disminuyen y las temperaturas descienden, la pareja debe luchar contra los elementos y la hipotermia en una lucha desesperada por sobrevivir. ¿Podrán sobrevivir a la desesperación, el temor y el frió?",
+    "cover": "https://cuevana.pizza/resize/###/storage/25010/db2YGgOSa5dz0eOJzU6RWZSq0Vt8Cj8tMRKhrsVQ.jpg",
+    "players": [
+        {
+            "type": "cas",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQteGUwYzQxcWdrdG02Lmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLTZtN3Z2ZHlqYzMzYS5odG1s"
+            ]
+        },
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtdnFnN3RldmxtbDVnLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLXp4Y3M4MDk5cnE1ZC5odG1s"
+            ]
+        }
+    ],
+    "downloads": [
+        {
+            "url": "https://1fichier.com/?b86ofrqel1lpnnl59e0l",
+            "type": "es"
+        },
+        {
+            "url": "https://1fichier.com/?bsar1y6wpp95s6rx24cd#Synchronization+Service",
+            "type": "en"
+        }
+    ]
+}

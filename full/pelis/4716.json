@@ -1,0 +1,55 @@
+{
+    "url": "https://cuevana.pizza/pelicula/proximity",
+    "title": "Proximity",
+    "duration": "1h 59m",
+    "year": "2020",
+    "genres": [
+        "Drama",
+        "Ciencia Ficcion"
+    ],
+    "actors": [
+        "Ryan Masson",
+        "Highdee Kuan",
+        "Christian Prentice",
+        "Nomi Abadi"
+    ],
+    "description": "PROXIMITY sigue la historia de Isaac (Ryan Masson), un joven ingeniero informático en el Laboratorio de Propulsión a Chorro de la NASA. Mientras filma un video a sugerencia de un terapeuta, Isaac captura meteoritos que se estrellan, se encuentra con un extraterrestre y desaparece por un par de días. Uno de los que \"regresa\", publica su video y se burla de él en lugar de creerlo, pero escucha a una persona que cree que realmente vio a un extraterrestre. Se encuentra con la otra creyente, Sarah (Highdee Kuan), pero ambos son capturados abruptamente por agentes secretos del gobierno con guardias de seguridad de Android. Isaac y Sarah deben trabajar juntos para escapar y encontrar las respuestas a sus misteriosos encuentros.",
+    "cover": "https://cuevana.pizza/resize/###/storage/4122/dfcyUHnzTtN3EcGprLieRdYzNBpuaHg4Mpv4bHeV.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtZXRpYWUyMzRzY2FoLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLWx6MmhrNGpxaGVxdC5odG1s"
+            ]
+        },
+        {
+            "type": "cas",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtOWJ0cnM4M2JtY29iLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLWhvMGdldTQwZXA4NS5odG1s"
+            ]
+        },
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtb2h0NWZlcXphdjNjLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLXNtMXdhaHVvcGx0ci5odG1s"
+            ]
+        }
+    ],
+    "downloads": [
+        {
+            "url": "https://1fichier.com/?plo7lrlxlwtstmbsuwil",
+            "type": "la"
+        },
+        {
+            "url": "https://1fichier.com/?tl8fhw0p8ajpxufnynw8",
+            "type": "es"
+        },
+        {
+            "url": "https://1fichier.com/?uguuvodm3auzinakq219",
+            "type": "en"
+        }
+    ]
+}

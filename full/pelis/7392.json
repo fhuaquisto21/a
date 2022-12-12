@@ -1,0 +1,51 @@
+{
+    "url": "https://cuevana.pizza/pelicula/selma",
+    "title": "Selma",
+    "duration": "2h 3m",
+    "year": "2014",
+    "genres": [
+        "Historia",
+        "Documental"
+    ],
+    "actors": [
+        "David Oyelowo",
+        "Tom Wilkinson",
+        "Carmen Ejogo",
+        "Tim Roth",
+        "Oprah Winfrey",
+        "Giovanni Ribisi",
+        "Alessandro Nivola",
+        "Cuba Gooding Jr.",
+        "André Holland",
+        "Omar J. Dorsey",
+        "Colman Domingo",
+        "Common",
+        "Ruben Santiago-Hudson",
+        "Tessa Thompson",
+        "Lorraine Toussaint",
+        "David Dwyer",
+        "E. Roger Mitchell",
+        "Dylan Baker",
+        "Ledisi",
+        "Kent Faulcon"
+    ],
+    "description": "Esta crónica sobre la lucha del político y activista Martin Luther King Jr. en defensa de los derechos civiles se centra en la marcha desde Selma a Montgomery, en 1965, que llevó al presidente Lyndon B. Johnson a aprobar la ley sobre el derecho al voto de los ciudadanos negros.",
+    "cover": "https://cuevana.pizza/resize/###/storage/595/rnIe20xEDhAiCwk7H2LHTNO9puKQ92TCc9lRfTsX.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtOGJjNHQxMzM1Njh3Lmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLTdvM2ZlN2o0bWtvaC5odG1s"
+            ]
+        },
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtNTVlMWowOGI0eXhtLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLTZpNjYxZWZianc1ay5odG1s"
+            ]
+        }
+    ],
+    "downloads": []
+}

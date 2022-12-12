@@ -1,0 +1,45 @@
+{
+    "url": "https://cuevana.pizza/pelicula/regreso-al-titanic",
+    "title": "Regreso al Titanic",
+    "duration": "0h 45m",
+    "year": "2020",
+    "genres": [
+        "Documental"
+    ],
+    "actors": [
+        "Nigel Barber",
+        "Elliot Graves",
+        "Lori Johnston",
+        "Sindbad Rumney-Guggenheim",
+        "Parks Stephenson",
+        "Victor Vescovo"
+    ],
+    "description": "Back to the Titanic documenta las primeras inmersiones tripuladas al Titanic en casi 15 años. Nuevas imágenes revelan una nueva descomposición y arrojan luz sobre el futuro del barco.",
+    "cover": "https://cuevana.pizza/resize/###/storage/41369/p2WGoHLy8A9Cjke8nuXXOayIbJ5T2R0zXofRGrED.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtYW1mY2htM2lzbHRoLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLW9vd28wY2I2enhmdS5odG1s"
+            ]
+        },
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtMHozb3V4aWZuZGoyLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLTR4M2FyNTN0YXEyZy5odG1s"
+            ]
+        }
+    ],
+    "downloads": [
+        {
+            "url": "https://1fichier.com/?unhkqdj5z1fw2xu0m77w",
+            "type": "la"
+        },
+        {
+            "url": "https://1fichier.com/?834gkw2ypj20etov0rqr",
+            "type": "en"
+        }
+    ]
+}

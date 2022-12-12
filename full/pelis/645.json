@@ -1,0 +1,42 @@
+{
+    "url": "https://cuevana.pizza/pelicula/la-pelicula-de-tigger",
+    "title": "La película de Tigger",
+    "duration": "1h 20m",
+    "year": "2000",
+    "genres": [
+        "Comedia",
+        "Familia",
+        "Animacion",
+        "Disney"
+    ],
+    "actors": [
+        "Jim Cummings",
+        "Ken Sansom",
+        "John Fiedler",
+        "Peter Cullen",
+        "Andre Stojka",
+        "Kath Soucie",
+        "Nikita Hopkins",
+        "Tom Attenborough",
+        "John Hurt",
+        "Frank Welker",
+        "Geoff Koch"
+    ],
+    "description": "Tigger y Rito hacen una minuciosa búsqueda en el Bosque de los Cien Acres reuniendo pistas sobre la familia de Tigger.",
+    "cover": "https://cuevana.pizza/resize/###/storage/47983/ipDVssAo6hxYFxyPipp1F0nsoAn40zpwbDYhYTwZ.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtMjdrZnY3dndpa2c3Lmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLWdiOXhnZDJneTlsNS5odG1s"
+            ]
+        }
+    ],
+    "downloads": [
+        {
+            "url": "https://1fichier.com/?3nf9zw7u8z3lmsrd60a3",
+            "type": "la"
+        }
+    ]
+}

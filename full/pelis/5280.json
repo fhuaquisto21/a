@@ -1,0 +1,45 @@
+{
+    "url": "https://cuevana.pizza/pelicula/the-tomorrow-man",
+    "title": "The Tomorrow Man",
+    "duration": "1h 34m",
+    "year": "2019",
+    "genres": [
+        "Drama",
+        "Romance"
+    ],
+    "actors": [
+        "John Lithgow",
+        "Blythe Danner",
+        "Derek Cecil",
+        "Katie Aselton",
+        "Sophie Thatcher",
+        "Eve Harlow",
+        "Wendy Makkena",
+        "Isabelle Boni",
+        "Shawn M. Essler",
+        "Anthony Lafornara",
+        "Jeff Moon",
+        "Andrew Gonsalves",
+        "Naveen Havannavar",
+        "Danielle Smith"
+    ],
+    "description": "Ed Hemsler pasa la mayor parte de su vida preparándose para un desastre que puede que nunca llegue. Ronnie Meisner gasta todo su dinero comprando objetos en tiendas que puede que nunca use. En un pequeño pueblo de los Estados Unidos, dos extraños tratan de enamorarse sin interponerse en la forma de ser y de vivir del otro.",
+    "cover": "https://cuevana.pizza/resize/###/storage/18090/e7gFSxo2QAw3OfsghkYkzcRe2hgkUMz40fVtYJv4.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtZXhwMGM1NHgzanBqLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLWk2ZDk0OTRleDZ4ay5odG1s"
+            ]
+        },
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtcm8yZjN6ZzYxeDFpLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLXdteDlzdTNjcG1yYi5odG1s"
+            ]
+        }
+    ],
+    "downloads": []
+}

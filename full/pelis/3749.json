@@ -1,0 +1,49 @@
+{
+    "url": "https://cuevana.pizza/pelicula/nina",
+    "title": "Niña",
+    "duration": "1h 32m",
+    "year": "2020",
+    "genres": [
+        "Thriller"
+    ],
+    "actors": [
+        "Bella Thorne",
+        "Mickey Rourke",
+        "Glen Gould",
+        "Chad Faust",
+        "Elizabeth Saunders",
+        "Lanette Ware",
+        "Michael Lipka",
+        "John Clifford Talbot",
+        "Paolo Mancini",
+        "Tia Lavallee"
+    ],
+    "description": "Una joven regresa a su pequeña ciudad natal con la intención de matar a su padre abusivo... pero descubre que alguien lo asesinó el día anterior. Mientras busca respuestas, descubre un legado familiar más peligroso de lo que había imaginado.",
+    "cover": "https://cuevana.pizza/resize/###/storage/23145/WQevPmbIFCqKivfyQEewVXU7yUevF1siGTX1zQVr.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtNHZwamZxdnU0MmJiLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLWtwOXdqbjlub3IzMC5odG1s"
+            ]
+        },
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtNnhwd2IzMXVzdnluLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLWtpMTdndGR0am83ZC5odG1s"
+            ]
+        }
+    ],
+    "downloads": [
+        {
+            "url": "https://1fichier.com/?f4ujupnep96x43ku1cng",
+            "type": "la"
+        },
+        {
+            "url": "https://1fichier.com/?cihqdh9zf8jctbkocdm5",
+            "type": "en"
+        }
+    ]
+}

@@ -1,0 +1,47 @@
+{
+    "url": "https://cuevana.pizza/pelicula/al-aire-patos",
+    "title": "Al aire, patos",
+    "duration": "1h 22m",
+    "year": "2018",
+    "genres": [
+        "Comedia",
+        "Aventura",
+        "Animacion"
+    ],
+    "actors": [
+        "Jim Gaffigan",
+        "Lance Lim",
+        "Greg Proops",
+        "Natasha Leggero",
+        "Stephen Fry",
+        "Craig Ferguson",
+        "Carl Reiner",
+        "Jennifer Grey",
+        "Reggie Watts",
+        "Diedrich Bader",
+        "Rick Overton",
+        "Tong Zirong",
+        "Meilee Condron",
+        "William M. Steinberg",
+        "Zendaya"
+    ],
+    "description": "Peng, un ganso soltero que se niega a vivir como los demás esperan que lo haga, ayuda a dos jóvenes patitos que han emprendido una larga aventura a través de montañas, lagos y bosques de bambú.",
+    "cover": "https://cuevana.pizza/resize/###/storage/25690/4dDFRP8DIFr75KAJCxn19pJBomBthlGEm8NtB0Nn.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtemViNzR3YjY5aG4yLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLTh0YnF6dHRjbW95Ny5odG1s"
+            ]
+        },
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtaGRtcDQyZmJ0cm82Lmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLWZzMmI4bWNxcTN1dS5odG1s"
+            ]
+        }
+    ],
+    "downloads": []
+}

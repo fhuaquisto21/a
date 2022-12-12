@@ -1,0 +1,51 @@
+{
+    "url": "https://cuevana.pizza/pelicula/la-nueva-filosofia-de-phil",
+    "title": "La Nueva Filosofia De Phil",
+    "duration": "1h 46m",
+    "year": "2019",
+    "genres": [
+        "Comedia",
+        "Drama"
+    ],
+    "actors": [
+        "Greg Kinnear",
+        "Emily Mortimer",
+        "Taylor Schilling",
+        "Kurt Fuller",
+        "Bradley Whitford",
+        "Luke Wilson",
+        "April Cameron",
+        "Megan Charpentier",
+        "Sarah Dugdale",
+        "Jay Duplass",
+        "Robert Forster",
+        "Christina Jastrzembska",
+        "Jagen Johnson",
+        "Angela Moore",
+        "Nicole Oliver",
+        "William B. Davis",
+        "Rukiya Bernard",
+        "Peter Bryant",
+        "Kirby Morrow",
+        "Brittany Mitchell"
+    ],
+    "description": "Un dentista sumido en una crisis de mediana edad decide averiguar los motivos que llevaron a uno de sus pacientes a quitarse la vida.",
+    "cover": "https://cuevana.pizza/resize/###/storage/20324/DTO9Z3kwnMdZ3pKV2oQp3moUMJWYOiQGIgX3Fk3C.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtenBkdmxvcjFqMzdmLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLXBrMHp4M3hkeDU1bC5odG1s"
+            ]
+        },
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtZDdpdzJyeWxraTQzLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLW9mYXhkazgzOW1nei5odG1s"
+            ]
+        }
+    ],
+    "downloads": []
+}

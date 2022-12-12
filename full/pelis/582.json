@@ -1,0 +1,54 @@
+{
+    "url": "https://cuevana.pizza/pelicula/after-amor-infinito",
+    "title": "After. Amor infinito",
+    "duration": "1h 35m",
+    "year": "2022",
+    "genres": [
+        "Drama",
+        "Romance"
+    ],
+    "actors": [
+        "Josephine Langford",
+        "Hero Fiennes Tiffin",
+        "Chance Perdomo",
+        "Carter Jenkins",
+        "Kiana Madeira",
+        "Stephen Moyer",
+        "Louise Lombard",
+        "Mira Sorvino",
+        "Arielle Kebbel",
+        "Jack Bandeira",
+        "Frances Turner",
+        "Rob Estes",
+        "Atanas Srebrev",
+        "Anton Kottas",
+        "Ryan Ol",
+        "Tosin Thompson"
+    ],
+    "description": "El amor de Tessa y Hardin nunca ha sido fácil. Mientras él permanece en Londres después de la boda de su madre y se hunde cada vez más en su propia oscuridad, ella regresa a Seattle. Tessa es la única capaz de entenderle y calmarle... él la necesita, pero ella ya no es la chica buena y dulce que era cuando llegó a la universidad. Deberá plantearse si lo que debe hacer ahora es salvar a Hardin y su relación con él, o si ha llegado el momento de pensar solo en ella. Si quieren que su amor sobreviva, primero tendrán que trabajar en sí mismos. ¿Pero será su destino seguir estando juntos?",
+    "cover": "https://cuevana.pizza/resize/###/storage/48720/sII8yFMv3RAtmDB3GfRmhx3gXdBWV2DfwCKbDBO9.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQta3phczE1b2FzcnVsLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLWVnbzFpYnRieWx2NS5odG1s"
+            ]
+        },
+        {
+            "type": "cas",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtOHBvbjBpOHRvMG9lLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLWw2YjgxZXNnc3Zqay5odG1s"
+            ]
+        },
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtdTRiMmZwMnUyMmRmLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLXpmNGhibnV4M3RmOC5odG1s"
+            ]
+        }
+    ],
+    "downloads": []
+}

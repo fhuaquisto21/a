@@ -1,0 +1,44 @@
+{
+    "url": "https://cuevana.pizza/pelicula/love-on-safari",
+    "title": "Love on Safari",
+    "duration": "0h 45m",
+    "year": "2018",
+    "genres": [
+        "Romance"
+    ],
+    "actors": [
+        "Lacey Chabert",
+        "Jon Cor",
+        "Brittany Bristow",
+        "Francis Chouler",
+        "John Indi",
+        "Patrick Lyster",
+        "Abigail Kubeka",
+        "Jonathan Roxmouth",
+        "Barbora Tellinger",
+        "Mark Richardson",
+        "Sechaba Ramphele",
+        "Schelaine Bennett",
+        "Xabiso Ngqabe",
+        "Lucas Saige Ndlovu"
+    ],
+    "description": "Kira Slater hereda una reserva de animales en Sudáfrica, y deberá decidir si la vende o deja su segura vida en Chicago, en el que arriesgará todo por este mundo nuevo del que se ha enamorado. Ver a los niños del colegio que su tío construyó, y ser testigo de la belleza de los animales libres en su hábitat natural, la convencerá de elegir la opción correcta.",
+    "cover": "https://cuevana.pizza/resize/###/storage/23296/X83bEryUi8p5iic7lWyuWU2oSyXjXOZSd3pocryI.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtaDdrYTJ3cmtmbmRzLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLTlxdTRmMjM0cHNxai5odG1s"
+            ]
+        },
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtMmNwbGl0c21qOXlwLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLTFodjJ5YXpmbGRhdy5odG1s"
+            ]
+        }
+    ],
+    "downloads": []
+}

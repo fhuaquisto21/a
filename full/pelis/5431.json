@@ -1,0 +1,54 @@
+{
+    "url": "https://cuevana.pizza/pelicula/destruccion",
+    "title": "Destroyer. Una mujer herida",
+    "duration": "2h 3m",
+    "year": "2018",
+    "genres": [
+        "Accion",
+        "Drama",
+        "Misterio",
+        "Suspenso",
+        "Crimen"
+    ],
+    "actors": [
+        "Nicole Kidman",
+        "Sebastian Stan",
+        "Tatiana Maslany",
+        "Bradley Whitford",
+        "Toby Kebbell",
+        "Scoot McNairy",
+        "Toby Huss",
+        "James Jordan",
+        "Beau Knapp",
+        "Jade Pettyjohn",
+        "Shamier Anderson",
+        "Zach Villa",
+        "Natalia Córdova-Buckley",
+        "Colby French",
+        "Kelvin Han Yee",
+        "Doug Simpson",
+        "Kale Clauson",
+        "Jan Hoag",
+        "Peter Vasquez",
+        "Mickey O'Hagen"
+    ],
+    "description": "Erin Bell trabajó en su juventud como policía encubierta en una peligrosa banda del desierto de California. Su incursión en el mundo de la mafia tuvo consecuencias fatales para su mente de las que cree haberse recuperado. Sin embargo, cuando el líder de la banda vuelve a dar señales de vida, Bell sufre una odisea moral y existencial. La única solución para olvidar sus fantasmas pasa por retomar el contacto con viejos miembros del grupo, intentando comprender cuáles fueron los motivos que destruyeron su pasado.",
+    "cover": "https://cuevana.pizza/resize/###/storage/21344/rv7SOThNlaBxBNsG59TRPrqswmrvgtFZN28tmVNI.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtYnB6ODV2bmw3NDZrLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLWU3aHVqbXVpdDF5cS5odG1s"
+            ]
+        },
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtZ3M3NjhkcjVmMHFoLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLXA5dGU4c3E4bGtkNS5odG1s"
+            ]
+        }
+    ],
+    "downloads": []
+}

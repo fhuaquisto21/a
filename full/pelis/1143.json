@@ -1,0 +1,68 @@
+{
+    "url": "https://cuevana.pizza/pelicula/mark-mary-otra-gente",
+    "title": "Mark, Mary + otra gente",
+    "duration": "1h 30m",
+    "year": "2021",
+    "genres": [
+        "Comedia",
+        "Drama",
+        "Romance"
+    ],
+    "actors": [
+        "Ben Rosenfield",
+        "Hayley Law",
+        "Nik Dodani",
+        "Odessa A'zion",
+        "Matt Shively",
+        "Sofia Bryant",
+        "Maggie Wheeler",
+        "Kelli Berglund",
+        "Esther Povitsky",
+        "Joe Lo Truglio",
+        "Haley Ramm",
+        "Pete Williams",
+        "Gillian Jacobs",
+        "Lea Thompson",
+        "Steve Little",
+        "Alina Bock"
+    ],
+    "description": "Comedia sobre una pareja de jóvenes que exploran lo que es una relación abierta.",
+    "cover": "https://cuevana.pizza/resize/###/storage/41999/2dVV0GsjMfJ9ikyxMZLFo84tBXwJda2D1VOOasq3.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtNTNhemMwYTZscmswLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLTRtbTJ2azFjNW8yeC5odG1s"
+            ]
+        },
+        {
+            "type": "cas",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQteWRqYXd1dXExaXd2Lmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLTE1aDlvYWJ6a2Jzby5odG1s"
+            ]
+        },
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtc3c1NTUydHB2cDZxLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLTdpeWltNXExeWQ5My5odG1s"
+            ]
+        }
+    ],
+    "downloads": [
+        {
+            "url": "https://1fichier.com/?7pooyp06khgib1i446f4",
+            "type": "la"
+        },
+        {
+            "url": "https://1fichier.com/?fw1yg33zoimtmn969xk6",
+            "type": "es"
+        },
+        {
+            "url": "https://1fichier.com/?e9zz3ci1crolzpq4sj0y",
+            "type": "en"
+        }
+    ]
+}

@@ -1,0 +1,42 @@
+{
+    "url": "https://cuevana.pizza/pelicula/bajo-la-piel-de-lobo",
+    "title": "Bajo la piel de lobo",
+    "duration": "1h 50m",
+    "year": "2018",
+    "genres": [
+        "Drama",
+        "Romance"
+    ],
+    "actors": [
+        "Mario Casas",
+        "Irene Escolar",
+        "Ruth Díaz",
+        "Quimet Pla",
+        "Paco Sagárzazu",
+        "Kandido Uranga"
+    ],
+    "description": "Martín es el último habitante de Auzal, un remoto y pequeño pueblo en las montañas, donde vive en paz con la naturaleza. Desciende hacia los valles dos veces al año, al comienzo de la primavera y al final del verano, donde comercia y consigue provisiones para el resto del año. Pero un día tiene un tórrido y fugaz encuentro con Joxepi, \"la molinera\", y tras esto comienza a plantearse seriamente su actitud de lobo solitario. Así empezará a experimentar nuevos sentimientos, unos sentimientos que cuando afloran ya no pueden reprimirse",
+    "cover": "https://cuevana.pizza/resize/###/storage/23440/kUEEL65j4ky1HaLKkvYq5uA7EyJQqpA6FwWKA2LJ.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtbTA0bWx6ZTY2aXFqLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLWc4YXh4Mmo3bWxzMS5odG1s"
+            ]
+        },
+        {
+            "type": "cas",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtbmt6bmpscTA1bXlqLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLTBicmpidnFqcHRnMy5odG1s"
+            ]
+        }
+    ],
+    "downloads": [
+        {
+            "url": "https://1fichier.com/?3gcs52yvw82m16i1kcn2",
+            "type": "es"
+        }
+    ]
+}

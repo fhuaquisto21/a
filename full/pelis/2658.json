@@ -1,0 +1,61 @@
+{
+    "url": "https://cuevana.pizza/pelicula/apex",
+    "title": "Apex",
+    "duration": "1h 48m",
+    "year": "2021",
+    "genres": [
+        "Accion",
+        "Suspenso",
+        "Ciencia Ficcion"
+    ],
+    "actors": [
+        "Neal McDonough",
+        "Bruce Willis",
+        "Corey Large",
+        "Alexia Fast",
+        "Nels Lennarson",
+        "Megan Peta Hill",
+        "Trevor Gretzky",
+        "Adam Huel Potter",
+        "Joe Munroe"
+    ],
+    "description": "El expolicía James Malone cumple una cadena perpetua por un crimen que no cometió. Se le ofrece una oportunidad de libertad si puede sobrevivir a un juego mortal de Apex, en el que seis cazadores pagan por el placer de cazar a otro humano en una isla remota. Él acepta, y una vez que llega, se desata el infierno.",
+    "cover": "https://cuevana.pizza/resize/###/storage/11873/snOGrFU3Z3XpXsdyqe4gWv9w2ClfPLwaxQikirHl.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtYWltcHd3ZnVsbmtkLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLXc5cTU3eXdnOW4wZC5odG1s"
+            ]
+        },
+        {
+            "type": "cas",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtb2pwYnZmY2ZyYzc3Lmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLWw2bWowcTRxMXQ0ci5odG1s"
+            ]
+        },
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtazd3bzEydTBybXhoLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLXVzbjByamZxcDk3Mi5odG1s"
+            ]
+        }
+    ],
+    "downloads": [
+        {
+            "url": "https://1fichier.com/?431dwmvfjc0aipm7xyu1",
+            "type": "la"
+        },
+        {
+            "url": "https://1fichier.com/?8tcejn27rd9iovw9w5me",
+            "type": "es"
+        },
+        {
+            "url": "https://1fichier.com/?oucrukv6onpiaty5lhse",
+            "type": "en"
+        }
+    ]
+}

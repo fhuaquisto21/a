@@ -1,0 +1,42 @@
+{
+    "url": "https://cuevana.pizza/pelicula/candy-jar",
+    "title": "Candy Jar",
+    "duration": "1h 32m",
+    "year": "2018",
+    "genres": [
+        "Comedia"
+    ],
+    "actors": [
+        "Sami Gayle",
+        "Jacob Latimore",
+        "Christina Hendricks",
+        "Uzo Aduba",
+        "Helen Hunt",
+        "Tom Bergeron",
+        "Tracey Bonner",
+        "Paul Tigue",
+        "Evan Castelloe",
+        "Wilbur Fitzgerald",
+        "Antonia Gentry",
+        "Ariana Guerra"
+    ],
+    "description": "Son las estrellas del equipo de debate de su instituto, pero lo único que tienen en común es su ambición de llegar a la universidad de sus sueños.",
+    "cover": "https://cuevana.pizza/resize/###/storage/24034/Io9uo68OB3LKWSjsD8EzSVvZtZ07yR0FnrMQq7cY.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtaWZyOWpyYzIydWViLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLXV6eXBoeWducWR4Mi5odG1s"
+            ]
+        },
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtZHI4ZzFoNm0yeWprLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLTM1MGdmYjZyODE4aC5odG1s"
+            ]
+        }
+    ],
+    "downloads": []
+}

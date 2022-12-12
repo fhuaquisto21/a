@@ -1,0 +1,29 @@
+{
+    "url": "https://cuevana.pizza/pelicula/they-remain",
+    "title": "They Remain",
+    "duration": "1h 42m",
+    "year": "2018",
+    "genres": [
+        "Drama",
+        "Misterio",
+        "Suspenso",
+        "Terror"
+    ],
+    "actors": [
+        "William Jackson Harper",
+        "Rebecca Henderson",
+        "Malcolm Mills"
+    ],
+    "description": "Dos científicos investigan un incidente espeluznante ocurrido en la guarida de una secta. Después de descubrir un misterioso artefacto, uno de ellos empieza a experimentar paranoia y a caer en la locura.",
+    "cover": "https://cuevana.pizza/resize/###/storage/25216/uJqk2r40n6Plw8Het1jtlLsq6LpNAuTwMqHHIjRX.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtZnlreGtyY2MxM3RtLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLWJqOXp0b2EwMTFmdy5odG1s"
+            ]
+        }
+    ],
+    "downloads": []
+}

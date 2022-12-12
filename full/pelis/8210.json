@@ -1,0 +1,52 @@
+{
+    "url": "https://cuevana.pizza/pelicula/el-protegido",
+    "title": "El protegido",
+    "duration": "1h 48m",
+    "year": "2000",
+    "genres": [
+        "Drama",
+        "Misterio",
+        "Ciencia Ficcion"
+    ],
+    "actors": [
+        "Bruce Willis",
+        "Samuel L. Jackson",
+        "Robin Wright",
+        "Spencer Treat Clark",
+        "Charlayne Woodard",
+        "Eamonn Walker",
+        "Davis Duffield",
+        "Johnny Hiram Jamison",
+        "Laura Regan",
+        "Michael Kelly",
+        "Leslie Stefanson",
+        "Michaelia Carroll",
+        "Whitney Sugarman",
+        "Bostin Christopher",
+        "John Patrick Amedori",
+        "Elizabeth Lawrence",
+        "Chance Kelly",
+        "M. Night Shyamalan",
+        "Joey Hazinsky",
+        "Dianne Cotten Murphy"
+    ],
+    "description": "Philadelphia. Año 1961. Un niño negro acaba de nacer en unos grandes almacenes. Un médico acude a ver como se encuentran tanto la madre como el bebé, y horrorizado le pregunta a la mujer si se le ha caído el niño, ya que tiene tanto los brazos como las piernas fracturadas. Philadelphia. Año 2000. Un hombre llamado David Dunn está en el expreso que va de Nueva York a Philadelphia camino de su casa después de una entrevista de trabajo en la ciudad de los rascacielos. En el tren entabla conversación con una atractiva mujer, pero ésta cree que quiere ligar y se cambia de asiento. Un momento después se produce un dramático accidente.",
+    "cover": "https://cuevana.pizza/resize/###/storage/29345/3Dj5MOfX1u6bVxx7oVfWBUk7aEUZU3slQCYTCEUU.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtNzY5MmxsanR3dHNuLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLWIzZXl3aXJ5amYwbC5odG1s"
+            ]
+        },
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtY3ZhcDR2bWFmbDV5Lmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLXVxdzVleGg5b3U1Zi5odG1s"
+            ]
+        }
+    ],
+    "downloads": []
+}

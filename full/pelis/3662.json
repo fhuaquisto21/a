@@ -1,0 +1,59 @@
+{
+    "url": "https://cuevana.pizza/pelicula/carnaval",
+    "title": "Carnaval",
+    "duration": "1h 34m",
+    "year": "2021",
+    "genres": [
+        "Comedia"
+    ],
+    "actors": [
+        "Giovana Cordeiro",
+        "Gessica Kayane",
+        "Flavia Pavanelli",
+        "Bruna Inocencio",
+        "Samya Pascotto",
+        "Jean Pedro",
+        "Felipe Adler",
+        "Nikolas Antunes",
+        "Rafael Medrado"
+    ],
+    "description": "Después de una ruptura, una influencer lleva a sus amigas a un viaje gratis al vibrante Carnaval de Bahía, donde descubre que la vida no se trata solo de me gusta en las redes sociales.",
+    "cover": "https://cuevana.pizza/resize/###/storage/7496/tGJN65tKfbiohKnWTDOk49Kym0hdOaCHwW3zEO7s.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtYm5oN2VteThqd3owLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLXNsbjBvanFucHE3eC5odG1s"
+            ]
+        },
+        {
+            "type": "cas",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtZWtiYWs1MHl5aWY4Lmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLXUxNDhqcndoam9yZC5odG1s"
+            ]
+        },
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtaWhsY3NlMHdnZno4Lmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLXRwajJ3dDVxYnNnci5odG1s"
+            ]
+        }
+    ],
+    "downloads": [
+        {
+            "url": "https://1fichier.com/?jbmyov8ty9kj010hu43t",
+            "type": "la"
+        },
+        {
+            "url": "https://1fichier.com/?n51lbliyu8rtmynmxh96",
+            "type": "es"
+        },
+        {
+            "url": "https://1fichier.com/?mft8flgkg7ydhnvbpmwk",
+            "type": "en"
+        }
+    ]
+}

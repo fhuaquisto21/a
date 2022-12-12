@@ -1,0 +1,61 @@
+{
+    "url": "https://cuevana.pizza/pelicula/a-47-metros",
+    "title": "A 47 metros",
+    "duration": "1h 27m",
+    "year": "2017",
+    "genres": [
+        "Drama",
+        "Suspenso",
+        "Terror",
+        "Aventura"
+    ],
+    "actors": [
+        "Mandy Moore",
+        "Claire Holt",
+        "Matthew Modine",
+        "Chris Johnson",
+        "Yani Gellman",
+        "Santiago Segura",
+        "Axel Mansella",
+        "Mayra Juárez"
+    ],
+    "description": "Durante una inmersión, dos hermanas de vacaciones en México se quedan atrapadas en una jaula de avistamiento de tiburones, con el oxígeno agotándose y rodeadas de peligrosos tiburones blancos. Sin ayuda en la superficie, sin ayuda bajo la superficie.",
+    "cover": "https://cuevana.pizza/resize/###/storage/25819/uBpzs1LQ4Jjzp7SO30bxqvxCKFXeqFhoY4Zsj2yZ.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtZWYyZHA5OG04ZzRuLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLWF3MGs4Z3d3OGtlNS5odG1s"
+            ]
+        },
+        {
+            "type": "cas",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtN2piNTVoZzlyeGFwLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLXlxczY4cTBqaTNpeS5odG1s"
+            ]
+        },
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtOHZxamVqNWxmbmVoLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLXZqOHFweDFsaXk4NC5odG1s"
+            ]
+        }
+    ],
+    "downloads": [
+        {
+            "url": "https://1fichier.com/?h7lol4bs5cvlftwcwfem",
+            "type": "es"
+        },
+        {
+            "url": "https://1fichier.com/?5hnneqtvqeadl7lm5tav",
+            "type": "en"
+        },
+        {
+            "url": "https://1fichier.com/?zb2w8hgj2fo2jb6bqvl8",
+            "type": "la"
+        }
+    ]
+}

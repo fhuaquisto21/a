@@ -1,0 +1,35 @@
+{
+    "url": "https://cuevana.pizza/pelicula/dr-nassar-el-caso-del-equipo-de-gimnasia-de-ee-uu",
+    "title": "Dr. Nassar: el caso del equipo de Gimnasia de EE. UU.",
+    "duration": "1h 28m",
+    "year": "2019",
+    "genres": [
+        "Documental"
+    ],
+    "actors": [
+        "McKayla Maroney",
+        "Aly Raisman",
+        "Rachel Denhollander",
+        "Dianne Feinstein",
+        "Larry Nassar"
+    ],
+    "description": "En 2016, la gimnasia de Estados Unidos se vio convulsionada tras descubrir que el doctor Larry Nassar había estado abusando de algunas atletas durante años. Este documental se centra en el escándalo, su tapadera y lo que sucedió después.",
+    "cover": "https://cuevana.pizza/resize/###/storage/21177/PgOuAYypRNEBi0UTdS0eyQ6nAjlc2Ho3MqlWp42k.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtdzl3Mzg0NXJ1ZTR1Lmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLTI5cjRjMGM1Z3ZtdS5odG1s"
+            ]
+        },
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtZG5scm8xcXNnZXRrLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLWc0MnoyMjh2ZHM0dC5odG1s"
+            ]
+        }
+    ],
+    "downloads": []
+}

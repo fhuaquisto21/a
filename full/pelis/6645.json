@@ -1,0 +1,72 @@
+{
+    "url": "https://cuevana.pizza/pelicula/la-bella-y-la-bestia",
+    "title": "La bella y la bestia",
+    "duration": "2h 9m",
+    "year": "2017",
+    "genres": [
+        "Fantasia",
+        "Familia",
+        "Musical"
+    ],
+    "actors": [
+        "Emma Watson",
+        "Dan Stevens",
+        "Luke Evans",
+        "Josh Gad",
+        "Kevin Kline",
+        "Hattie Morahan",
+        "Haydn Gwynne",
+        "Gerard Horan",
+        "Ray Fearon",
+        "Ewan McGregor",
+        "Ian McKellen",
+        "Emma Thompson",
+        "Nathan Mack",
+        "Audra McDonald",
+        "Stanley Tucci",
+        "Gugu Mbatha-Raw",
+        "Clive Rowe",
+        "Thomas Padden",
+        "Rita Davies",
+        "D.J. Bailey"
+    ],
+    "description": "Bella, una joven hermosa y brillante, asume el lugar de su padre como prisionero en el castillo de una bestia. Poco a poco, la valiente Bella irá dándose cuenta de que el príncipe bestia no es el malvado ser que todos creen que es y tiene, en realidad, un gran corazón.",
+    "cover": "https://cuevana.pizza/resize/###/storage/1350/mnXAAIgpJbeCQS9kvHhlm9QXUlv7IhQlUYxtKq4k.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQteHY0MzF2dWNrOGYzLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLWNmN3FrZmtxbGJ2aS5odG1s"
+            ]
+        },
+        {
+            "type": "cas",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtb2VseXV5bmYxdXd4Lmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLXdjN2Z1MHQ3Mnl1bS5odG1s"
+            ]
+        },
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtN3ZvejA3MHBvZWk1Lmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLTRvYTJ6dG93dzA0ai5odG1s"
+            ]
+        }
+    ],
+    "downloads": [
+        {
+            "url": "https://1fichier.com/?cvupqso9fiy91koxrw6u",
+            "type": "la"
+        },
+        {
+            "url": "https://1fichier.com/?395qz6k1j5wqmwg5x7w0",
+            "type": "es"
+        },
+        {
+            "url": "https://1fichier.com/?4va31ro139r7d82x23s6",
+            "type": "en"
+        }
+    ]
+}

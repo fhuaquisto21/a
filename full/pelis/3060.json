@@ -1,0 +1,51 @@
+{
+    "url": "https://cuevana.pizza/pelicula/cenicienta",
+    "title": "Cenicienta",
+    "duration": "1h 53m",
+    "year": "2021",
+    "genres": [
+        "Comedia",
+        "Romance",
+        "Fantasia"
+    ],
+    "actors": [
+        "Camila Cabello",
+        "Nicholas Galitzine",
+        "Billy Porter",
+        "Idina Menzel",
+        "Pierce Brosnan",
+        "Minnie Driver",
+        "Maddie Baillio",
+        "Charlotte Spencer",
+        "Missy Elliott",
+        "James Acaster"
+    ],
+    "description": "Una reinvención moderna del cuento tradicional de la niña huérfana con una madrastra malvada.",
+    "cover": "https://cuevana.pizza/resize/###/storage/10067/u0Z9f8SV4EVOLrIdbuCLeGNiuR3A296KrQUr0Wcs.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtbjhkMDdqbmxmdnduLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLXBvejB1eXM4cTk0NC5odG1s"
+            ]
+        },
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtdTJxeHRvNTMwanYyLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLWgweHNtZGIzNDNvei5odG1s"
+            ]
+        }
+    ],
+    "downloads": [
+        {
+            "url": "https://1fichier.com/?rswwonmicnmxuh1hnatc",
+            "type": "la"
+        },
+        {
+            "url": "https://1fichier.com/?vx46b2ri13ya4e4sp60j",
+            "type": "en"
+        }
+    ]
+}

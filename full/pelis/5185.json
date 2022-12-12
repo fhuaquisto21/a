@@ -1,0 +1,45 @@
+{
+    "url": "https://cuevana.pizza/pelicula/el-camino-largo",
+    "title": "The Hard Way",
+    "duration": "1h 32m",
+    "year": "2019",
+    "genres": [
+        "Accion"
+    ],
+    "actors": [
+        "Michael Jai White",
+        "Luke Goss",
+        "Randy Couture",
+        "Madalina Anea",
+        "Grant Campbell",
+        "George Remeș",
+        "Ovidiu Niculescu",
+        "Andreea Diac",
+        "Michaela Holla",
+        "Bogdan Farcaș",
+        "Daniel Onuoha",
+        "Dan Cade",
+        "Cosmin Dominte",
+        "Elias Ferkin",
+        "Adina Stetcu"
+    ],
+    "description": "Un exsoldado se entera de que su hermano murió en una misión en Rumania y hace aliados para vengarse de un misterioso enemigo.",
+    "cover": "https://cuevana.pizza/resize/###/storage/20586/dmBhtsDXwvg7zio1aUNpxBuKpKob2V901UJzukKd.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtbnR2M3UyM254bXdoLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLXYzcjN5YjA5bnl0MC5odG1s"
+            ]
+        },
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtdGRkcHBycTYwZ3h4Lmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLTAzYW91YnY1NXlnZC5odG1s"
+            ]
+        }
+    ],
+    "downloads": []
+}

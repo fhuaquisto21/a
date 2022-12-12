@@ -1,0 +1,61 @@
+{
+    "url": "https://cuevana.pizza/pelicula/imperdonable",
+    "title": "Imperdonable",
+    "duration": "1h 53m",
+    "year": "2021",
+    "genres": [
+        "Drama",
+        "Suspenso"
+    ],
+    "actors": [
+        "Sandra Bullock",
+        "Viola Davis",
+        "Vincent D'Onofrio",
+        "Jon Bernthal",
+        "Richard Thomas",
+        "Linda Emond",
+        "Aisling Franciosi",
+        "Emma Nelson",
+        "Will Pullen",
+        "Tom Guiry"
+    ],
+    "description": "Ruth Slater, una mujer liberada de prisión después de cumplir una condena por un crimen violento, vuelve a entrar en una sociedad que se niega a perdonar su pasado.",
+    "cover": "https://cuevana.pizza/resize/###/storage/13003/PMllxNeBGs0VSqCyVKS3vRkB7YmoCvYyDlsedA26.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtN3hpajlidXpkeHd1Lmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLW56Z3E1Y2Z4anpsai5odG1s"
+            ]
+        },
+        {
+            "type": "cas",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtaGhtbnp3eGhwb2luLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLTV5ZnF3MzZidGZhYS5odG1s"
+            ]
+        },
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtaHVsMW53NjBtNHZhLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLXptczc4bXZxeDFqOC5odG1s"
+            ]
+        }
+    ],
+    "downloads": [
+        {
+            "url": "https://1fichier.com/?azbp7tddk6ua0svva8qk",
+            "type": "la"
+        },
+        {
+            "url": "https://1fichier.com/?ljz78it5o9spjuksj36d",
+            "type": "es"
+        },
+        {
+            "url": "https://1fichier.com/?z0gkz15mhrp8mmvjo0x2",
+            "type": "en"
+        }
+    ]
+}

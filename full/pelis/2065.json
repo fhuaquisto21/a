@@ -1,0 +1,62 @@
+{
+    "url": "https://cuevana.pizza/pelicula/tango-one",
+    "title": "Tango One",
+    "duration": "1h 52m",
+    "year": "2018",
+    "genres": [
+        "Drama",
+        "Suspenso",
+        "Crimen"
+    ],
+    "actors": [
+        "Vincent Regan",
+        "Sophie Colquhoun",
+        "Richie Campbell",
+        "Enrique Arce",
+        "Christopher Ellison",
+        "Elijah Baker",
+        "Sacha Bennett",
+        "Susannah Allman",
+        "Elena Martínez",
+        "Johnny Palmiero"
+    ],
+    "description": "Tres policias en una misión encubierta tienen que atrapar a Den Donovan",
+    "cover": "https://cuevana.pizza/resize/###/storage/15065/ifju9JapAsyW7CN8b726YGE1KV7eEo2tCqnijFTd.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtNDIycHMybmVjN2l2Lmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLWttcGIwZjlydnM5ei5odG1s"
+            ]
+        },
+        {
+            "type": "cas",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtcGdtaGpkN3pra3pnLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLTMwYjIzYjdkb2dxYi5odG1s"
+            ]
+        },
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQteDM0MWFhM3J1dTZrLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLWVoaXVoMnVsdHN0Yy5odG1s"
+            ]
+        }
+    ],
+    "downloads": [
+        {
+            "url": "https://1fichier.com/?3638zupbonr4gjueeago",
+            "type": "la"
+        },
+        {
+            "url": "https://1fichier.com/?2sk9adfqg19w8xkruc7y",
+            "type": "es"
+        },
+        {
+            "url": "https://1fichier.com/?00nxfo180z90tycfn8qs",
+            "type": "en"
+        }
+    ]
+}

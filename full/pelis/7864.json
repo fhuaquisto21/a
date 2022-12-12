@@ -1,0 +1,57 @@
+{
+    "url": "https://cuevana.pizza/pelicula/los-juegos-del-hambre",
+    "title": "Los Juegos del Hambre",
+    "duration": "2h 22m",
+    "year": "2012",
+    "genres": [
+        "Ciencia Ficcion",
+        "Aventura",
+        "Fantasia"
+    ],
+    "actors": [
+        "Jennifer Lawrence",
+        "Josh Hutcherson",
+        "Liam Hemsworth",
+        "Woody Harrelson",
+        "Elizabeth Banks"
+    ],
+    "description": "Lo que en el pasado fueron los Estados Unidos, ahora es una nación llamada Panem: un fastuoso Capitolio ejerce un control riguroso sobre los doce distritos que lo rodean y que están aislados entre sí. Cada distrito se ve obligado a enviar anualmente un chico y una chica entre los doce y los dieciocho años para que participen en los Hunger Games, que son transmitidos en directo por la televisión. Se trata de una lucha a muerte, en la que sólo puede haber un superviviente. Katniss Everdeen, una joven de dieciséis años, decide sustituir a su hermana en los juegos; pero para ella, que ya ha visto la muerte de cerca, la lucha por la supervivencia es su segunda naturaleza.",
+    "cover": "https://cuevana.pizza/resize/###/storage/16664/G3oSnJA7zcMIPGMPOcmguMfI3HP0WdKSyKMNtnFo.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtMHp5emdmcXZwcG54Lmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLTlmZTkzZXQ2OWg5aC5odG1s"
+            ]
+        },
+        {
+            "type": "cas",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtaWJqcm5wODJ5MHZjLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLTZ5cmEyeDZzZXFnNi5odG1s"
+            ]
+        },
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtcjIxZnplc2wwZDhwLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLTMxc3ozbWRtc3puaS5odG1s"
+            ]
+        }
+    ],
+    "downloads": [
+        {
+            "url": "https://1fichier.com/?fae7f6w2trq645tjq8wp",
+            "type": "la"
+        },
+        {
+            "url": "https://1fichier.com/?h27rck2in8etl0ac5wvs",
+            "type": "es"
+        },
+        {
+            "url": "https://1fichier.com/?4tcbebtdafrltl4bin32",
+            "type": "en"
+        }
+    ]
+}

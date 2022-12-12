@@ -1,0 +1,59 @@
+{
+    "url": "https://cuevana.pizza/pelicula/cancion-de-amor",
+    "title": "Canción de amor",
+    "duration": "1h 24m",
+    "year": "2020",
+    "genres": [
+        "Romance",
+        "Musical"
+    ],
+    "actors": [
+        "Jessy Schram",
+        "Niall Matter",
+        "Lucas Bryant",
+        "Ted Whittall",
+        "Zach Smadu",
+        "Tommie-Amber Pirie",
+        "Chris Handfield",
+        "Telysa Chandler"
+    ],
+    "description": "Una cantante de country en dificultades conoce, por casualidad, a un letrista en busca de inspiración. Entonces deciden trabajar juntos y la colaboración resulta en una exitosa canción, pero los sentimientos acaban por complicar su relación de trabajo.",
+    "cover": "https://cuevana.pizza/resize/###/storage/23192/HDNVFLhx4eRBjF3pwWO06x9U9tsPvUnpWY9S54qb.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtNmJtd2g0bTJuZnN3Lmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLXpkbWoxa21zbWo2cy5odG1s"
+            ]
+        },
+        {
+            "type": "cas",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtcXRtdWRxdnlqazc1Lmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLTRkeHZtN3Y5eHkxdS5odG1s"
+            ]
+        },
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtYm9nMnQ3aG01NnVyLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLW9jd3JmZ2FpOGliay5odG1s"
+            ]
+        }
+    ],
+    "downloads": [
+        {
+            "url": "https://1fichier.com/?b8dy35fqcp9rliofernr",
+            "type": "la"
+        },
+        {
+            "url": "https://1fichier.com/?1i2ck793u1ib0yymfim8",
+            "type": "es"
+        },
+        {
+            "url": "https://1fichier.com/?mzc4qoi85ryp0ce4mm5r",
+            "type": "en"
+        }
+    ]
+}

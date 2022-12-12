@@ -1,0 +1,54 @@
+{
+    "url": "https://cuevana.pizza/pelicula/don-t-hang-up",
+    "title": "No cuelgues",
+    "duration": "1h 23m",
+    "year": "2016",
+    "genres": [
+        "Suspenso",
+        "Terror"
+    ],
+    "actors": [
+        "Gregg Sulkin",
+        "Sienna Guillory",
+        "Garrett Clayton",
+        "Robert Goodman",
+        "Chris Wilson",
+        "Jack Brett Anderson",
+        "Bella Dayne",
+        "Alex Dee",
+        "Edward Killingback",
+        "Mike Bodie",
+        "Philip Desmeules",
+        "Parker Sawyers",
+        "Jane Ryall",
+        "Connie Wilkins",
+        "Chantal Eder",
+        "Bob Egerton"
+    ],
+    "description": "Una noche de llamadas de broma y borrachera se convierte en una pesadilla para una pareja de adolescentes cuando un misterioso individuo vuelve su juego en contra de ellos... con consecuencias mortales.",
+    "cover": "https://cuevana.pizza/resize/###/storage/26985/Dv5t4PF0eM9q66A6jzHnoXZVzm9yWFP3OMHH9lEK.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtMG52bTBjaTBhdHVlLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLWh5cjdmMG51NGRkYy5odG1s"
+            ]
+        },
+        {
+            "type": "cas",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtcGxucmF3Z2NyZXNrLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLTRxazdpdDk4dWk4eS5odG1s"
+            ]
+        },
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtanU3b3R3MzE0dTJkLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLWN3dDFjMWU3ajhiNi5odG1s"
+            ]
+        }
+    ],
+    "downloads": []
+}

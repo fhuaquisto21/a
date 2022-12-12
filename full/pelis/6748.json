@@ -1,0 +1,46 @@
+{
+    "url": "https://cuevana.pizza/pelicula/the-snare",
+    "title": "La trampa (The Snare)",
+    "duration": "1h 30m",
+    "year": "2017",
+    "genres": [
+        "Suspenso",
+        "Terror"
+    ],
+    "actors": [
+        "Eaoifa Forward",
+        "Dan Paton",
+        "Rachel Warren",
+        "Fin Banks",
+        "Nathan Brine",
+        "Emma-Marie Cooper"
+    ],
+    "description": "Tres amigos viajan hasta la costa para un fin de semana de diversión, pero allí quedarán atrapados en el último piso de su apartamento por una fuerza paranormal malévola.",
+    "cover": "https://cuevana.pizza/resize/###/storage/26505/C2UCssPaTv7zWFh5uSuAzK5lIukFeRyXXNCnYcdq.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtYzB3aTN1bjlvMnN1Lmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLTQ5aWFxMThhanZwcC5odG1s"
+            ]
+        },
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtaWM4ZXIyZXdrc2RpLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLWJhMnk5Yzlkdm84OC5odG1s"
+            ]
+        }
+    ],
+    "downloads": [
+        {
+            "url": "https://1fichier.com/?dkib9hfuj1kbly0bphcb",
+            "type": "la"
+        },
+        {
+            "url": "https://1fichier.com/?uzz9754lf50nqo4hbx2f",
+            "type": "en"
+        }
+    ]
+}

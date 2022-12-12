@@ -1,0 +1,64 @@
+{
+    "url": "https://cuevana.pizza/pelicula/a-la-deriva",
+    "title": "A la deriva",
+    "duration": "1h 36m",
+    "year": "2018",
+    "genres": [
+        "Accion",
+        "Drama",
+        "Aventura"
+    ],
+    "actors": [
+        "Shailene Woodley",
+        "Sam Claflin",
+        "Jeffrey Thomas",
+        "Elizabeth Hawthorne",
+        "Grace Palmer",
+        "Tami Ashcraft",
+        "Marisiale Tunoka",
+        "Kael Damlamian",
+        "Lei-Ming Caine",
+        "Neil Andrea",
+        "Apakuki Nalawa",
+        "Tim Solomon"
+    ],
+    "description": "Basada en una historia real, narra cómo la pareja formada por los jóvenes Tami Oldham y su novio Richard se hace a la mar en su velero, pero en medio del océano se ven sorprendidos por una de las mayores tormentas jamás registradas. Tras el paso del huracán, Richard sale herido, y Tami tendrá que ponerse al mando para intentar sobrevivir a la deriva con el velero roto, sin comida y sin agua.",
+    "cover": "https://cuevana.pizza/resize/###/storage/25102/Z4CXA3hu6t1ZSCHB6fO0Gwccr2woTQZOUAVhNb3R.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtYXIwdGh4Y2lkNG9wLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLWRwN3VsdTR6bjhzOS5odG1s"
+            ]
+        },
+        {
+            "type": "cas",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtbWJtMmQ4MzR2MHJ5Lmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLXVsM29vdW9oN2I0Ny5odG1s"
+            ]
+        },
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtaHV2NGtibDJ1eGdmLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLTQzbDJvc2E5Nzhsdi5odG1s"
+            ]
+        }
+    ],
+    "downloads": [
+        {
+            "url": "https://1fichier.com/?8qzu47rapvkn9x6uqb0r",
+            "type": "la"
+        },
+        {
+            "url": "https://1fichier.com/?m9ahjvb4erge3mx1xmtu",
+            "type": "es"
+        },
+        {
+            "url": "https://1fichier.com/?q2hf904igsvz9kdaptp6",
+            "type": "en"
+        }
+    ]
+}

@@ -1,0 +1,72 @@
+{
+    "url": "https://cuevana.pizza/pelicula/spider-man",
+    "title": "Spider-Man",
+    "duration": "2h 1m",
+    "year": "2002",
+    "genres": [
+        "Accion",
+        "Fantasia",
+        "Marvel Comics"
+    ],
+    "actors": [
+        "Tobey Maguire",
+        "Willem Dafoe",
+        "Kirsten Dunst",
+        "James Franco",
+        "Cliff Robertson",
+        "Rosemary Harris",
+        "J.K. Simmons",
+        "Joe Manganiello",
+        "Gerry Becker",
+        "Bill Nunn",
+        "Jack Betts",
+        "Stanley Anderson",
+        "Ron Perkins",
+        "Michael Papajohn",
+        "K. K. Dodds",
+        "Ted Raimi",
+        "Bruce Campbell",
+        "Elizabeth Banks",
+        "John Paxton",
+        "Tim DeZarn"
+    ],
+    "description": "Peter Parker es un joven y tímido estudiante que vive con su tía May y su tío Ben desde la muerte de sus padres. Un día es mordido por una araña que ha sido modificada genéticamente, descubriendo al día siguiente que posee unos poderes poco habituales: tiene la fuerza y agilidad de una araña.",
+    "cover": "https://cuevana.pizza/resize/###/storage/20554/77xxVGsar9WpHNsTBDvRcR7krCh6gbFzncFVZmKs.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtdXY1a2dwajU4eGR4Lmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLWdxcGcxcThqM3hjdy5odG1s"
+            ]
+        },
+        {
+            "type": "cas",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtNTdya2R3bjhsZXB0Lmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLXRlMmMwdHRqcW92YS5odG1s"
+            ]
+        },
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtZTYwMzNqYzl4eDBiLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLXJqM2J4dzhwbmN1Zy5odG1s"
+            ]
+        }
+    ],
+    "downloads": [
+        {
+            "url": "https://1fichier.com/?ja5sbgtayv7nz2povgms",
+            "type": "la"
+        },
+        {
+            "url": "https://1fichier.com/?g5twuu8j5adb0yx7hyxb",
+            "type": "es"
+        },
+        {
+            "url": "https://1fichier.com/?4uiiu2rx1wuyfhljhg1i",
+            "type": "en"
+        }
+    ]
+}

@@ -1,0 +1,44 @@
+{
+    "url": "https://cuevana.pizza/pelicula/blackmark",
+    "title": "Blackmark",
+    "duration": "1h 34m",
+    "year": "2018",
+    "genres": [
+        "Suspenso"
+    ],
+    "actors": [
+        "Kaiwi Lyman",
+        "Jeff Hatch",
+        "Corey MacIntosh",
+        "Timothy Oman",
+        "John Henry Richardson",
+        "Jon Briddell",
+        "Lana Gautier",
+        "Dave Parke",
+        "Brad Potts",
+        "Mike Firek",
+        "Danny Hansen",
+        "Keenan Johnston",
+        "David Light",
+        "Brenna Piller"
+    ],
+    "description": "El industrial militar de 1963 Arthur Blackmark debe competir contra el reloj para detener un incidente internacional que amenaza con acabar con el mundo.",
+    "cover": "https://cuevana.pizza/resize/###/storage/26057/67qE28rTl6KxEeFlunyzSIg1L9NnhzcdUfm9mynG.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtemRxcThoZTF3aG95Lmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLXQ0Ympua2UzZmNmNC5odG1s"
+            ]
+        },
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtbWxxcWcxdTluMTRjLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLTY0c2Q0bmp5ZzhtcS5odG1s"
+            ]
+        }
+    ],
+    "downloads": []
+}

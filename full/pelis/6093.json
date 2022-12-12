@@ -1,0 +1,56 @@
+{
+    "url": "https://cuevana.pizza/pelicula/mi-cena-con-herve",
+    "title": "Mi cena con Hervé",
+    "duration": "1h 50m",
+    "year": "2018",
+    "genres": [
+        "Drama",
+        "Biografia"
+    ],
+    "actors": [
+        "Jamie Dornan",
+        "Peter Dinklage",
+        "Mireille Enos",
+        "Oona Chaplin",
+        "Harriet Walter",
+        "Jim Sturgeon",
+        "Andy García",
+        "Helena Mattsson",
+        "David Strathairn",
+        "Wallace Langham",
+        "Teresa Mahoney",
+        "Ashleigh Brewer",
+        "Ted King",
+        "Daniel Mays",
+        "Bern Collaço",
+        "Amber Sienna",
+        "Jake Regal",
+        "Alan Ruck"
+    ],
+    "description": "Biopic sobre el actor francés Hervé Villechaize, coprotagonista de la exitosa serie de los setenta \"Fantasy Island\", que se suicidó en 1993 a la edad de 50 años.",
+    "cover": "https://cuevana.pizza/resize/###/storage/24418/oZnmDHkbScttm1XqwUXIm9QwMsyEYxnil2OLgjYE.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtbjU4OXo5bG5vOGp2Lmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLWhubjB6dW5tNG1wMC5odG1s"
+            ]
+        },
+        {
+            "type": "cas",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtNGdsYzZlcmZmamwxLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLWZvdGY1N29oMGx1bS5odG1s"
+            ]
+        },
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtc3c0M3prZWlzaHRkLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLXg3cWlreHl4aDhzby5odG1s"
+            ]
+        }
+    ],
+    "downloads": []
+}

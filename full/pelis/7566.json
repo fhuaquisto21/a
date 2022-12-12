@@ -1,0 +1,27 @@
+{
+    "url": "https://cuevana.pizza/pelicula/the-barber",
+    "title": "The Barber",
+    "duration": "1h 35m",
+    "year": "2015",
+    "genres": [
+        "Suspenso"
+    ],
+    "actors": [
+        "Chris Coy",
+        "Kristen Hager",
+        "Scott Glenn",
+        "Stephen Tobolowsky"
+    ],
+    "description": "Dos hombres anclados en lo que desencadena la enormidad del mal: un padre cuya vida es destruida en la búsqueda de un asesino, un hijo atrapado en una farsa mortal mientras trata de desentrañar la obsesión de su padre.",
+    "cover": "https://cuevana.pizza/resize/###/storage/15769/jyd1gJBxKL5Hn2NL5xrR0OGJGiSr7L2s9UtxPFWe.jpg",
+    "players": [
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtcGN2ZTZhYzRwbmxjLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLWs4MnlhaWljOGwwMC5odG1s"
+            ]
+        }
+    ],
+    "downloads": []
+}

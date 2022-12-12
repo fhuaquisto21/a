@@ -1,0 +1,50 @@
+{
+    "url": "https://cuevana.pizza/pelicula/kate",
+    "title": "Kate",
+    "duration": "1h 46m",
+    "year": "2021",
+    "genres": [
+        "Accion",
+        "Suspenso"
+    ],
+    "actors": [
+        "Mary Elizabeth Winstead",
+        "Miku Martineau",
+        "Woody Harrelson",
+        "Tadanobu Asano",
+        "Michiel Huisman",
+        "Jun Kunimura",
+        "Miyavi",
+        "Amelia Crouch",
+        "Ava Caryofyllis",
+        "Kayuza Tanabe"
+    ],
+    "description": "Tras ser envenenada sin remedio, una implacable criminal tiene menos de 24 horas para vengarse de sus enemigos y, durante el proceso, se forma un vínculo inesperado con la hija de una de sus víctimas anteriores.",
+    "cover": "https://cuevana.pizza/resize/###/storage/10244/6vax4eAao9aFWuG75CDXetFvanhPB22cS88o5Ntn.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtdjdnZ3ZyZTVnbHljLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLWg1aDJvYTQ5NGhubi5odG1s"
+            ]
+        },
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtMGJtdWR2ZW9razBrLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLW0wcDdoc2VhbXhjNi5odG1s"
+            ]
+        }
+    ],
+    "downloads": [
+        {
+            "url": "https://1fichier.com/?imdnqd5qhg0nk57495sa",
+            "type": "la"
+        },
+        {
+            "url": "https://1fichier.com/?9v7ngx4xrsa2lo4mwlg4",
+            "type": "en"
+        }
+    ]
+}

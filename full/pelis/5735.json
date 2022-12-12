@@ -1,0 +1,47 @@
+{
+    "url": "https://cuevana.pizza/pelicula/puzzle",
+    "title": "Puzzle",
+    "duration": "1h 43m",
+    "year": "2018",
+    "genres": [
+        "Drama"
+    ],
+    "actors": [
+        "Kelly Macdonald",
+        "Irrfan Khan",
+        "David Denman",
+        "Daniel Stewart Sherman",
+        "Austin Abrams",
+        "Bubba Weiler",
+        "Helen Coxe",
+        "Mandela Bellamy",
+        "Liv Hewson",
+        "Lori Hammel",
+        "Lawrence Arancio",
+        "Sebastian Chacon",
+        "Barry Godin",
+        "Matthew Shifrin",
+        "Myrna Cabello",
+        "Audrie Neenan",
+        "Mhari Sandoval"
+    ],
+    "description": "Tras años de ocuparse exclusivamente de las necesidades de su marido y sus hijos, Agnes, una abnegada ama de casa que vive en un pequeño pueblo cercano a Nueva York, ha encontrado algo que realmente le apetece hacer: resolver rompecabezas.",
+    "cover": "https://cuevana.pizza/resize/###/storage/25692/dZQT81junsGN6XuGpQUuOUjBuwh15cNJQLyiaw0w.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtbnFobGRqeWF0ZTAyLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLTdwdWUzbTdwNDF0dS5odG1s"
+            ]
+        },
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtaDVnYWNibDVvdHlxLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLThmaG1zMHpic3lqOC5odG1s"
+            ]
+        }
+    ],
+    "downloads": []
+}

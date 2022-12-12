@@ -1,0 +1,42 @@
+{
+    "url": "https://cuevana.pizza/pelicula/burning-shadow",
+    "title": "Malas Decisiones",
+    "duration": "1h 27m",
+    "year": "2018",
+    "genres": [
+        "Suspenso"
+    ],
+    "actors": [
+        "Matthew Dennis Lewis",
+        "Roxane Mesquida",
+        "Russell Dennis Lewis",
+        "Roger Guenveur Smith",
+        "Richard Edson",
+        "Julie Delpy",
+        "Sal Landi",
+        "Charlie Wadhams",
+        "Christopher Callen",
+        "Seth Menachem",
+        "Brian Swinehart",
+        "Jon Huck"
+    ],
+    "description": "Charlie, un solitario sin buena suerte, se cruza con un ciego sin hogar que es su doble exacto. Perplejo e intrigado por el descubrimiento, Charlie invita al hombre a su vida.",
+    "cover": "https://cuevana.pizza/resize/###/storage/21340/90Yl7qaLDrNYnsEDXnvw5F0KOQPdFxsVAJLgQY8t.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtdjZnamdnNTVzN3NkLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLXN2dmt3bjFobzh0NS5odG1s"
+            ]
+        },
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtZnlsMno2Y3lqODM5Lmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLWx0cXM5YnZvaXMzcS5odG1s"
+            ]
+        }
+    ],
+    "downloads": []
+}

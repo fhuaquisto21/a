@@ -1,0 +1,52 @@
+{
+    "url": "https://cuevana.pizza/pelicula/southbound",
+    "title": "La Ruta del Diablo",
+    "duration": "1h 29m",
+    "year": "2015",
+    "genres": [
+        "Suspenso",
+        "Terror",
+        "Fantasia"
+    ],
+    "actors": [
+        "Fabianne Therese",
+        "Larry Fessenden",
+        "Kate Beahan",
+        "Zoe Cooper",
+        "Gerald Downey",
+        "Karla Droege",
+        "Dana Gould",
+        "Hassie Harrison",
+        "Roxanne Benjamin",
+        "Nathalie Love",
+        "Hannah Marks",
+        "Tipper Newton",
+        "Maria Olsen",
+        "Kristina Pesic",
+        "Anessa Ramsey",
+        "Tyler Tuione",
+        "Chad Villella",
+        "Mather Zickel",
+        "Justin Wellborn",
+        "David Yow"
+    ],
+    "description": "El cine es un arte en el que se trabaja en equipo. De los creadores de una de las mejores compilaciones de terror, la imbatible antología V/H/S, nos llega esta película que encierra cinco relatos conectados entre sí. Todo gira en torno a unos viajeros que, en plena noche y en medio de una carretera desértica, comienzan a sufrir de agotamiento. Los distintos miembros del grupo se verán abocados a lidiar con sus peores pesadillas y con sus secretos más ocultos.",
+    "cover": "https://cuevana.pizza/resize/###/storage/27366/Qb2se3O88EsPxaMjgsmOjbS2sl1sS8SnnoeCeJb8.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtcTc1bzlrN3A1d2Q0Lmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLWF0dTN1dHdseGhmNy5odG1s"
+            ]
+        },
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQta3g0djRkbXJ6ejJ5Lmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLWgzaHhzNnU4bzAwZy5odG1s"
+            ]
+        }
+    ],
+    "downloads": []
+}

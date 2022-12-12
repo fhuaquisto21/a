@@ -1,0 +1,52 @@
+{
+    "url": "https://cuevana.pizza/pelicula/los-limites-de-nuestro-planeta-una-mirada-cientifica",
+    "title": "Los límites de nuestro planeta: una mirada científica",
+    "duration": "1h 13m",
+    "year": "2021",
+    "genres": [
+        "Documental"
+    ],
+    "actors": [
+        "Johan Rockström",
+        "David Attenborough"
+    ],
+    "description": "David Attenborough y el científico Johan Rockström examinan el colapso de la biodiversidad terrestre y cómo aún estamos a tiempo de evitar esta crisis.",
+    "cover": "https://cuevana.pizza/resize/###/storage/7954/1KMAbThrsS5LwuYkZlUpw2uk4JSWeQQJWn8Q4kHS.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtdmtsdWEwenNza3h5Lmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLWN2cGQ1MTF6YndieC5odG1s"
+            ]
+        },
+        {
+            "type": "cas",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtZTZ1azhncW0ycXhoLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLTVjbGZpd29ucm1way5odG1s"
+            ]
+        },
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtNGFjOGcyZmpoczJlLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLXVsNHZuMDE3YzhzOS5odG1s"
+            ]
+        }
+    ],
+    "downloads": [
+        {
+            "url": "https://1fichier.com/?f4g3zj7ru8unkocvmfs2",
+            "type": "la"
+        },
+        {
+            "url": "https://1fichier.com/?o4nj3c4zdt3kx9on10mq",
+            "type": "es"
+        },
+        {
+            "url": "https://1fichier.com/?jmrvuckdqmrb47066gsy",
+            "type": "en"
+        }
+    ]
+}

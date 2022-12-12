@@ -1,0 +1,42 @@
+{
+    "url": "https://cuevana.pizza/pelicula/el-cuarto-pasajero",
+    "title": "El cuarto pasajero",
+    "duration": "1h 39m",
+    "year": "2022",
+    "genres": [
+        "Comedia"
+    ],
+    "actors": [
+        "Blanca Suárez",
+        "Alberto San Juan",
+        "Rubén Cortada",
+        "Ernesto Alterio",
+        "Carlos Areces",
+        "Isidro Montalvo",
+        "Jaime Ordóñez",
+        "Enrique Villén",
+        "Pat Aguiló",
+        "Carmen Albizu",
+        "Alfredo Zamora",
+        "Adrián López",
+        "Daniel Huarte",
+        "Gorka Aguinagalde",
+        "Josep Maria Riera",
+        "Úrsula Gutiérrez",
+        "Gemma Martínez",
+        "Fernando Conde",
+        "María Jesús Hoyos"
+    ],
+    "description": "Julián, un hombre divorciado con problemas económicos, usa una aplicación de teléfono móvil para compartir su coche con desconocidos.",
+    "cover": "https://cuevana.pizza/resize/###/storage/57421/fUHCjus2cRskptLum3Gyj0m236G90hbM0sdyLOqk.jpg",
+    "players": [
+        {
+            "type": "cas",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQta2FmMzh2aGoxYnF3Lmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLWdhcHdydjN4emg4MC5odG1s"
+            ]
+        }
+    ],
+    "downloads": []
+}

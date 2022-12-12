@@ -1,0 +1,55 @@
+{
+    "url": "https://cuevana.pizza/pelicula/scooby-doo-y-el-intrepido-batman",
+    "title": "¡Scooby-doo! y el intrépido Batman",
+    "duration": "1h 15m",
+    "year": "2018",
+    "genres": [
+        "Accion",
+        "Comedia",
+        "Familia",
+        "Animacion"
+    ],
+    "actors": [
+        "Frank Welker",
+        "Matthew Lillard",
+        "Diedrich Bader",
+        "Grey DeLisle",
+        "Kate Micucci",
+        "Jeff Bennett",
+        "Tara Strong",
+        "Jeffrey Combs",
+        "John DiMaggio",
+        "Tom Kenny",
+        "John Michael Higgins",
+        "Nika Futterman",
+        "Fred Tatasciore",
+        "Nicholas Guest",
+        "Kevin Michael Richardson"
+    ],
+    "description": "Cuando Scooby-Doo y la pandilla se encuentran con criminales conocidos que están demasiado calientes para manejarlos, Batman se cruza para salvar el día. Una vez que un caso sin solucionar del pasado de Batman retorna para perseguirlo, y la enigmática Capa Crimson amenaza con apoderarse de Urbe Gótica, Batman recluta a Mystery Inc. para asistir a solucionar el caso. ¿Su trabajo en grupo va a ser suficiente para solucionar el misterio y frustrar los planes de los villanos ruines más peligrosos que el planeta haya conocido? ¡Prepara tus cinturones de herramientas con artefactos y refrigerios de Scooby para descubrir, mientras que despegas para un apasionante viaje salvaje de una alcaparra!",
+    "cover": "https://cuevana.pizza/resize/###/storage/44361/tb3fQ7egpVxNZDYEk6aBBPW3j7xhFE8jTd47fs0G.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtbzZzcnRkMzl0Y2I2Lmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLWN2OWViNTU4eDI0ai5odG1s"
+            ]
+        },
+        {
+            "type": "cas",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtMjNqMG5ldWZub3J3Lmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLXgycmM2ZmY0aGtxcS5odG1s"
+            ]
+        },
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtMXd5ZjVzMW0zYXp2Lmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLXY5dXl2YTJkZDRydy5odG1s"
+            ]
+        }
+    ],
+    "downloads": []
+}

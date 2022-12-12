@@ -1,0 +1,53 @@
+{
+    "url": "https://cuevana.pizza/pelicula/chicken-little",
+    "title": "Chicken Little",
+    "duration": "1h 21m",
+    "year": "2005",
+    "genres": [
+        "Comedia",
+        "Familia",
+        "Animacion",
+        "Disney"
+    ],
+    "actors": [
+        "Zach Braff",
+        "Amy Sedaris",
+        "Steve Zahn",
+        "Joan Cusack",
+        "Garry Marshall",
+        "Don Knotts",
+        "Fred Willard",
+        "Catherine O'Hara",
+        "Mark Walton",
+        "Sean Elmore",
+        "Matthew Josten",
+        "Evan Dunn",
+        "Mark Dindal",
+        "Dan Molina",
+        "Patrick Stewart",
+        "Wallace Shawn",
+        "Patrick Warburton",
+        "Adam West",
+        "Harry Shearer",
+        "Joe Whyte"
+    ],
+    "description": "Ha transcurrido un año desde el \"desafortunado incidente de la bellota\" cuando Chicken Little causó un gran revuelo en su pueblo natal de Oakey Oaks al proclamar que el cielo se estaba cayendo tras ser golpeado en la cabeza por lo que aparentemente era una bellota. Sin contemplaciones, el valiente pollito se une al equipo local de béisbol con la esperanza de restablecer su reputación y ganarse el respeto de su padre, Buck Cluck. Cuando él conduce al pueblo a una inesperada victoria, se convierte en el centro de toda la atención. Pero tan pronto como el pollito campeón es redimido, vuelve a recibir otro golpe en la cabeza. ¡Y esta vez el cielo sí se está cayendo! Temeroso de ser tachado una vez más de loco, se niega a decirle a nadie lo que ha sucedido. En lugar de eso, recluta la ayuda de sus amigos más cercanos - Runt el benjamón, Abby Patosa (alias Patito Feo), y Pez fuera del agua - en un intento por salvar el mundo sin hacer que todo el pueblo entre nuevamente en pánico.",
+    "cover": "https://cuevana.pizza/resize/###/storage/43447/OOQUHetp5jDpGhLruCT3yDy41IgmR8ZO4werUTcp.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQta3VmazJsa3FxZW5wLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLWF3am90YWFyZTd3cC5odG1s"
+            ]
+        },
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtZjR3NDJ5cGp5b3kyLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLWhhZDZscms4MHhuMC5odG1s"
+            ]
+        }
+    ],
+    "downloads": []
+}

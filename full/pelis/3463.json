@@ -1,0 +1,40 @@
+{
+    "url": "https://cuevana.pizza/pelicula/into-the-okavango",
+    "title": "Into the Okavango",
+    "duration": "1h 33m",
+    "year": "2018",
+    "genres": [
+        "Documental"
+    ],
+    "actors": [
+        "Steve Boyes"
+    ],
+    "description": "Una apasionada bióloga de la conservación reúne a un hombre de los ríos que teme perder su pasado y a una joven científica incierta de su futuro en una expedición épica de cuatro meses a través de tres países, a través de paisajes inexplorados y peligrosos, para salvar el Delta del Okavango, uno de los Los últimos yermos vírgenes de nuestro planeta.",
+    "cover": "https://cuevana.pizza/resize/###/storage/22580/CN1cnJSNVXkitc1u7fpD2iBe0DVrpLWukcnT8LMY.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtY3hwdjI4MzIzem5qLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLWhhcmJwNHY2dXZ1bS5odG1s"
+            ]
+        },
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtZWY0M3p6dmtqcm41Lmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLWN5dGd3bzhqdjZibi5odG1s"
+            ]
+        }
+    ],
+    "downloads": [
+        {
+            "url": "https://1fichier.com/?uyjson1mudbbqpz97gv9",
+            "type": "la"
+        },
+        {
+            "url": "https://1fichier.com/?m3pv71wkf63k0gcgudgj",
+            "type": "en"
+        }
+    ]
+}

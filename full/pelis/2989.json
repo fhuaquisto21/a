@@ -1,0 +1,50 @@
+{
+    "url": "https://cuevana.pizza/pelicula/best-sellers",
+    "title": "Best Sellers",
+    "duration": "1h 40m",
+    "year": "2021",
+    "genres": [
+        "Comedia",
+        "Drama"
+    ],
+    "actors": [
+        "Michael Caine",
+        "Aubrey Plaza",
+        "Cary Elwes",
+        "Ellen Wong",
+        "Scott Speedman",
+        "Veronica Ferres",
+        "Elana Dunkelman",
+        "Alexandra Petrachuk",
+        "Luc Morissette",
+        "Frank Schorpion"
+    ],
+    "description": "Un autor jubilado y cascarrabias se embarca a regañadientes en una última gira de libros para ayudar a un joven editor.",
+    "cover": "https://cuevana.pizza/resize/###/storage/10395/X9E1XrZakMmQ9eYdD6lKUwG9p4M7PzKSU1WUAsR4.jpg",
+    "players": [
+        {
+            "type": "cas",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtY3c2Z3VhcnhkdTdjLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLTZ5bzNxeWdsYzF4Ny5odG1s"
+            ]
+        },
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtamdhdXFrMG1idXZqLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLWY0d21vMmtmZHFydC5odG1s"
+            ]
+        }
+    ],
+    "downloads": [
+        {
+            "url": "https://1fichier.com/?so7yzcicz366eakqakur",
+            "type": "es"
+        },
+        {
+            "url": "https://1fichier.com/?taw313zdk3k1q27lqbjm",
+            "type": "en"
+        }
+    ]
+}

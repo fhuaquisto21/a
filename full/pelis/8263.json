@@ -1,0 +1,36 @@
+{
+    "url": "https://cuevana.pizza/pelicula/jurassic-park",
+    "title": "Jurassic Park",
+    "duration": "2h",
+    "year": "1993",
+    "genres": [
+        "Suspenso",
+        "Ciencia Ficcion",
+        "Aventura"
+    ],
+    "actors": [
+        "Jeff Goldblum",
+        "Laura Dern",
+        "Richard Attenborough",
+        "Sam Neill"
+    ],
+    "description": "El multimillonario John Hammond tiene una idea para un espectacular parque temático: una isla retirada donde los visitantes puedan observar dinosaurios reales. Con la última tecnología en el desarrollo de DNA, los científicos pueden clonar braquiosaurios, triceratops, velociraptors y un tiranosaurio rex, utilizando para ello la sangre fosilizada en ámbar contenida en insectos que los mordieron hace millones de años. Los paleontólogos Alan Grant, Ellie Sattler y Ian Malcolm visitan el parque y quedan muy sorprendidos con los resultados obtenidos. Pero cuando un problemático empleado manipula el sofisticado sistema de seguridad los dinosaurios escapan, obligando a los visitantes a luchar por su supervivencia.",
+    "cover": "https://cuevana.pizza/resize/###/storage/4607/39eRac4QxfNxkKvrXeZ0BBPaOGkpOzffEfmoJmkl.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtdGU5cHBsdDd1ajA1Lmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLW5teXpubnAwZ3dxbS5odG1s"
+            ]
+        },
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtajh0c2o0aDhnbDRwLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLTBtbGtmaDlpaXQyNC5odG1s"
+            ]
+        }
+    ],
+    "downloads": []
+}

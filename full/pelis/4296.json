@@ -1,0 +1,55 @@
+{
+    "url": "https://cuevana.pizza/pelicula/toda-una-vida-en-un-ano",
+    "title": "Toda una vida en un año",
+    "duration": "1h 47m",
+    "year": "2020",
+    "genres": [
+        "Drama",
+        "Romance"
+    ],
+    "actors": [
+        "Jaden Smith",
+        "Cara Delevingne",
+        "Cuba Gooding Jr.",
+        "Nia Long"
+    ],
+    "description": "Daryl y su novia tienen 17 años y cualquiera de los dos haría cualquier cosa por el otro. Por eso, cuando ambos se enteran de que la joven se está muriendo y solo le queda un año de vida, el Daryl decide no separarse de ella ni un minuto.",
+    "cover": "https://cuevana.pizza/resize/###/storage/24201/s8YFyRvOMVo6pnwl96ar4TIHdnEGMBg5GfmPqk7L.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtaGhocmgyZjQ4MjQzLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLXplbTVsdmM5OW9oYi5odG1s"
+            ]
+        },
+        {
+            "type": "cas",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtYmViNHNhM2swc2xhLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLTJuOHF3enY2Zm5vNC5odG1s"
+            ]
+        },
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtcjNueXRhcXVydDAyLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLWtkcTY1NGY5bTZjcS5odG1s"
+            ]
+        }
+    ],
+    "downloads": [
+        {
+            "url": "https://1fichier.com/?rgcy20j2venuf1o2nygm#Synchronization+Service",
+            "type": "la"
+        },
+        {
+            "url": "https://1fichier.com/?i3q1o5zwraicrjwmrhwy#Synchronization+Service",
+            "type": "es"
+        },
+        {
+            "url": "https://1fichier.com/?x0cd3zs2t9z0juggvqdw#Synchronization+Service",
+            "type": "en"
+        }
+    ]
+}

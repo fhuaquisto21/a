@@ -1,0 +1,61 @@
+{
+    "url": "https://cuevana.pizza/pelicula/french-exit",
+    "title": "French Exit",
+    "duration": "1h 53m",
+    "year": "2021",
+    "genres": [
+        "Comedia",
+        "Drama"
+    ],
+    "actors": [
+        "Michelle Pfeiffer",
+        "Lucas Hedges",
+        "Tracy Letts",
+        "Valerie Mahaffey",
+        "Susan Coyne",
+        "Imogen Poots",
+        "Danielle Macdonald",
+        "Isaach De Bankolé",
+        "Daniel DiTomasso",
+        "Eddie Holland"
+    ],
+    "description": "Una viuda de la alta sociedad de Manhattan se muda con lo poco que le queda de su herencia a un pequeño apartamento en París. Le acompañan su hijo y su gato, que según ella es su marido reencarnado.",
+    "cover": "https://cuevana.pizza/resize/###/storage/7008/zWUZogQjMpsvXC4V14ntetARPMdW27aEqmbB72r1.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtOG56M2NtM3p0bW03Lmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLXhrZHJ1c200OGR0ei5odG1s"
+            ]
+        },
+        {
+            "type": "cas",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtZnEyMzB6ZWR0cG5uLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLTV5MWQ3djM0MjdsNC5odG1s"
+            ]
+        },
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtMWRuMDltazRub2t5Lmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLTg2OGQwcnlwMjB6Ny5odG1s"
+            ]
+        }
+    ],
+    "downloads": [
+        {
+            "url": "https://1fichier.com/?sol4nce21m7eseub4uw8",
+            "type": "la"
+        },
+        {
+            "url": "https://1fichier.com/?5ibd1fy2sb3trchuk3nt",
+            "type": "es"
+        },
+        {
+            "url": "https://1fichier.com/?jkw1eogrj7qusyoopiey",
+            "type": "en"
+        }
+    ]
+}

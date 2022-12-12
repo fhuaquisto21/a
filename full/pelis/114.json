@@ -1,0 +1,51 @@
+{
+    "url": "https://cuevana.pizza/pelicula/barrabas",
+    "title": "Barrabás",
+    "duration": "1h 55m",
+    "year": "2019",
+    "genres": [
+        "Drama",
+        "Historia"
+    ],
+    "actors": [
+        "Pavel Kraynov",
+        "Regina Khakimova",
+        "Zalim Mirzoev",
+        "Alexandr Lapty",
+        "Elena Podkaminskaya",
+        "Konstantin Samoukov",
+        "Sergey Sanaev",
+        "Albert Filozov",
+        "Vitali Maksimenko",
+        "Svetlana Agafoshina",
+        "Andrey Bronnikov",
+        "Vitaly Taganov",
+        "Sergey Listunov",
+        "Boris Chernokulskiy",
+        "Dmitry Kuzmenko",
+        "Nikolay Kalinin",
+        "Olga Yasinskaya",
+        "Elena Vasilevich",
+        "Yury Kornishin",
+        "Evgeny Zhuravkin"
+    ],
+    "description": "Una historia bíblica de la crucifixión de Cristo relatado por la visión de Barrabás, un criminal condenado a la crucifixión y perdonado por Poncio Pilato en una festividad judía.",
+    "cover": "https://cuevana.pizza/resize/###/storage/57293/A4h49wQkKyDHr59nzXAulMM2lDiJ0YMVVeG1D1s8.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtZTZ4Y2Q3djk2MjF6Lmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLXdhYnduanMyamR2Yi5odG1s"
+            ]
+        },
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtM2Fza3hhNzVmankwLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLWh2MmlkcTA3a2x5aC5odG1s"
+            ]
+        }
+    ],
+    "downloads": []
+}

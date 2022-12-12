@@ -1,0 +1,59 @@
+{
+    "url": "https://cuevana.pizza/pelicula/motherly",
+    "title": "Motherly",
+    "duration": "1h 30m",
+    "year": "2021",
+    "genres": [
+        "Suspenso",
+        "Terror"
+    ],
+    "actors": [
+        "Lora Burke",
+        "Tessa Kozma",
+        "Kristen MacCulloch",
+        "Nick Smyth",
+        "Colin Paradine",
+        "Angel Gallego",
+        "Laura Tremblay",
+        "Christina Bryson"
+    ],
+    "description": "Kate y su hija Beth viven solas en una granja aislada en el bosque, pero cuando Kate empieza a sospechar poco a poco que algo siniestro está ocurriendo, su instinto maternal se pone a prueba.",
+    "cover": "https://cuevana.pizza/resize/###/storage/12593/c9lGz9xJvL10rpUwgxrLdIGzWJQySZmT70Vdkk7x.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtZDByMnFjcjh5ZnN4Lmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLXd3eWI3eGJrZ2J4Zi5odG1s"
+            ]
+        },
+        {
+            "type": "cas",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtZzI4djNmcHAyM2F1Lmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLWRqNzR3eHhqbmw1My5odG1s"
+            ]
+        },
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtMGJvYWRwNTAwY2NjLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLWJ5NDc4aXVzazgwdi5odG1s"
+            ]
+        }
+    ],
+    "downloads": [
+        {
+            "url": "https://1fichier.com/?u6q6mgneu10vxsp7tges",
+            "type": "la"
+        },
+        {
+            "url": "https://1fichier.com/?t0q5lxj9wbkofn815rkl",
+            "type": "es"
+        },
+        {
+            "url": "https://1fichier.com/?9zh73j10ago5ng4y7tp5",
+            "type": "en"
+        }
+    ]
+}

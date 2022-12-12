@@ -1,0 +1,29 @@
+{
+    "url": "https://cuevana.pizza/pelicula/insondable",
+    "title": "Insondable",
+    "duration": "1h 27m",
+    "year": "2020",
+    "genres": [
+        "Documental"
+    ],
+    "actors": [],
+    "description": "En 2016, un joven cineasta australiano comenzó a documentar al inventor aficionado Peter Madsen. Un año después, Madsen asesinó brutalmente a Kim Wall a bordo de su submarino casero. Una revelación sin precedentes de un asesino y el viaje que emprenden sus jóvenes ayudantes mientras consideran su propia complicidad y se preparan para testificar.",
+    "cover": "https://cuevana.pizza/resize/###/storage/53531/ZEdFLacf1UXdscuZGJt1UxzexUlRMAMyvKka3NHM.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtOWRrb2tybGIwczR6Lmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLXNxdzc3bmJlZzUzNC5odG1s"
+            ]
+        },
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtdHFkaWZrdnh5dWpuLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLTA4bGc0cWdpdzcyMy5odG1s"
+            ]
+        }
+    ],
+    "downloads": []
+}

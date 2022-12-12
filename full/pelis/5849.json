@@ -1,0 +1,49 @@
+{
+    "url": "https://cuevana.pizza/pelicula/white-chamber",
+    "title": "White Chamber",
+    "duration": "1h 29m",
+    "year": "2018",
+    "genres": [
+        "Drama",
+        "Suspenso",
+        "Terror",
+        "Ciencia Ficcion"
+    ],
+    "actors": [
+        "Shauna Macdonald",
+        "Oded Fehr",
+        "Amrita Acharia",
+        "Sharon Maughan",
+        "Nicholas Farrell",
+        "Candis Nergaard",
+        "Marcus Griffiths",
+        "Adrianna Edwards",
+        "Sumit Chakravarti",
+        "Lisa Reynolds",
+        "Thomas Thoroe",
+        "Chris Machari",
+        "Gummi Gudmundsson",
+        "Will Ferris",
+        "Madeleine Wilson",
+        "Robert Mellody"
+    ],
+    "description": "En el futuro cercano, el Reino Unido se encuentra sumido en una cruenta guerra civil. En este escenario, una mujer despierta en un cubículo blanco, donde un interlocutor le exige una información que ella afirma no conocer. En este punto, la habitación aparentemente neutra se convertirá en una sofisticada sala de tortura, que llevará a la protagonista a los límites de su fortaleza física y mental.",
+    "cover": "https://cuevana.pizza/resize/###/storage/25473/f2oL2w6xj2MdiioC857QWwlbdeVzRbZ08Pma8XnT.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQteGY5N3M3MmIzcXVwLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLWQxaWJxazdjeXd4dy5odG1s"
+            ]
+        },
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtN25nb2x3YnF6NHluLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLXYwaXE2YmhvbzYyay5odG1s"
+            ]
+        }
+    ],
+    "downloads": []
+}

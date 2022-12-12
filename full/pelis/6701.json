@@ -1,0 +1,50 @@
+{
+    "url": "https://cuevana.pizza/pelicula/a-christmas-star",
+    "title": "A Christmas Star",
+    "duration": "1h 22m",
+    "year": "2015",
+    "genres": [
+        "Familia"
+    ],
+    "actors": [
+        "Erin Galway-Kendrick",
+        "Liam Neeson",
+        "Robert James-Collier",
+        "Suranne Jones",
+        "Bronagh Waugh",
+        "Pierce Brosnan",
+        "Julian Fellowes",
+        "Kylie Minogue",
+        "Paula Malcomson",
+        "Wilson Archer",
+        "Terry Bamber",
+        "Vicky Blades",
+        "Clare Blankley",
+        "Ronald Burney",
+        "Marie Campbell",
+        "Richard Clements",
+        "Sienna Doherty",
+        "Zena Donnelly",
+        "Gillian Doogan",
+        "Amy Dunne"
+    ],
+    "description": "Nacida bajo la Estrella de Navidad, Noelle cree que tiene el don de realizar milagros, por lo que cuando la intrusa del desarrollador McKerrod amenaza su vida pacífica, ella y sus amigos deciden usar este regalo para frustrar sus planes y salvar su aldea.",
+    "cover": "https://cuevana.pizza/resize/###/storage/26710/qRSIANpz5SuCsJdztfZVz5Y8hSVhL35Dx2aDWUFG.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtemxhZHVjaWlyYnVmLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLWJlZ3RoanF3NnRzbC5odG1s"
+            ]
+        },
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtZXc1cW53NDBzdXJqLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLWw2YXBuNGlyejA0YS5odG1s"
+            ]
+        }
+    ],
+    "downloads": []
+}

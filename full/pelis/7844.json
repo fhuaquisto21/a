@@ -1,0 +1,52 @@
+{
+    "url": "https://cuevana.pizza/pelicula/no-me-quites-a-mi-novio",
+    "title": "Algo prestado",
+    "duration": "1h 52m",
+    "year": "2011",
+    "genres": [
+        "Comedia",
+        "Drama",
+        "Romance"
+    ],
+    "actors": [
+        "Ginnifer Goodwin",
+        "Kate Hudson",
+        "Colin Egglesfield",
+        "John Krasinski",
+        "Steve Howey",
+        "Ashley Williams",
+        "Geoff Pierson",
+        "Jill Eikenberry",
+        "Jonathan Epstein",
+        "Leia Thompson",
+        "Sarah Baldwin",
+        "Mark LaMura",
+        "Lindsay Ryan",
+        "Kirsten Day",
+        "Christopher Peuler",
+        "Herb Lieberz",
+        "Jimmy Palumbo",
+        "Mary O'Rourke",
+        "Marina Hirschfeld",
+        "Tim Dunavant"
+    ],
+    "description": "La buena amistad entre Darcy (Kate Hudson) y Rachel (Ginnifer Goodwin) se ve puesta a prueba, cuando Rachel, en la noche de su 30 cumpleaños, tiene una aventura inesperada con Dex (Egglesfield), al que ve como el hombre de sus sueños. El problema es que Dex es el prometido de Darcy. Unos días antes de la boda de Dex y Darcy, Rachel se debatirá entre salvaguardar su amistad con Darcy o luchar por el que cree que es el amor de su vida.",
+    "cover": "https://cuevana.pizza/resize/###/storage/28912/S5BydzPaPdRjFnsprxR949mC1mpGnbnhEGluxDGg.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtemV3eGluenQ1MnhyLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLTMzYmR4MXZhb3pwbS5odG1s"
+            ]
+        },
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtNXdxanRiZjh1YWl3Lmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLXhpdTRvb24xYjdwbi5odG1s"
+            ]
+        }
+    ],
+    "downloads": []
+}

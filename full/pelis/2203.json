@@ -1,0 +1,61 @@
+{
+    "url": "https://cuevana.pizza/pelicula/jugar-en-casa",
+    "title": "Jugar en casa",
+    "duration": "1h 35m",
+    "year": "2022",
+    "genres": [
+        "Comedia",
+        "Familia"
+    ],
+    "actors": [
+        "Kevin James",
+        "Taylor Lautner",
+        "Rob Schneider",
+        "Jackie Sandler",
+        "Tait Blum",
+        "Gary Valentine",
+        "Lavell Crawford",
+        "Chloe Fineman",
+        "Maxwell Simkins",
+        "Jacob Perez"
+    ],
+    "description": "Historia sobre el entrenador de los New Orleans Saints, Sean Payton, entrenando al equipo de fútbol de sexto curso de su hijo, cuando fue suspendido durante toda la temporada 2012 a consecuencia de su papel en el escándalo Bountygate de los Saints.",
+    "cover": "https://cuevana.pizza/resize/###/storage/14201/otpGgHD2BBsGRGyvcQl8PF2UGrMQos8dbt7vi8X0.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQta2Uycmw0cDd2eWlrLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLWl6N29vaHRtd3psMi5odG1s"
+            ]
+        },
+        {
+            "type": "cas",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtbzlqZ3ZkZGVibncwLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLXRhd2syZWJoem5tNy5odG1s"
+            ]
+        },
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtamN5cWV1YmU1NTd4Lmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLXYxZ2p0eDJ3eG0waC5odG1s"
+            ]
+        }
+    ],
+    "downloads": [
+        {
+            "url": "https://1fichier.com/?w6v3ahohaq28ud7rku2t",
+            "type": "la"
+        },
+        {
+            "url": "https://1fichier.com/?pil2jdwl2wybv1e4gk4f",
+            "type": "es"
+        },
+        {
+            "url": "https://1fichier.com/?wg0vwmbmxpx28bedda14",
+            "type": "en"
+        }
+    ]
+}

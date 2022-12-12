@@ -1,0 +1,61 @@
+{
+    "url": "https://cuevana.pizza/pelicula/tiempo",
+    "title": "Tiempo",
+    "duration": "1h 48m",
+    "year": "2021",
+    "genres": [
+        "Misterio",
+        "Terror"
+    ],
+    "actors": [
+        "Gael García Bernal",
+        "Vicky Krieps",
+        "Rufus Sewell",
+        "Alex Wolff",
+        "Thomasin McKenzie",
+        "Abbey Lee",
+        "Nikki Amuka-Bird",
+        "Ken Leung",
+        "Eliza Scanlen",
+        "Aaron Pierre"
+    ],
+    "description": "Thriller sobre una familia que, estando de vacaciones en un paraíso tropical, descubre que la recóndita playa elegida para relajarse unas horas está haciéndoles envejecer rápidamente... reduciendo toda su vida a un único día.",
+    "cover": "https://cuevana.pizza/resize/###/storage/9079/ZaCMY06o7Gg6qeIraaa7FSrPGTAdNBxKKZZUTms4.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtdjR1MmR6emJwd29jLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLWdpZ3N5M29xN3o2ci5odG1s"
+            ]
+        },
+        {
+            "type": "cas",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtdWJqbnNqNWcxZGUzLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLW9kZXppdzA5aG5pOC5odG1s"
+            ]
+        },
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtZnJhanlyMjV4ejdnLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLTViZnhtYm1jOGpzay5odG1s"
+            ]
+        }
+    ],
+    "downloads": [
+        {
+            "url": "https://1fichier.com/?rz58zt8i0ddhtbuhi31j",
+            "type": "la"
+        },
+        {
+            "url": "https://1fichier.com/?277fc0zfjdake2ufaooh",
+            "type": "es"
+        },
+        {
+            "url": "https://1fichier.com/?r7ioniocdp4nsx73zlqv",
+            "type": "en"
+        }
+    ]
+}

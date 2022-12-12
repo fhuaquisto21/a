@@ -1,0 +1,52 @@
+{
+    "url": "https://cuevana.pizza/pelicula/no-te-preocupes-querida",
+    "title": "No te preocupes querida",
+    "duration": "2h 3m",
+    "year": "2022",
+    "genres": [
+        "Drama",
+        "Misterio",
+        "Ciencia Ficcion"
+    ],
+    "actors": [
+        "Florence Pugh",
+        "Harry Styles",
+        "Chris Pine",
+        "Olivia Wilde",
+        "Gemma Chan",
+        "KiKi Layne",
+        "Nick Kroll",
+        "Kate Berlant",
+        "Asif Ali",
+        "Timothy Simons",
+        "Sydney Chandler",
+        "Douglas Smith",
+        "Ari'el Stachel",
+        "Wylie Quinn Anderson",
+        "Mariah Justice",
+        "Michelle Ells",
+        "Marcello Julian Reyes",
+        "Daniel Nishio",
+        "Venice Wong",
+        "Dita Von Teese"
+    ],
+    "description": "Alice y Jack tienen la suerte de vivir en Victoria, la ciudad experimental de la compañía que alberga a los hombres que trabajan para el Proyecto Victoria, de alto secreto, y a sus familias. La vida es perfecta, con todas las necesidades de los residentes cubiertas por la empresa. Todo lo que piden a cambio es un compromiso incondicional con la causa de Victoria. Pero cuando empiezan a aparecer grietas en su idílica vida, exponiendo destellos de algo mucho más siniestro que se esconde bajo la atractiva fachada, Alice no puede evitar cuestionarse qué están haciendo en Victoria y por qué. ¿Cuánto está dispuesta a perder Alice para sacar a la luz lo que realmente ocurre en el paraíso?",
+    "cover": "https://cuevana.pizza/resize/###/storage/53022/RQnLMynTnCt2yrNFErMm8NRSmLlV1ckmdWgUr0jK.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtNHV6dXA0cHZnbXAzLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLXpqd3ZibGM2NXZ3aC5odG1s"
+            ]
+        },
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtY2ZrbXZ1dnNyMHBmLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLXJybGNid2VpdTBocS5odG1s"
+            ]
+        }
+    ],
+    "downloads": []
+}

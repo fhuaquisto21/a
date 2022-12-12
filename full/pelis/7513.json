@@ -1,0 +1,47 @@
+{
+    "url": "https://cuevana.pizza/pelicula/horns",
+    "title": "Horns",
+    "duration": "2h 0m",
+    "year": "2013",
+    "genres": [
+        "Drama",
+        "Suspenso",
+        "Fantasia"
+    ],
+    "actors": [
+        "Geoff Levin",
+        "Matt Ishizuka",
+        "Mayuka Thais"
+    ],
+    "description": "La obra es descrita como una historia de amor, impulsada por el horror y la venganza de un joven de 26 años que un buen día, sin motivo aparente, se despierta con una tremenda resaca, viendo para colmo como unos cuernos brotan de su cabeza. Los cuernos no paran de crecer, y parece que la única forma de detenerlos es resolver el misterioso asesinato de su novia.",
+    "cover": "https://cuevana.pizza/resize/###/storage/15586/3iGq2tp6UhaBKNKnXrqLBwSlhUT7xDD83S5qcACQ.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtcjgxbnUzNWgxbWxxLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLWN4NzE4MnBoYXUyOC5odG1s"
+            ]
+        },
+        {
+            "type": "cas",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtMTFwdGh0ZGhtMHJjLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLTAxcXZzYmQwazdqeC5odG1s"
+            ]
+        },
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtcnE0NmllaTQ5ZTlhLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLXBqdW1sZ2FjZDVvNy5odG1s"
+            ]
+        }
+    ],
+    "downloads": [
+        {
+            "url": "https://1fichier.com/?lyxoln6ne0ozs7ux092j",
+            "type": "la"
+        }
+    ]
+}

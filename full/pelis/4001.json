@@ -1,0 +1,58 @@
+{
+    "url": "https://cuevana.pizza/pelicula/sas-red-notice",
+    "title": "SAS: Red Notice",
+    "duration": "2h 3m",
+    "year": "2021",
+    "genres": [
+        "Accion",
+        "Suspenso"
+    ],
+    "actors": [
+        "Andy Serkis",
+        "Hannah John-Kamen",
+        "Noel Clarke",
+        "Ruby Rose",
+        "Sam Heughan",
+        "Tom Hopper",
+        "Tom Wilkinson"
+    ],
+    "description": "Un pequeño ejército de criminales bien entrenados liderado por Laszlo Antonov ha secuestrado el Eurostar en las profundidades del Canal de la Mancha.",
+    "cover": "https://cuevana.pizza/resize/###/storage/6179/6sX8E1BiI9JXat3BqmfuyIYNfFYpCjich2Una6Pr.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtbzF1cGgyaTd5ajI3Lmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLWpyM3YwbnNldjJsbS5odG1s"
+            ]
+        },
+        {
+            "type": "cas",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQteTV5cW9tOGVjemdhLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLW83ZWM4a2x1a3gxMi5odG1s"
+            ]
+        },
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtbjA2bGJmdGQ2bGN6Lmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLXU4YXFrdW5rb2F2My5odG1s"
+            ]
+        }
+    ],
+    "downloads": [
+        {
+            "url": "https://1fichier.com/?bpqrfv3w71hs9ajqxown",
+            "type": "la"
+        },
+        {
+            "url": "https://1fichier.com/?vffidwiq6djp1xqi6uba",
+            "type": "es"
+        },
+        {
+            "url": "https://1fichier.com/?hn2247u6tjq9qxrle6w5",
+            "type": "en"
+        }
+    ]
+}

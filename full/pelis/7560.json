@@ -1,0 +1,36 @@
+{
+    "url": "https://cuevana.pizza/pelicula/el-aprendiz",
+    "title": "La Conspiración de Noviembre",
+    "duration": "1h 48m",
+    "year": "2014",
+    "genres": [
+        "Accion",
+        "Suspenso",
+        "Crimen"
+    ],
+    "actors": [
+        "Bill Smitrovich",
+        "Luke Bracey",
+        "Olga Kurylenko",
+        "Pierce Brosnan"
+    ],
+    "description": "Peter Devereaux (Pierce Brosnan) es un agente de la CIA extremadamente peligroso y altamente entrenado, que es persuadido para salir de su tranquilo retiro para realizar una misión muy personal. Debe proteger a una testigo muy valiosa, Alice Fournier (Olga Kurylenko), que podría revelar la verdad detrás de un antiguo caso de conspiración. Pronto descubre que esta misión le convierte en el objetivo de su antiguo amigo y protegido en la CIA, David Mason (Luke Bracey). Con crecientes sospechas de la presencia de un infiltrado en la agencia, no hay nadie en quien Devereaux pueda confiar, nadie en absoluto.",
+    "cover": "https://cuevana.pizza/resize/###/storage/15756/rmrBDD5EABJPfxvHvcZo0cRFZRZ85hSRCOMeNqpu.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtd2p4dmp5b2piam9oLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLXNqaXdhNHFpd3BqdC5odG1s"
+            ]
+        },
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtdXNlNG80YmZ1ajZ0Lmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLWhiZ2FhMnNucnB0cy5odG1s"
+            ]
+        }
+    ],
+    "downloads": []
+}

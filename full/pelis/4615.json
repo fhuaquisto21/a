@@ -1,0 +1,58 @@
+{
+    "url": "https://cuevana.pizza/pelicula/the-rental",
+    "title": "The Rental",
+    "duration": "1h 28m",
+    "year": "2020",
+    "genres": [
+        "Drama",
+        "Suspenso",
+        "Terror"
+    ],
+    "actors": [
+        "Dan Stevens",
+        "Alison Brie",
+        "Sheila Vand",
+        "Jeremy Allen White",
+        "Toby Huss",
+        "Connie Wellman"
+    ],
+    "description": "Dos parejas deciden alquilar una casa durante un fin de semana es unas vacaciones en conjunto. Pronto, lo que parecían unas simples vacaciones entre amigos se vuelve algo mucho más siniestro. Los secretos entre los amigos pronto saldrán a la luz, complicando las cosas de manera muy oscura, y empezarán a sentir que no están solos, porque creen que el dueño de la casa les está espiando.",
+    "cover": "https://cuevana.pizza/resize/###/storage/4422/xWGa01kPOY1pvVfw3o1kxHrHrJ5m4LLE2EfiRV9E.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtZ2syZml6ZmEwNGNkLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLW51bWVpa2docWU1YS5odG1s"
+            ]
+        },
+        {
+            "type": "cas",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtcnAxZmVkM211amZsLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLW05c24xZzByeWo3NC5odG1s"
+            ]
+        },
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQteTgxeGZpNGIybmdzLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLTcxcWE0d3NqZWN1OS5odG1s"
+            ]
+        }
+    ],
+    "downloads": [
+        {
+            "url": "https://1fichier.com/?g8gksj2wxsoal5nr4319",
+            "type": "la"
+        },
+        {
+            "url": "https://1fichier.com/?epwakiho0drmak5sjsk9",
+            "type": "es"
+        },
+        {
+            "url": "https://1fichier.com/?gmpr8j6a0tpu2g88nrmg",
+            "type": "en"
+        }
+    ]
+}

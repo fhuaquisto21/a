@@ -1,0 +1,75 @@
+{
+    "url": "https://cuevana.pizza/pelicula/coco",
+    "title": "Coco",
+    "duration": "1h 49m",
+    "year": "2017",
+    "genres": [
+        "Comedia",
+        "Aventura",
+        "Fantasia",
+        "Familia",
+        "Animacion",
+        "Disney"
+    ],
+    "actors": [
+        "Anthony Gonzalez",
+        "Gael García Bernal",
+        "Benjamin Bratt",
+        "Alanna Ubach",
+        "Renée Victor",
+        "Jaime Camil",
+        "Alfonso Aráu",
+        "Herbert Siguenza",
+        "Lombardo Boyar",
+        "Ana Ofelia Murguía",
+        "Sofía Espinosa",
+        "Dyana Ortelli",
+        "Gabriel Iglesias",
+        "Selene Luna",
+        "Natalia Córdova-Buckley",
+        "Edward James Olmos",
+        "Carla Medina",
+        "Luis Valdez",
+        "Blanca Araceli",
+        "Polo Rojas"
+    ],
+    "description": "Miguel es un joven con el sueño de convertirse en leyenda de la música a pesar de la prohibición de su familia. Su pasión le llevará a adentrarse en la \"Tierra de los Muertos\" para conocer su verdadero legado familiar.",
+    "cover": "https://cuevana.pizza/resize/###/storage/16127/ldSvHxYrxg9BgF2msGEBFxmOuwDAAdhstCXizywL.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtZzdldXY2MmJremJ3Lmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLWIxbzIwbTk1ZnhtNi5odG1s"
+            ]
+        },
+        {
+            "type": "cas",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtYnR2NWw1YjQ2OXpyLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLWNmZmo5Zzc1N3Y2aC5odG1s"
+            ]
+        },
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtbXdhMnJxdm8wOXVqLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLXQ0MDRqano3Z2Y0Mi5odG1s"
+            ]
+        }
+    ],
+    "downloads": [
+        {
+            "url": "https://1fichier.com/?blangy1bxv",
+            "type": "la"
+        },
+        {
+            "url": "https://1fichier.com/?l8w75ft1j1",
+            "type": "es"
+        },
+        {
+            "url": "https://1fichier.com/?16kyf2dfw9",
+            "type": "en"
+        }
+    ]
+}

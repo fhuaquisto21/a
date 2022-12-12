@@ -1,0 +1,60 @@
+{
+    "url": "https://cuevana.pizza/pelicula/sr-y-sra-smith",
+    "title": "Sr. y Sra. Smith",
+    "duration": "2h 0m",
+    "year": "2005",
+    "genres": [
+        "Accion",
+        "Comedia",
+        "Drama",
+        "Suspenso"
+    ],
+    "actors": [
+        "Brad Pitt",
+        "Angelina Jolie",
+        "Vince Vaughn",
+        "Adam Brody",
+        "Kerry Washington",
+        "Keith David",
+        "Chris Weitz",
+        "Rachael Huntley",
+        "Michelle Monaghan",
+        "Stephanie March",
+        "Jennifer Morrison",
+        "Theresa Barrera",
+        "Perrey Reeves",
+        "Melanie Tolbert",
+        "Jerry T. Adams",
+        "Elijah Alexander",
+        "Hans F. Alexander",
+        "Lauryn Alvarez",
+        "Burke Armstrong",
+        "Ron Bottitta"
+    ],
+    "description": "Jane y John Smith forman una pareja de vida acomodada dentro de un ordinario y monótono matrimonio suburbano. Además ambos ocultan algo por lo que su pareja mataría por saber: los dos son agentes secretos, asesinos increíblemente eficientes que trabajan para organizaciones que compiten entre sí. Además, un día el Sr. y la Sra. Smith descubren una nueva fuente de emoción en su matrimonio cuando se les contrata para asesinarse mutuamente, pues será entonces cuando comienza la verdadera diversión...",
+    "cover": "https://cuevana.pizza/resize/###/storage/33596/rqKB775M7n2cX5ms8nQubgSARmo0ocADpaxeRREc.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtZjJwejh3b2s0bWNkLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLTQ5aTQ1OWhuaDhjMS5odG1s"
+            ]
+        },
+        {
+            "type": "cas",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtb3k3NTZwN2IwZTJnLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLWF5NWNuZmJ0N3I3cS5odG1s"
+            ]
+        },
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtM2I0ZTlrZncyZXo4Lmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLWcxcW82c2I1MjB1NC5odG1s"
+            ]
+        }
+    ],
+    "downloads": []
+}

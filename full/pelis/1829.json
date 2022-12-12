@@ -1,0 +1,55 @@
+{
+    "url": "https://cuevana.pizza/pelicula/heatwave",
+    "title": "Heatwave",
+    "duration": "1h 40m",
+    "year": "2022",
+    "genres": [
+        "Suspenso"
+    ],
+    "actors": [
+        "Kat Graham",
+        "Merritt Patterson",
+        "Sebastian Roché",
+        "Cardi Wong",
+        "Roger Cross"
+    ],
+    "description": "Claire, una joven ambiciosa, comienza a trabajar para un exitoso y rico hombre de negocios, pero sin saberlo, se involucra en una aventura con su esposa.",
+    "cover": "https://cuevana.pizza/resize/###/storage/19044/aA734W7SeFC6IrSbjI8izcwMmcoEleqyTHeKI0V0.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtM2VsMHMydndyZWN4Lmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLXU0cGtpMWxlMTBnOC5odG1s"
+            ]
+        },
+        {
+            "type": "cas",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtNjNiZGt3dnAxcnJhLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLTllY2ptajl6NWtjNC5odG1s"
+            ]
+        },
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtcDNlbmxsaWNmZDBhLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLTZiOTQ0YjBjYzIwbS5odG1s"
+            ]
+        }
+    ],
+    "downloads": [
+        {
+            "url": "https://1fichier.com/?vgmbbql7t5j7l790h6zk",
+            "type": "la"
+        },
+        {
+            "url": "https://1fichier.com/?3kj9syltxekfnokkie08",
+            "type": "es"
+        },
+        {
+            "url": "https://1fichier.com/?yczdg8d5unwobii14h4t",
+            "type": "en"
+        }
+    ]
+}

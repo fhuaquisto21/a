@@ -1,0 +1,52 @@
+{
+    "url": "https://cuevana.pizza/pelicula/milagros-del-cielo",
+    "title": "Los milagros del cielo",
+    "duration": "1h 49m",
+    "year": "2016",
+    "genres": [
+        "Drama",
+        "Familia",
+        "Biografia"
+    ],
+    "actors": [
+        "Jennifer Garner",
+        "Kylie Rogers",
+        "Martin Henderson",
+        "Brighton Sharbino",
+        "Courtney Fansler",
+        "John Carroll Lynch",
+        "Eugenio Derbez",
+        "Queen Latifah",
+        "Wayne Pére",
+        "Kelly Collins Lintz",
+        "Brandon Spink",
+        "Rhoda Griffis",
+        "Erica McGee",
+        "Bruce Altman",
+        "Hannah Alligood",
+        "Zach Sale",
+        "Gwen Waymon",
+        "Kenny Alfonso",
+        "John Crow",
+        "J.M. Longoria"
+    ],
+    "description": "La joven Annabel Beam es una niña de diez años que padece un extraño e incurable trastorno digestivo. Su madre Christy hace todo lo que está en su mano para intentar ayudar a la pequeña, pero sin resultados. Tras un terrible accidente que casi ocasiona su muerte, Annabel supera su enfermedad gracias a un milagro que deja sin habla a su familia, los médicos y toda la comunidad.",
+    "cover": "https://cuevana.pizza/resize/###/storage/860/onIqcEC1AiroRvMDWt3JhOk71IFY22h65IQTDHMv.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtcjFzNGVsOHRrZ3IzLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLTE4YTYzbDl0cjhvNC5odG1s"
+            ]
+        },
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtY3pkODBjd2VheWU2Lmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLTBlb2YzemFndnJsYy5odG1s"
+            ]
+        }
+    ],
+    "downloads": []
+}

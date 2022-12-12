@@ -1,0 +1,46 @@
+{
+    "url": "https://cuevana.pizza/pelicula/el-animal",
+    "title": "El cordero",
+    "duration": "1h 45m",
+    "year": "2021",
+    "genres": [
+        "Drama",
+        "Misterio",
+        "Terror"
+    ],
+    "actors": [
+        "Noomi Rapace",
+        "Hilmir Snær Guðnason",
+        "Björn Hlynur Haraldsson",
+        "Ingvar E. Sigurðsson",
+        "Ester Bibi"
+    ],
+    "description": "Una pareja islandesa vive con su rebaño de ovejas en una hermosa pero remota granja. Cuando descubren un misterioso recién nacido en su tierra, deciden quedárselo y criarlo como propio. Este acontecimiento inesperado, y la perspectiva de una nueva familia, les trae mucha alegría antes de destruirlos en última instancia.",
+    "cover": "https://cuevana.pizza/resize/###/storage/11708/mnCJw91UDbePDPbOONt1yBPVhMpDkaDUAXD6dWeY.jpg",
+    "players": [
+        {
+            "type": "cas",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtaGNmcWFwcnI2ZTdzLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLTZyNmI2NXRxcWdjbS5odG1s"
+            ]
+        },
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtdHMzMHBiZzN3NHJyLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLXp6c3Q5bnA4NXI5bS5odG1s"
+            ]
+        }
+    ],
+    "downloads": [
+        {
+            "url": "https://1fichier.com/?stxwk1ztixkk2vvjfcti",
+            "type": "es"
+        },
+        {
+            "url": "https://1fichier.com/?1csvvb78f59d2j7hyb40",
+            "type": "en"
+        }
+    ]
+}

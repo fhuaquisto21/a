@@ -1,0 +1,43 @@
+{
+    "url": "https://cuevana.pizza/pelicula/siempre-alice",
+    "title": "Siempre Alice",
+    "duration": "1h 41m",
+    "year": "2014",
+    "genres": [
+        "Drama"
+    ],
+    "actors": [
+        "Hunter Parrish",
+        "Julianne Moore",
+        "Kate Bosworth",
+        "Shane McRae"
+    ],
+    "description": "La doctora Alice Howland (Moore) es una conocida profesora de lingüística de la Universidad de Columbia. Felizmente casada y madre de tres hijos, no da mucha importancia a los pequeños lapsus mentales que padece cada vez con más frecuencia, hasta que debe comenzar a luchar para seguir siendo Alice.",
+    "cover": "https://cuevana.pizza/resize/###/storage/15696/k0CAd7XLewGTRsmXM1G4i2ZQ6Km0Jng9ACMYsT4E.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtaTd4endqdWtrMWhiLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLTBudDRoaTlmcGxtYy5odG1s"
+            ]
+        },
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtcmlvbmdsYTI2cmQwLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLTRzbXNvMWp6cGk3Yy5odG1s"
+            ]
+        }
+    ],
+    "downloads": [
+        {
+            "url": "https://1fichier.com/?073zlaq9whk2ha7avpxf",
+            "type": "la"
+        },
+        {
+            "url": "https://1fichier.com/?j82f837u31feml835a8e",
+            "type": "en"
+        }
+    ]
+}

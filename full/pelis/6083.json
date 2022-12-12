@@ -1,0 +1,37 @@
+{
+    "url": "https://cuevana.pizza/pelicula/samson",
+    "title": "Sansón",
+    "duration": "1h 49m",
+    "year": "2018",
+    "genres": [
+        "Accion",
+        "Drama"
+    ],
+    "actors": [
+        "Jackson Rathbone",
+        "Billy Zane",
+        "Taylor James",
+        "Caitlin Leahy",
+        "Frances Sholto-Douglas",
+        "Rutger Hauer",
+        "Lindsay Wagner",
+        "Greg Kriek",
+        "Sven Ruygrok",
+        "Matthew Dylan Roberts",
+        "Ares Afonso",
+        "Duane Behrens",
+        "Lily Spangenberg"
+    ],
+    "description": "Después de perder el amor de su vida, un joven hebreo con una fuerza sobrenatural defiende a su pueblo, sacrificando todo para vengar su amor, su pueblo y su Dios.",
+    "cover": "https://cuevana.pizza/resize/###/storage/24383/cXZKyMWUaFYt13gLbtwmHOYx0ewq0BOnco5Lt4DZ.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtc3p5aWtkcG11NmxrLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLWVhYTk5Zzk2dGs1Yi5odG1s"
+            ]
+        }
+    ],
+    "downloads": []
+}

@@ -1,0 +1,48 @@
+{
+    "url": "https://cuevana.pizza/pelicula/star-trek-nemesis",
+    "title": "Star Trek: Némesis",
+    "duration": "1h 52m",
+    "year": "2002",
+    "genres": [
+        "Accion",
+        "Suspenso",
+        "Ciencia Ficcion",
+        "Aventura"
+    ],
+    "actors": [
+        "Patrick Stewart",
+        "Jonathan Frakes",
+        "Brent Spiner",
+        "LeVar Burton",
+        "Michael Dorn",
+        "Gates McFadden",
+        "Marina Sirtis",
+        "Tom Hardy"
+    ],
+    "description": "La 10ª película de Star Trek y 4ª del elenco de “La nueva generación” donde la policía romulana obtiene ADN del Capitán Picard y fabrican un clon, llamado Shinzon, con la finalidad de introducirlo en la Federación, pero ese plan queda en nada y envían al clon a las minas de dilitio de Remo, el planeta hermano de Rómulo, la capital del Imperio Romulano. Shinzon organiza un golpe de estado gracias a las fuerzas Remanas y su imbatible nave erigiéndose nuevo Pretor Romulano.",
+    "cover": "https://cuevana.pizza/resize/###/storage/4524/tE8gIIeTyYRcxJBswLeVGneGhAujV1xWfQicXKVb.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtcnJ0N3R3ejY2em5zLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLXk5N2c2c3Nqb3Q3OC5odG1s"
+            ]
+        },
+        {
+            "type": "cas",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQteGtxbTg0ZHE2MHAzLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLTlpaTg5b210bGJkcC5odG1s"
+            ]
+        },
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtbWx3eDEzdnZ4dWRkLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLWQwOGkydzE2M3Q0NC5odG1s"
+            ]
+        }
+    ],
+    "downloads": []
+}

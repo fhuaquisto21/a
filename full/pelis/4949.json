@@ -1,0 +1,62 @@
+{
+    "url": "https://cuevana.pizza/pelicula/downhill",
+    "title": "Un desastre de altura (Downhill)",
+    "duration": "1h 30m",
+    "year": "2020",
+    "genres": [
+        "Comedia",
+        "Drama"
+    ],
+    "actors": [
+        "Julia Louis-Dreyfus",
+        "Will Ferrell",
+        "Miranda Otto",
+        "Zach Woods",
+        "Kristofer Hivju",
+        "Zoe Chao",
+        "Ammon Jacob Ford",
+        "Julian Grey",
+        "Giulio Berruti",
+        "Nadiv Molcho",
+        "Alex MacQueen"
+    ],
+    "description": "Apenas escapando de una avalancha durante unas vacaciones familiares de esquí en los Alpes, una pareja casada se ve desarreglada cuando se ven obligados a reevaluar sus vidas y cómo se sienten el uno con el otro.",
+    "cover": "https://cuevana.pizza/resize/###/storage/19950/GDgLkhWSvBFGm0EHSXa1WdTdMsDFO9CHB3njiOtB.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtN3Jib28xdjZrdm5qLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLWljenNnZ3M3cjBydC5odG1s"
+            ]
+        },
+        {
+            "type": "cas",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtd2hsanRmaWw2N2F3Lmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLW51M2k4bTlzZm52Yy5odG1s"
+            ]
+        },
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtNXl6aWxzMDZiZWc0Lmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLW9jNWR2Z2diNzkxaS5odG1s"
+            ]
+        }
+    ],
+    "downloads": [
+        {
+            "url": "https://1fichier.com/?fyus8z0if3uk36d6q6jc",
+            "type": "la"
+        },
+        {
+            "url": "https://1fichier.com/?en6xwqgug8j5cb9u183g",
+            "type": "es"
+        },
+        {
+            "url": "https://1fichier.com/?skj7677jlsq25x0x356h",
+            "type": "en"
+        }
+    ]
+}

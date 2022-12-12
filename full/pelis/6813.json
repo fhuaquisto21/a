@@ -1,0 +1,56 @@
+{
+    "url": "https://cuevana.pizza/pelicula/las-horas-mas-oscuras",
+    "title": "Las horas más oscuras",
+    "duration": "2h 10m",
+    "year": "2017",
+    "genres": [
+        "Drama",
+        "Biografia",
+        "Historia"
+    ],
+    "actors": [
+        "Ben Mendelsohn",
+        "Gary Oldman",
+        "Kristin Scott Thomas",
+        "Lily James"
+    ],
+    "description": "Drama ambientado en 1940, cuando Winston Churchill (Gary Oldman) se convierte en primer ministro británico en un momento realmente crucial de la Segunda Guerra Mundial, pues los nazis avanzan imparables conquistando prácticamente la totalidad del continente europeo y amenazando con una invasión a Inglaterra. Churchill deberá entonces explorar la posibilidad de un tratado de paz con Alemania, o ser fiel a sus ideales y luchar por la liberación de Europa.",
+    "cover": "https://cuevana.pizza/resize/###/storage/17740/xdX3plB5dPJkargQ9wqaSI94QURQz1kJwylFvKi3.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQteHNsd3RqdGRuYXg5Lmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLWFlbHY4eGF2c2FycC5odG1s"
+            ]
+        },
+        {
+            "type": "cas",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtMDMwOTU0b3E4ajF2Lmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLTc0YWI0ZmdlN3hoZC5odG1s"
+            ]
+        },
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtYjRmMnB1NXZlMjdwLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLWZ4cHkzdGM0cTJubC5odG1s"
+            ]
+        }
+    ],
+    "downloads": [
+        {
+            "url": "https://1fichier.com/?ap2k4p502s54t2yh5bsy",
+            "type": "la"
+        },
+        {
+            "url": "https://1fichier.com/?6r8pu987s5a8d9ey32ag",
+            "type": "es"
+        },
+        {
+            "url": "https://1fichier.com/?c7t5m3zeincb0abjkwvo",
+            "type": "en"
+        }
+    ]
+}

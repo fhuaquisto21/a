@@ -1,0 +1,32 @@
+{
+    "url": "https://cuevana.pizza/pelicula/meet-cute",
+    "title": "Meet Cute",
+    "duration": "1h 30m",
+    "year": "2022",
+    "genres": [
+        "Comedia",
+        "Drama",
+        "Romance",
+        "Ciencia Ficcion"
+    ],
+    "actors": [
+        "Kaley Cuoco",
+        "Pete Davidson",
+        "Deborah S. Craig",
+        "Sierra Fisk",
+        "Wesley Holloway",
+        "Rock Kohli"
+    ],
+    "description": "Una deconstrucción salvajemente inventiva de la comedia romántica construida en torno a la pregunta: ¿Qué harías si pudieras viajar al pasado de tus seres queridos, curar sus traumas, arreglar sus problemas y convertirlos en la pareja perfecta?",
+    "cover": "https://cuevana.pizza/resize/###/storage/52613/EB5TVB5rg8uUVOFS99TEsLRMjectfGolnvAKkWMi.jpg",
+    "players": [
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtOWEydnBlc3NhZWFjLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLXlyc2ZvaGEzMHIweS5odG1s"
+            ]
+        }
+    ],
+    "downloads": []
+}

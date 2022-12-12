@@ -1,0 +1,44 @@
+{
+    "url": "https://cuevana.pizza/pelicula/atrapado-en-la-navidad",
+    "title": "Atrapado en la Navidad",
+    "duration": "1h 31m",
+    "year": "2015",
+    "genres": [
+        "Drama",
+        "Misterio",
+        "Romance"
+    ],
+    "actors": [
+        "Jen Lilley",
+        "Thomas Beaudoin",
+        "Robert Walsh",
+        "Bates Wilder",
+        "Kati Salowsky",
+        "Brett Leigh",
+        "Joanna Herrington",
+        "Christopher Tarjan",
+        "Steven A. Miller",
+        "Alexander Gauthier",
+        "Neil Casey",
+        "Jon DiVito"
+    ],
+    "description": "Kate Jordan, una joven abogada, acude a Vermont doce días antes de Navidad para negociar la venta de Hollygrove Inn. Cuando llega, descubre una leyenda sobre la mansión según la cual existe un fantasma que aparece cada Navidad. (FILMAFFINITY)",
+    "cover": "https://cuevana.pizza/resize/###/storage/28079/fblchr0kwNvkcSSTsXplZ4UnlcH8YMbvuGT5v8Is.jpg",
+    "players": [
+        {
+            "type": "cas",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQta3NqY3lnMmdwbHF6Lmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLWJtdjhmYnBranpjYi5odG1s"
+            ]
+        },
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtc21sMzBsZ2Rza21mLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLWQ0cXdzbmRzODYzZy5odG1s"
+            ]
+        }
+    ],
+    "downloads": []
+}

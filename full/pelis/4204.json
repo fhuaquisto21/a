@@ -1,0 +1,54 @@
+{
+    "url": "https://cuevana.pizza/pelicula/los-angeles-de-charlie-1",
+    "title": "Los Ángeles de Charlie",
+    "duration": "1h 38m",
+    "year": "2000",
+    "genres": [
+        "Accion",
+        "Comedia",
+        "Suspenso",
+        "Crimen",
+        "Aventura"
+    ],
+    "actors": [
+        "Cameron Diaz",
+        "Drew Barrymore",
+        "Lucy Liu",
+        "Bill Murray",
+        "Sam Rockwell",
+        "Kelly Lynch",
+        "Tim Curry",
+        "Crispin Glover",
+        "Matt LeBlanc",
+        "LL Cool J",
+        "Tom Green",
+        "Luke Wilson",
+        "Sean Whalen",
+        "Alex Trebek",
+        "Melissa McCarthy",
+        "Bob Stephenson",
+        "Ned Bellamy",
+        "Andrew Wilson",
+        "Branden Williams",
+        "Michael Papajohn"
+    ],
+    "description": "Eric Knox ha creado un programa informático revolucionario que, si cayera en malas manos, pondría en peligro la vida privada de todo aquel que se acercara a un ordenador. Cuando lo secuestran, la presidenta de Knox Technologies llama a Charlie y a sus tres jóvenes detectives tan atractivas como inteligentes. Natalie, Dylan y Alex primero centrarán su objetivo en Roger Corwin, rival de Knox y propietario de la red de telecomunicaciones por satélite más grande del mundo. A la hora de infiltrarse en sus círculos personales, ningún obstáculo parará a las tres jóvenes.",
+    "cover": "https://cuevana.pizza/resize/###/storage/5618/WmWP89Cqs1kqUmCVPjKDmZLEc7iXpgcIEHcJX7jR.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtY2kzbTc3dGkwNG03Lmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLWg2ZW1ydm9sbnF0dC5odG1s"
+            ]
+        },
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtcWtzcXdjZTk4NHVsLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLWhxM2preXZndjlvOS5odG1s"
+            ]
+        }
+    ],
+    "downloads": []
+}

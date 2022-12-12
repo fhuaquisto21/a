@@ -1,0 +1,60 @@
+{
+    "url": "https://cuevana.pizza/pelicula/el-monstruo-marino",
+    "title": "El monstruo marino",
+    "duration": "1h 55m",
+    "year": "2022",
+    "genres": [
+        "Aventura",
+        "Fantasia",
+        "Familia",
+        "Animacion"
+    ],
+    "actors": [
+        "Karl Urban",
+        "Zaris-Angel Hator",
+        "Jared Harris",
+        "Marianne Jean-Baptiste",
+        "Dan Stevens",
+        "Kathy Burke",
+        "Jim Carter"
+    ],
+    "description": "Una decidida joven se une a un famoso cazador de monstruos marinos para perseguir a una bestia legendaria.",
+    "cover": "https://cuevana.pizza/resize/###/storage/40328/aBAx4i7fuajMlS08Kv55XTZzNswkKFoqKLLpMh3O.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtZjBpZWc2MWEyaDI5Lmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLXJlZHoyOG9uYjdpeC5odG1s"
+            ]
+        },
+        {
+            "type": "cas",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtbGtyMjI2bXRpeWhsLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLWVqdmVhNmQyazRsdS5odG1s"
+            ]
+        },
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtYXF5emw2OW11cTE1Lmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLTZ1MDZpb2hwZXhmOC5odG1s"
+            ]
+        }
+    ],
+    "downloads": [
+        {
+            "url": "https://1fichier.com/?7rz1f02yc4ish3uw5he4",
+            "type": "la"
+        },
+        {
+            "url": "https://1fichier.com/?j787t9k8qc739bjqpd0c",
+            "type": "es"
+        },
+        {
+            "url": "https://1fichier.com/?jepqhdaig6hr1gls0ki5",
+            "type": "en"
+        }
+    ]
+}

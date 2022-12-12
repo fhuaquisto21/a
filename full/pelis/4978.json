@@ -1,0 +1,47 @@
+{
+    "url": "https://cuevana.pizza/pelicula/furie",
+    "title": "Furie",
+    "duration": "1h 38m",
+    "year": "2019",
+    "genres": [
+        "Accion",
+        "Drama",
+        "Suspenso"
+    ],
+    "actors": [
+        "Ngô Thanh Vân",
+        "Phan Thanh Nhiên",
+        "Phạm Anh Khoa",
+        "Thanh Hoa",
+        "Mai Cát Vi",
+        "Lê Trang"
+    ],
+    "description": "Una exgangster se retira al campo para escapar después de haber sido madre, pero su violento pasado regresará cuando su hija sea secuestrada.",
+    "cover": "https://cuevana.pizza/resize/###/storage/20240/dWLsVCNFpa6k1DOxG1XIvrjSVGQdg9ghxKcs97a4.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtNTAxdGQ0Nm93Yng2Lmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLW44dWFuZ2RhYjB0dC5odG1s"
+            ]
+        },
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtbDVjenA2NTYwc2RxLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLWZ4M2hqYXoyNWtzcC5odG1s"
+            ]
+        }
+    ],
+    "downloads": [
+        {
+            "url": "https://1fichier.com/?4y2kivlk6iu63ef07xzi",
+            "type": "la"
+        },
+        {
+            "url": "https://1fichier.com/?zyy48robrsiu38p20mo6",
+            "type": "en"
+        }
+    ]
+}

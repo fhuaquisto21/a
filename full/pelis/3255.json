@@ -1,0 +1,50 @@
+{
+    "url": "https://cuevana.pizza/pelicula/dreamcatcher",
+    "title": "Dreamcatcher",
+    "duration": "1h 30m",
+    "year": "2021",
+    "genres": [
+        "Misterio",
+        "Suspenso",
+        "Terror"
+    ],
+    "actors": [
+        "Niki Koss",
+        "Zachary Gordon",
+        "Travis Burns",
+        "Blaine Kern III",
+        "Adrienne Wilkinson",
+        "Lou Ferrigno Jr.",
+        "Ryan Powers",
+        "Al Calderon",
+        "Ben J. Pierce"
+    ],
+    "description": "Dos hermanas y sus amigos se ven inmersos en una espiral de violencia durante 48 horas tras sufrir una experiencia traumática en un festival de música underground.",
+    "cover": "https://cuevana.pizza/resize/###/storage/9360/qbRgCshnuWpN0enHXqzcqf3tzkM71YGmEciFhrVx.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtdXhoZGhuMngzYTJlLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLWl1ZDlwYjdyYWhmYy5odG1s"
+            ]
+        },
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtMDhreWNoc2dtaWFwLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLXJuZGtpY2ljNG85Ny5odG1s"
+            ]
+        }
+    ],
+    "downloads": [
+        {
+            "url": "https://1fichier.com/?2q8ex3aitt46xyk4w1w9",
+            "type": "la"
+        },
+        {
+            "url": "https://1fichier.com/?qjcvc521wuike2v4b8ot",
+            "type": "en"
+        }
+    ]
+}

@@ -1,0 +1,61 @@
+{
+    "url": "https://cuevana.pizza/pelicula/blacklight",
+    "title": "Luz negra",
+    "duration": "1h 48m",
+    "year": "2022",
+    "genres": [
+        "Accion",
+        "Suspenso"
+    ],
+    "actors": [
+        "Liam Neeson",
+        "Emmy Raver-Lampman",
+        "Taylor John Smith",
+        "Aidan Quinn",
+        "Tim Draxl",
+        "Claire van der Boom",
+        "Michael M. Foster",
+        "Yesse Spence",
+        "Todd Levi",
+        "Amelia Forsyth-Smith"
+    ],
+    "description": "Travis Block, un agente del gobierno en la sombra que se especializa en eliminar operativos cuyas coberturas han sido expuestas, descubre una conspiración mortal dentro de sus propias filas que alcanza los niveles más altos del poder.",
+    "cover": "https://cuevana.pizza/resize/###/storage/14693/C5yuLh7y37AbzKIyd2jxjeXmicdoPkVwLIyTiOWp.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtY2c3MnQ1NzdybWk2Lmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLXBkYmkzc3AyMDhmZy5odG1s"
+            ]
+        },
+        {
+            "type": "cas",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtaTczd3RkeDI4OHNhLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLWJhcGZmMnhtcm00Zy5odG1s"
+            ]
+        },
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtaHhvODZ0bW82cmdiLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLWRqMmNud2lyazU0aS5odG1s"
+            ]
+        }
+    ],
+    "downloads": [
+        {
+            "url": "https://1fichier.com/?po48ux8mfs5063v30su4",
+            "type": "la"
+        },
+        {
+            "url": "https://1fichier.com/?f0it0cmcprcl7eckku80",
+            "type": "es"
+        },
+        {
+            "url": "https://1fichier.com/?77l2tsf5pd20k6b9eqhm",
+            "type": "en"
+        }
+    ]
+}

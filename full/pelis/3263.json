@@ -1,0 +1,72 @@
+{
+    "url": "https://cuevana.pizza/pelicula/mr-jones",
+    "title": "Mr. Jones",
+    "duration": "1h 55m",
+    "year": "2019",
+    "genres": [
+        "Drama",
+        "Suspenso",
+        "Historia"
+    ],
+    "actors": [
+        "James Norton",
+        "Vanessa Kirby",
+        "Peter Sarsgaard",
+        "Joseph Mawle",
+        "Kenneth Cranham",
+        "Celyn Jones",
+        "Krzysztof Pieczyński",
+        "Beata Pozniak",
+        "Fenella Woolgar",
+        "Michalina Olszańska",
+        "Patrycja Volny",
+        "Edward Wolstenholme",
+        "Oleg Drach",
+        "Martin Bishop",
+        "Marcin Czarnik",
+        "Julian Lewis Jones",
+        "Matthew Marsh",
+        "John Edmondson",
+        "Olena Leonenko",
+        "Barry Mulkerns"
+    ],
+    "description": "Drama basado en hechos reales que narra la historia de un periodista de investigación británico mientras viaja a lo más profundo de la Unión Soviética para descubrir una conspiración internacional.",
+    "cover": "https://cuevana.pizza/resize/###/storage/19997/bPulHElRi7WtJ7uP93vrQedO35bWLCGFyLiokclh.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtbms2Y2tmMXh2NTJhLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLXE5MTFkb29hdmdwMS5odG1s"
+            ]
+        },
+        {
+            "type": "cas",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtdGlmYnkxejk2a3EyLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLTYyMTJ4MzR4dng4eS5odG1s"
+            ]
+        },
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQteTFleHdobXd2cjJqLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLTg2anFhYm0yYTRobS5odG1s"
+            ]
+        }
+    ],
+    "downloads": [
+        {
+            "url": "https://1fichier.com/?u75q5udpprq2az7pa11d",
+            "type": "la"
+        },
+        {
+            "url": "https://1fichier.com/?za02cp75xpkudppjk2cr",
+            "type": "es"
+        },
+        {
+            "url": "https://1fichier.com/?o24yv0iap1g0u4vt4a9l",
+            "type": "en"
+        }
+    ]
+}

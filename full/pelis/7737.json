@@ -1,0 +1,36 @@
+{
+    "url": "https://cuevana.pizza/pelicula/dos-armas-letales",
+    "title": "Dos Armas Letales",
+    "duration": "1h 49m",
+    "year": "2013",
+    "genres": [
+        "Accion",
+        "Comedia",
+        "Crimen"
+    ],
+    "actors": [
+        "Denzel Washington",
+        "Edward James Olmos",
+        "Mark Wahlberg",
+        "Paula Patton"
+    ],
+    "description": "Un agente de la DEA, Bobby Trench (Denzel Washington), y un oficial de la Inteligencia Naval, Michael Stigman (Mark Wahlberg), consiguen robarle 43 millones de dólares a la mafia. El problema consiste en que en realidad ese dinero no era de la organización criminal, sino de la CIA. Adaptación al cine de una novela gráfica de Steven Grant.",
+    "cover": "https://cuevana.pizza/resize/###/storage/16495/jPzKzNMs7sXTJe88q4Y85Zbs48a37bqE40BcOoTP.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtbHZ1bmd6ZDE0Mml4Lmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLWxrZWVua2Y1cjhrcS5odG1s"
+            ]
+        },
+        {
+            "type": "cas",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtazYyNmE3YmxvMGNhLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLTA0YWZpYXNiYWhhYy5odG1s"
+            ]
+        }
+    ],
+    "downloads": []
+}

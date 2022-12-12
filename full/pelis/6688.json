@@ -1,0 +1,58 @@
+{
+    "url": "https://cuevana.pizza/pelicula/the-babysitter",
+    "title": "The Babysitter",
+    "duration": "1h 25m",
+    "year": "2017",
+    "genres": [
+        "Comedia",
+        "Terror"
+    ],
+    "actors": [
+        "Judah Lewis",
+        "Jimmy Warden",
+        "Frederick Keeve",
+        "Samara Weaving",
+        "Robbie Amell",
+        "Hana Mae Lee",
+        "Bella Thorne",
+        "Emily Alyn Lind",
+        "Andrew Bachelor",
+        "Doug Haley",
+        "Leslie Bibb",
+        "Ken Marino",
+        "Samuel Gilbert",
+        "Zachary Alexander Rice",
+        "Doc Duhame",
+        "Jean Claude Leuyer",
+        "Miles J. Harvey",
+        "Chris Wylde",
+        "Carl McDowell",
+        "Jonathan Bray"
+    ],
+    "description": "Cole es un adolescente que está enamorado de su niñera Bee. Una noche, Cole se queda despierto hasta tarde y descubre que su guapa niñera forma parte de una secta satánica, y hará lo que sea necesario para mantenerlo callado.",
+    "cover": "https://cuevana.pizza/resize/###/storage/35606/gwrtWxirOZplNCgKTRvRRd0MuIkRp3lWRNjj7K4D.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtaDQwNXN3dHgxeHl5Lmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLXVuaDN4MjNuamltYi5odG1s"
+            ]
+        },
+        {
+            "type": "cas",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtenB1aHAwYjd6OHRmLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLXhmazNubzRpcWIzay5odG1s"
+            ]
+        },
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtNGJxYWkxaWRsZ3BrLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLWI2cWVzeWk1eGIzeC5odG1s"
+            ]
+        }
+    ],
+    "downloads": []
+}

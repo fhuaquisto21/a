@@ -1,0 +1,63 @@
+{
+    "url": "https://cuevana.pizza/pelicula/crawlspace",
+    "title": "Crawlspace",
+    "duration": "1h 30m",
+    "year": "2022",
+    "genres": [
+        "Accion",
+        "Suspenso"
+    ],
+    "actors": [
+        "Henry Thomas",
+        "Bradley Stryker",
+        "C. Ernst Harth",
+        "Jennifer Robertson",
+        "Olivia Taylor Dudley",
+        "Catherine Lough Haggquist",
+        "Carlos Joe Costa",
+        "Colin Decker",
+        "Andrei Kovski",
+        "Charles Jarman",
+        "Fletcher Donovan",
+        "Justin Lacey"
+    ],
+    "description": "Después de presenciar un brutal asesinato en una cabaña, un hombre se esconde en un espacio de arrastre mientras los asesinos registran la propiedad en busca de una fortuna oculta. A medida que se acercan, el hombre debe decidir si el espacio de arrastre será su tumba o el campo de batalla en su lucha por la supervivencia.",
+    "cover": "https://cuevana.pizza/resize/###/storage/36752/I5qDCTsFcRdyWe3rTQf4cZWQQi0QtAAuw5N6J9Vt.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtOWNjc3d4c2lyN2pjLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLXYwM2xxYWFkbHk2ZS5odG1s"
+            ]
+        },
+        {
+            "type": "cas",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtc2NjeHkxeGF5eWZpLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLWhobzQ0NXc2ZHV4MC5odG1s"
+            ]
+        },
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtZHozeGQzbnlpYnVnLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLWEwbTM0ajFsM2FhOC5odG1s"
+            ]
+        }
+    ],
+    "downloads": [
+        {
+            "url": "https://1fichier.com/?rthy9kvybaurxvp412yu",
+            "type": "la"
+        },
+        {
+            "url": "https://1fichier.com/?34ng2jzwx8fecp4od4g6",
+            "type": "es"
+        },
+        {
+            "url": "https://1fichier.com/?pb4j7tijrkfjil0g8i3p",
+            "type": "en"
+        }
+    ]
+}

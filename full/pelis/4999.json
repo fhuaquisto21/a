@@ -1,0 +1,43 @@
+{
+    "url": "https://cuevana.pizza/pelicula/ode-to-joy",
+    "title": "Oda a Joy",
+    "duration": "1h 40m",
+    "year": "2019",
+    "genres": [
+        "Comedia"
+    ],
+    "actors": [
+        "Martin Freeman",
+        "Morena Baccarin",
+        "Jake Lacy",
+        "Melissa Rauch",
+        "Shannon Woodward",
+        "Ellis Rubin",
+        "Jane Curtin",
+        "Adam Shapiro",
+        "Jackie Seiden",
+        "Ravi Cabot-Conyers",
+        "Jason Altman",
+        "Alex Perez",
+        "Tyler Bourke"
+    ],
+    "description": "Charlie intenta no ser feliz porque, debido a una enfermedad, cuando siente alegría pierde el control sobre su cuerpo. Sin embargo, cuando la mujer de sus sueños se enamora de él, Charlie no sabe cómo evitar estar alegre.",
+    "cover": "https://cuevana.pizza/resize/###/storage/20269/hiyZTmK5WsT6lrVFfCoXFYslCnEjL90jAGxl9NVh.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtdWs5anVqcDVlYndsLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLWJ6MDVhM3lnMG1zeC5odG1s"
+            ]
+        },
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtOHp6azhvajdxbnY4Lmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLWVoaHZmNmJwOWE0aC5odG1s"
+            ]
+        }
+    ],
+    "downloads": []
+}

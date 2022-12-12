@@ -1,0 +1,52 @@
+{
+    "url": "https://cuevana.pizza/pelicula/el-mago-de-oz",
+    "title": "El mago de Oz",
+    "duration": "1h 43m",
+    "year": "1939",
+    "genres": [
+        "Aventura",
+        "Fantasia",
+        "Musical"
+    ],
+    "actors": [
+        "Judy Garland",
+        "Ray Bolger",
+        "Jack Haley",
+        "Bert Lahr",
+        "Margaret Hamilton",
+        "Frank Morgan",
+        "Clara Blandick",
+        "Charley Grapewin",
+        "Billie Burke",
+        "Pat Walshe",
+        "Terry",
+        "Adriana Caselotti",
+        "Harry Earles",
+        "Jerry Maren",
+        "Parnell St. Aubin",
+        "Billy Bletcher",
+        "Pinto Colvig",
+        "Charles Becker",
+        "Mitchell Lewis",
+        "Buster Brodie"
+    ],
+    "description": "La huérfana Dorothy Gale vive una vida sencilla en Kansas con su tía Emma Clara Blandick, su tío Henry y tres pintorescos peones: Hunk, Zeke y Hickory. Un día la severa vecina Miss Gulch es mordida por el perro de Dorothy, Toto. Miss Gulch se lo lleva, por orden del sheriff, a pesar de las apasionadas protestas de tía Emma y el tío Henry. Toto escapa y regresa junto a Dorothy, la cual se alegra momentáneamente, pero pronto se da cuenta de que Miss Gulch regresará. Decide llevarse a Toto y fugarse en busca de una vida mejor 'en algún lugar sobre el arco iris'.",
+    "cover": "https://cuevana.pizza/resize/###/storage/30186/J4nuHSXc8z72NIAa2Af3BgM1t6lwH1fL92EuqKng.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQteTVkbTg0NHpoMTFiLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLTVlZXRsODZvcWNubC5odG1s"
+            ]
+        },
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtYmp0eGF2ZWRsaXl0Lmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLXJ0MGZrYXZ2cm4waS5odG1s"
+            ]
+        }
+    ],
+    "downloads": []
+}

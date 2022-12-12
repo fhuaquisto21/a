@@ -1,0 +1,51 @@
+{
+    "url": "https://cuevana.pizza/pelicula/mr-holmes",
+    "title": "Mr. Holmes",
+    "duration": "1h 44m",
+    "year": "2015",
+    "genres": [
+        "Drama",
+        "Misterio"
+    ],
+    "actors": [
+        "Ian McKellen",
+        "Laura Linney",
+        "Milo Parker",
+        "Hiroyuki Sanada",
+        "Roger Allam",
+        "Frances de la Tour",
+        "Hattie Morahan",
+        "Phil Davis",
+        "Patrick Kennedy",
+        "John Sessions",
+        "Frances Barber",
+        "Charles Maddox",
+        "Takako Akashi",
+        "Zak Shukor",
+        "Michael Culkin",
+        "David Foxxe",
+        "Oliver Devoti",
+        "Mike Burnside",
+        "Nicholas Rowe",
+        "Sam Coulson"
+    ],
+    "description": "En 1947, Holmes vive retirado en una remota granja de Sussex con un ama de llaves y el hijo de ésta. Cumplidos los 93 años, su memoria y su capacidad intelectual empiezan a deteriorarse. Su rutinaria vida se limita al cuidado de su colmena, a la escritura de su diario y a la lucha contra su pérdida de facultades. De repente, se le presenta un caso desconocido hasta el momento.",
+    "cover": "https://cuevana.pizza/resize/###/storage/27247/m1LAUSoZocCqJDHeKgGdDUMa0h84XbjCynxePqvo.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtZm1tYzU0MnNxejk0Lmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLXBnZXduY3gxcWkwNS5odG1s"
+            ]
+        },
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtNW5pZ3ozeDgxbWttLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLXBjaTd0bTBweG5lYi5odG1s"
+            ]
+        }
+    ],
+    "downloads": []
+}

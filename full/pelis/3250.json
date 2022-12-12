@@ -1,0 +1,51 @@
+{
+    "url": "https://cuevana.pizza/pelicula/vivo-2",
+    "title": "Vivo",
+    "duration": "1h 39m",
+    "year": "2021",
+    "genres": [
+        "Comedia",
+        "Familia",
+        "Animacion"
+    ],
+    "actors": [
+        "Lin-Manuel Miranda",
+        "Ynairaly Simo",
+        "Zoe Saldana",
+        "Juan de Marcos González",
+        "Brian Tyree Henry",
+        "Gloria Estefan",
+        "Michael Rooker",
+        "Nicole Byer",
+        "Katie Lowes",
+        "Olivia Trujillo"
+    ],
+    "description": "Narra la vida de Vivo, un kinkajú («oso de la miel» de la selva tropical) dotado de un brillante talento para la música, que busca la forma de viajar desde La Habana hasta Miami para entregarle una canción al antiguo amor de su adorado dueño.",
+    "cover": "https://cuevana.pizza/resize/###/storage/9370/xKF0ttuRBShRaVP5izbCzAPLnInrB97AiILL0iL5.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtMjdtcGQ5dXR1bHVmLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLWVveTRsNTdqZ2J1dy5odG1s"
+            ]
+        },
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtY3AzN3hoZGs0MjQxLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLWZocHBoaGxsZGI0ci5odG1s"
+            ]
+        }
+    ],
+    "downloads": [
+        {
+            "url": "https://1fichier.com/?u1onvrxb3he0or42wrkr",
+            "type": "la"
+        },
+        {
+            "url": "https://1fichier.com/?m950hp97a5o0lu1xmlim",
+            "type": "en"
+        }
+    ]
+}

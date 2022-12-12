@@ -1,0 +1,55 @@
+{
+    "url": "https://cuevana.pizza/pelicula/la-pelicula-de-stitch",
+    "title": "La película de Stitch",
+    "duration": "1h 4m",
+    "year": "2003",
+    "genres": [
+        "Comedia",
+        "Aventura",
+        "Familia",
+        "Animacion"
+    ],
+    "actors": [
+        "Daveigh Chase",
+        "Chris Sanders",
+        "Tia Carrere",
+        "David Ogden Stiers",
+        "Kevin McDonald",
+        "Liliana Mumy",
+        "Jeff Bennett",
+        "Ving Rhames",
+        "Frank Welker",
+        "Dee Bradley Baker",
+        "Rob Paulsen",
+        "Corey Burton",
+        "Kevin Michael Richardson",
+        "Tress MacNeille",
+        "Kunewa Mook"
+    ],
+    "description": "Continuación de las divertidas aventuras del entrañable y travieso extraterrestre que cayó en la Tierra, transformando la vida de Lilo y toda su familia. Stitch, Peakley y Jumba ya forman parte de la familia, pero lo que Lilo y Stitch no saben es que Jumba se trajo de contrabando a la Tierra sus primeros 625... y ahora el malvado Capitán Gantu quiere que regresen. Dependerá de Lilo y Stitch evitarlo y salvar a su familia de alienígenas. (FILMAFFINITY)",
+    "cover": "https://cuevana.pizza/resize/###/storage/36836/DNoczzKwl0cTiG6Cb6E5qURJnzM8dcjTfEHsCRSL.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtaGh1YTBpazVmdnplLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLTBxdGtsdDhncGcyeC5odG1s"
+            ]
+        },
+        {
+            "type": "cas",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtbDlvaDZuOGZqdjJpLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLXZiODEwZHR4bHZ2Ny5odG1s"
+            ]
+        },
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtZ2UyYnl1aGo5dGF6Lmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLW5oMTVpM3pycW9hYy5odG1s"
+            ]
+        }
+    ],
+    "downloads": []
+}

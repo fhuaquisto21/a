@@ -1,0 +1,52 @@
+{
+    "url": "https://cuevana.pizza/pelicula/shrek",
+    "title": "Shrek",
+    "duration": "1h 30m",
+    "year": "2001",
+    "genres": [
+        "Comedia",
+        "Aventura",
+        "Fantasia",
+        "Animacion"
+    ],
+    "actors": [
+        "Mike Myers",
+        "Eddie Murphy",
+        "Cameron Diaz",
+        "John Lithgow",
+        "Vincent Cassel",
+        "Peter Dennis",
+        "Clive Pearse",
+        "Jim Cummings",
+        "Bobby Block",
+        "Chris Miller"
+    ],
+    "description": "Hace mucho, mucho tiempo, en una lejanísima ciénaga vivía un intratable ogro llamado Shrek. Pero de repente, un día, su absoluta soledad se ve interrumpida por una invasión de sorprendentes personajes de cuento. Hay ratoncitos ciegos en su comida, un enorme y malísimo lobo en su cama, tres cerditos sin hogar y otros muchos seres increíbles que han sido deportados de su reino por el malvado Lord Farquaad. Para conseguir salvar su terreno, y de paso a sí mismo, Shrek hace un pacto con Farquaad y emprende viaje para conseguir que la preciosa princesa Fiona sea la novia del Lord. En tan importante misión le acompañan un burro chistoso, dispuesto a hacer cualquier cosa por Shrek. Todo, menos estarse calladito. Rescatar a la princesa de una dragona enamoradiza que suelta fuego al respirar va a resultar una tontería comparado con lo que ocurre cuando el oscuro secreto que la joven guardaba es revelado.",
+    "cover": "https://cuevana.pizza/resize/###/storage/7473/J7nO4htxdsnNh9OyMCIT3kdZvVYFW1erAiRAF1zt.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtMjFxcjV6NjI1MWlwLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLWM5NG9wMWEydjdnbS5odG1s"
+            ]
+        },
+        {
+            "type": "cas",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtc3JtNTNuODZiYzZkLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLWpqZnU2MzMzMWN1Zy5odG1s"
+            ]
+        }
+    ],
+    "downloads": [
+        {
+            "url": "https://1fichier.com/?qe16ejopd3kz6qkmvf57",
+            "type": "la"
+        },
+        {
+            "url": "https://1fichier.com/?v325q9keu3dl6u0ulbbh",
+            "type": "es"
+        }
+    ]
+}

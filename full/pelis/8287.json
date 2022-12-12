@@ -1,0 +1,45 @@
+{
+    "url": "https://cuevana.pizza/pelicula/dune",
+    "title": "Dune",
+    "duration": "2h 17m",
+    "year": "1984",
+    "genres": [
+        "Accion",
+        "Ciencia Ficcion",
+        "Aventura"
+    ],
+    "actors": [
+        "Kyle MacLachlan",
+        "Francesca Annis",
+        "Patrick Stewart",
+        "Linda Hunt",
+        "José Ferrer",
+        "Leonardo Cimino",
+        "Freddie Jones",
+        "Brad Dourif",
+        "Richard Jordan",
+        "Virginia Madsen",
+        "Silvana Mangano",
+        "Everett McGill",
+        "Sting",
+        "Kenneth McMillan",
+        "Jack Nance",
+        "Siân Phillips",
+        "Jürgen Prochnow",
+        "Paul L. Smith",
+        "Dean Stockwell",
+        "Max von Sydow"
+    ],
+    "description": "Por orden imperial la familia Atreides deberá hacerse cargo de la explotación del desértico planeta de Arrakis, conocido también como Dune, el único planeta donde se encuentra 'la especia', una potente droga que, además, es necesaria para los vuelos espaciales.",
+    "cover": "https://cuevana.pizza/resize/###/storage/19711/WM4o2b0KfLTi7290nhQ7Rte6WhfPkSrKRI9aPh9R.jpg",
+    "players": [
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtYmc0Njd0aHpvcTRtLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLXg3NWhtMml0dGc2bC5odG1s"
+            ]
+        }
+    ],
+    "downloads": []
+}

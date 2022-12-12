@@ -1,0 +1,57 @@
+{
+    "url": "https://cuevana.pizza/pelicula/r-i-a-override",
+    "title": "R.I.A (Override)",
+    "duration": "1h 35m",
+    "year": "2021",
+    "genres": [
+        "Suspenso",
+        "Ciencia Ficcion",
+        "Aventura"
+    ],
+    "actors": [
+        "Luke Goss",
+        "Jess Impiazzi",
+        "Dean Cain",
+        "Charlie Clapham",
+        "Kimberly Wyatt"
+    ],
+    "description": "En 2040, una mujer humanoide A.I. es pirateada por su esposo y obligada a secuestrar al hijo del vicepresidente de Estados Unidos y ejecutarlo en la televisión en vivo, mientras el culpable busca venganza por la muerte de su propio hijo.",
+    "cover": "https://cuevana.pizza/resize/###/storage/30286/OGYTYLeK3vHxcMqmhNWg2OSGDMaNIUsgccbCC5F6.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtZ3lsaTZxMHJvMXgwLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLTUza25jdGdobWMzbS5odG1s"
+            ]
+        },
+        {
+            "type": "cas",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtazJvd2V3NHJnY25mLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLXY1Z3Zxam9xemFiOC5odG1s"
+            ]
+        },
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtZjdzb25sNjgwanNnLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLXlkcmQ5cDUzbTVkYy5odG1s"
+            ]
+        }
+    ],
+    "downloads": [
+        {
+            "url": "https://1fichier.com/?2wtrwgr266eqhtq5auel",
+            "type": "la"
+        },
+        {
+            "url": "https://1fichier.com/?boda2c4mntqo6k6p746a",
+            "type": "es"
+        },
+        {
+            "url": "https://1fichier.com/?kongltpt0okdwgsnzmxy",
+            "type": "en"
+        }
+    ]
+}

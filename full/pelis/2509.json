@@ -1,0 +1,62 @@
+{
+    "url": "https://cuevana.pizza/pelicula/la-casa-gucci",
+    "title": "La Casa Gucci",
+    "duration": "2h 38m",
+    "year": "2021",
+    "genres": [
+        "Drama",
+        "Suspenso",
+        "Crimen"
+    ],
+    "actors": [
+        "Lady Gaga",
+        "Adam Driver",
+        "Jared Leto",
+        "Jeremy Irons",
+        "Al Pacino",
+        "Salma Hayek",
+        "Camille Cottin",
+        "Jack Huston",
+        "Reeve Carney",
+        "Mădălina Diana Ghenea"
+    ],
+    "description": "Drama criminal en torno al asesinato en 1995 de Maurizio Gucci, nieto del fundador del imperio de la moda Gucci, que apareció asesinado por orden de su exmujer Patrizia Reggiani, conocida como la \"viuda negra de Italia\".",
+    "cover": "https://cuevana.pizza/resize/###/storage/14275/AhThHRCmSs4gDk0rRpzzQtRA1CuvXG6gHOrUjOjM.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtMTZ2YzNnYWxpNjN3Lmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLW5odGN5M2k0dWhpaC5odG1s"
+            ]
+        },
+        {
+            "type": "cas",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtNWF6Y2lhM3hnbGhlLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLTQwbGRlemR4eWRkdi5odG1s"
+            ]
+        },
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtcXM1dXRraHd2YXB4Lmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLXFpODNwMnRpcDJ1Zy5odG1s"
+            ]
+        }
+    ],
+    "downloads": [
+        {
+            "url": "https://1fichier.com/?tn7do1mrd1alpj8qvvk0",
+            "type": "la"
+        },
+        {
+            "url": "https://1fichier.com/?mfnacqjslmd2rytc40xg",
+            "type": "es"
+        },
+        {
+            "url": "https://1fichier.com/?7gso8kr9je0dhfhkrw0p",
+            "type": "en"
+        }
+    ]
+}

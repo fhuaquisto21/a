@@ -1,0 +1,56 @@
+{
+    "url": "https://cuevana.pizza/pelicula/a-descubierto",
+    "title": "A descubierto",
+    "duration": "1h 54m",
+    "year": "2021",
+    "genres": [
+        "Accion",
+        "Aventura",
+        "Fantasia"
+    ],
+    "actors": [
+        "Adam Fielding",
+        "Alexandra Szucs",
+        "Anthony Mackie",
+        "Bobby Lockwood"
+    ],
+    "description": "Un piloto de drones se une a un oficial androide para localizar un dispositivo que amenaza con acabar con la vida sobre el planeta. El dispositivo en cuestión se encuentra oculto en una zona altamente militarizada.",
+    "cover": "https://cuevana.pizza/resize/###/storage/5550/LdyHBoxKV55Hd2bD0JzHzOAEjE3tl0DwGgz4epJP.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtdG1wMGpqNXRycGo0Lmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLW1tNjNuMnR4ZzBqNi5odG1s"
+            ]
+        },
+        {
+            "type": "cas",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtZ2ZwZ3V6aHZ4ZzN6Lmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLTR5MmJqbTR0dmt5ai5odG1s"
+            ]
+        },
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtdzdmMWUwcWljZ2g0Lmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLXdhYWhvYWUzMW1vNy5odG1s"
+            ]
+        }
+    ],
+    "downloads": [
+        {
+            "url": "https://1fichier.com/?08iqxzvzu8cnowki8iqf",
+            "type": "la"
+        },
+        {
+            "url": "https://1fichier.com/?drikki1vj55pkefardar",
+            "type": "es"
+        },
+        {
+            "url": "https://1fichier.com/?w1e9rbfc546pb94310km",
+            "type": "en"
+        }
+    ]
+}

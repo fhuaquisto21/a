@@ -1,0 +1,56 @@
+{
+    "url": "https://cuevana.pizza/pelicula/misconduct",
+    "title": "Corrupción y poder",
+    "duration": "1h 46m",
+    "year": "2016",
+    "genres": [
+        "Drama",
+        "Misterio",
+        "Crimen"
+    ],
+    "actors": [
+        "Josh Duhamel",
+        "Anthony Hopkins",
+        "Al Pacino",
+        "Glen Powell",
+        "Alice Eve",
+        "Malin Åkerman",
+        "Lee Byung-hun",
+        "Julia Stiles",
+        "Marcus Lyle Brown",
+        "Leah McKendrick",
+        "Chris Marquette",
+        "Skye P. Marshall",
+        "Gregory Alan Williams",
+        "Jason Gibson",
+        "Nathan Moore",
+        "Julia Sandstrom",
+        "Sara Fletcher"
+    ],
+    "description": "Cuando un joven y ambicioso abogado acepta un caso contra un poderoso ejecutivo de una gran compañía farmacéutica, el joven letrado pronto se percata que está inmerso en un asunto mucho más complejo de lo que pensaba.",
+    "cover": "https://cuevana.pizza/resize/###/storage/28128/9qd8PZ3cK6XQkCPEn6FgXEei3s8S96hPpf8o6bEe.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQta21uMWVyNjE3ankyLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLTZ1cWY0OTRsNzU1eS5odG1s"
+            ]
+        },
+        {
+            "type": "cas",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtaTZieDluaWI2ZnRyLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLWFqZXg1MDUwZWl5aS5odG1s"
+            ]
+        },
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtOG1yaTQ0cm84YnBtLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLXY4a2FiM3BqYmZ0MC5odG1s"
+            ]
+        }
+    ],
+    "downloads": []
+}

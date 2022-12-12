@@ -1,0 +1,33 @@
+{
+    "url": "https://cuevana.pizza/pelicula/clownery",
+    "title": "Clownery",
+    "duration": "1h 20m",
+    "year": "2020",
+    "genres": [
+        "Terror"
+    ],
+    "actors": [
+        "Kateryna Korchynska",
+        "Serena P. Palmisano",
+        "Alex D'Antona",
+        "Mirko D'Antona",
+        "Joe Pansa",
+        "Pietro Sportelli",
+        "Roberto D'Antona",
+        "Ida Perrucci",
+        "Cristina Gravina",
+        "Arianna Valentino"
+    ],
+    "description": "Después de un terrible trauma en su cumpleaños, Emma decide no volver a celebrarlo. Pero cuando cumple 21 años, una amiga suya rompe el ritual con una fiesta sorpresa, ajena al despertar de los horrores, que desde hace años la aguardan en la oscuridad.",
+    "cover": "https://cuevana.pizza/resize/###/storage/55865/2vFV4mhlpYMl0CcLHjk2MIATRsJGiEsPEgJkiXcw.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtbjViZmY2ZWF3MGxiLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLXZsd3BsM2kyd3NrNS5odG1s"
+            ]
+        }
+    ],
+    "downloads": []
+}

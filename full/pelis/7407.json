@@ -1,0 +1,52 @@
+{
+    "url": "https://cuevana.pizza/pelicula/kill-your-friends",
+    "title": "Mata a tus amigos",
+    "duration": "1h 43m",
+    "year": "2015",
+    "genres": [
+        "Comedia",
+        "Crimen",
+        "Musical"
+    ],
+    "actors": [
+        "Nicholas Hoult",
+        "Craig Roberts",
+        "Georgia King",
+        "Tom Riley",
+        "Jim Piddock",
+        "Edward Hogg",
+        "James Corden",
+        "Joseph Mawle",
+        "Ed Skrein",
+        "Ella Smith",
+        "Moritz Bleibtreu",
+        "Rosanna Arquette",
+        "Al Weaver",
+        "Bronson Webb",
+        "Damien Molony",
+        "Alannah Olivia",
+        "Danielle Walters",
+        "Rosanna Hoult",
+        "Hugh Skinner",
+        "Dinita Gohil"
+    ],
+    "description": "Un cazatalentos en la búsqueda de su próximo éxito se vuelve loco tratando de encontrar a la próxima gran banda musical de pop británico.",
+    "cover": "https://cuevana.pizza/resize/###/storage/27090/5eP22bw9GDrF8VkUOMkXSzW5ndcAVfiMHwVg6NZv.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtZm8wbWx2MGpseGdsLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLWh4OHlzeHp4ODhzOC5odG1s"
+            ]
+        },
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtc2gzbGs4c2poOXZ3Lmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLXEyOHdzeTEyODBrOS5odG1s"
+            ]
+        }
+    ],
+    "downloads": []
+}

@@ -1,0 +1,39 @@
+{
+    "url": "https://cuevana.pizza/pelicula/beyond-white-space",
+    "title": "Beyond White Space",
+    "duration": "1h 40m",
+    "year": "2018",
+    "genres": [
+        "Suspenso",
+        "Ciencia Ficcion"
+    ],
+    "actors": [
+        "Holt McCallany",
+        "Zulay Henao",
+        "Dave Sheridan",
+        "James Devoti",
+        "Kodi Kitchen",
+        "Spencer Hill",
+        "Tiffany Brouwer",
+        "Ron Yuan"
+    ],
+    "description": "Un carguero espacial propiedad de una gran empresa prepara la última recolección de la temporada. Pero la aparición de una gigantesca criatura pone en peligro el viaje de vuelta a casa. Tras desarrollar los efectos visuales de innumerables películas como \"Donnie Darko\", \"Transcendence\" o \"Geostorm\", Ken Locsmandi se lanza a la dirección de largometrajes con esta cinta de acción y aventuras espaciales protagonizada por Holt McCallany (\"El club de la lucha\"), Zulay Henao (\"Fighting: Puños de asfalto\") y Dave Sheridan (\"Scary Movie\").",
+    "cover": "https://cuevana.pizza/resize/###/storage/25728/tJtbzQZez7dDY21qgvA04iamTDIkdOLEYLXiNup0.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtMWh2aWFqOTY4dHBzLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLWgwNzhqbjB0ZDdraS5odG1s"
+            ]
+        },
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtM3IwY2Jvb2Y2Z2hiLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLWFpZ2l3eGpuajhyaC5odG1s"
+            ]
+        }
+    ],
+    "downloads": []
+}

@@ -1,0 +1,62 @@
+{
+    "url": "https://cuevana.pizza/pelicula/fauces-de-la-noche",
+    "title": "Fauces de la noche",
+    "duration": "1h 47m",
+    "year": "2021",
+    "genres": [
+        "Accion",
+        "Suspenso",
+        "Terror"
+    ],
+    "actors": [
+        "Jorge Lendeborg Jr.",
+        "Debby Ryan",
+        "Lucy Fry",
+        "Raúl Castillo",
+        "Alfie Allen",
+        "Sydney Sweeney",
+        "Megan Fox",
+        "Alexander Ludwig",
+        "Bryan Batt",
+        "Marlene Forte"
+    ],
+    "description": "Un joven conductor recoge a dos mujeres misteriosas para una noche de fiesta. Pero cuando sus pasajeros revelan su verdadera naturaleza, debe luchar para mantenerse con vida.",
+    "cover": "https://cuevana.pizza/resize/###/storage/11483/EKmWQjIxIEv9new8DDargw2QPAIOTdrEoJKUWdSM.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtcWI1YWVocWFvemprLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLWxjamM0bHRraGVmci5odG1s"
+            ]
+        },
+        {
+            "type": "cas",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtcHhvcjAybHNtbXJ0Lmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLWVoOWNucTlhcm5ndC5odG1s"
+            ]
+        },
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtY21tMmxpeXduam40Lmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLTFkeDM2b2drOHV0bC5odG1s"
+            ]
+        }
+    ],
+    "downloads": [
+        {
+            "url": "https://1fichier.com/?gnc6z5dvsqtb5w69vxd3",
+            "type": "la"
+        },
+        {
+            "url": "https://1fichier.com/?wwmgzn91bkb5byn5dm64",
+            "type": "es"
+        },
+        {
+            "url": "https://1fichier.com/?3zofsw1767lx8q8ricka",
+            "type": "en"
+        }
+    ]
+}

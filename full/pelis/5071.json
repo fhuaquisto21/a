@@ -1,0 +1,62 @@
+{
+    "url": "https://cuevana.pizza/pelicula/la-mejor-defensa-es-un-ataque",
+    "title": "La mejor defensa es un ataque",
+    "duration": "1h 44m",
+    "year": "2019",
+    "genres": [
+        "Comedia",
+        "Drama",
+        "Misterio",
+        "Suspenso",
+        "Crimen",
+        "Deportes"
+    ],
+    "actors": [
+        "Jesse Eisenberg",
+        "Alessandro Nivola",
+        "Imogen Poots",
+        "Steve Terada",
+        "David Zellner",
+        "Phillip Andre Botello",
+        "Jason Burkey",
+        "Hauke Bahr",
+        "Dallas Edwards",
+        "Mike Brooks",
+        "C.J. Rush",
+        "Leland Orser",
+        "Josh Fadem",
+        "Davey Johnson",
+        "Katherine Martin",
+        "Cameron Murphy",
+        "Nicholas Hulstine",
+        "Lena Friedrich",
+        "Frederic Spitz",
+        "Louis Robert Thompson"
+    ],
+    "description": "Un hombre que es atacado mientras camina solo por la calle decide apuntarse en un dojo de karate, donde un peculiar y carismático maestro le enseña mucho más que a defenderse a sí mismo.",
+    "cover": "https://cuevana.pizza/resize/###/storage/18397/fIPYKSpvAUd7WlqturbB3PltzFdiL8fiiGyonbPI.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtdHdnZ3Q3N2NmMXE2Lmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLXVtZ3JkNDFrZjI4bi5odG1s"
+            ]
+        },
+        {
+            "type": "cas",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtY3VrN2JkMml4ZHFnLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLTBld3Zvdjh5dDZlcC5odG1s"
+            ]
+        },
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtb2libTA4ZXEzd2UxLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLWRxMDhqdjk0b3Z1bC5odG1s"
+            ]
+        }
+    ],
+    "downloads": []
+}

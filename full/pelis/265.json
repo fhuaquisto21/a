@@ -1,0 +1,57 @@
+{
+    "url": "https://cuevana.pizza/pelicula/medieval",
+    "title": "Medieval",
+    "duration": "2h 6m",
+    "year": "2022",
+    "genres": [
+        "Accion",
+        "Drama",
+        "Historia"
+    ],
+    "actors": [
+        "Ben Foster",
+        "Sophie Lowe",
+        "Michael Caine",
+        "Til Schweiger",
+        "Matthew Goode",
+        "Roland Møller",
+        "William Moseley",
+        "Karel Roden",
+        "Werner Daehn",
+        "Jan Budař",
+        "Marek Vašut",
+        "Ondřej Vetchý",
+        "Vinzenz Kiefer",
+        "Alistair Brammer",
+        "Magnus Samuelsson",
+        "Christopher Rygh",
+        "Guy Roberts",
+        "David Bowles",
+        "Jennifer Armour",
+        "Aneta Kernová"
+    ],
+    "description": "La historia del icono y señor de la guerra checo del siglo XIV, Jan Zizka, que derrotó a los ejércitos de la Orden Teutónica y el Sacro Imperio Romano Germánico.",
+    "cover": "https://cuevana.pizza/resize/###/storage/55470/YoYNmCPldY2aPfkRBHwY03oXYsOTCBFrOM4iyZh5.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtOTM0NDJ5cHJ4ZWRyLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLTBobW5wMmc3ajB4dy5odG1s"
+            ]
+        },
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtYmpodW5rcXppYzdrLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLTh2dmpnbndrY2dvNC5odG1s"
+            ]
+        }
+    ],
+    "downloads": [
+        {
+            "url": "https://1fichier.com/?22x38tqmegtl49uws3w6",
+            "type": "en"
+        }
+    ]
+}

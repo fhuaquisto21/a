@@ -1,0 +1,56 @@
+{
+    "url": "https://cuevana.pizza/pelicula/el-hobbit-un-viaje-inesperado",
+    "title": "El hobbit: Un viaje inesperado",
+    "duration": "2h 49m",
+    "year": "2012",
+    "genres": [
+        "Aventura",
+        "Fantasia",
+        "Familia"
+    ],
+    "actors": [
+        "Ian McKellen",
+        "Ken Stott",
+        "Martin Freeman",
+        "Richard Armitage"
+    ],
+    "description": "Precuela de la trilogía \"El Señor de los Anillos\", obra de J.R.R. Tolkien. En compañía del mago Gandalf y de trece enanos, el hobbit Bilbo Bolsón emprende un viaje a través del país de los elfos y los bosques de los trolls, desde las mazmorras de los orcos hasta la Montaña Solitaria, donde el dragón Smaug esconde el tesoro de los Enanos. Finalmente, en las profundidades de la Tierra, encuentra el Anillo Único, hipnótico objeto que será posteriormente causa de tantas sangrientas batallas en la Tierra Media.",
+    "cover": "https://cuevana.pizza/resize/###/storage/293/F08gcVwTz9svOaJXfy6FqmnZITZsvokJz1o9Tbal.png",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtdnhkYTAzMHF1YXZhLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLTdkZWE1dHR1dXp3cy5odG1s"
+            ]
+        },
+        {
+            "type": "cas",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtZTl4anRmbmIxa2x2Lmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLXo4dHU3MTViazNvby5odG1s"
+            ]
+        },
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtOGI1d3hzNXZrYXpxLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLWNkc25nYjNzODZ5Zy5odG1s"
+            ]
+        }
+    ],
+    "downloads": [
+        {
+            "url": "https://1fichier.com/?okzqx79qqocvqec1yutj",
+            "type": "la"
+        },
+        {
+            "url": "https://1fichier.com/?4wmic2mz38txdjb02nm5",
+            "type": "es"
+        },
+        {
+            "url": "https://1fichier.com/?brp2rob1ycekt4e3cfdg",
+            "type": "en"
+        }
+    ]
+}

@@ -1,0 +1,54 @@
+{
+    "url": "https://cuevana.pizza/pelicula/la-matanza-de-texas-4",
+    "title": "La matanza de Texas",
+    "duration": "1h 38m",
+    "year": "2003",
+    "genres": [
+        "Terror"
+    ],
+    "actors": [
+        "Jessica Biel",
+        "Jonathan Tucker",
+        "Andrew Bryniarski",
+        "Erica Leerhsen",
+        "Eric Balfour",
+        "Mike Vogel",
+        "R. Lee Ermey",
+        "David Dorfman",
+        "Lauren German",
+        "Heather Kafka",
+        "Terrence Evans",
+        "Marietta Marich",
+        "John Larroquette",
+        "Kathy Lamkin",
+        "Brad Leland",
+        "Mamie Meek",
+        "Harry Jay Knowles"
+    ],
+    "description": "Durante un viaje de Texas a México, un grupo de jóvenes recoge a una autoestopista ensangrentada que asegura que es la única superviviente de una masacre ocurrida la noche anterior en una casa cercana. Remake del clásico homónimo de Tobe Hooper (1974).",
+    "cover": "https://cuevana.pizza/resize/###/storage/41331/p6mZATxcBZU0kpxyUQa6uo9LJtwLanaccmnuE8gx.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQteTl6MXhkNWl6ZXRwLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLWttbmQ0cGJnZHZsaC5odG1s"
+            ]
+        },
+        {
+            "type": "cas",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtcHYybHNnaHptbTlkLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLW9qc245amE2YWNrdS5odG1s"
+            ]
+        },
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtejQxNWdjZ2hubnBlLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLW4zM3dkeDNvcnM4Yi5odG1s"
+            ]
+        }
+    ],
+    "downloads": []
+}

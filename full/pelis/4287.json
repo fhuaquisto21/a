@@ -1,0 +1,59 @@
+{
+    "url": "https://cuevana.pizza/pelicula/soul",
+    "title": "Soul",
+    "duration": "1h 47m",
+    "year": "2020",
+    "genres": [
+        "Ciencia Ficcion",
+        "Aventura",
+        "Fantasia",
+        "Familia",
+        "Animacion",
+        "Musical"
+    ],
+    "actors": [
+        "Jamie Foxx",
+        "Tina Fey",
+        "Daveed Diggs",
+        "Phylicia Rashad"
+    ],
+    "description": "La película presenta a Joe Gardner (Foxx), un maestro de música de secundaria cuya verdadera pasión es tocar jazz. Justo cuando Joe piensa que puede alcanzar su sueño, un acontecimiento inesperado lo envía a un lugar fantástico donde se ve obligado a pensar sobre lo que realmente significa tener alma. Ahí es donde se encuentra con 22 (Fey), un alma que no cree que la vida en la Tierra sea todo lo que parece ser.",
+    "cover": "https://cuevana.pizza/resize/###/storage/24183/ZHtWqzazLKSruUP11Zhr5CYgFOxGVQX9NkxhuSlf.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtOTN4NG04bWtjbGlzLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLTF2YXhud2Z2ano1NC5odG1s"
+            ]
+        },
+        {
+            "type": "cas",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtaWp3aml5MnBtYWFiLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLWhjc3dyOHM2bHN0ZS5odG1s"
+            ]
+        },
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtcGM2d25peXA2OWwzLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLWFpYmt0cm1zYnp3dy5odG1s"
+            ]
+        }
+    ],
+    "downloads": [
+        {
+            "url": "https://1fichier.com/?sgo9komdtyt0nb7lx0g4",
+            "type": "la"
+        },
+        {
+            "url": "https://1fichier.com/?c8r2uawlau750j6pjin9",
+            "type": "es"
+        },
+        {
+            "url": "https://1fichier.com/?x5hnz7aj9s3hy6nipheb",
+            "type": "en"
+        }
+    ]
+}

@@ -1,0 +1,52 @@
+{
+    "url": "https://cuevana.pizza/pelicula/man-up",
+    "title": "Amor sin cita previa",
+    "duration": "1h 28m",
+    "year": "2015",
+    "genres": [
+        "Comedia",
+        "Drama",
+        "Romance"
+    ],
+    "actors": [
+        "Simon Pegg",
+        "Lake Bell",
+        "Rory Kinnear",
+        "Ken Stott",
+        "Harriet Walter",
+        "Olivia Williams",
+        "Sharon Horgan",
+        "Phoebe Waller-Bridge",
+        "Robert Wilfort",
+        "Ophelia Lovibond",
+        "Paul Thornley",
+        "Keir Charles",
+        "Henry Lloyd-Hughes",
+        "James Reilly",
+        "Stephen Campbell Moore",
+        "Jack Whitam",
+        "Oliver Lansley",
+        "Steve Oram",
+        "Simona Brown",
+        "Maya Henson"
+    ],
+    "description": "Nancy es una mujer de 34 años que permanece soltera y está cansada de lo que le recomiendan sus amigas, por muy buenas intenciones que tengan. Cuando viaja a Londres para celebrar el aniversario de sus padres, Nancy se cruza con Jack, un divorciado de 40 años que cree que ella es su cita a ciegas de 24 años. A partir de aquí surgirá una caótica noche que ninguno de los dos olvidará.",
+    "cover": "https://cuevana.pizza/resize/###/storage/27659/Jc9e9SFArneTaNyLgI4ZWPg5iLkPW43tz1pyvuYN.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQteXI5dDByZ2M0ZXE1Lmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLTA2NGRnMnF4NjV1eC5odG1s"
+            ]
+        },
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtb2VvamE2NG03NGV6Lmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLWttN3d1bmRhbTFrYi5odG1s"
+            ]
+        }
+    ],
+    "downloads": []
+}

@@ -1,0 +1,47 @@
+{
+    "url": "https://cuevana.pizza/pelicula/mas-que-amigos",
+    "title": "Más que amigos",
+    "duration": "2h 9m",
+    "year": "2000",
+    "genres": [
+        "Comedia",
+        "Drama",
+        "Romance"
+    ],
+    "actors": [
+        "Ben Stiller",
+        "Edward Norton",
+        "Jenna Elfman",
+        "Anne Bancroft",
+        "Eli Wallach",
+        "Ron Rifkin",
+        "Miloš Forman",
+        "Holland Taylor",
+        "Lisa Edelstein",
+        "Rena Sofer",
+        "Brian George",
+        "Ken Leung",
+        "Marilyn Cooper",
+        "Juan Piedrahita",
+        "Bodhi Elfman"
+    ],
+    "description": "Grandes amigos desde niños, el rabino Jacob Schram y el padre Brian Finn son hombres dinámicos y populares que viven y trabajan en la zona Oeste de Nueva York. Cuando Anna Reilly , una vieja amiga de la infancia, regresa a la ciudad convertida en una bella ejecutiva, saltan chispas y comienza un triángulo inusual y complicado.",
+    "cover": "https://cuevana.pizza/resize/###/storage/28403/GRyCiGPjBb6rv7peLwOWTpTvya66E6wdFKRZANrQ.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtbnBjNGtwZTVpOXVyLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLXp6N3I5ZjVrdnoxNy5odG1s"
+            ]
+        },
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQteXJuc3F4NmxjbW1iLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLXJpb3A5bTRkeWZlaS5odG1s"
+            ]
+        }
+    ],
+    "downloads": []
+}

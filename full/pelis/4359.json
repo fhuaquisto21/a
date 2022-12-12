@@ -1,0 +1,66 @@
+{
+    "url": "https://cuevana.pizza/pelicula/mi-amigo-robot",
+    "title": "Robo",
+    "duration": "1h 30m",
+    "year": "2019",
+    "genres": [
+        "Drama",
+        "Ciencia Ficcion",
+        "Aventura",
+        "Familia"
+    ],
+    "actors": [
+        "Daniil Izotov",
+        "Vladimir Vdovichenkov",
+        "Mariya Mironova",
+        "Konstantin Lavronenko",
+        "Hrant Tokhatyan",
+        "Elizaveta Moryak",
+        "Kristina Orsa",
+        "Elena Borshcheva",
+        "Sergei Bezrukov",
+        "Alena Krymskaya",
+        "Daniil Chibrikov",
+        "Alexander Kuskov",
+        "Polya Polyakova"
+    ],
+    "description": "Robo es una increíble historia de amistad entre un niño y un robot. Donde se abre un mundo completamente nuevo para ambos. El niño aprende a ser fuerte y valiente, y el robot, inicialmente desprovisto de sentimientos, comienza a sentir empatía y a experimentar emociones humanas reales.",
+    "cover": "https://cuevana.pizza/resize/###/storage/21028/5Ie31yaXoBI8VZzyieZ0gZJkJBVR3zCS7wV2YsIr.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtdGV4c3FoNmZicDNyLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLWhzdndjMG1nZjU0YS5odG1s"
+            ]
+        },
+        {
+            "type": "cas",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtZGZhd3BiN2h0eHh6Lmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLXRqbDI1bnAyZGQxYy5odG1s"
+            ]
+        },
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtZDc4cnNyN3dzcnFuLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLWo3Zm02OG16eThubC5odG1s"
+            ]
+        }
+    ],
+    "downloads": [
+        {
+            "url": "https://1fichier.com/?c812jct3drmsew2qwo69#Synchronization+Service",
+            "type": "la"
+        },
+        {
+            "url": "https://1fichier.com/?22j15mmmc7o1r9dkfw25#Synchronization+Service",
+            "type": "es"
+        },
+        {
+            "url": "https://1fichier.com/?jnqp4ip3b4ywr73uz6vw#Synchronization+Service",
+            "type": "en"
+        }
+    ]
+}

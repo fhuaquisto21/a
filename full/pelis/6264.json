@@ -1,0 +1,56 @@
+{
+    "url": "https://cuevana.pizza/pelicula/the-man-who-invented-christmas",
+    "title": "El hombre que inventó la Navidad",
+    "duration": "1h 44m",
+    "year": "2017",
+    "genres": [
+        "Comedia",
+        "Drama",
+        "Biografia"
+    ],
+    "actors": [
+        "Christopher Plummer",
+        "Dan Stevens",
+        "Jonathan Pryce",
+        "Miriam Margolyes"
+    ],
+    "description": "\"Cuento de Navidad\" constituyó uno de los grandes éxitos de Charles Dickens en 1843; sin embargo, a pesar de su éxito, sus tres últimas obras constituyeron un rotundo fracaso. Todos sus editores acabaron rechazándole, por lo que él mismo se vio obligado a publicar su nueva obra para paliar así las dificultades económicas por las que estaba pasando. Esta historia se centra en cómo se creó la novela con la que Dickens dio auténtico sentido al espiritu de la navidad.",
+    "cover": "https://cuevana.pizza/resize/###/storage/25453/oyZHjdbm1XxjHgDF1keky1lMiDmzFN3qX7pttPY6.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtcHV1OWwzMTFieDRyLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLWZnOXhlZWM0cm9nei5odG1s"
+            ]
+        },
+        {
+            "type": "cas",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQta2Fnc21jYnJhYTB2Lmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLTg4OWl2bGR3Y3U2OC5odG1s"
+            ]
+        },
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtZ3JwYjB5aGtyMGF2Lmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLXJwbmtpYnNkZjYwZC5odG1s"
+            ]
+        }
+    ],
+    "downloads": [
+        {
+            "url": "https://1fichier.com/?3dka1i8952gwqndoubgk",
+            "type": "la"
+        },
+        {
+            "url": "https://1fichier.com/?d8cvtt9ym505ha0dmlon",
+            "type": "es"
+        },
+        {
+            "url": "https://1fichier.com/?xw14xm1cy1",
+            "type": "en"
+        }
+    ]
+}

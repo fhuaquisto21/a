@@ -1,0 +1,48 @@
+{
+    "url": "https://cuevana.pizza/pelicula/en-la-misma-ola",
+    "title": "En la misma ola",
+    "duration": "1h 39m",
+    "year": "2021",
+    "genres": [
+        "Drama",
+        "Romance"
+    ],
+    "actors": [
+        "Angelica Alleruzzo,",
+        "Christian Roberto",
+        "Corrado Invernizzi",
+        "Donatella Finocchiaro",
+        "Elvira Camarrone",
+        "Manuela Ventura",
+        "Sofia Migliara",
+        "Vincenzo Amato"
+    ],
+    "description": "Una aventura de verano bajo el sol siciliano se convierte en una desgarradora historia de amor que obliga a un niño y una niña a crecer demasiado rápido.",
+    "cover": "https://cuevana.pizza/resize/###/storage/6295/M6pRJ01NhbmXrP8AHvu28VNwm6eI7RpnWebFNEYe.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtODEzOHRiMjJza2VxLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLXhrYnk5NTZ1N2w1Ny5odG1s"
+            ]
+        },
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtNzFwYm9leXd3ZHJtLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLXVneWVpNmtyOXdncy5odG1s"
+            ]
+        }
+    ],
+    "downloads": [
+        {
+            "url": "https://1fichier.com/?frbh0zctrh8qvjm8qzdu",
+            "type": "la"
+        },
+        {
+            "url": "https://1fichier.com/?lodr8d6lldmi1i0bqgzc",
+            "type": "en"
+        }
+    ]
+}

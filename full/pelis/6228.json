@@ -1,0 +1,54 @@
+{
+    "url": "https://cuevana.pizza/pelicula/the-nanny",
+    "title": "The Nanny",
+    "duration": "1h 20m",
+    "year": "2018",
+    "genres": [
+        "Ciencia Ficcion"
+    ],
+    "actors": [
+        "Jaime Murray",
+        "Nicholas Brendon",
+        "Nick Gomez",
+        "Schuyler Fisk"
+    ],
+    "description": "Los jóvenes Noa y Michael son puestos al cuidado de su nueva niñera, Leonor, quien sospecha que Noa es un ser sobrenatural malicioso. Despedida por quienes la rodean, Noa trabaja para descubrir la verdadera identidad de Leonor, pero pronto se encuentra con mucho más de lo que esperaba.",
+    "cover": "https://cuevana.pizza/resize/###/storage/25372/wnRL3eFFfaGjCn8vBRUouTQkl3W2yg7fshklOisz.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtMHdjeXpzOWZyZ3F6Lmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLWpyYm5vZTNlYjVjei5odG1s"
+            ]
+        },
+        {
+            "type": "cas",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtdGc1dDNsbDJqMGJ5Lmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLWltZ3c1dzVjc3ZkNC5odG1s"
+            ]
+        },
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtemo5dmt3M2UwNTFvLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLWZpa2o0cjl2bXBody5odG1s"
+            ]
+        }
+    ],
+    "downloads": [
+        {
+            "url": "https://1fichier.com/?h79y0vju45yvtg3u4239",
+            "type": "la"
+        },
+        {
+            "url": "https://1fichier.com/?5vec570rldqbcpz39hbq",
+            "type": "es"
+        },
+        {
+            "url": "https://1fichier.com/?aql7mir0yvxmibticbfs",
+            "type": "en"
+        }
+    ]
+}

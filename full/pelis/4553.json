@@ -1,0 +1,47 @@
+{
+    "url": "https://cuevana.pizza/pelicula/host",
+    "title": "Host",
+    "duration": "56m",
+    "year": "2020",
+    "genres": [
+        "Terror"
+    ],
+    "actors": [
+        "Haley Bishop",
+        "Jemma Moore",
+        "Emma Louise Webb",
+        "Radina Drandova",
+        "Caroline Ward",
+        "Edward Linard",
+        "Seylan Baxter",
+        "Alan Emrys"
+    ],
+    "description": "Seis amigos contratan a un médium para que realice una sesión de espiritismo a través de Zoom durante el encierro, pero obtienen mucho más de lo que esperaban, ya que las cosas salen mal rápidamente. Cuando un espíritu maligno comienza a invadir sus hogares, comienzan a darse cuenta de que tal vez no sobrevivan a la noche.",
+    "cover": "https://cuevana.pizza/resize/###/storage/4716/N4qIXtPdj94XIeOBKXxDqnnc5OFl8PQeVAorw3UI.jpg",
+    "players": [
+        {
+            "type": "cas",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtbGUxZnYxZTQwMWw0Lmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLTEzeDhpNWZsODN2dC5odG1s"
+            ]
+        },
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtdnpmdnV2ejB6Y3RuLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLWt1d2N4c2NiejB1bS5odG1s"
+            ]
+        }
+    ],
+    "downloads": [
+        {
+            "url": "https://1fichier.com/?kvti270eqzziooacx39b#Synchronization+Service",
+            "type": "es"
+        },
+        {
+            "url": "https://1fichier.com/?mfbxoqqjhnaggxmgeemi#Synchronization+Service",
+            "type": "en"
+        }
+    ]
+}

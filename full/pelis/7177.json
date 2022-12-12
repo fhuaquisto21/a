@@ -1,0 +1,50 @@
+{
+    "url": "https://cuevana.pizza/pelicula/message-from-the-king",
+    "title": "Mensaje del Rey",
+    "duration": "1h 42m",
+    "year": "2016",
+    "genres": [
+        "Suspenso"
+    ],
+    "actors": [
+        "Chadwick Boseman",
+        "Luke Evans",
+        "Alfred Molina",
+        "Teresa Palmer",
+        "Natalie Martinez",
+        "Chris Mulkey",
+        "Drew Powell",
+        "Jonno Roberts",
+        "Dale Dickey",
+        "Jake Weary",
+        "James Jordan",
+        "Tom Felton",
+        "Arthur Darbinyan",
+        "Lucan Melkonian",
+        "Ava Kolker",
+        "Wade Williams",
+        "Tom Wright",
+        "Diego Josef",
+        "Roman Mitichyan",
+        "Max Daniels"
+    ],
+    "description": "Narra la historia de un tipo misterioso llamado Jacob King, que llega a Los Ángeles para investigar la desaparición de su hermana y se topa con una macabra trama criminal en los submundos de la ciudad.",
+    "cover": "https://cuevana.pizza/resize/###/storage/27009/DJqFSyImLpXNyNKf40mama4ComFWmrMd4nGqoniH.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtcTd1dmswZGZ0NTV4Lmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLXBuNXNoeGh2dThwYi5odG1s"
+            ]
+        },
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtZmJhYXBuNWdzb25iLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLXZrNDR4ZTV0eXltZS5odG1s"
+            ]
+        }
+    ],
+    "downloads": []
+}

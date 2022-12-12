@@ -1,0 +1,72 @@
+{
+    "url": "https://cuevana.pizza/pelicula/okja",
+    "title": "Okja",
+    "duration": "2h 0m",
+    "year": "2017",
+    "genres": [
+        "Drama",
+        "Ciencia Ficcion",
+        "Aventura"
+    ],
+    "actors": [
+        "Ahn Seo-hyun",
+        "Tilda Swinton",
+        "Paul Dano",
+        "Jake Gyllenhaal",
+        "Lily Collins",
+        "Steven Yeun",
+        "Devon Bostick",
+        "Byun Hee-bong",
+        "Yoon Je-moon",
+        "Shirley Henderson",
+        "Daniel Henshall",
+        "Giancarlo Esposito",
+        "Choi Woo-shik",
+        "Sheena Kamal",
+        "Michael Mitton",
+        "Colm Hill",
+        "Kathryn Kirkpatrick",
+        "Jose Carias",
+        "Nancy Amelia Bell",
+        "Lee Jung-eun"
+    ],
+    "description": "Narra la historia de Mija, una joven coreana de viaje en Estados Unidos que debe arriesgarlo todo para detener a una poderosa multinacional que pretende secuestrar a su mejor amigo: un animal gigantesco llamado ‘Okja’",
+    "cover": "https://cuevana.pizza/resize/###/storage/25530/jkSYveTuAOMCTxIe9nNpTcuwAm6vhHGkR4jkmH9P.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtYmhrbjVtbzU5bDg2Lmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLWdxZTFtZnhiZ3Mxai5odG1s"
+            ]
+        },
+        {
+            "type": "cas",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtcnppMmQ0MzJtemtpLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLWd1eXk4OGNjMzRlMi5odG1s"
+            ]
+        },
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtenF6Z2s0d2hpbjNiLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLWc4ZHpsd3RmeWRnei5odG1s"
+            ]
+        }
+    ],
+    "downloads": [
+        {
+            "url": "https://1fichier.com/?zppzdn2z8pi47dkpwfph",
+            "type": "la"
+        },
+        {
+            "url": "https://1fichier.com/?flot4ol0xtes69bcibz1",
+            "type": "es"
+        },
+        {
+            "url": "https://1fichier.com/?vysqr4b6ytpyrum2mi3m",
+            "type": "en"
+        }
+    ]
+}

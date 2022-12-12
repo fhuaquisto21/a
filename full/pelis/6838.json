@@ -1,0 +1,56 @@
+{
+    "url": "https://cuevana.pizza/pelicula/el-planeta-de-los-simios-la-guerra",
+    "title": "La guerra del planeta de los simios",
+    "duration": "2h 20m",
+    "year": "2017",
+    "genres": [
+        "Accion",
+        "Drama",
+        "Aventura"
+    ],
+    "actors": [
+        "Andy Serkis",
+        "Karin Konoval",
+        "Steve Zahn",
+        "Woody Harrelson"
+    ],
+    "description": "César y sus monos son forzados a encarar un conflicto mortal contra un ejército de humanos liderado por un brutal coronel. Después de sufrir pérdidas enormes, César lucha con sus instintos más oscuros en una búsqueda por vengar a su especie. Cuando finalmente se encuentren, Cesar y el Coronel protagonizarán una batalla que pondrá en juego el futuro de ambas especies y el del mismo planeta. Tercera película de la nueva saga de El Planeta de los Simios.",
+    "cover": "https://cuevana.pizza/resize/###/storage/15901/VwfjCQuMMoc40gJxRvDlHl2AdFSeoYpPVX8Sccul.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtcTU1Zng4ZXVzczVkLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLTh1dTk2MzluYW1qaS5odG1s"
+            ]
+        },
+        {
+            "type": "cas",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtYXR4aG1vZXUwZDRoLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLTh0M2MyYWo4NjZ1dC5odG1s"
+            ]
+        },
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtMWtuNXU1a2VydzY3Lmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLWJpZGxnNGozeG5paC5odG1s"
+            ]
+        }
+    ],
+    "downloads": [
+        {
+            "url": "https://1fichier.com/?aqmxh5yd1b61nzdejf6y",
+            "type": "la"
+        },
+        {
+            "url": "https://1fichier.com/?2e8q2o2amei7wozpg2xp",
+            "type": "es"
+        },
+        {
+            "url": "https://1fichier.com/?ud89tuu9l514hjjobz3q",
+            "type": "en"
+        }
+    ]
+}

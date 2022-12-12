@@ -1,0 +1,59 @@
+{
+    "url": "https://cuevana.pizza/pelicula/the-jack-in-the-box",
+    "title": "The Jack in the Box",
+    "duration": "1h 27m",
+    "year": "2020",
+    "genres": [
+        "Terror"
+    ],
+    "actors": [
+        "Ethan Taylor",
+        "Robert Nairne",
+        "Lucy-Jane Quinlan",
+        "Philip Ridout",
+        "Darrie Gardner",
+        "Stacey Lynn Crowe",
+        "Vinnie Clarke",
+        "Charles Abomeli",
+        "Tom Carter"
+    ],
+    "description": "Cuando un Jack-in-the-box antiguo es desenterrado y abierto, sus nuevos dueños pronto tienen motivos para creer que la espeluznante muñeca de payaso tiene vida propia.",
+    "cover": "https://cuevana.pizza/resize/###/storage/19186/JnqtdNAmdhP8gORflwCcFEIAfQc9eBHCpIEqjbhF.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtbWRnaHBzNWtlem9wLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLWtreTYwemt0cDdpZy5odG1s"
+            ]
+        },
+        {
+            "type": "cas",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtMGdxcGRkaWd0bXdqLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLWNhanhkcXpsMWd4ai5odG1s"
+            ]
+        },
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtMXc5d3hhazdhbmZ0Lmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLWdkNXdtNHQwc3k2cS5odG1s"
+            ]
+        }
+    ],
+    "downloads": [
+        {
+            "url": "https://1fichier.com/?m7mu1cgqhbknmwa374hr",
+            "type": "la"
+        },
+        {
+            "url": "https://1fichier.com/?b66vvynvn8j0ucs66cwh",
+            "type": "es"
+        },
+        {
+            "url": "https://1fichier.com/?ljns0v3so0n9j16x6a5u",
+            "type": "en"
+        }
+    ]
+}

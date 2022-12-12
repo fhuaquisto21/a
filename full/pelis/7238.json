@@ -1,0 +1,38 @@
+{
+    "url": "https://cuevana.pizza/pelicula/isolation",
+    "title": "Isolation",
+    "duration": "1h 26m",
+    "year": "2015",
+    "genres": [
+        "Accion",
+        "Suspenso"
+    ],
+    "actors": [
+        "Dominic Purcell",
+        "Luke Mably",
+        "Marie Avgeropoulos",
+        "Chelsea Edmundson",
+        "Claudia Church",
+        "Tricia Helfer",
+        "Stephen Lang"
+    ],
+    "description": "Inspirada en hechos reales de una pareja que estaba de vacaciones en una isla remota de las Bahamas que son cazados por un grupo de piratas modernos.",
+    "cover": "https://cuevana.pizza/resize/###/storage/22281/fVh3fEgjN9xVlCEq6xWmJ2YpQwVNs61jyOXkipUK.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtcmFnNjRwMHcyZmNiLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLWdrd2UwYXN3NWhoOC5odG1s"
+            ]
+        },
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtZ3cyajBrenRkenJ4Lmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLTZucHViZGtoemhlOC5odG1s"
+            ]
+        }
+    ],
+    "downloads": []
+}

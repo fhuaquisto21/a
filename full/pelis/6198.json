@@ -1,0 +1,40 @@
+{
+    "url": "https://cuevana.pizza/pelicula/lake-placid-legacy",
+    "title": "Mandíbulas 6: El legado",
+    "duration": "1h 30m",
+    "year": "2018",
+    "genres": [
+        "Terror"
+    ],
+    "actors": [
+        "Kat Barrell",
+        "Tim Rozon",
+        "Luke Newton",
+        "Craig Stein",
+        "Greg Kriek",
+        "Joe Pantoliano",
+        "Sai Bennett",
+        "Maxim Baldry",
+        "Alisha Bailey",
+        "Gavin Lee Gomes"
+    ],
+    "description": "Ambientada varios años después de la película original, \"Legacy\" presenta a un grupo de jóvenes exploradores que quieren revelar los secretos de un área que no sale en los mapas y está protegida por una valla electrificada. Sin embargo, cuando llegan al centro del lago descubren una isla en la que vive un depredador ansioso por devorar a aquellos que han ignorado las advertencias.",
+    "cover": "https://cuevana.pizza/resize/###/storage/23655/MB6zaf7DxkpWASB1WU868f6ftywlTxojMN3t9UcH.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtdDUzdjNoaTZueHg2Lmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLWd0MWowa3dtaTFvNi5odG1s"
+            ]
+        },
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtcGptZmM0YXpnem43Lmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLWY2aWZ2NWx2bGlvZi5odG1s"
+            ]
+        }
+    ],
+    "downloads": []
+}

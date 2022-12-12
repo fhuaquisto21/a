@@ -1,0 +1,50 @@
+{
+    "url": "https://cuevana.pizza/pelicula/el-nino-que-domo-el-viento",
+    "title": "El niño que domó el viento",
+    "duration": "1h 53m",
+    "year": "2019",
+    "genres": [
+        "Drama"
+    ],
+    "actors": [
+        "Maxwell Simba",
+        "Chiwetel Ejiofor",
+        "Aïssa Maïga",
+        "Lily Banda",
+        "Joseph Marcell",
+        "Lemogang Tsipa",
+        "Philbert Falakeza",
+        "Noma Dumezweni",
+        "Khalani Makunje",
+        "Robert Agengo",
+        "Felix Lemburgo",
+        "Raymond Ofula",
+        "Rophium Banda",
+        "Kelvin Maxwell Ngoma",
+        "Edwin Chonde",
+        "Fiskan Makawa",
+        "Beatus Ble Msamange",
+        "Trevor Dominic",
+        "Truth Dominic",
+        "Rashid Tambala"
+    ],
+    "description": "Un chico de la República de Malaui decide ayudar a las personas de su pueblo construyendo una turbina después de leer un libro en el que se explican los pasos para su creación. Película basada en el libro homónimo de William Kamkwamba y Bryan Mealer",
+    "cover": "https://cuevana.pizza/resize/###/storage/21072/JCqmkAdUzSk2gvLdbTjWBYcXEJmItxXKNNr3l2Vf.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtZHFhenA2bTFvNzVsLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLW4wbGw4YzZoenZ0NS5odG1s"
+            ]
+        },
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtNGRyaTA2bmYxZ3hmLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLWt2NjBpenQ5aGt0eC5odG1s"
+            ]
+        }
+    ],
+    "downloads": []
+}

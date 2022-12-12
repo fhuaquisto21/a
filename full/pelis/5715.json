@@ -1,0 +1,44 @@
+{
+    "url": "https://cuevana.pizza/pelicula/hot-dog",
+    "title": "Hot Dog",
+    "duration": "1h 40m",
+    "year": "2018",
+    "genres": [
+        "Accion",
+        "Comedia"
+    ],
+    "actors": [
+        "Til Schweiger",
+        "Matthias Schweighöfer",
+        "Anne Schäfer",
+        "Lisa Tomaschewsky",
+        "Joachim Paul Assböck",
+        "Ilka Bessin",
+        "Viktor Bleischwitz",
+        "David Brückner",
+        "Simson Bubbel",
+        "Blerim Destani",
+        "Lui Eckhardt",
+        "Thomas Fehlen",
+        "Heino Ferch",
+        "Samuel Finzi",
+        "Leigh Gill",
+        "André Hennicke",
+        "Jan Karras",
+        "Ramona Kunze-Libnow",
+        "Heiko Lochmann",
+        "Roman Lochmann"
+    ],
+    "description": "Luke y Theo son dos agentes de la GSG10 (cuerpo de élite alemán): el primero, un tipo duro y listo y, el segundo, un currante incansable con una extraña memoria fotográfica. Cuando la hija del embajador Moldavo es secuestrada, los dos tienen que unir fuerzas, y descubren que lo sucedido es solo la punta del iceberg de una peligrosa trama... Un cerebro, dos policías.",
+    "cover": "https://cuevana.pizza/resize/###/storage/25718/U2m5Ly19kcBnOIt9ETxMyxAP82vbz5SRYn2DPJoj.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtMGRqMzVsc2t3ZGUyLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLXI5ODVrdWd5eGV0aC5odG1s"
+            ]
+        }
+    ],
+    "downloads": []
+}

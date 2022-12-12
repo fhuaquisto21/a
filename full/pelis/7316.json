@@ -1,0 +1,72 @@
+{
+    "url": "https://cuevana.pizza/pelicula/everest",
+    "title": "Everest",
+    "duration": "2h 1m",
+    "year": "2015",
+    "genres": [
+        "Accion",
+        "Drama",
+        "Aventura"
+    ],
+    "actors": [
+        "Jason Clarke",
+        "Josh Brolin",
+        "Jake Gyllenhaal",
+        "John Hawkes",
+        "Sam Worthington",
+        "Emily Watson",
+        "Martin Henderson",
+        "Michael Kelly",
+        "Keira Knightley",
+        "Robin Wright",
+        "Thomas M. Wright",
+        "Clive Standen",
+        "Naoko Mori",
+        "Mia Goth",
+        "Elizabeth Debicki",
+        "Tom Goodman-Hill",
+        "Vanessa Kirby",
+        "Mark Derwin",
+        "Ingvar E. Sigurðsson",
+        "Ang Phula Sherpa"
+    ],
+    "description": "Inspirada en los hechos que tuvieron lugar durante un intento por alcanzar el pico más alto del mundo, narra las peripecias de dos expediciones que se enfrentan a la peor tormenta de nieve conocida. En un desesperado esfuerzo por sobrevivir, el temple de los alpinistas se ve puesto a prueba al tener que enfrentarse a la furia desatada de los elementos y a obstáculos casi insuperables.",
+    "cover": "https://cuevana.pizza/resize/###/storage/27321/kFROjMNvTjLdh1HWD0rwnCUZTSi7UJAWsDEmLz1z.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtd3FtY21yZGlneW4yLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLXVseTBtMGIxM214cC5odG1s"
+            ]
+        },
+        {
+            "type": "cas",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQta3hqcTNiMGY1c2U2Lmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLXF5a2lhdGxyZ2Nwcy5odG1s"
+            ]
+        },
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQteTVwdXY0cHNyNjNkLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLXRsMnBobnVxYWZlZi5odG1s"
+            ]
+        }
+    ],
+    "downloads": [
+        {
+            "url": "https://1fichier.com/?khqc92do1f7txh21llki",
+            "type": "la"
+        },
+        {
+            "url": "https://1fichier.com/?ukd3y06246s5lzq5umez",
+            "type": "es"
+        },
+        {
+            "url": "https://1fichier.com/?ozolml73of36wrnu74ec",
+            "type": "en"
+        }
+    ]
+}

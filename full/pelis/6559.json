@@ -1,0 +1,59 @@
+{
+    "url": "https://cuevana.pizza/pelicula/hey-arnold-una-peli-en-la-jungla",
+    "title": "¡Hey Arnold! Una peli en la jungla",
+    "duration": "1h 15m",
+    "year": "2017",
+    "genres": [
+        "Comedia",
+        "Aventura",
+        "Animacion"
+    ],
+    "actors": [
+        "Mason Vale Cotton",
+        "Benjamin Flores Jr.",
+        "Francesca Marie Smith",
+        "Anndi McAfee",
+        "Carlos Alazraqui",
+        "Alfred Molina",
+        "Justin Shenkarow",
+        "Antoinette Stella",
+        "Laya DeLeon Hayes",
+        "Jamil Walker Smith",
+        "Nika Futterman",
+        "Olivia Hack",
+        "Lane Toran",
+        "Dan Butler",
+        "Dan Castellaneta",
+        "Tress MacNeille",
+        "Maurice LaMarche",
+        "Dom Irrera",
+        "Kath Soucie",
+        "Danielle Judovits"
+    ],
+    "description": "Segunda película de televisión animada estadounidense de dos horas dividida en dos partes. ¡Basado en Hey Arnold de Craig Bartlett! Serie de TV, servirá como continuación del final de la serie en la que Arnold encontró el diario de su padre y leyó sobre la vida de sus padres científicos, incluyendo su primer encuentro, nacimiento y un mapa que muestra la ruta que tomaron hacia San Lorenzo. antes de que desaparecieran.",
+    "cover": "https://cuevana.pizza/resize/###/storage/27443/MeURlNCuAfUwniz7Uppsbja88pMYUZAztIk5md4g.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtd2d4eXV6enoxZDE2Lmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLTUycnpvdTByaGR6by5odG1s"
+            ]
+        },
+        {
+            "type": "cas",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtd3h2a2VwN3lxajAwLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLXpuaWJpemxreXZnei5odG1s"
+            ]
+        },
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtMGhmMGptdm1uc3NzLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLXBjOWt2MDhiNjFqdC5odG1s"
+            ]
+        }
+    ],
+    "downloads": []
+}

@@ -1,0 +1,50 @@
+{
+    "url": "https://cuevana.pizza/pelicula/deadwood-the-movie",
+    "title": "Deadwood: La película",
+    "duration": "1h 50m",
+    "year": "2019",
+    "genres": [
+        "Occidental"
+    ],
+    "actors": [
+        "Timothy Olyphant",
+        "Ian McShane",
+        "Molly Parker",
+        "Paula Malcomson",
+        "W. Earl Brown",
+        "Dayton Callie",
+        "Kim Dickens",
+        "Brad Dourif",
+        "Anna Gunn",
+        "John Hawkes",
+        "Leon Rippy",
+        "William Sanderson",
+        "Robin Weigert",
+        "Brent Sexton",
+        "Sean Bridgers",
+        "Geri Jewell",
+        "Jeffrey Jones",
+        "Franklyn Ajaye",
+        "Keone Young",
+        "Peter Jason"
+    ],
+    "description": "Ubicada argumentalmente 10 años después del final de la tercera temporada de la serie \"Deadwood\", que finalizó su emisión en 2006, las rivalidades pasadas se reinician, las alianzas se ponen a prueba y las viejas heridas se reabren, ya que todos se quedan para navegar por los cambios inevitables que la modernidad y el tiempo han provocado.",
+    "cover": "https://cuevana.pizza/resize/###/storage/18526/7mmy8XgHHlhGqJvN7m53587gq21pZz49yDA0Qr0I.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtdGN2aDlkcW13dDJtLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLTl1ZmU5dmVvMDR3ZC5odG1s"
+            ]
+        },
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtcmxtdGgzaTBtYjA3Lmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLWdpMHUxcTh0azgzMy5odG1s"
+            ]
+        }
+    ],
+    "downloads": []
+}

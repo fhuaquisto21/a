@@ -1,0 +1,52 @@
+{
+    "url": "https://cuevana.pizza/pelicula/hacia-rutas-salvajes",
+    "title": "Hacia rutas salvajes",
+    "duration": "2h 20m",
+    "year": "2007",
+    "genres": [
+        "Drama",
+        "Aventura",
+        "Biografia"
+    ],
+    "actors": [
+        "Emile Hirsch",
+        "Marcia Gay Harden",
+        "William Hurt",
+        "Jena Malone",
+        "Brian H. Dierker",
+        "Catherine Keener",
+        "Vince Vaughn",
+        "Kristen Stewart",
+        "Hal Holbrook",
+        "Thure Lindhardt",
+        "Signe Egholm Olsen",
+        "Jim Gallien",
+        "James J. O'Neill",
+        "Malinda McCollum",
+        "Paul Knauls",
+        "Zach Galifianakis",
+        "Craig Mutsch",
+        "Jim Beidler",
+        "John Decker",
+        "John Hofer"
+    ],
+    "description": "A principios de los años noventa, el joven e idealista Christopher McCandless adopta el nombre de Alexander Supertramp, deja sus posesiones y sus ahorros a la beneficencia y abandona el mundo civilizado con rumbo a la salvaje Alaska para entrar en contacto con la Naturaleza y descubrir el verdadero sentido de la vida. Adaptación del best-seller de Jon Krakauer, basado en las notas del diario de McCandless.",
+    "cover": "https://cuevana.pizza/resize/###/storage/28830/ruW11NpFlNQykqRY4aX7pRD9E7ABdyPRurQeS1CD.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtMDk1dTVocTAya3c1Lmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLXh1ZTlxOTNrNTV2eC5odG1s"
+            ]
+        },
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtdTdxenEyb3Rja2E2Lmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLTNhZnMybGM0dWg0ZS5odG1s"
+            ]
+        }
+    ],
+    "downloads": []
+}

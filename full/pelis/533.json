@@ -1,0 +1,58 @@
+{
+    "url": "https://cuevana.pizza/pelicula/festival-de-trovadores",
+    "title": "Festival de trovadores",
+    "duration": "1h 42m",
+    "year": "2022",
+    "genres": [
+        "Drama"
+    ],
+    "actors": [
+        "Kıvanç Tatlıtuğ",
+        "Settar Tanrıöğen",
+        "Laçin Ceylan",
+        "Burcu Cavrar",
+        "Çetin Sarıkartal",
+        "Erkan Bektaş",
+        "Pınar Göktaş",
+        "Şirin Ergüven Hamşioğlu"
+    ],
+    "description": "El inesperado reencuentro de un músico itinerante con su hijo reabre viejas heridas mientras ambos emprenden un largo viaje hacia un festival de trovadores.",
+    "cover": "https://cuevana.pizza/resize/###/storage/50150/IkhK8jZmaWxGMEz4bYTKZLNmko5JOajUR0czjeZo.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtbmk3YXI2cXY5aGtkLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLWh2Z3E5a3J6ZGZzei5odG1s"
+            ]
+        },
+        {
+            "type": "cas",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtdmk3NXA4bmgxZ2R1Lmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLTU2azI3MngzZTNoeC5odG1s"
+            ]
+        },
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtOG9jeTkycjVjeHphLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLTEzb202MDlnNDV1YS5odG1s"
+            ]
+        }
+    ],
+    "downloads": [
+        {
+            "url": "https://1fichier.com/?w0vh1p6csat99dpv2n33",
+            "type": "la"
+        },
+        {
+            "url": "https://1fichier.com/?mgkcyujcd6mey6qdtm9l",
+            "type": "es"
+        },
+        {
+            "url": "https://1fichier.com/?y918ct6pn7u2vfysfyz8",
+            "type": "en"
+        }
+    ]
+}

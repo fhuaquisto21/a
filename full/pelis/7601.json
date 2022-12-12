@@ -1,0 +1,44 @@
+{
+    "url": "https://cuevana.pizza/pelicula/tammy",
+    "title": "Tammy",
+    "duration": "1h 33m",
+    "year": "2014",
+    "genres": [
+        "Comedia",
+        "Romance"
+    ],
+    "actors": [
+        "Allison Janney",
+        "Kathy Bates",
+        "Melissa McCarthy",
+        "Susan Sarandon"
+    ],
+    "description": "Gira en torno a una mujer que, tras ser despedida y pillar a su marido con otra, decide hacer aquello que hacen los norteamericanos cuando no tienen nada que hacer, salir a la carretera sin rumbo definido con el fin de autodescubrirse en un viaje para el que tendrá la compañía de su alcohólica, malhablada y diabética abuela.",
+    "cover": "https://cuevana.pizza/resize/###/storage/15963/EI2Zgwia7nmGimQ2CJs51Ci2RtfiBNJ526xtmxaa.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtZGZ4ZWpmOHF5MXhjLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLTkzbXJpOGJmeHIwbi5odG1s"
+            ]
+        },
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtbmxmejYxczF5ZWNkLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLXF6cDNvYTYyODFkei5odG1s"
+            ]
+        }
+    ],
+    "downloads": [
+        {
+            "url": "https://1fichier.com/?7asu0oinbmhd25jbew4u",
+            "type": "la"
+        },
+        {
+            "url": "https://1fichier.com/?fjzofb7zje4ks3xamd0e",
+            "type": "en"
+        }
+    ]
+}

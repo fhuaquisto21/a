@@ -1,0 +1,55 @@
+{
+    "url": "https://cuevana.pizza/pelicula/the-app",
+    "title": "The App",
+    "duration": "1h 19m",
+    "year": "2019",
+    "genres": [
+        "Drama",
+        "Ciencia Ficcion"
+    ],
+    "actors": [
+        "Vincenzo Crea",
+        "Jessica Cressy",
+        "Greta Scarano",
+        "Maya Sansa",
+        "Abel Ferrara",
+        "Anita Kravos",
+        "Salvatore Costa",
+        "Maurizio Di Carmine",
+        "Andrea Giannini",
+        "Franco Idone",
+        "Giampiero Judica",
+        "Stella Mastrantonio",
+        "Romeo Pellegrini",
+        "Beatrice Puccilli",
+        "Daniele Saladini"
+    ],
+    "description": "Novia amorosa, fortuna familiar, papel de película: él lo tiene todo. Hasta que una aplicación despierta un nuevo y poderoso anhelo. Mientras está en Roma para rodar su primera película, el actor y heredero industrial Niccolò se obsesiona con la aplicación de citas \"US\" que lo lleva a una espiral autodestructiva.",
+    "cover": "https://cuevana.pizza/resize/###/storage/21159/PTQv9NW9ckokqOrkqgUIkMFLuKya6G2bMXJrW058.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtcDF2MmNwaWNtbGdrLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLWRtdHVrbDR4OXV0dy5odG1s"
+            ]
+        },
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtMTRuNGk2a2V0cGRjLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLThkYXJkb21nYnVxdC5odG1s"
+            ]
+        }
+    ],
+    "downloads": [
+        {
+            "url": "https://1fichier.com/?e61aejwbi2yirwloqiaj",
+            "type": "la"
+        },
+        {
+            "url": "https://1fichier.com/?fr5a7syglg040i3zdmll",
+            "type": "en"
+        }
+    ]
+}

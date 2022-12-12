@@ -1,0 +1,41 @@
+{
+    "url": "https://cuevana.pizza/pelicula/pele",
+    "title": "Pelé",
+    "duration": "1h 48m",
+    "year": "2021",
+    "genres": [
+        "Documental"
+    ],
+    "actors": [
+        "Pelé",
+        "Zagallo"
+    ],
+    "description": "Con un turbulento Brasil como telón de fondo, este documental retrata la historia de Pelé: desde sus inicios como nuevo talento hasta su transformación en héroe nacional.",
+    "cover": "https://cuevana.pizza/resize/###/storage/5952/cx4UuUteB0c3mrVITBRdgGoKaVYfp2CulNxUoYIz.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtbjd5NmR6a3V2MzllLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLTViaWUxeGplN3lqbS5odG1s"
+            ]
+        },
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtdHpuM2Nnd3Y1d3VqLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLTBjbG4wZHM3dndkZy5odG1s"
+            ]
+        }
+    ],
+    "downloads": [
+        {
+            "url": "https://1fichier.com/?o7i2dz0u1bpwsrtaaj27",
+            "type": "la"
+        },
+        {
+            "url": "https://1fichier.com/?lpi3atlon0dydctnfnui",
+            "type": "en"
+        }
+    ]
+}

@@ -1,0 +1,45 @@
+{
+    "url": "https://cuevana.pizza/pelicula/boo",
+    "title": "Boo!",
+    "duration": "1h 31m",
+    "year": "2019",
+    "genres": [
+        "Drama",
+        "Misterio",
+        "Suspenso",
+        "Terror"
+    ],
+    "actors": [
+        "Aurora Perrineau",
+        "Jill Marie Jones",
+        "Jaden Piner",
+        "Rob Zabrecky",
+        "Charley Palmer Rothwell"
+    ],
+    "description": "Una serie de sucesos paranormales y peligrosos toman lugar en la casa de una familia tras encontrar una misteriosa hoja de papel en su puerta que contiene un mensaje aterrador: una maldición que fue hecha por el antiguo espíritu de Boo, un hombre que muchos años atrás se volvió loco y asesinó a toda su familia, suicidándose después. Al principio, el padre piensa que es sólo una broma de mal gusto de los vecinos, pero los niños saben que eso es más peligroso de lo que parece y por más que tratan de explicar la maldición nadie les cree: su familia dejó de ser unida desde hacía mucho. Ahora todos han ignorado todas las advertencias y poco a poco se hundirán en el peligroso mundo paranormal donde fantasmas y espíritus tratarán de acabar con sus vidas como sucedió en el pasado. ¡Boo! es la terrorífica historia de una familia rota que ahora trata de sobrevivir a la noche de Halloween y una maldición que intenta destruirlos.",
+    "cover": "https://cuevana.pizza/resize/###/storage/20307/RZut3zpx3AAO5xION6LEm8xVXCVqSsiWeRAXDKuJ.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQteXlveXhkOXI0dndmLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLWpma3l6YnVhbTgycy5odG1s"
+            ]
+        },
+        {
+            "type": "cas",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtb3N0bnhvcm54cWlsLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLTFxZzU1c3dvNnQ0cC5odG1s"
+            ]
+        },
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtaWk4bmd6Yzhvb2hqLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLWEwajFzYjQ5Y3FqZS5odG1s"
+            ]
+        }
+    ],
+    "downloads": []
+}

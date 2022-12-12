@@ -1,0 +1,32 @@
+{
+    "url": "https://cuevana.pizza/pelicula/road-to-red",
+    "title": "Road to Red",
+    "duration": "2h 1m",
+    "year": "2020",
+    "genres": [
+        "Terror"
+    ],
+    "actors": [
+        "Sean Gray",
+        "Chris Blasman",
+        "Michael Buffo",
+        "Amanda Wing",
+        "Renee Dorian",
+        "Matthew Prater",
+        "Circus-Szalewski",
+        "Matt Lasky",
+        "Mark Wystrach"
+    ],
+    "description": "Un thriller de acción de surf-skate sobre cinco mejores amigos que emprenden un viaje por carretera que rápidamente se convierte en una batalla épica por la supervivencia.",
+    "cover": "https://cuevana.pizza/resize/###/storage/28258/TqR2lK3Sa9dzyYpVaNT702ZbXYZXPt0hhkQHSV7k.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtNW50c2FlcnY3bWl1Lmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLWRld3BiZDB2NnFxbS5odG1s"
+            ]
+        }
+    ],
+    "downloads": []
+}

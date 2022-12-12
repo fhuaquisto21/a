@@ -1,0 +1,53 @@
+{
+    "url": "https://cuevana.pizza/pelicula/la-piel-fria",
+    "title": "La piel fría",
+    "duration": "1h 41m",
+    "year": "2017",
+    "genres": [
+        "Drama",
+        "Terror",
+        "Fantasia"
+    ],
+    "actors": [
+        "Ray Stevenson",
+        "David Oakes",
+        "Aura Garrido",
+        "Winslow Iwaki",
+        "John Benfield",
+        "Ben Temple",
+        "Iván González",
+        "Alejandro Rod",
+        "Julien Blaschke",
+        "Damián Montesdeoca",
+        "Israel Bodero",
+        "Roberto Rincón"
+    ],
+    "description": "En una isla perdida en medio del océano, dos hombres se defienden, noche tras noche, resguardados en un faro, del asedio de unas extrañas criaturas marinas. Sometidos a la extrema tensión, sin entender las razones del ataque, tendrán que replantearse cómo enfrentarse a lo desconocido. Adaptación de la exitosa obra de Albert Sánchez Piñol.",
+    "cover": "https://cuevana.pizza/resize/###/storage/25856/WsQuS7wYDjNv7YSNaGOQ5LchHi2q6zkIAWbCjqXH.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtdzJsbGxwMm5oaHhvLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLXBwaGNsMzk5dXRtai5odG1s"
+            ]
+        },
+        {
+            "type": "cas",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtNHZvdTRjZHdnYm1lLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLXNlMXlhaDhyb2V4eC5odG1s"
+            ]
+        }
+    ],
+    "downloads": [
+        {
+            "url": "https://1fichier.com/?yzml1eo58vvxt33hy2wf",
+            "type": "la"
+        },
+        {
+            "url": "https://1fichier.com/?r9y8w0bzj8krpk9xm6me",
+            "type": "es"
+        }
+    ]
+}

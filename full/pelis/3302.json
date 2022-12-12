@@ -1,0 +1,49 @@
+{
+    "url": "https://cuevana.pizza/pelicula/el-ultimo-mercenario",
+    "title": "El último mercenario",
+    "duration": "1h 50m",
+    "year": "2021",
+    "genres": [
+        "Accion",
+        "Comedia"
+    ],
+    "actors": [
+        "Jean-Claude Van Damme",
+        "Valérie Kaprisky",
+        "Miou-Miou",
+        "Eric Judor",
+        "Alban Ivanov",
+        "Assa Sylla",
+        "Patrick Timsit",
+        "Zakhar Shadrin",
+        "Samir Decazza"
+    ],
+    "description": "Un ex agente secreto devenido en mercenario sale de su guarida para salvar al hijo que nunca conoció. Y aprender a ser padre será la misión más difícil que haya tenido.",
+    "cover": "https://cuevana.pizza/resize/###/storage/9171/68f6GlTYBAY2kBFGDcI7fA5yEN5fqacmNBcYFqbV.jpg",
+    "players": [
+        {
+            "type": "cas",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtNTVqdnI1bXl3OGVzLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLTAxODlpaDJyanZ5YS5odG1s"
+            ]
+        },
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtNjIzYmxtOHlidm83Lmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLTI5bGh3M2dkYTZ0Ni5odG1s"
+            ]
+        }
+    ],
+    "downloads": [
+        {
+            "url": "https://1fichier.com/?i46xb6e88r4yolmamlqm",
+            "type": "es"
+        },
+        {
+            "url": "https://1fichier.com/?r1afslxps54ro50l2z88",
+            "type": "en"
+        }
+    ]
+}

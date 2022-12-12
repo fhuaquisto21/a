@@ -1,0 +1,28 @@
+{
+    "url": "https://cuevana.pizza/pelicula/pimped",
+    "title": "Pimped",
+    "duration": "1h 20m",
+    "year": "2018",
+    "genres": [
+        "Suspenso"
+    ],
+    "actors": [
+        "Ella Scott Lynch",
+        "Benedict Samuel",
+        "Heather Mitchell",
+        "Lewis Fitz-Gerald",
+        "Robin Goldsworthy"
+    ],
+    "description": "Dos retorcidos compañeros de piso engañan hacia una trampa sexual a una mujer desequilibrada con terribles resultados.",
+    "cover": "https://cuevana.pizza/resize/###/storage/25086/brQk0DYL9gr6RgE6njh4vEmLU5ZT5mPDT5ank9JZ.jpg",
+    "players": [
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQteXBxemU4b3BvbmtoLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLXltdm0zNDZ5dHEycS5odG1s"
+            ]
+        }
+    ],
+    "downloads": []
+}

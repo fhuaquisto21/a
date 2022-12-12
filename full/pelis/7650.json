@@ -1,0 +1,30 @@
+{
+    "url": "https://cuevana.pizza/pelicula/la-mujer-invisible",
+    "title": "La mujer invisible",
+    "duration": "1h 51m",
+    "year": "2013",
+    "genres": [
+        "Drama",
+        "Romance",
+        "Biografia",
+        "Historia"
+    ],
+    "actors": [
+        "Felicity Jones",
+        "John Kavanagh",
+        "Susanna Hislop",
+        "Tom Attwood"
+    ],
+    "description": "En el apogeo de su carrera, el escritor Charles Dickens, casado y con 46 años, conoce a una joven de 18 que se convierte en su amante secreta hasta su muerte. Adaptación de la novela de Claire Tomalin.",
+    "cover": "https://cuevana.pizza/resize/###/storage/33859/4nQqoye4tFfQkTzCzELSa2DqB4emDwAIjybz1kyl.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQta3d3dTRwN2hmN21lLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLWpzdmJrZnY4ZmQ1Yi5odG1s"
+            ]
+        }
+    ],
+    "downloads": []
+}

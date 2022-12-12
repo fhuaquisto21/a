@@ -1,0 +1,52 @@
+{
+    "url": "https://cuevana.pizza/pelicula/patrick",
+    "title": "Patrick",
+    "duration": "1h 20m",
+    "year": "2018",
+    "genres": [
+        "Comedia",
+        "Romance",
+        "Familia"
+    ],
+    "actors": [
+        "Beattie Edmondson",
+        "Ed Skrein",
+        "Tom Bennett",
+        "Gemma Jones",
+        "Emily Atack",
+        "Jennifer Saunders",
+        "Adrian Scarborough",
+        "Bernard Cribbins",
+        "Roy Hudd",
+        "Peter Davison",
+        "Cherie Lunghi",
+        "Meera Syal",
+        "Emilia Jones",
+        "Patricia Potter",
+        "Ben Roddy",
+        "Rupert Holliday-Evans",
+        "Milanka Brooks",
+        "McKell David",
+        "Scott Chambers",
+        "Ali Barouti"
+    ],
+    "description": "Sarah Francis es una profesora a quien le dejan a cargo del carlino de su abuela, que acaba de fallecer. Hay un problema: no se admiten mascotas en el edificio de apartamentos de Sarah. Sin embargo, no está sola, pues pronto se revela que su vecina Celia ha estado escondiendo su propia mascota en su apartamento por un tiempo. Al principio, el carlino, que está increíblemente mimado y desordena todo, no causa más que estrés a la pobre Sarah, aunque está claro que lo que necesitan es un poco de tiempo para conocerse mejor antes de que la vida de Sarah dé un vuelco a mejor. La película de Disney está dirigida por Mandie Fletcher y protagonizada por Beattie Edmondson como Sarah, Gemma Jones como Celia, Jennifer Saunders como la madre de Sarah y Meera Syal como la directora del colegio en el que trabaja Sarah.",
+    "cover": "https://cuevana.pizza/resize/###/storage/24723/qGpKp7081qfkvKPLt9h39usiJmytFsrvIpKEFE4K.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtcDZqcWpxdHJ1YnlvLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLTd2Y3JzdzBtZGxxdC5odG1s"
+            ]
+        },
+        {
+            "type": "cas",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtazEwYWJ6ZmlmcTdlLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLXlsbnZiMmZ2N29yeC5odG1s"
+            ]
+        }
+    ],
+    "downloads": []
+}

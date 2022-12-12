@@ -1,0 +1,53 @@
+{
+    "url": "https://cuevana.pizza/pelicula/heridas",
+    "title": "Heridas",
+    "duration": "1h 34m",
+    "year": "2019",
+    "genres": [
+        "Drama",
+        "Misterio",
+        "Suspenso",
+        "Terror"
+    ],
+    "actors": [
+        "Armie Hammer",
+        "Dakota Johnson",
+        "Zazie Beetz",
+        "Brad William Henke",
+        "Karl Glusman",
+        "Christin Rankins",
+        "Ben Sanders",
+        "Alexander Biglane",
+        "Matthew Underwood",
+        "Oren Hawxhurst",
+        "Kerry Cahill",
+        "Ritchie Montgomery",
+        "Terence Rosemore",
+        "Jim Klock",
+        "Martin Bats Bradford",
+        "Creek Wilson",
+        "Lawrence Turner",
+        "Xena Zeit-Geist",
+        "Kermit Burns III",
+        "Kevin Beard"
+    ],
+    "description": "Una serie de sucesos misteriosos y pertubadores comienzan a suceder cuando un camarero de Nueva Orleans contesta a la llamada de un teléfono olvidado en un bar.",
+    "cover": "https://cuevana.pizza/resize/###/storage/18252/94YYPDgr045r8XV0xiuxgYHmw2BHbOe8v4E7epKR.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtendyc2Jla3hwY3hpLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLTd1dmdjemYzMTBwMi5odG1s"
+            ]
+        },
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtZWF3ODh4NHM0cWE1Lmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLXc1YmcwN2lmMDd0bC5odG1s"
+            ]
+        }
+    ],
+    "downloads": []
+}

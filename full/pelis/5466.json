@@ -1,0 +1,73 @@
+{
+    "url": "https://cuevana.pizza/pelicula/un-viaje-en-el-tiempo",
+    "title": "Un pliegue en el tiempo",
+    "duration": "1h 49m",
+    "year": "2018",
+    "genres": [
+        "Aventura",
+        "Fantasia",
+        "Familia",
+        "Disney"
+    ],
+    "actors": [
+        "Storm Reid",
+        "Oprah Winfrey",
+        "Reese Witherspoon",
+        "Mindy Kaling",
+        "Levi Miller",
+        "Deric McCabe",
+        "Chris Pine",
+        "Gugu Mbatha-Raw",
+        "Zach Galifianakis",
+        "Rowan Blanchard",
+        "Michael Peña",
+        "André Holland",
+        "Bellamy Young",
+        "David Oyelowo",
+        "Conrad Roberts",
+        "Lyric Wilson",
+        "Yvette Cason",
+        "Will McCormack",
+        "Daniel MacPherson",
+        "Akemi Look"
+    ],
+    "description": "Tras la desaparición de su padre, un científico, tres seres peculiares envían a la joven Meg, a su hermano Charles y a su amigo Calvin al espacio, para intentar encontrarlo. Adaptación de la novela de Madeleine L'Engle.",
+    "cover": "https://cuevana.pizza/resize/###/storage/21414/474Y5BTDNIQGmcZEk89rJEeG0Xa6R6w2Tb0VuZQ4.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtZW50NmY2eDJsZHFqLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLWM0ODNncW41bzU3Ny5odG1s"
+            ]
+        },
+        {
+            "type": "cas",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtbGVmNnFqenRnNjdoLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLWJjd3h1YXduMHNoYS5odG1s"
+            ]
+        },
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtZHBuZG1sNHB2ZmVpLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLWhpbXNvNnhhbDB6cC5odG1s"
+            ]
+        }
+    ],
+    "downloads": [
+        {
+            "url": "https://1fichier.com/?p9gqv4ejmtghj83kjhxz",
+            "type": "la"
+        },
+        {
+            "url": "https://1fichier.com/?v09a56hdfcf3w47p8ihf",
+            "type": "es"
+        },
+        {
+            "url": "https://1fichier.com/?q3y56xip9cqtoztr8e1c",
+            "type": "en"
+        }
+    ]
+}

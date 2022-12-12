@@ -1,0 +1,72 @@
+{
+    "url": "https://cuevana.pizza/pelicula/rocketman",
+    "title": "Rocketman",
+    "duration": "2h 1m",
+    "year": "2019",
+    "genres": [
+        "Drama",
+        "Biografia",
+        "Musical"
+    ],
+    "actors": [
+        "Taron Egerton",
+        "Jamie Bell",
+        "Richard Madden",
+        "Bryce Dallas Howard",
+        "Gemma Jones",
+        "Stephen Graham",
+        "Steven Mackintosh",
+        "Tate Donovan",
+        "Charlie Rowe",
+        "Tom Bennett",
+        "Matthew Illesley",
+        "Kit Connor",
+        "Ophelia Lovibond",
+        "Rachel Muldoon",
+        "Celinde Schoenmaker",
+        "Harriet Walter",
+        "Jason Pennycooke",
+        "Jimmy Vee",
+        "Sharon D. Clarke",
+        "Evan Walsh"
+    ],
+    "description": "'Rocketman' es la historia de Elton John, desde sus años como niño prodigio del piano en la Royal Academy of Music hasta llegar a ser una superestrella de fama mundial gracias a su influyente y duradera asociación con su colaborador y letrista Bernie Taupin.",
+    "cover": "https://cuevana.pizza/resize/###/storage/21290/4OTJofkmUxG2CsSdKnyOuQA8vNLz5xvvMHYq2BSP.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtNnFjaXRqYWh0NGVjLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLXZobXRhdWJxZ3l5aC5odG1s"
+            ]
+        },
+        {
+            "type": "cas",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtanZnM3NjdTB1Ym9wLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLTV3cW9rbTB6cmJ1Yy5odG1s"
+            ]
+        },
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtcjBlbXU3a2lrMnk4Lmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLXVyNHR6cnZkdWRsMS5odG1s"
+            ]
+        }
+    ],
+    "downloads": [
+        {
+            "url": "https://1fichier.com/?t5g57dzu6s78yefdtd21",
+            "type": "la"
+        },
+        {
+            "url": "https://1fichier.com/?lk2bd6z144557b4r64o5",
+            "type": "es"
+        },
+        {
+            "url": "https://1fichier.com/?vs6p1zr7kcrap2lnb68s",
+            "type": "en"
+        }
+    ]
+}

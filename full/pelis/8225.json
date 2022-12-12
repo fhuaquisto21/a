@@ -1,0 +1,51 @@
+{
+    "url": "https://cuevana.pizza/pelicula/el-hombre-de-la-mascara-de-hierro",
+    "title": "El hombre de la máscara de hierro",
+    "duration": "2h 12m",
+    "year": "1998",
+    "genres": [
+        "Accion",
+        "Aventura"
+    ],
+    "actors": [
+        "Leonardo DiCaprio",
+        "Jeremy Irons",
+        "Gérard Depardieu",
+        "Gabriel Byrne",
+        "John Malkovich",
+        "Anne Parillaud",
+        "Judith Godrèche",
+        "Edward Atterton",
+        "Peter Sarsgaard",
+        "Hugh Laurie",
+        "David Lowe",
+        "Brigitte Boucher",
+        "Matthew Jocelyn",
+        "Karine Belly",
+        "Emmanuel Guttierez",
+        "Christian Erickson",
+        "François Montagut",
+        "Andrew Wallace",
+        "Cécile Auclert",
+        "Sonia Backers"
+    ],
+    "description": "1660. Mientras Francia se muere de hambre, el Rey Luis XIV (Leonardo DiCaprio) mantiene un régimen de terror. Sólo \"los tres mosqueteros\" (Jeremy lrons, John Malkovich y Gérard Depardieu) podrán enfrentarse a esta situación. Su misión consiste en liberar a un misterioso prisionero que está encerrado en La Bastilla y que es el único que puede salvar a Francia.",
+    "cover": "https://cuevana.pizza/resize/###/storage/29901/H5bt8kfLr75OMcJKi0ejmRMgJyhTU9Se4SJ6z0wW.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtazNvZXd5MjRtY2ZmLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLXdnZTdua2s5MWFhay5odG1s"
+            ]
+        },
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtaHp0eGd6aTNzam1hLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLWR3OG5jZ3J0MzRsOC5odG1s"
+            ]
+        }
+    ],
+    "downloads": []
+}

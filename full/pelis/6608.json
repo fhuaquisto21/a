@@ -1,0 +1,73 @@
+{
+    "url": "https://cuevana.pizza/pelicula/logan",
+    "title": "Logan",
+    "duration": "2h 17m",
+    "year": "2017",
+    "genres": [
+        "Accion",
+        "Drama",
+        "Ciencia Ficcion",
+        "Marvel Comics"
+    ],
+    "actors": [
+        "Hugh Jackman",
+        "Dafne Keen",
+        "Patrick Stewart",
+        "Elizabeth Rodriguez",
+        "Boyd Holbrook",
+        "Stephen Merchant",
+        "Richard E. Grant",
+        "Stephen Dunlevy",
+        "Eriq La Salle",
+        "Elise Neal",
+        "Quincy Fouse",
+        "Al Coronel",
+        "Frank Gallegos",
+        "Anthony Escobar",
+        "Reynaldo Gallegos",
+        "Krzysztof Soszynski",
+        "Daniel Bernhardt",
+        "Ryan Sturz",
+        "Jef Groff",
+        "Brandon Melendy"
+    ],
+    "description": "Sin sus poderes, por primera vez, Lobezno es verdaderamente vulnerable. Después de una vida de dolor y angustia, sin rumbo y perdido en el mundo donde los X-Men son leyenda, su mentor Charles Xavier lo convence de asumir una última misión: proteger a una joven que será la única esperanza para la raza mutante.",
+    "cover": "https://cuevana.pizza/resize/###/storage/25986/dDU86KeDW7ceRgaxOoydogsleVbn1eHu1RB2WzBj.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtYndkaG40Nzg1MjR4Lmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLXQ3bDcxaDZ4c212YS5odG1s"
+            ]
+        },
+        {
+            "type": "cas",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQteTRpZHc5aGk5ejZsLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLWlqbHEwbnV0M3J1NS5odG1s"
+            ]
+        },
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtb25vcXpsdmgwc3B0Lmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLXM3YzZ4aWF1dW41by5odG1s"
+            ]
+        }
+    ],
+    "downloads": [
+        {
+            "url": "https://1fichier.com/?k8lv9t07pswf0as86913",
+            "type": "la"
+        },
+        {
+            "url": "https://1fichier.com/?n7r6je7hgltzbn0okdnl",
+            "type": "es"
+        },
+        {
+            "url": "https://1fichier.com/?97tqcpdspu312ux4pldr",
+            "type": "en"
+        }
+    ]
+}

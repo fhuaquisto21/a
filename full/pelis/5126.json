@@ -1,0 +1,42 @@
+{
+    "url": "https://cuevana.pizza/pelicula/nada-que-perder-2",
+    "title": "Nada a Perder 2",
+    "duration": "1h 40m",
+    "year": "2019",
+    "genres": [
+        "Drama",
+        "Biografia"
+    ],
+    "actors": [
+        "Petrônio Gontijo",
+        "Dalton Vigh",
+        "André Gonçalves",
+        "Beth Goulart",
+        "Day Mesquita",
+        "Eduardo Galvão",
+        "César Mello",
+        "Raphael Viana",
+        "Otávio Martins",
+        "Dilma Rousseff",
+        "Edir Macedo"
+    ],
+    "description": "Secuela de \"Nada que perder\", que se estrenó en abril de 2018 y vendió más de 600.000 entradas. La película sigue la historia del líder religioso Edir Macedo.",
+    "cover": "https://cuevana.pizza/resize/###/storage/20518/5Blu2x8ndDhROhtIaiNYeZKbaM2belJ4GT66zbGQ.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtbWttZHN6bHFuZHNjLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLXI2enB6bGszeTA5ci5odG1s"
+            ]
+        },
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtMnc2cGhua3V5d3NmLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLXF6bnZrM3Bzb3ZuaS5odG1s"
+            ]
+        }
+    ],
+    "downloads": []
+}

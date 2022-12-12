@@ -1,0 +1,52 @@
+{
+    "url": "https://cuevana.pizza/pelicula/dog-eat-dog",
+    "title": "Como perros salvajes",
+    "duration": "1h 32m",
+    "year": "2016",
+    "genres": [
+        "Drama",
+        "Suspenso",
+        "Crimen"
+    ],
+    "actors": [
+        "Nicolas Cage",
+        "Willem Dafoe",
+        "Christopher Matthew Cook",
+        "Omar J. Dorsey",
+        "Louisa Krause",
+        "Melissa Bolona",
+        "Reynaldo Gallegos",
+        "Chelcie Lynn",
+        "Bruce Reizen",
+        "Nicky Whelan",
+        "Magi Avila",
+        "Jeff Hilliard",
+        "Ali Wasdovich",
+        "Louis Perez",
+        "Jessica Sonneborn",
+        "Tora Kim",
+        "Chelsea Mee",
+        "Joe Gallipoli",
+        "Shawn Mattox",
+        "Robert Maples"
+    ],
+    "description": "Cuenta la historia de tres ex convictos contratados para llevar a cabo un secuestro en la ciudad de Los Ángeles. Tras el intento fallido de cumplir esta misión, el trío se verá envuelto en una huida que provoca que sus vidas estén fuera de control, lo que les compromete a echarse a la carretera e intentar no volver a la cárcel cueste lo que cueste.",
+    "cover": "https://cuevana.pizza/resize/###/storage/27017/DEu3d6cI0puJgqgeLrj1d1cgK55m7Lbcc5IXfhja.jpg",
+    "players": [
+        {
+            "type": "cas",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtZmVpZG5sanQ4eXd1Lmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLWM4M3g2cnh0dnFkNi5odG1s"
+            ]
+        },
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtNGZxaGs3NHVmbGh5Lmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLWVkNHk1bWpkYnYyNS5odG1s"
+            ]
+        }
+    ],
+    "downloads": []
+}

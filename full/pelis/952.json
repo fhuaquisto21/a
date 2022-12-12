@@ -1,0 +1,58 @@
+{
+    "url": "https://cuevana.pizza/pelicula/batman-unlimited-monstermania",
+    "title": "Batman Unlimited: Monstermania",
+    "duration": "1h 20m",
+    "year": "2015",
+    "genres": [
+        "Accion",
+        "Familia",
+        "Animacion",
+        "DC Comics"
+    ],
+    "actors": [
+        "Roger Craig Smith",
+        "Troy Baker",
+        "Chris Diamantopoulos",
+        "Kari Wuhrer",
+        "Noel Fisher",
+        "Khary Payton",
+        "Will Friedle",
+        "Yuri Lowenthal",
+        "Fred Tatasciore",
+        "Brian T. Delaney",
+        "Dave B. Mitchell",
+        "Richard Epcar",
+        "Eric Bauza",
+        "Alastair Duncan",
+        "Amanda Troop",
+        "Steve Blum",
+        "Cedric Yarbrough",
+        "Janell Cox"
+    ],
+    "description": "Es la noche de Halloween en Ciudad Gótica y Espantapájaros, Calyface, Silver Banshee y Solomon Grundy golpean las calles en busca de problemas. Batman está tras la pista de los temibles villanos de la ciudad mientras las cosas se complican y el Principe Payaso del Crimen en persona, el Guasón, gobierna su misteriosa banda de criminales. Es cosa del Caballero Oscuro detener a esta enorme banda antes de que puedan desatar la “risa digital”, un virus informático que forma parte de un diábolico plan para poner en jaque toda la tecnología vital de la ciudad. Batman, Green Arrow, Cyborg, Nightwing y Red Robin deberán combinar fuerzas para combatir a estos malhechores y salvar la ciudad.",
+    "cover": "https://cuevana.pizza/resize/###/storage/44303/TwqOEYiF3SalZQOSDB6ES2yJsENBcraZlb6JuHXA.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtc3psNTV4dzJwOWFhLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLTl6Nmd5N3Z6M3NiNC5odG1s"
+            ]
+        },
+        {
+            "type": "cas",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtbTk0bHVvcGJpZmZ3Lmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLXVienZrbTFpMjdkcS5odG1s"
+            ]
+        },
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtZGU3Zmp6aW1vOWw5Lmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLWN2eWVoOXpndWM0YS5odG1s"
+            ]
+        }
+    ],
+    "downloads": []
+}

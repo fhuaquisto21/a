@@ -1,0 +1,61 @@
+{
+    "url": "https://cuevana.pizza/pelicula/la-tragedia-de-macbeth",
+    "title": "La tragedia de Macbeth",
+    "duration": "1h 45m",
+    "year": "2021",
+    "genres": [
+        "Drama",
+        "Belica"
+    ],
+    "actors": [
+        "Denzel Washington",
+        "Frances McDormand",
+        "Alex Hassell",
+        "Bertie Carvel",
+        "Brendan Gleeson",
+        "Corey Hawkins",
+        "Harry Melling",
+        "Miles Anderson",
+        "Matt Helm",
+        "Moses Ingram"
+    ],
+    "description": "Macbeth, recibe una profecía de un trío de brujas de que algún día se convertirá en rey de Escocia. Consumido por la ambición y empujado a la acción por su esposa, Macbeth asesina a su rey y toma el trono para él.",
+    "cover": "https://cuevana.pizza/resize/###/storage/13807/Tm3UlyGIOFIsHnETV84Swr5IyvA3jcZlKbL4opLc.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtNW9vYXNycDJudW1rLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLWo0ZHlkcXk0bmIzdS5odG1s"
+            ]
+        },
+        {
+            "type": "cas",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtamUyZHg0bGhha3plLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLTFjYnZ1Z2VmOWwzNC5odG1s"
+            ]
+        },
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtd3c5bjBlenFudm53Lmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLXA4d3pqejAxbmo2Yy5odG1s"
+            ]
+        }
+    ],
+    "downloads": [
+        {
+            "url": "https://1fichier.com/?aasihxnqbt2ii6laff1h",
+            "type": "la"
+        },
+        {
+            "url": "https://1fichier.com/?0n4q3x7ojb79tlikra1e",
+            "type": "es"
+        },
+        {
+            "url": "https://1fichier.com/?cgv2hxhz1cwj7rs2o99k",
+            "type": "en"
+        }
+    ]
+}

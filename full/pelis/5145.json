@@ -1,0 +1,72 @@
+{
+    "url": "https://cuevana.pizza/pelicula/tolkien",
+    "title": "Tolkien",
+    "duration": "1h 52m",
+    "year": "2019",
+    "genres": [
+        "Drama",
+        "Guerra",
+        "Biografia"
+    ],
+    "actors": [
+        "Nicholas Hoult",
+        "Lily Collins",
+        "Colm Meaney",
+        "Derek Jacobi",
+        "Harry Gilby",
+        "Mimi Keene",
+        "Anthony Boyle",
+        "Adam Bregman",
+        "Patrick Gibson",
+        "Albie Marber",
+        "Tom Glynn-Carney",
+        "Ty Tennant",
+        "Craig Roberts",
+        "Pam Ferris",
+        "James MacCallum",
+        "Guillermo Bedward",
+        "Laura Donnelly",
+        "Genevieve O'Reilly",
+        "Owen Teale",
+        "Al Bollands"
+    ],
+    "description": "Inglaterra, principios del siglo XX. El futuro escritor y filólogo John Ronald Reuel Tolkien (1892-1973) y tres de sus compañeros de escuela crean un fuerte vínculo entre ellos al compartir la misma pasión por la literatura y el arte, una verdadera hermandad que se fortalece a medida que crecen; pero el estallido de la Primera Guerra Mundial amenaza con destruirla.",
+    "cover": "https://cuevana.pizza/resize/###/storage/20535/2kye2e9jCf1Bmj7JaLDGgiGZZGJDh462oM9cLMwt.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtcWZ4eGF6bzNveHloLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLWludGZ1ZGl6b3k2ZS5odG1s"
+            ]
+        },
+        {
+            "type": "cas",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLXdiYTM5ZTdqMzVhZi5odG1s",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtZzRxZHhvbGt2bjlmLmh0bWw="
+            ]
+        },
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQteXl6M2tzbTV4MnJ0Lmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLW9nM25tMzM4cjgwaC5odG1s"
+            ]
+        }
+    ],
+    "downloads": [
+        {
+            "url": "https://1fichier.com/?56sscusxxmkei77wlr7x",
+            "type": "la"
+        },
+        {
+            "url": "https://1fichier.com/?sc8t4p1r230pjxqk166f",
+            "type": "es"
+        },
+        {
+            "url": "https://1fichier.com/?m6s9iggja3z0v4cpozg2",
+            "type": "en"
+        }
+    ]
+}

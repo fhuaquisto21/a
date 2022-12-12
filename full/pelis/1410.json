@@ -1,0 +1,65 @@
+{
+    "url": "https://cuevana.pizza/pelicula/el-padre-de-la-novia",
+    "title": "El padre de la novia",
+    "duration": "1h 57m",
+    "year": "2022",
+    "genres": [
+        "Comedia",
+        "Romance"
+    ],
+    "actors": [
+        "Andy García",
+        "Gloria Estefan",
+        "Adria Arjona",
+        "Isabela Merced",
+        "Diego Boneta",
+        "Chloe Fineman",
+        "Enrique Murciano",
+        "Macarena Achaga",
+        "Ana Fabrega",
+        "Pedro Damián",
+        "Marta Velasco",
+        "Ruben Rabasa",
+        "Ozuna",
+        "Laura Harring"
+    ],
+    "description": "Nueva versión de 'El padre de la novia' (1991) ahora protagonizada por una familia latina que vive en Estados Unidos.",
+    "cover": "https://cuevana.pizza/resize/###/storage/36737/xYLUCiaoCecdWgmgfZemWTwM5dMRmb6CyEb4fp6T.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtYzZpYXZ1aTV6Z203Lmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLXpkZzR0Y3ZjcHRyOS5odG1s"
+            ]
+        },
+        {
+            "type": "cas",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtd2JoZXo4dDc3dncyLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLWx0OHR1NWk0cjBxOS5odG1s"
+            ]
+        },
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtaDg5Mmh2MG9lb2trLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLTZnM2o1ZXRpNWZsNC5odG1s"
+            ]
+        }
+    ],
+    "downloads": [
+        {
+            "url": "https://1fichier.com/?ts8xgmy4f2tkrtyuquc3",
+            "type": "la"
+        },
+        {
+            "url": "https://1fichier.com/?9n3xhn7llk0cbx4q5ucb",
+            "type": "es"
+        },
+        {
+            "url": "https://1fichier.com/?9gwv5dw6x18sjmbqrfp6",
+            "type": "en"
+        }
+    ]
+}

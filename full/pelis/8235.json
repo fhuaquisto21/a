@@ -1,0 +1,45 @@
+{
+    "url": "https://cuevana.pizza/pelicula/el-desafio",
+    "title": "El desafío",
+    "duration": "1h 57m",
+    "year": "1997",
+    "genres": [
+        "Accion",
+        "Drama",
+        "Aventura"
+    ],
+    "actors": [
+        "Anthony Hopkins",
+        "Alec Baldwin",
+        "Elle Macpherson",
+        "Harold Perrineau",
+        "L. Q. Jones",
+        "Kathleen Wilhoite",
+        "David Lindstedt",
+        "Mark Kiely",
+        "Eli Gabay",
+        "Larry Musser",
+        "Brian Arnold",
+        "Brian Steele",
+        "Bart The Bear"
+    ],
+    "description": "Tras un accidente de avión en las boscosas, frías y hostiles tierras de Alaska, el multimillonario e intelectual Charles Morse (Anthony Hopkins), acompañado de su escultural y joven esposa Mickey (Elle Macpherson), y el cotizado fotógrafo de moda Bob Green (Alec Baldwin), se ven envueltos en una desesperada lucha por la supervivencia en medio de las montañas. Pronto descubrirán que el mayor peligro no proviene de la Naturaleza, sino del miedo y de la traición de los hombres.",
+    "cover": "https://cuevana.pizza/resize/###/storage/29933/prhBABQDvF6fbT9pbgnLs4nBbqaZvKsLLPsCQgYI.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtY2QwbWtxZHp6NW52Lmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLWp3bDI0eDdwdjBqZy5odG1s"
+            ]
+        },
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtcGd2YWFvdWpjZG12Lmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLXZmZnFiaHZzMHBraC5odG1s"
+            ]
+        }
+    ],
+    "downloads": []
+}

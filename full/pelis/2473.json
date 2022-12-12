@@ -1,0 +1,52 @@
+{
+    "url": "https://cuevana.pizza/pelicula/canta-2",
+    "title": "Sing 2",
+    "duration": "1h 52m",
+    "year": "2021",
+    "genres": [
+        "Comedia",
+        "Familia",
+        "Animacion",
+        "Musical"
+    ],
+    "actors": [
+        "Matthew McConaughey",
+        "Reese Witherspoon",
+        "Scarlett Johansson",
+        "Taron Egerton",
+        "Bobby Cannavale",
+        "Tori Kelly",
+        "Nick Kroll",
+        "Halsey",
+        "Pharrell Williams",
+        "Nick Offerman"
+    ],
+    "description": "Buster Moon y sus amigos deben persuadir a la estrella del rock Clay Calloway para que se una a ellos en el estreno de un nuevo espectáculo.",
+    "cover": "https://cuevana.pizza/resize/###/storage/12818/S0XBqBii30cKJcvHAG5kxo2ALVzkfPJNZ90hyHqw.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtZjV5MDdoMzdmeDB2Lmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLXc2ODlkaDU3cG05OC5odG1s"
+            ]
+        },
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtYTByZjAzZ3h4N3M0Lmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLWhhZDQ0cHRubjU1NC5odG1s"
+            ]
+        }
+    ],
+    "downloads": [
+        {
+            "url": "https://1fichier.com/?wxj9gws4r09ab8ya2h4h",
+            "type": "la"
+        },
+        {
+            "url": "https://1fichier.com/?yid8c7ab59kt0iboowi8",
+            "type": "en"
+        }
+    ]
+}

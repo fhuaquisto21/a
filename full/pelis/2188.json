@@ -1,0 +1,43 @@
+{
+    "url": "https://cuevana.pizza/pelicula/collider",
+    "title": "Collider",
+    "duration": "1h 24m",
+    "year": "2018",
+    "genres": [
+        "Ciencia Ficcion"
+    ],
+    "actors": [
+        "Christine Mascolo",
+        "Jude Moran",
+        "Conner Greenhalgh",
+        "Heath C. Heine"
+    ],
+    "description": "En el año 2033, una joven atrapada en un misterioso orfanato viaja imprudentemente hacia atrás en el tiempo para encontrar a sus padres y enmendar su pasado.",
+    "cover": "https://cuevana.pizza/resize/###/storage/14296/CS6Ur1jATXDfDyfmPGP9KWlBH6vaXyV0kCAm8yMF.jpg",
+    "players": [
+        {
+            "type": "cas",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtc3FwM3owdTliMDVpLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLTM0ZWJ2Z2I5enc3eC5odG1s"
+            ]
+        },
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtbjIxOXpubzg1c2x5Lmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLWo3MjdtcDRtcXl4YS5odG1s"
+            ]
+        }
+    ],
+    "downloads": [
+        {
+            "url": "https://1fichier.com/?uzlmlcu6h9vaj636jjic",
+            "type": "es"
+        },
+        {
+            "url": "https://1fichier.com/?z6otq31lieq4vnp02w7f",
+            "type": "en"
+        }
+    ]
+}

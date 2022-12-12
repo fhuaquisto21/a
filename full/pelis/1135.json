@@ -1,0 +1,62 @@
+{
+    "url": "https://cuevana.pizza/pelicula/alvin-y-las-ardillas-3",
+    "title": "Alvin y las ardillas 3",
+    "duration": "1h 27m",
+    "year": "2011",
+    "genres": [
+        "Comedia",
+        "Fantasia",
+        "Familia",
+        "Animacion",
+        "Musical",
+        "Disney"
+    ],
+    "actors": [
+        "Jason Lee",
+        "David Cross",
+        "Jenny Slate",
+        "Justin Long",
+        "Matthew Gray Gubler",
+        "Jesse McCartney",
+        "Amy Poehler",
+        "Anna Faris",
+        "Christina Applegate",
+        "Alan Tudyk",
+        "Michael P. Northey",
+        "Sophia Aguiar",
+        "Lauren Gottlieb",
+        "Tera Perez",
+        "Andy Buckley",
+        "Chad Krowchuk",
+        "Luisa d'Oliveira",
+        "Tucker Albrizzi",
+        "Nelson Wong",
+        "Michael Bagdasarian"
+    ],
+    "description": "Tercera entrega de la saga Alvin y las ardillas. Las ardillas se embarcan en un crucero de lujo y acaban en una isla desierta, pero pronto averiguarán que no está tan desierta como parece.",
+    "cover": "https://cuevana.pizza/resize/###/storage/42043/vKm1HagEHXoZCt2ABXi8Y9SGTXjQs8XXZ739w4kW.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtamVkZDc4Z2xrYWlmLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLW5rM3VnNWI0aGQ3Mi5odG1s"
+            ]
+        },
+        {
+            "type": "cas",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtMDh1a3p6cWlha2IxLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLW5kOXFqZDY1ZG1nai5odG1s"
+            ]
+        },
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtZnBnaXJlMzlweGV1Lmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLXF4ZzhweDV1aXBwMS5odG1s"
+            ]
+        }
+    ],
+    "downloads": []
+}

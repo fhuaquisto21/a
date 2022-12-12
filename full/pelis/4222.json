@@ -1,0 +1,51 @@
+{
+    "url": "https://cuevana.pizza/pelicula/la-comunidad",
+    "title": "La comunidad",
+    "duration": "1h 47m",
+    "year": "2000",
+    "genres": [
+        "Comedia",
+        "Suspenso"
+    ],
+    "actors": [
+        "Carmen Maura",
+        "Eduardo Antuña",
+        "María Asquerino",
+        "Jesús Bonilla",
+        "Marta Fernández Muro",
+        "Paca Gabaldón",
+        "Ane Gabarain",
+        "Sancho Gracia",
+        "Emilio Gutiérrez Caba",
+        "Kiti Mánver",
+        "Terele Pávez",
+        "Roberto Perdomo",
+        "Manuel Tejada",
+        "Enrique Villén",
+        "Eduardo Gómez",
+        "Antonio de la Torre",
+        "Mariví Bilbao",
+        "Silvia Casanova",
+        "Ramón Barea",
+        "Luis Tosar"
+    ],
+    "description": "Julia (Carmen Maura), una mujer madura que trabaja en una agencia inmobiliaria, encuentra 300 millones escondidos en un piso. A continuación se traslada al apartamento de arriba y esconde el dinero, pero tiene que enfrentarse a la desquiciada comunidad de vecinos, encabezada por un administrador sin escrúpulos (Emilio Gutiérrez Caba), que hará todo lo posible para retenerla y quedarse con la fortuna.",
+    "cover": "https://cuevana.pizza/resize/###/storage/29380/de59aB2yXzXbKEqvj65qXgMbiDsdoCrVRDcGz8ea.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtbDFyYzh5aWJ4cXZnLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLWFiemVvc3k5MXZ0ai5odG1s"
+            ]
+        },
+        {
+            "type": "cas",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtMG9jazMzY3cyMjB3Lmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLXAyNWpzcXpkd3BveC5odG1s"
+            ]
+        }
+    ],
+    "downloads": []
+}

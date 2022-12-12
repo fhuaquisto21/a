@@ -1,0 +1,43 @@
+{
+    "url": "https://cuevana.pizza/pelicula/cielo-de-medianoche",
+    "title": "Cielo de medianoche",
+    "duration": "2h 2m",
+    "year": "2020",
+    "genres": [
+        "Drama",
+        "Ciencia Ficcion",
+        "Fantasia"
+    ],
+    "actors": [
+        "George Clooney",
+        "Mark L. Smith"
+    ],
+    "description": "Augustine es un científico solitario en el Ártico que trata de contactar con una nave espacial que intenta regresar a la Tierra. Augustine quiere impedir que Sully y sus compañeros astronautas regresen a su hogar, donde se ha producido una misteriosa catástrofe global.",
+    "cover": "https://cuevana.pizza/resize/###/storage/24151/r0ggvx2P3eKDivQObFzgXWqNfu9H74Qez49asZD4.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtdDZ6MHk5aXRtc2NiLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLXBmZmV1OWtxOGI4Ni5odG1s"
+            ]
+        },
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtdHo0bzYzcDJkczBjLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLWp4azl2dTk4aGZyYy5odG1s"
+            ]
+        }
+    ],
+    "downloads": [
+        {
+            "url": "https://1fichier.com/?xl5iozzjdsur2sfxyfv9#Synchronization+Service",
+            "type": "la"
+        },
+        {
+            "url": "https://1fichier.com/?48pxfkoevhp3bjwsq6go#Synchronization+Service",
+            "type": "en"
+        }
+    ]
+}

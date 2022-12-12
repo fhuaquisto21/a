@@ -1,0 +1,60 @@
+{
+    "url": "https://cuevana.pizza/pelicula/edward-snowden",
+    "title": "Edward Snowden",
+    "duration": "2h 15m",
+    "year": "2016",
+    "genres": [
+        "Drama",
+        "Suspenso",
+        "Crimen",
+        "Biografia",
+        "Historia",
+        "Thriller"
+    ],
+    "actors": [
+        "Joseph Gordon-Levitt",
+        "Shailene Woodley",
+        "Melissa Leo",
+        "Zachary Quinto",
+        "Tom Wilkinson"
+    ],
+    "description": "Basada en el libro \"The Snowden files. The inside story of the world's most wanted man\", escrito por Luke Harding, y en un libro escrito por Anatoly Kucherena, el abogado ruso de Edward Snowden. Narra los acontecimientos que siguieron a la publicación por parte del diario 'The Guardian' de los documentos clasificados que aportó Edward Snowden sobre el programa secreto de vigilancia mundial de la NSA (Agencia de Seguridad Nacional) en 2013.",
+    "cover": "https://cuevana.pizza/resize/###/storage/4837/PCZUTzr1YFFI2eovDbJ5U9Z1rddNZ9B1Vr9EumRa.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtNmZrNGV4eDcwdXJsLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLTkyN2ZxdXB1YWNtNS5odG1s"
+            ]
+        },
+        {
+            "type": "cas",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtbm82bjF3Yzl0dXN6Lmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLXMyc2Z1NXFiOW4zMS5odG1s"
+            ]
+        },
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtNW10dmZmYXMxdHdmLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLXVxNW1rbXRhdTl4bS5odG1s"
+            ]
+        }
+    ],
+    "downloads": [
+        {
+            "url": "https://1fichier.com/?58kz8vlq7gr2ati288m6",
+            "type": "la"
+        },
+        {
+            "url": "https://1fichier.com/?br9xgbej1ha5auggihxb",
+            "type": "es"
+        },
+        {
+            "url": "https://1fichier.com/?qkm1lsxvqkconjpq6506",
+            "type": "en"
+        }
+    ]
+}

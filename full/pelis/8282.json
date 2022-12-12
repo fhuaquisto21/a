@@ -1,0 +1,36 @@
+{
+    "url": "https://cuevana.pizza/pelicula/brazil",
+    "title": "Brazil",
+    "duration": "2h 11m",
+    "year": "1985",
+    "genres": [
+        "Comedia",
+        "Drama",
+        "Ciencia Ficcion"
+    ],
+    "actors": [
+        "Ian Holm",
+        "Jonathan Pryce",
+        "Katherine Helmond",
+        "Robert De Niro"
+    ],
+    "description": "En un extraño y deprimente universo futurista donde reinan las máquinas, una mosca cae dentro de un ordenador y cambia el apellido del guerrillero Harry Tuttle (Robert de Niro) por el del tranquilo padre de familia Harry Buttle, que es detenido y asesinado por el aparato represor del Estado. El tranquilo burócrata Sam Lowry (Jonathan Pryce) es el encargado de devolver un talón a la familia de la víctima, circunstancia que le permite conocer a Jill Layton (Kim Greist), la mujer de sus sueños. Y, mientras la persigue, hace amistad con Harry Tuttle y se convierte en su cómplice.",
+    "cover": "https://cuevana.pizza/resize/###/storage/4579/trMInSe4yqIZTUftrUdNK2a2Ny43VlfPDju2tuf5.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtcjJuNjBtOGFrb3h5Lmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLXc4NW90ODJ0cG8xaC5odG1s"
+            ]
+        },
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtc2xmdm0yNHN5Z3VpLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLTBsdXpsb3J0NHM3OS5odG1s"
+            ]
+        }
+    ],
+    "downloads": []
+}

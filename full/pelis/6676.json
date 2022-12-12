@@ -1,0 +1,57 @@
+{
+    "url": "https://cuevana.pizza/pelicula/the-ballad-of-lefty-brown",
+    "title": "La balada de Lefty Brown",
+    "duration": "1h 51m",
+    "year": "2017",
+    "genres": [
+        "Occidental"
+    ],
+    "actors": [
+        "Bill Pullman",
+        "Kathy Baker",
+        "Jim Caviezel",
+        "Tommy Flanagan",
+        "Peter Fonda",
+        "Diego Josef",
+        "Joseph Lee Anderson",
+        "Michael Spears",
+        "Dillinger Steele",
+        "Brian Henningsen",
+        "Emily Jones",
+        "Lexi Anastasia",
+        "Joe Anderson",
+        "Josiah Burdick",
+        "Duel Farnes",
+        "Tyson Gerhardt",
+        "Adam O'Byrne",
+        "Lewis Pullman",
+        "Stephen Alan Seder",
+        "Travis W Bruyer"
+    ],
+    "description": "Durante décadas, Lefty ha cabalgado junto a Edward Johnson, ayudándole a sobrevivir en el salvaje Oeste. Cuando Lefty es elegido para ayudar al primer senador del nuevo estado de Montana, Johnson se va a Washington y deja su rancho a Lefty, lo que despierta cierta inquietud en la señora Johnson, que duda de sus capacidades.",
+    "cover": "https://cuevana.pizza/resize/###/storage/35617/1pJwi9390bVJXWfPbN7iTPTdIDieQKUxl41zCqX8.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtajJoZ3NyaWtrYWJ6Lmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLXdycTRrdGx2ajhnOC5odG1s"
+            ]
+        },
+        {
+            "type": "cas",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtZ3BzeXlzeG4zbzExLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLTRoNDVpcTlhanF5YS5odG1s"
+            ]
+        },
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtbm5jcmJzYTRsbmpyLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLWlseTlsNzZjZ29oby5odG1s"
+            ]
+        }
+    ],
+    "downloads": []
+}

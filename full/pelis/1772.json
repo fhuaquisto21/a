@@ -1,0 +1,57 @@
+{
+    "url": "https://cuevana.pizza/pelicula/una-libreria-en-paris",
+    "title": "Una librería en París",
+    "duration": "1h 29m",
+    "year": "2021",
+    "genres": [
+        "Drama",
+        "Romance"
+    ],
+    "actors": [
+        "Sergio Castellitto",
+        "Bérénice Bejo",
+        "Matilda De Angelis",
+        "Clemente Maccaro",
+        "Sandra Milo",
+        "Alex Lutz"
+    ],
+    "description": "Pierre es un anticuario parisino. Su vida está marcada por una serena rutina de pequeños hábitos. Mientras tanto, cuida a una hija algo complicada y una clientela reducida pero exigente. Sin embargo, la tranquilidad de su vida está destinada a no durar para siempre cuando Yolande, una hermosa mujer, le sorprende en la tienda. En este momento, encantado por su belleza y energía, Pierre volverá a sentir las emociones que había estado reprimiendo durante años.",
+    "cover": "https://cuevana.pizza/resize/###/storage/20804/B6Dugg8q3NwixGX0VVulc1B3Jj0mQB9PdWpobKdk.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtbzI3cGplcDR1OGhjLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLXp3cXIxZ2tieTExaS5odG1s"
+            ]
+        },
+        {
+            "type": "cas",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtcTQxanhvbWhzdmxoLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLXlpcHQwOG9paXNzcy5odG1s"
+            ]
+        },
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtdjF0eXl4M2NkdHQ4Lmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLWE5eWFobnNoaGdpaC5odG1s"
+            ]
+        }
+    ],
+    "downloads": [
+        {
+            "url": "https://1fichier.com/?bhjvsgb01shcbk2tts8j",
+            "type": "la"
+        },
+        {
+            "url": "https://1fichier.com/?dsooyv102hltmbgqrx7r",
+            "type": "es"
+        },
+        {
+            "url": "https://1fichier.com/?q6s7dyq91sz84k7p5xz6",
+            "type": "en"
+        }
+    ]
+}

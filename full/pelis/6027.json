@@ -1,0 +1,52 @@
+{
+    "url": "https://cuevana.pizza/pelicula/6-globos",
+    "title": "6 globos",
+    "duration": "1h 14m",
+    "year": "2018",
+    "genres": [
+        "Drama"
+    ],
+    "actors": [
+        "Abbi Jacobson",
+        "Dave Franco",
+        "Charlotte Carel",
+        "Madeline Carel",
+        "Jane Kaczmarek",
+        "Dawan Owens",
+        "Tim Matheson",
+        "Jen Tullock",
+        "Maya Erskine",
+        "Heidi Sulzman",
+        "Tahmus Rounds",
+        "Lisa Berman",
+        "Felicia Dupuch",
+        "Lindsey Haun",
+        "Vesna Saal"
+    ],
+    "description": "Katie se encuentra organizando una fiesta sorpresa para su novio, pero en el transcurso descubre que su hermano Seth ha vuelto a engancharse a la heroína. Intenta por todos los medios llevarle a algún sitio de rehabilitación pero, tras fracasar, pasa una agonizante noche vigilando y distrayendo a la hija de él, mientras Seth intenta lidiar con el síndrome de abstinencia.",
+    "cover": "https://cuevana.pizza/resize/###/storage/24490/aXXFB2BIf1AsPyku95DpnYJvhyBegoGYig37bB2a.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtY2hzaGlhamZ3NnhtLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLWFnOGthdTZvYjFldS5odG1s"
+            ]
+        },
+        {
+            "type": "cas",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtaWYzNG1idjdueHZlLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLTNsN2NvYzAzNjhydC5odG1s"
+            ]
+        },
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtMTU4Z2kyNGZ0d2IxLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLWZ3dGdxMm1icHdnYy5odG1s"
+            ]
+        }
+    ],
+    "downloads": []
+}

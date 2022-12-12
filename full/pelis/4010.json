@@ -1,0 +1,51 @@
+{
+    "url": "https://cuevana.pizza/pelicula/vidas-de-papel",
+    "title": "Vidas de papel",
+    "duration": "1h 36m",
+    "year": "2021",
+    "genres": [
+        "Drama"
+    ],
+    "actors": [
+        "Çağatay Ulusoy",
+        "Emir Ali Dogrul",
+        "Ersin Arıcı",
+        "Selen Öztürk",
+        "Turgay Tanülkü"
+    ],
+    "description": "Mehmet, un hombre enfermo que dirige un depósito de residuos en Estambul, se hace cargo de un niño pequeño. Pero pronto debe afrontar su propia y traumática infancia.",
+    "cover": "https://cuevana.pizza/resize/###/storage/6145/srWHEuScolRsQA6LQt12Li5Xns7JscKRk6n5jK0s.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtMDd6c3czMmNrcmEwLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLWVyM3R4aWhkeGltNy5odG1s"
+            ]
+        },
+        {
+            "type": "cas",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtNGJubXY5cHc4dHduLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLXBjbGRjMG9hamN3Yi5odG1s"
+            ]
+        },
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtbDlwZW1rcXlzdTRyLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLXd1azhpcGxtZzdzbi5odG1s"
+            ]
+        }
+    ],
+    "downloads": [
+        {
+            "url": "https://1fichier.com/?559vz6cp9un5ka2a2pj7",
+            "type": "la"
+        },
+        {
+            "url": "https://1fichier.com/?xjgsqrbkst6fn6p8tdzq",
+            "type": "en"
+        }
+    ]
+}

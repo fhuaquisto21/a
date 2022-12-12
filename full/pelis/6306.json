@@ -1,0 +1,50 @@
+{
+    "url": "https://cuevana.pizza/pelicula/el-rey-elvis-presley",
+    "title": "La Nación Del Rey",
+    "duration": "1h 47m",
+    "year": "2017",
+    "genres": [
+        "Documental"
+    ],
+    "actors": [
+        "Alec Baldwin",
+        "Tony Brown",
+        "James Carville",
+        "Chuck D",
+        "Maggie Clifford",
+        "Radney Foster",
+        "Patricia Gaines",
+        "Mary Gauthier",
+        "Emmylou Harris",
+        "Ethan Hawke",
+        "John Hiatt",
+        "George Klein",
+        "Ashton Kutcher",
+        "Greil Marcus",
+        "Justin Merrick",
+        "Mike Myers",
+        "Jerry Schilling",
+        "Earlice Taylor",
+        "Immortal Technique",
+        "Linda Thompson"
+    ],
+    "description": "Road movie musical como retrato del sueño americano. Ambientada en las elecciones americanas de 2016, 'Promised Land' hace un viaje musical por carretera en el Rolls Royce de 1963 de Elvis Presley.",
+    "cover": "https://cuevana.pizza/resize/###/storage/25763/oWp0RXdhz7du8psULPGwuUIFVZOUBx9SqtABDENt.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtbzBlMG1hODNjd215Lmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLTZnZWloc2Y0OTgzZi5odG1s"
+            ]
+        },
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtcnlicmVmMTU0YTlhLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLTB0YnppemxkZm5nMy5odG1s"
+            ]
+        }
+    ],
+    "downloads": []
+}

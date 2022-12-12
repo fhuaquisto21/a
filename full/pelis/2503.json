@@ -1,0 +1,60 @@
+{
+    "url": "https://cuevana.pizza/pelicula/ricos-y-mimados",
+    "title": "Ricos y mimados",
+    "duration": "1h 40m",
+    "year": "2021",
+    "genres": [
+        "Comedia"
+    ],
+    "actors": [
+        "Gérard Jugnot",
+        "Camille Lou",
+        "Artus",
+        "Louka Meliava",
+        "François Morel",
+        "Tom Leeb",
+        "Ichem Bougheraba",
+        "Jean-Baptiste Sagory",
+        "Joffrey Verbruggen",
+        "Colette Kraffe"
+    ],
+    "description": "El multimillonario está cansado de los caprichos de sus propios hijos y decide darles una lección. Les anuncia que se ha arruinado. Ahora los adolescentes mimados tendrán que hacer lo que nunca han hecho: ir a trabajar, aprender a amar y valorar la vida.",
+    "cover": "https://cuevana.pizza/resize/###/storage/12701/E5kbMvREDz1AWYRc2UKnI4koKEIwryQpUdT6vLRa.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtb3ZjcHE4N3hqbmZvLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLW93dmRwenAzM3RtNS5odG1s"
+            ]
+        },
+        {
+            "type": "cas",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtN3dtanA0OW5hYWx3Lmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLWR3b25uOXFlY292eC5odG1s"
+            ]
+        },
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtbTdlNTlhdGd5NG5wLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLWU0OWlzbWdyOW1nbi5odG1s"
+            ]
+        }
+    ],
+    "downloads": [
+        {
+            "url": "https://1fichier.com/?jcd9bhqf71az14aejjvb",
+            "type": "la"
+        },
+        {
+            "url": "https://1fichier.com/?6qrv86u5c9hg113q9wg7",
+            "type": "es"
+        },
+        {
+            "url": "https://1fichier.com/?u8eiqa52d3udrhwz7l91",
+            "type": "en"
+        }
+    ]
+}

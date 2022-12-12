@@ -1,0 +1,59 @@
+{
+    "url": "https://cuevana.pizza/pelicula/padre-por-duplicado",
+    "title": "Padre por duplicado",
+    "duration": "1h 43m",
+    "year": "2021",
+    "genres": [
+        "Comedia",
+        "Drama",
+        "Familia"
+    ],
+    "actors": [
+        "Caio Vegatti",
+        "Eduardo Moscovis",
+        "Fafá de Belém",
+        "Maisa Silva",
+        "Marcelo Médici",
+        "Rayana Diniz",
+        "Thaynara OG"
+    ],
+    "description": "Mientras su madre está en el extranjero, una joven de 18 años que lleva toda la vida en una comuna hippie se cuela en el mundo real para encontrar a su padre biológico.",
+    "cover": "https://cuevana.pizza/resize/###/storage/5709/fN7itMvLIfm1edhKkTdZEjRi5PjtJcEQE2mfKDUH.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtbmhoZGFvcms2MW0wLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLTVvYmhwdXc1Y2ZkYy5odG1s"
+            ]
+        },
+        {
+            "type": "cas",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtNHVxc3o1b2Q3M3B2Lmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLWxpY3Zmb3JnNmE0cC5odG1s"
+            ]
+        },
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtODhrczdsbGtucTJlLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLWFmdnBzaDlxNGVqby5odG1s"
+            ]
+        }
+    ],
+    "downloads": [
+        {
+            "url": "https://1fichier.com/?jcla843ckektcz3kovyt",
+            "type": "la"
+        },
+        {
+            "url": "https://1fichier.com/?3c4hwkv1fa3nxq5lagf0",
+            "type": "es"
+        },
+        {
+            "url": "https://1fichier.com/?fxkav87di2xzuija3epz",
+            "type": "en"
+        }
+    ]
+}

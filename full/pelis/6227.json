@@ -1,0 +1,56 @@
+{
+    "url": "https://cuevana.pizza/pelicula/detroit",
+    "title": "Detroit",
+    "duration": "2h 23m",
+    "year": "2017",
+    "genres": [
+        "Drama",
+        "Suspenso",
+        "Crimen"
+    ],
+    "actors": [
+        "Andrea Eversley",
+        "Bennett Deady",
+        "Chris Chalk",
+        "Mason Alban"
+    ],
+    "description": "Film ambientado durante los disturbios raciales que sacudieron la ciudad de Detroit, en el estado de Michigan, en julio de 1967. Todo comenzó con una redada de la policía en un bar nocturno sin licencia, que acabó convirtiéndose en una de las revueltas civiles más violentas de los Estados Unidos.",
+    "cover": "https://cuevana.pizza/resize/###/storage/25366/qNbMdSXdSaNjtYImqDch5HzTslRLgUy0uFZSFvgi.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtdm9zd3ExcWo0dnUxLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLW11czFkbHRoZ2I0cC5odG1s"
+            ]
+        },
+        {
+            "type": "cas",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtdXQ1bHR2Y2x5Z2diLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLTY1dGh3NjFrYWNwbi5odG1s"
+            ]
+        },
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtanUzY3BqdDZsd2ZzLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLW81ZTg4Znh5bjRpbi5odG1s"
+            ]
+        }
+    ],
+    "downloads": [
+        {
+            "url": "https://1fichier.com/?n61uw19v1gfw1j67avqs",
+            "type": "la"
+        },
+        {
+            "url": "https://1fichier.com/?efi4tf8e0wmzzmzpryab",
+            "type": "es"
+        },
+        {
+            "url": "https://1fichier.com/?xka88yxoci52en6ytz3g",
+            "type": "en"
+        }
+    ]
+}

@@ -1,0 +1,61 @@
+{
+    "url": "https://cuevana.pizza/pelicula/el-cadaver",
+    "title": "El cadáver",
+    "duration": "1h 26m",
+    "year": "2020",
+    "genres": [
+        "Drama",
+        "Misterio",
+        "Suspenso",
+        "Terror"
+    ],
+    "actors": [
+        "Gitte Witt",
+        "Thomas Gullestad",
+        "Thorbjørn Harr",
+        "Tuva Olivia Remman",
+        "Trine Wiggen",
+        "Maria Grazia Di Meo",
+        "Kingsford Siayor",
+        "Jonatan Rodriguez"
+    ],
+    "description": "Situada en un peculiar Hotel, en un futuro post apocalíptico. En dicho establecimiento se ofrecen cenas con espectáculo, mientras afuera el planeta entero pasa hambre. Una familia pobre, consigue unas entradas para pasar una noche allí, pero su sueño se convertirá en pesadilla cuando descubren que son parte del siniestro juego que los anfitriones proponen.",
+    "cover": "https://cuevana.pizza/resize/###/storage/24608/0zaovPhEZyMp4ryrL1MO4S2qGvcHAZCmIvhjN6Em.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtcDR2MjEyN2pyZmcxLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLW00eXE5a2s2eDBqdC5odG1s"
+            ]
+        },
+        {
+            "type": "cas",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtbDFuMWhuaG9sNXdvLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLXcwYmM3cTJpemJmNC5odG1s"
+            ]
+        },
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtMWpoM3B6OGIyNGNkLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLWlxNTc5ZTZwbHJpay5odG1s"
+            ]
+        }
+    ],
+    "downloads": [
+        {
+            "url": "https://1fichier.com/?xbltv4aa85uju6r0t2w7#Synchronization+Service",
+            "type": "la"
+        },
+        {
+            "url": "https://1fichier.com/?q390a0nt4bpkp81cwybq#Synchronization+Service",
+            "type": "es"
+        },
+        {
+            "url": "https://1fichier.com/?826c6fxwo4ilth92yfyd#Synchronization+Service",
+            "type": "en"
+        }
+    ]
+}

@@ -1,0 +1,52 @@
+{
+    "url": "https://cuevana.pizza/pelicula/el-hombre-sin-gravedad",
+    "title": "El Hombre Sin Gravedad",
+    "duration": "1h 47m",
+    "year": "2019",
+    "genres": [
+        "Comedia",
+        "Drama",
+        "Fantasia"
+    ],
+    "actors": [
+        "Elio Germano",
+        "Michela Cescon",
+        "Silvia D'Amico",
+        "Elena Cotta",
+        "Vincent Scarito",
+        "Pietro Pescara",
+        "Jennifer Brokshi",
+        "Andrea Pennacchi",
+        "Cristina Donadio",
+        "Dieter-Michael Grohmann",
+        "Dominique Lombardo",
+        "Francesco Procopio",
+        "Salvio Simeoli",
+        "Agnieszka Jania",
+        "Balkissa Souley Maiga",
+        "Giorgia Spinelli",
+        "Jean-Marie De Bol",
+        "Maria Angela Tonetti",
+        "Chiara Ingrosso",
+        "Chiara Sartori"
+    ],
+    "description": "Un pequeño desafiante de la gravedad criado en reclusión se transforma en un hombre excepcional, y una celebridad internacional, que ansía la conexión humana. El hombre sin gravedad , la película dirigida por Marco Bonfanti, está protagonizada por Oscar ( Elio Germano ), natural de la clínica de un pequeño pueblo, a lo largo de una noche turbulenta. Oscar muestra una característica particular desde las primeras horas de vida: flota en el aire tal y como si no tuviese peso.",
+    "cover": "https://cuevana.pizza/resize/###/storage/18429/o8AsXe6spgBSPyVjiFNqyK415UTVCnqvVuLLLsqn.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtNW9penZmaGV0bXV0Lmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLXFwbzVuamp2OGJtcS5odG1s"
+            ]
+        },
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtM3ZwOWdpbmgwa3hvLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLTBuNjc3bjRjNzlzay5odG1s"
+            ]
+        }
+    ],
+    "downloads": []
+}

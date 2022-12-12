@@ -1,0 +1,32 @@
+{
+    "url": "https://cuevana.pizza/pelicula/derren-brown-sacrifice",
+    "title": "Derren Brown: Sacrifice",
+    "duration": "0h 49m",
+    "year": "2018",
+    "genres": [
+        "Documental",
+        "Reality-TV"
+    ],
+    "actors": [
+        "Derren Brown"
+    ],
+    "description": "El ilusionista Derren Brown inventa un experimento psicológico en el que trata de manipular a una persona común para que reciba una bala en lugar de un extraño.",
+    "cover": "https://cuevana.pizza/resize/###/storage/21441/TNycUbJfCboCEwxcAJHxBbJioRxKsmRZbnL2mGJ5.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtNHY5eWM0MThyNGlqLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLW80aHJyeDVyaW80cy5odG1s"
+            ]
+        },
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtNmt5amwzaHJuN2F2Lmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLTBmejdvaDd5a256OC5odG1s"
+            ]
+        }
+    ],
+    "downloads": []
+}

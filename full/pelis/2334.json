@@ -1,0 +1,59 @@
+{
+    "url": "https://cuevana.pizza/pelicula/time-is-up",
+    "title": "Time Is Up",
+    "duration": "1h 20m",
+    "year": "2021",
+    "genres": [
+        "Drama",
+        "Romance"
+    ],
+    "actors": [
+        "Bella Thorne",
+        "Benjamin Mascolo",
+        "Sebastiano Pigazzi",
+        "Bonnie Baddoo",
+        "Giampiero Judica",
+        "Robert Davide",
+        "Nikolay Moss",
+        "Giulio Brizzi"
+    ],
+    "description": "Un accidente obliga a Vivien y Royan a reajustar sus vidas poco a poco y a empezar a vivir en un presente que quizá se muestre más estimulante que todo lo predefinido.",
+    "cover": "https://cuevana.pizza/resize/###/storage/13465/Wl4pvk3p8zPkMK4OeUFw9UBmC6zCU8o7rVuc2VXN.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtNGo2dno2bmE2YWVsLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLTJrcDhoMXF0bm9tNi5odG1s"
+            ]
+        },
+        {
+            "type": "cas",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtMTdyNWNrOGo2MzAyLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLWswZmJuYmFwejlqai5odG1s"
+            ]
+        },
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtOTVmdm5yM2UyeXh2Lmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLXU2dWo4N21rMDRwdS5odG1s"
+            ]
+        }
+    ],
+    "downloads": [
+        {
+            "url": "https://1fichier.com/?ofe9j5oxv2s371igqvy9",
+            "type": "la"
+        },
+        {
+            "url": "https://1fichier.com/?1hgedjbxcsw0kbbz0ubw",
+            "type": "es"
+        },
+        {
+            "url": "https://1fichier.com/?6u0z5fgfrl2n0pp955dz",
+            "type": "en"
+        }
+    ]
+}

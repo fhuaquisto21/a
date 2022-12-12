@@ -1,0 +1,59 @@
+{
+    "url": "https://cuevana.pizza/pelicula/una-pareja-despareja",
+    "title": "Atrapa a un ladrón",
+    "duration": "1h 47m",
+    "year": "2016",
+    "genres": [
+        "Accion",
+        "Comedia",
+        "Aventura"
+    ],
+    "actors": [
+        "Jackie Chan",
+        "Johnny Knoxville",
+        "Fan Bingbing",
+        "Eric Tsang",
+        "Eve Torres",
+        "Winston Chao",
+        "Jeong-hun Yeon",
+        "Shi Shi",
+        "Michael Wong Man-Tak",
+        "Dylan Kuo",
+        "Zhang Lanxin",
+        "Na Wei",
+        "Charlie Rawes",
+        "Mikhail Gorevoy",
+        "Sara Forsberg",
+        "Jai Day",
+        "Richard Ng",
+        "Wang Xiaomin",
+        "Sabrina Qiu",
+        "Johnson Phan"
+    ],
+    "description": "Un detective de Hong Kong se une a un jugador americano para enfrentar a un notorio criminal chino.",
+    "cover": "https://cuevana.pizza/resize/###/storage/26964/5bz2xxQ9zWqra1YN9yhZQT9tE3depCXYHhjrAe1W.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtM3I2enkydzA3aTJyLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLXJzM2Qwbm0zc3dmYS5odG1s"
+            ]
+        },
+        {
+            "type": "cas",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtbnZhaHMwM2lxOTdvLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLWg4dnNpNnNsajE1Zi5odG1s"
+            ]
+        },
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtcWdhcGVzczkwbzVqLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLTdya2xsczA3dTdneC5odG1s"
+            ]
+        }
+    ],
+    "downloads": []
+}

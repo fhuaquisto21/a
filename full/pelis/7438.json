@@ -1,0 +1,71 @@
+{
+    "url": "https://cuevana.pizza/pelicula/vacaciones",
+    "title": "Vacaciones",
+    "duration": "1h 39m",
+    "year": "2015",
+    "genres": [
+        "Comedia",
+        "Aventura"
+    ],
+    "actors": [
+        "Ed Helms",
+        "Christina Applegate",
+        "Skyler Gisondo",
+        "Chevy Chase",
+        "Charlie Day",
+        "Miles Doleac",
+        "Chris Hemsworth",
+        "Leslie Mann",
+        "Steele Stebbins",
+        "Beverly D'Angelo",
+        "Catherine Missal",
+        "Ron Livingston",
+        "Norman Reedus",
+        "Elizabeth Gillies",
+        "Keegan-Michael Key",
+        "Regina Hall",
+        "Nadine Avola",
+        "Brandon Michael Hale",
+        "Nick Kroll",
+        "Tim Heidecker"
+    ],
+    "description": "La siguiente generación de Griswolds se embarca en otra aventura malograda. Siguiendo los pasos de su padre y en espera de poder fortalecer la necesitada unión familiar, el ya adulto Rusty Griswold sorprende a su esposa Debbie y a sus dos hijos con un viaje a través del país de regreso a Walley World, el \"parque de diversiones favorito de los Estados Unidos\".",
+    "cover": "https://cuevana.pizza/resize/###/storage/26744/0hOzlFhfyTVxVL6taqVtDWcg8HEodZKofMyKKYih.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtYmE4bXBxZ3p5OWc0Lmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLWM5aDVvZmVzcjFpaS5odG1s"
+            ]
+        },
+        {
+            "type": "cas",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtcjZwOWZ2cGJvM2ZuLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLXBwMGl6NWFwczJqMy5odG1s"
+            ]
+        },
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtNTBpdmV1a3pqMGRwLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLWI0OHFneHAwd2V6Ny5odG1s"
+            ]
+        }
+    ],
+    "downloads": [
+        {
+            "url": "https://1fichier.com/?jby4ljpjartvkpt31iza",
+            "type": "la"
+        },
+        {
+            "url": "https://1fichier.com/?t65m215iqipxygmp2fqy",
+            "type": "es"
+        },
+        {
+            "url": "https://1fichier.com/?ve0sxs78f6tbggjb8wis",
+            "type": "en"
+        }
+    ]
+}

@@ -1,0 +1,53 @@
+{
+    "url": "https://cuevana.pizza/pelicula/sherlock-holmes",
+    "title": "Sherlock Holmes",
+    "duration": "2h 9m",
+    "year": "2009",
+    "genres": [
+        "Accion",
+        "Misterio",
+        "Crimen",
+        "Aventura"
+    ],
+    "actors": [
+        "Robert Downey Jr.",
+        "Jude Law",
+        "Rachel McAdams",
+        "Mark Strong",
+        "Eddie Marsan",
+        "Robert Maillet",
+        "Geraldine James",
+        "Kelly Reilly",
+        "William Houston",
+        "Hans Matheson",
+        "James Fox",
+        "William Hope",
+        "Clive Russell",
+        "Oran Gurel",
+        "David Garrick",
+        "Ky Discala",
+        "Andrew Brooke",
+        "Tom Watt",
+        "John Kearney",
+        "Sebastian Abineri"
+    ],
+    "description": "Los detectives más famosos de Londres, Sherlock Holmes (Dominic Keating) y su compañero el Dr. John H. Watson (Gareth David-Lloyd), se medirán al mayor desafío de sus vidas al hacer frente al ataque de varios monstruos gigantes.",
+    "cover": "https://cuevana.pizza/resize/###/storage/29096/H79NAO8vE5L1pQkuIT4UAzScCwEQbwJ4EvWKzCLW.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtZzRrN3poYzFsOW82Lmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLTBtNWxpZGg3MmZrei5odG1s"
+            ]
+        },
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtOTEzNjRwanRwcDR6Lmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLTVtMXM4bDgyNjgzNy5odG1s"
+            ]
+        }
+    ],
+    "downloads": []
+}

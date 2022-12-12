@@ -1,0 +1,43 @@
+{
+    "url": "https://cuevana.pizza/pelicula/the-golem",
+    "title": "The Golem",
+    "duration": "1h 35m",
+    "year": "2018",
+    "genres": [
+        "Terror"
+    ],
+    "actors": [
+        "Hani Furstenberg",
+        "Ishai Golan",
+        "Alex Tritenko",
+        "Lenny Ravich",
+        "Brynie Furstenberg",
+        "Konstantin Anikienko"
+    ],
+    "description": "Una mujer invoca a una extraña criatura para defender a su pueblo judío de una invasión de extranjeros. Sin embargo, pronto se da cuenta de que la fuerza del espíritu es superior a lo que imaginaba en un principio, por lo que pierde el control sobre él. La historia se basa en un antiguo mito judío.",
+    "cover": "https://cuevana.pizza/resize/###/storage/26068/SthPvUyJxE6y3hVyFaqXiOq72qkKudbnKawGAxO6.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtNGVhOGxyeXh6cWQ5Lmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLWszeWdsYTU4NGpmbC5odG1s"
+            ]
+        },
+        {
+            "type": "cas",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtYjRzNWg3N282MDNoLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLWF4ZTM4b2FyamgxNC5odG1s"
+            ]
+        },
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtN3pjMWkwbXI0YXlnLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLWQ3NzVmMHJwM25oeS5odG1s"
+            ]
+        }
+    ],
+    "downloads": []
+}

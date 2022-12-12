@@ -1,0 +1,50 @@
+{
+    "url": "https://cuevana.pizza/pelicula/historias-cruzadas",
+    "title": "Historias Cruzadas",
+    "duration": "2h 26m",
+    "year": "2011",
+    "genres": [
+        "Drama"
+    ],
+    "actors": [
+        "Emma Stone",
+        "Viola Davis",
+        "Octavia Spencer",
+        "Bryce Dallas Howard",
+        "Jessica Chastain",
+        "Anna Camp",
+        "Ahna O'Reilly",
+        "Allison Janney",
+        "Mary Steenburgen",
+        "Mike Vogel",
+        "Sissy Spacek",
+        "Chris Lowell",
+        "Cicely Tyson",
+        "Aunjanue Ellis",
+        "David Oyelowo",
+        "Dana Ivey",
+        "LaChanze",
+        "Brian Kerwin",
+        "Wes Chatham",
+        "Ted Welch"
+    ],
+    "description": "Mississippi, años 60. Skeeter (Emma Stone) es una joven sureña que regresa de la universidad decidida a convertirse en escritora. Su llegada altera la vida de la ciudad e incluso la de sus amigos porque se ha propuesto entrevistar a las mujeres negras que se han pasado la vida al servicio de las grandes familias sufriendo todas las formas de discriminación racial.",
+    "cover": "https://cuevana.pizza/resize/###/storage/28953/Mzcq2WrvELFtfjDoQ8ctvTmEYqLUcZFxArVn3CNZ.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtZmp6dDh4OWNoNnlnLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLTc5ZXUydWZ2ZHB0dS5odG1s"
+            ]
+        },
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtYXFkZ2ptMnBhc3NmLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLTlqMjlmY2FxMDFrdC5odG1s"
+            ]
+        }
+    ],
+    "downloads": []
+}

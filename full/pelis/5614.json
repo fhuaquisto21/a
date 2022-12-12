@@ -1,0 +1,50 @@
+{
+    "url": "https://cuevana.pizza/pelicula/blood-brother",
+    "title": "Blood Brother",
+    "duration": "1h 30m",
+    "year": "2018",
+    "genres": [
+        "Accion",
+        "Drama",
+        "Suspenso",
+        "Crimen"
+    ],
+    "actors": [
+        "Trey Songz",
+        "Jack Kesy",
+        "China Anne McClain",
+        "Chelle Ramos",
+        "Hassan Johnson",
+        "Fetty Wap",
+        "J.D. Williams",
+        "Joy Lofton",
+        "Bill Martin Williams",
+        "Ron Killings",
+        "Lindsay Musil",
+        "Tanee McCall",
+        "Tony Donno",
+        "Tim Bell",
+        "Ann McKenzie",
+        "Rajeev Jacob",
+        "Noëlle Renée Bercy"
+    ],
+    "description": "Un convicto que ha sido liberado luego de ser culpado por un delito que cometió con sus amigos de la infancia, busca vengarse de ellos cueste lo que cueste.",
+    "cover": "https://cuevana.pizza/resize/###/storage/21874/REHSBEBHyPNyK57T0yg3teETUtJDYQjiS6DkNp7u.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtamhvcDJiOXp6ZWR2Lmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLWtjdnBtbGV4dW1qOS5odG1s"
+            ]
+        },
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQteHJyaTZyZTBpaGZ0Lmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLWNtMXc1eHJ1YWFhbi5odG1s"
+            ]
+        }
+    ],
+    "downloads": []
+}

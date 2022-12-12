@@ -1,0 +1,50 @@
+{
+    "url": "https://cuevana.pizza/pelicula/10x10",
+    "title": "10x10",
+    "duration": "1h 28m",
+    "year": "2018",
+    "genres": [
+        "Suspenso"
+    ],
+    "actors": [
+        "Luke Evans",
+        "Kelly Reilly",
+        "Noel Clarke",
+        "Olivia Chenery",
+        "Jason Maza",
+        "Ruby Bustamante",
+        "Jill Winternitz",
+        "Benjamin Hoetjes",
+        "Skye Lucia Degruttola",
+        "Hilary Agostini",
+        "John Michael Morris",
+        "Kevin Matadeen",
+        "Princess Elmore",
+        "Stacy Hall",
+        "Keila J. Brown",
+        "Norma Dixit",
+        "Miles Webb",
+        "Mike Kelson",
+        "Jackson Kai",
+        "Christian Blaque Meier"
+    ],
+    "description": "Lewis (Luke Evans) es un tipo aparentemente normal, pero en realidad está ocultando una obsesión, una venganza contra Cathy (Kelly Reilly). Lewis secuestra a Cathy a plena luz del día y la lleva a su casa, donde la encierra en una celda insonorizada e intenta extraer un oscuro secreto de su pasado.",
+    "cover": "https://cuevana.pizza/resize/###/storage/23446/p4iEoGfHfREcPsBbiaK4dkQJDSRCvZKVjr7Js5D9.jpg",
+    "players": [
+        {
+            "type": "cas",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQteGZxaXh3NGdqOXB2Lmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLWw5ZTg1cGZ5azJvbC5odG1s"
+            ]
+        },
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQteXJrazM3MTV3b3l2Lmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLTF1bmF1NTcweTVnNy5odG1s"
+            ]
+        }
+    ],
+    "downloads": []
+}

@@ -1,0 +1,54 @@
+{
+    "url": "https://cuevana.pizza/pelicula/helene",
+    "title": "Helene",
+    "duration": "2h 1m",
+    "year": "2020",
+    "genres": [
+        "Drama",
+        "Romance"
+    ],
+    "actors": [
+        "Aarne Soro",
+        "Andrei Alén",
+        "Ann Reimann",
+        "Eero Aho",
+        "Elise Potmann",
+        "Inger Liis Savi",
+        "Jan Korander",
+        "Jarkko Lahti",
+        "Johannes Holopainen",
+        "Juhan Ulfsak",
+        "Krista Kosonen",
+        "Kristjan Üksküla",
+        "Kristo Viiding",
+        "Lars Uus"
+    ],
+    "description": "Biopic de la mejor pintora finlandesa de la historia, Helene Schjerfbeck. Un drama ambientado entre los años 1915 y 1923.",
+    "cover": "https://cuevana.pizza/resize/###/storage/23730/OLlPYsTpeMcnKxX0kY9SCNdQJQsW1ZnvvvhZ4gEv.jpg",
+    "players": [
+        {
+            "type": "cas",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtMmRrazQ2NTVzZ21kLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLTF1c2k2aWR6bHM2Zi5odG1s"
+            ]
+        },
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtaHo2bno3ZnlkcnU0Lmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLW54Y3EzZWlmcGpsMS5odG1s"
+            ]
+        }
+    ],
+    "downloads": [
+        {
+            "url": "https://1fichier.com/?p5vz4mlrk5hdt52p4ygf",
+            "type": "es"
+        },
+        {
+            "url": "https://1fichier.com/?jk9re1wn4oketll6pfkl",
+            "type": "en"
+        }
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "url": "https://cuevana.pizza/pelicula/long-lost",
+    "title": "Long Lost",
+    "duration": "1h 34m",
+    "year": "2019",
+    "genres": [
+        "Drama",
+        "Misterio",
+        "Suspenso"
+    ],
+    "actors": [
+        "Adam Weppler",
+        "Catherine Corcoran",
+        "Nicholas Tucci",
+        "Fran Kranz"
+    ],
+    "description": "Cuando Seth recibe una misteriosa carta que lo invita a pasar el fin de semana en una mansión aislada en el campo, pronto se da cuenta de que las personas dentro de la casa lo conocen mejor que él mismo.",
+    "cover": "https://cuevana.pizza/resize/###/storage/22761/Ex3T8EVwnUjAj9tQlkXUAJiU8r39L8iLUm7qeqBv.jpg",
+    "players": [
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtaTIycng5ZnJsNjMyLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLTh2amlseHhjNDdhcS5odG1s"
+            ]
+        }
+    ],
+    "downloads": []
+}

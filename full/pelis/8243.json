@@ -1,0 +1,52 @@
+{
+    "url": "https://cuevana.pizza/pelicula/el-quinto-elemento",
+    "title": "El quinto elemento",
+    "duration": "2h 7m",
+    "year": "1997",
+    "genres": [
+        "Accion",
+        "Ciencia Ficcion",
+        "Aventura"
+    ],
+    "actors": [
+        "Bruce Willis",
+        "Milla Jovovich",
+        "Gary Oldman",
+        "Ian Holm",
+        "Chris Tucker",
+        "Luke Perry",
+        "Brion James",
+        "Tom 'Tiny' Lister Jr.",
+        "Lee Evans",
+        "Charlie Creed-Miles",
+        "Tricky",
+        "John Neville",
+        "John Bluthal",
+        "Mathieu Kassovitz",
+        "Christopher Fairbank",
+        "Kim Chan",
+        "Richard Leaf",
+        "Julie T. Wallace",
+        "Al Matthews",
+        "Maïwenn"
+    ],
+    "description": "Ambientada en el futuro, un taxista sin darse cuenta se convierte en la figura central en la búsqueda de un arma legendaria cósmica que evite una gran catástrofe.",
+    "cover": "https://cuevana.pizza/resize/###/storage/29952/2yAvB21YaBYGIoxx5q8iAtOU9RLdRZMyfXK20FyT.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtZnZvdzhzaGswYTl4Lmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLWNnbHc5b2VnZTB3NS5odG1s"
+            ]
+        },
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtZWkwM2M0NXk0eHg0Lmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLXB3dzhmeGFvcWdjai5odG1s"
+            ]
+        }
+    ],
+    "downloads": []
+}

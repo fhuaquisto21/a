@@ -1,0 +1,50 @@
+{
+    "url": "https://cuevana.pizza/pelicula/delicioso",
+    "title": "Delicioso",
+    "duration": "1h 52m",
+    "year": "2021",
+    "genres": [
+        "Comedia",
+        "Historia"
+    ],
+    "actors": [
+        "Isabelle Carré",
+        "Grégory Gadebois",
+        "Benjamin Lavernhe",
+        "Guillaume de Tonquédec",
+        "Christian Bouillette",
+        "Lorenzo Lefèbvre",
+        "Marie-Julie Baup",
+        "Laurent Bateau",
+        "Félix Fournier",
+        "François de Brauer"
+    ],
+    "description": "Francia, 1789, justo antes de la Revolución Francesa. Con la ayuda de una mujer inesperada, un chef que ha sido despedido por su jefe encuentra el valor para abrir un restaurante por sí solo.",
+    "cover": "https://cuevana.pizza/resize/###/storage/13718/fjC5DC7WqDgBKsdjdT57u9XNErmUkyWyz4W90ujs.jpg",
+    "players": [
+        {
+            "type": "cas",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtam4xZnY1M3Z2aXBvLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLThodmN4OXMybDVvNy5odG1s"
+            ]
+        },
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtejRibG1xY2dmZnJrLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLTMxb3dtZW8zMnVkeC5odG1s"
+            ]
+        }
+    ],
+    "downloads": [
+        {
+            "url": "https://1fichier.com/?274oaym6g9xubl8bka6g",
+            "type": "es"
+        },
+        {
+            "url": "https://1fichier.com/?z3wnuyllp8iz4n0ebdil",
+            "type": "en"
+        }
+    ]
+}

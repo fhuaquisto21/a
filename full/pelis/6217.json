@@ -1,0 +1,53 @@
+{
+    "url": "https://cuevana.pizza/pelicula/superagente-canino",
+    "title": "Superagente canino",
+    "duration": "1h 40m",
+    "year": "2018",
+    "genres": [
+        "Comedia",
+        "Crimen",
+        "Aventura",
+        "Familia"
+    ],
+    "actors": [
+        "Will Arnett",
+        "Ludacris",
+        "Natasha Lyonne",
+        "Jordin Sparks",
+        "Gabriel Iglesias",
+        "Shaquille O'Neal",
+        "Omar Chaparro",
+        "Stanley Tucci",
+        "Oliver Tompsett",
+        "Andy Beckwith",
+        "RuPaul",
+        "Alan Cumming",
+        "Anders Holm",
+        "Blake Anderson",
+        "Delia Sheppard",
+        "Kate Micucci",
+        "Bern Collaço",
+        "Kerry Shale",
+        "Cristina Dohmen",
+        "Daniel Eghan"
+    ],
+    "description": "Un detective encuentra aventuras con su improbable compañero, un policía canino que tiene que esconderse en la exposición canina más exclusiva del mundo.",
+    "cover": "https://cuevana.pizza/resize/###/storage/23341/TQGgnYJ1vHqGHnfxJQ98F45wKXo9OVDOFEdw5sak.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtdzB1YTRxa252bHJzLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLWl4d3dwdmswemI4Yi5odG1s"
+            ]
+        },
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtZnB4Z2Y3bjduY2llLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLXJ2ODBmb2Zrc2ljOS5odG1s"
+            ]
+        }
+    ],
+    "downloads": []
+}

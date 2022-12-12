@@ -1,0 +1,52 @@
+{
+    "url": "https://cuevana.pizza/pelicula/desmelenada",
+    "title": "Desmelenada",
+    "duration": "1h 40m",
+    "year": "2018",
+    "genres": [
+        "Comedia",
+        "Drama",
+        "Romance"
+    ],
+    "actors": [
+        "Sanaa Lathan",
+        "Ricky Whittle",
+        "Ernie Hudson",
+        "Camille Guaty",
+        "Lyriq Bent",
+        "Lynn Whitfield",
+        "Catherine Dyer",
+        "Brittany S. Hall",
+        "Racquel Bianca John",
+        "Tracey Bonner",
+        "Jen Harper",
+        "Danielle Lyn",
+        "Kiley Casciano",
+        "Maurie A. Chandler",
+        "Bo Yokely",
+        "Benjamin Weaver",
+        "Kai N. Ture",
+        "George Lott",
+        "Austin Chunn",
+        "Shatoya McClintock"
+    ],
+    "description": "Violet tiene el trabajo perfecto, la relación perfecta y hasta el pelo perfecto. Hasta que deja de tenerlo. ¿Qué pasa cuando la perfección no es suficiente?",
+    "cover": "https://cuevana.pizza/resize/###/storage/21369/PkTzS7tAbytrnJsyxSM41LFl73fh9ooDujpxKrhA.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtbmw2Ynk2cGxlOThuLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLXZ1ZHBncDh3M3EweS5odG1s"
+            ]
+        },
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtbjFvMnJkNzM0bmZtLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLTQ1dzk1ZXl4MjludC5odG1s"
+            ]
+        }
+    ],
+    "downloads": []
+}

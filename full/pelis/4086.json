@@ -1,0 +1,44 @@
+{
+    "url": "https://cuevana.pizza/pelicula/reunion",
+    "title": "Reunion",
+    "duration": "1h 35m",
+    "year": "2020",
+    "genres": [
+        "Terror"
+    ],
+    "actors": [
+        "Cohen Holloway",
+        "Emma Draper",
+        "John Bach",
+        "Julia Ormond",
+        "Nancy Brunning"
+    ],
+    "description": "Una mujer embarazada regresa a la antigua casa familiar de sus abuelos recientemente fallecidos para pasar tiempo con su madre separada. Lo que comienza como una reunión tenue se vuelve lentamente aterradora.",
+    "cover": "https://cuevana.pizza/resize/###/storage/23771/LQuzccEJt2e6Y9JwM8pZMA8ruYtKwQx1lXhduXP2.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtM3A5NGZ3cHBiczBtLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLThnajdiZzBvNHhjYS5odG1s"
+            ]
+        },
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtdW02cXFwenRqZzB1Lmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLWdrcjQwc2ZrZHczOC5odG1s"
+            ]
+        }
+    ],
+    "downloads": [
+        {
+            "url": "https://1fichier.com/?uszirg3ec5cck1qaaafh",
+            "type": "la"
+        },
+        {
+            "url": "https://1fichier.com/?whnrc8z0v4rqj97zzzpv",
+            "type": "en"
+        }
+    ]
+}

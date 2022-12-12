@@ -1,0 +1,61 @@
+{
+    "url": "https://cuevana.pizza/pelicula/navidad-en-8-bits",
+    "title": "Navidad en 8 bits",
+    "duration": "1h 37m",
+    "year": "2021",
+    "genres": [
+        "Comedia",
+        "Familia"
+    ],
+    "actors": [
+        "Neil Patrick Harris",
+        "Winslow Fegley",
+        "June Diane Raphael",
+        "David Cross",
+        "Steve Zahn",
+        "Jacob Laval",
+        "Santino Barnard",
+        "Jackson Reid",
+        "Chandler Dean",
+        "Johnathan'tae Sturgess"
+    ],
+    "description": "En el Chicago de los 80, un niño de diez años emprende una búsqueda para obtener el regalo estrella de Navidad de su generación: el último y mejor sistema de videojuegos.",
+    "cover": "https://cuevana.pizza/resize/###/storage/12620/q7utuMKxwAl22HkqkOE7PEbRgDXbXT0PNWRJ8PIt.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtcW5vODNvOGVnYmh3Lmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLXVhMTh6M2g4NG1mbC5odG1s"
+            ]
+        },
+        {
+            "type": "cas",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtNTY0ejE1cHZ1eGdvLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLW1pbW5kcGhoeXJtbC5odG1s"
+            ]
+        },
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtczhpaDN1OWdmcWNzLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLXZkcGN6YXY4cmFncy5odG1s"
+            ]
+        }
+    ],
+    "downloads": [
+        {
+            "url": "https://1fichier.com/?5ncf1wycoxmbpv8reke1",
+            "type": "la"
+        },
+        {
+            "url": "https://1fichier.com/?3kmmsz55ejzirn4kmiq4",
+            "type": "es"
+        },
+        {
+            "url": "https://1fichier.com/?hisp4zonxdxjskgz5vba",
+            "type": "en"
+        }
+    ]
+}

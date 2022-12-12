@@ -1,0 +1,57 @@
+{
+    "url": "https://cuevana.pizza/pelicula/mank",
+    "title": "Mank",
+    "duration": "2h 12m",
+    "year": "2020",
+    "genres": [
+        "Comedia",
+        "Drama",
+        "Biografia",
+        "Historia"
+    ],
+    "actors": [
+        "Gary Oldman",
+        "Amanda Seyfried",
+        "Charles Dance",
+        "Lily Collins"
+    ],
+    "description": "Mientras va tratando de realmente terminar de escribir la novela llamada \"Ciudadano Kane\", y de la mano va intentando y poco a poco a lidiar con sus graves problemas con el alcohol, el asombroso guionista Herman Mankiewicz es testigo de la convulsa realidad que se tiene que vivir como actor en Hollywood, sobretodo en la década de 1930.",
+    "cover": "https://cuevana.pizza/resize/###/storage/24232/6LllvgTXvoT1UfXwNKUR6CiJjR7OF7VinzlplcyK.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtY2g4cXMwNGJyZjI2Lmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLWUzamFpZnA0enRwcC5odG1s"
+            ]
+        },
+        {
+            "type": "cas",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtZTM5NzNhOWRnenUyLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLWIzaTl5dG5ocDRuNS5odG1s"
+            ]
+        },
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtb2JkenU1eWMybDF2Lmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLXFkYWNlcXgzaTk4My5odG1s"
+            ]
+        }
+    ],
+    "downloads": [
+        {
+            "url": "https://1fichier.com/?icjn0ty9uwp2rvas7n7c#Synchronization+Service",
+            "type": "la"
+        },
+        {
+            "url": "https://1fichier.com/?cgzn9v5x7htajaiv2am2#Synchronization+Service",
+            "type": "es"
+        },
+        {
+            "url": "https://1fichier.com/?2i0xtl56os6bmfstuv2z#Synchronization+Service",
+            "type": "en"
+        }
+    ]
+}

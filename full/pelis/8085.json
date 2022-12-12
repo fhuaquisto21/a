@@ -1,0 +1,51 @@
+{
+    "url": "https://cuevana.pizza/pelicula/p-d-te-amo",
+    "title": "Posdata: Te quiero",
+    "duration": "2h 6m",
+    "year": "2007",
+    "genres": [
+        "Drama",
+        "Romance"
+    ],
+    "actors": [
+        "Hilary Swank",
+        "Gerard Butler",
+        "Lisa Kudrow",
+        "Harry Connick Jr.",
+        "Gina Gershon",
+        "Jeffrey Dean Morgan",
+        "Kathy Bates",
+        "James Marsters",
+        "Nellie McKay",
+        "Anne Kent",
+        "Brian McGrath",
+        "Dean Winters",
+        "Sherie Rene Scott",
+        "Susan Blackwell",
+        "Michael Countryman",
+        "Roger Rathburn",
+        "Rita Gardner",
+        "Brian Munn",
+        "Shepherd Frankel",
+        "Mike Doyle"
+    ],
+    "description": "Holly Kennedy es una joven viuda que trata de encauzar nuevamente su vida tras la muerte de su amado marido Gerry, fallecido de una enfermedad. Entonces descubre que éste le ha dejado escritas varias cartas...",
+    "cover": "https://cuevana.pizza/resize/###/storage/28844/6jN7a8CiPSizGhbXHOSrxRX1Mj9xzUp4LjIAEkZL.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtcHlodTV4NHJubjgyLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLXRvcnczZ2Rzbm1lcC5odG1s"
+            ]
+        },
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtNGZic3JrcWMydHQ3Lmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLXJ3dmdkY256bjZ3ZS5odG1s"
+            ]
+        }
+    ],
+    "downloads": []
+}

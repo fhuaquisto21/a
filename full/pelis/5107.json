@@ -1,0 +1,35 @@
+{
+    "url": "https://cuevana.pizza/pelicula/house-arrest",
+    "title": "Prisionero en casa",
+    "duration": "1h 44m",
+    "year": "2019",
+    "genres": [
+        "Comedia"
+    ],
+    "actors": [
+        "Ali Fazal",
+        "Shriya Pilgaonkar",
+        "Jim Sarbh",
+        "Barkha Singh",
+        "Sunil Kumar"
+    ],
+    "description": "Un hombre harto del mundo decide encerrarse en casa, pero todo da un giro divertidísimo con la llegada de un paquete sospechoso y la aparición de una curiosa periodista.",
+    "cover": "https://cuevana.pizza/resize/###/storage/20485/NXAYXRRyOoqub73o1gzuheHcmiJlZYWuA3nF0O5W.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQteDN4NGZ2OWUwZ3d6Lmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLW9zNnBrd3h5cHM4by5odG1s"
+            ]
+        },
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtdzFwZ2RlMWxlOThiLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLTVoZTBnYmZ6NXI3Zi5odG1s"
+            ]
+        }
+    ],
+    "downloads": []
+}

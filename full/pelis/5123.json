@@ -1,0 +1,48 @@
+{
+    "url": "https://cuevana.pizza/pelicula/nancy-drew-y-la-escalera-escondida",
+    "title": "Nancy Drew y la Escalera Escondida",
+    "duration": "1h 29m",
+    "year": "2019",
+    "genres": [
+        "Comedia",
+        "Drama",
+        "Misterio",
+        "Crimen",
+        "Familia"
+    ],
+    "actors": [
+        "Sophia Lillis",
+        "Sam Trammell",
+        "Linda Lavin",
+        "Zoe Renee",
+        "Mackenzie Graham",
+        "Laura Slade Wiggins",
+        "Andrea Anders",
+        "Jesse C. Boyd",
+        "Jay DeVon Johnson",
+        "Andrew Matthew Welch",
+        "Jon Briddell",
+        "Josh Daugherty",
+        "Evan Castelloe",
+        "Jennifer Riker"
+    ],
+    "description": "Nancy (Sophia Lillis), una extraña que trata de encajar en el nuevo ambiente en el que se mueve, trata de resolver un misterio con la ayuda de sus amigos al mismo tiempo que busca su lugar en la comunidad donde ahora reside.",
+    "cover": "https://cuevana.pizza/resize/###/storage/3342/woZJAImXjcdw3cW8I6V3HiQkMdxlOMpSUyb3riTO.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtZmp2aGJub2I2MTNkLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLXlyajJzc2JwYmxsdi5odG1s"
+            ]
+        },
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtc2hya2hobXFpYnRjLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLTU4dnJ3cm54dGw3ei5odG1s"
+            ]
+        }
+    ],
+    "downloads": []
+}

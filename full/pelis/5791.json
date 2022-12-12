@@ -1,0 +1,46 @@
+{
+    "url": "https://cuevana.pizza/pelicula/been-so-long",
+    "title": "Been so long: Y todo cambió",
+    "duration": "1h 40m",
+    "year": "2018",
+    "genres": [
+        "Musical"
+    ],
+    "actors": [
+        "Michaela Coel",
+        "Arinzé Kene",
+        "Ronkẹ Adékoluẹjo",
+        "George MacKay",
+        "Joe Dempsie",
+        "Luke Norris",
+        "Arsher Ali",
+        "Ashley Thomas",
+        "Sophia La Porta",
+        "Rakie Ayola",
+        "Frieda Thiel",
+        "Tom Forbes",
+        "Jo Martin",
+        "Genevieve Barr",
+        "Jamilla Wingett",
+        "Junade Khan"
+    ],
+    "description": "Simone es una joven madre soltera de Londres que, durante una noche que sale por Camden Town, conoce y se enamora de Raymond, un atractivo desconocido que no quiere comentar su pasado.",
+    "cover": "https://cuevana.pizza/resize/###/storage/25597/GNpA8zbv8UmQP4ZulXjxXkXMI0NriJ8yX9BWcVGV.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtMzNjdXBqZ2tuNW1uLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLThlZm9pMGUxZnhiay5odG1s"
+            ]
+        },
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtbGVqZDFrbjY5Y2Z1Lmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLWF1c3htN3R2cHV6Mi5odG1s"
+            ]
+        }
+    ],
+    "downloads": []
+}

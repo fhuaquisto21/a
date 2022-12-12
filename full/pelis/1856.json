@@ -1,0 +1,58 @@
+{
+    "url": "https://cuevana.pizza/pelicula/x",
+    "title": "X",
+    "duration": "1h 46m",
+    "year": "2022",
+    "genres": [
+        "Misterio",
+        "Suspenso",
+        "Terror"
+    ],
+    "actors": [
+        "Mia Goth",
+        "Jenna Ortega",
+        "Brittany Snow",
+        "Kid Cudi",
+        "Martin Henderson",
+        "Owen Campbell",
+        "Stephen Ure",
+        "James Gaylyn",
+        "Simon Prast",
+        "Matthew Saville"
+    ],
+    "description": "En 1979, un grupo de jóvenes cineastas se propusieron hacer una película para adultos en la zona rural de Texas, pero cuando sus anfitriones solitarios y ancianos los atrapan en el acto, el elenco pronto se encuentra en una lucha desesperada por sus vidas.",
+    "cover": "https://cuevana.pizza/resize/###/storage/18169/vH0s4HpEJgGRwBnercqziMfRfZgfYBin9RlCucwe.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtaDU0ZWF1eDVycHNxLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLTQwMWFzZ3IxaGkzbC5odG1s"
+            ]
+        },
+        {
+            "type": "cas",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtZHRyd2UzdmE5cjg0Lmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLXc5NHczZG52aDNvby5odG1s"
+            ]
+        },
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtbjg5Mzc5dHg5MXg5Lmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLTRuZDlzY2cyemo5NC5odG1s"
+            ]
+        }
+    ],
+    "downloads": [
+        {
+            "url": "https://1fichier.com/?kcya3bxqlojgzbivbdy3",
+            "type": "es"
+        },
+        {
+            "url": "https://1fichier.com/?0sqgzpahpyyiumfcdmon",
+            "type": "en"
+        }
+    ]
+}

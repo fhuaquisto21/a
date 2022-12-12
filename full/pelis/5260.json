@@ -1,0 +1,33 @@
+{
+    "url": "https://cuevana.pizza/pelicula/pet-graveyard",
+    "title": "Pet Graveyard",
+    "duration": "1h 38m",
+    "year": "2019",
+    "genres": [
+        "Terror",
+        "Aventura",
+        "Fantasia"
+    ],
+    "actors": [
+        "Rita Siddiqui",
+        "Andrew Hollingworth",
+        "Kate Milner Evans",
+        "David Cotter",
+        "Claire-Maria Fox",
+        "Hattie Willow",
+        "Jessica Otoole",
+        "Kate Lush"
+    ],
+    "description": "Un grupo de amigos son atormentados por un ser y su siniestra mascota, que debido a un experimento le permite traer de vuelta a los muertos.",
+    "cover": "https://cuevana.pizza/resize/###/storage/20691/XmsUyVjdvgrbezYtF4sYqUuzMogmkup9PYnERUNa.jpg",
+    "players": [
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtd2tiaGx5dW11MmIwLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLW5jbnJod2w1bml2Zi5odG1s"
+            ]
+        }
+    ],
+    "downloads": []
+}

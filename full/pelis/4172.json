@@ -1,0 +1,65 @@
+{
+    "url": "https://cuevana.pizza/pelicula/the-dig",
+    "title": "The Dig",
+    "duration": "1h 52m",
+    "year": "2021",
+    "genres": [
+        "Drama",
+        "Historia"
+    ],
+    "actors": [
+        "Archie Barnes",
+        "Arsher Ali",
+        "Ben Chaplin",
+        "Carey Mulligan",
+        "Chloe Stannage",
+        "Chris Wilson",
+        "Christian Cole",
+        "Danny Webb",
+        "Eamon Farren",
+        "Eileen Davies",
+        "Ellie Piercy",
+        "Grant Crookes",
+        "Jack Bennett",
+        "James Dryden"
+    ],
+    "description": "Crónica de la relación entre la terrateniente Edith Pretty y Basil Brown, el arqueólogo que impulsó la excavación de Sutton Hoo en 1938, cuando el mundo se preparaba para la guerra.",
+    "cover": "https://cuevana.pizza/resize/###/storage/5713/TDcZQQ5WUt9PzHOqt82v6UIAnLuANy44iEovAiT0.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtYTJrcjg5cWt2dzhvLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLXNiYWdqYmY4NnhkMy5odG1s"
+            ]
+        },
+        {
+            "type": "cas",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtMzVhNDNkdjU0YWdiLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLTFlODRmdnNxdXU1ai5odG1s"
+            ]
+        },
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtcm5vN25ueWdyMjhzLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLWRxOHlwZXh4NjEzOS5odG1s"
+            ]
+        }
+    ],
+    "downloads": [
+        {
+            "url": "https://1fichier.com/?n1kb23okxe8dehy5zdnd",
+            "type": "la"
+        },
+        {
+            "url": "https://1fichier.com/?qynwkmu3ptd6u4pfaz8c",
+            "type": "es"
+        },
+        {
+            "url": "https://1fichier.com/?y9m16pcg51tn0525xa0t",
+            "type": "en"
+        }
+    ]
+}

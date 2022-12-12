@@ -1,0 +1,48 @@
+{
+    "url": "https://cuevana.pizza/pelicula/star-trek-vii-la-proxima-generacion",
+    "title": "Star Trek VII: La Próxima Generación",
+    "duration": "1h 53m",
+    "year": "1994",
+    "genres": [
+        "Accion",
+        "Suspenso",
+        "Ciencia Ficcion",
+        "Aventura"
+    ],
+    "actors": [
+        "Patrick Stewart",
+        "Jonathan Frakes",
+        "Brent Spiner",
+        "LeVar Burton",
+        "Michael Dorn",
+        "Gates McFadden",
+        "Marina Sirtis",
+        "William Shatner"
+    ],
+    "description": "La 7ª película de Star Trek y 1ª del elenco de “La nueva generación” donde el USS Enterprise-B, al mando del capitán John Harriman está a punto de zarpar en su viaje inaugural al que acuden James T. Kirk, Montgomery Scott y Pavel Chekov. El Enterprise es requerido para ayudar a un convoy de naves que se hallan atrapadas en un cinturón de energía. Debido a la inexperiencia del capitán, Kirk decide ayudar y es dado por muerto al ser destruida la cubierta donde se hallaba por una ráfaga de energía.",
+    "cover": "https://cuevana.pizza/resize/###/storage/4528/RUP82lwYVSqw8hwl7iOYVbQQqfuv5ytT2M1KHwyt.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtNmhzb211OW5lNjRzLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLXY2OWxqOWIwaWhoYi5odG1s"
+            ]
+        },
+        {
+            "type": "cas",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtMHo2cWFjOXFyd3FyLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLTgwNm1hYzFkcHFkcC5odG1s"
+            ]
+        },
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtZGw2Z3V1ZXFpbGc3Lmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLWUxNW5sbW4wZzRzby5odG1s"
+            ]
+        }
+    ],
+    "downloads": []
+}

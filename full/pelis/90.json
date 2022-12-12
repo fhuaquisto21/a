@@ -1,0 +1,53 @@
+{
+    "url": "https://cuevana.pizza/pelicula/plan-de-estudios",
+    "title": "Plan de estudios",
+    "duration": "1h 41m",
+    "year": "2022",
+    "genres": [
+        "Suspenso",
+        "Crimen"
+    ],
+    "actors": [
+        "Piotr Witkowski",
+        "Jan Wieczorkowski",
+        "Antonina Jarnuszkiewicz",
+        "Nicolas Przygoda",
+        "Daniel Namiotko",
+        "Rafał Zawierucha",
+        "Zuzanna Galewicz",
+        "Pascal Fischer",
+        "Marcin Bosak",
+        "Roma Gąsiorowska"
+    ],
+    "description": "Un expolicía empieza a trabajar en el instituto en el que su mejor amigo daba clase para enfrentarse a la banda a la que culpa de su muerte.",
+    "cover": "https://cuevana.pizza/resize/###/storage/57602/2d9dQCALZZ88DAQ77YIdWIvmek7p571OoQFcKxXg.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtZWlqbHhoMjZlaWU2Lmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLW9pdHBlbm5vbHJndi5odG1s"
+            ]
+        },
+        {
+            "type": "cas",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtZjc4M3c4MXdjb3MyLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLWtiNzU4a3R1cmt0ci5odG1s"
+            ]
+        },
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtbm8wcGJ5aGhmOGdvLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLXIyOWVrc2R4Mmx3aS5odG1s"
+            ]
+        }
+    ],
+    "downloads": [
+        {
+            "url": "https://1fichier.com/?annhv4dkpgwi8pii6aip",
+            "type": "la"
+        }
+    ]
+}

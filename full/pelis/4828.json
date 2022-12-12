@@ -1,0 +1,36 @@
+{
+    "url": "https://cuevana.pizza/pelicula/walkaway-joe",
+    "title": "Walkaway Joe",
+    "duration": "1h 29m",
+    "year": "2020",
+    "genres": [
+        "Accion",
+        "Drama",
+        "Aventura"
+    ],
+    "actors": [
+        "David Strathairn",
+        "Jeffrey Dean Morgan",
+        "Julie Ann Emery",
+        "Julian Feder"
+    ],
+    "description": "Walkaway Joe cuenta la historia de una amistad poco probabl entre un joven que busca a su padre, un hombre solitario que se esconde de su pasado, en los salones de billar de todo el país. En su relación experimentan y ven la posibilidad de disfrutar de una segunda oportunidad, y tal vez también de alcanzar la redención.",
+    "cover": "https://cuevana.pizza/resize/###/storage/3768/rAdjUwja2rvg60hfZEVMnAy85o1jnuY1vsT18GnJ.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtaGs4dXNyYWxjeHlkLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLWJ3d2lpZTVlM3pqeS5odG1s"
+            ]
+        },
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtOWY1dWVhb21hcWltLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLTI1emsyaTQxYWcyMC5odG1s"
+            ]
+        }
+    ],
+    "downloads": []
+}

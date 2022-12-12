@@ -1,0 +1,45 @@
+{
+    "url": "https://cuevana.pizza/pelicula/torn",
+    "title": "Torn",
+    "duration": "1h 33m",
+    "year": "2021",
+    "genres": [
+        "Documental"
+    ],
+    "actors": [
+        "Alex Lowe",
+        "Max Lowe",
+        "Sam Lowe",
+        "Isaac Lowe",
+        "Jennifer Lowe",
+        "Conrad Anker"
+    ],
+    "description": "La desafortunada escalada de Alex Lowe y el arduo viaje de su hijo para regresar al lugar donde murió su padre.",
+    "cover": "https://cuevana.pizza/resize/###/storage/22100/zCqn5VCqw1YNXgIVO04mxrvo7frw5HXsyQfiofmU.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtazVnODVnd3N6dDVsLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLWZvenR5aGlpZXFpcy5odG1s"
+            ]
+        },
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtcHpoMXc1Y2gxcGt4Lmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLWF0OTE3bmJuZW12MS5odG1s"
+            ]
+        }
+    ],
+    "downloads": [
+        {
+            "url": "https://1fichier.com/?f8kddj5q13np9dphvp0j",
+            "type": "la"
+        },
+        {
+            "url": "https://1fichier.com/?64rthk4ic5dh85wnu2gf",
+            "type": "en"
+        }
+    ]
+}

@@ -1,0 +1,52 @@
+{
+    "url": "https://cuevana.pizza/pelicula/mr-brooks",
+    "title": "Mr. Brooks",
+    "duration": "2h 0m",
+    "year": "2007",
+    "genres": [
+        "Drama",
+        "Suspenso",
+        "Crimen"
+    ],
+    "actors": [
+        "Kevin Costner",
+        "Demi Moore",
+        "Dane Cook",
+        "William Hurt",
+        "Marg Helgenberger",
+        "Danielle Panabaker",
+        "Ruben Santiago-Hudson",
+        "Reiko Aylesworth",
+        "Matt Schulze",
+        "Yasmine Delawari",
+        "Jason Lewis",
+        "Lindsay Crouse",
+        "Megan Brown",
+        "Michael Cole",
+        "Ross Francis",
+        "Kit Gwin",
+        "Marcus Hester",
+        "Jamie McShane",
+        "Laura Bailey",
+        "Jon Paul Burkhart"
+    ],
+    "description": "Earl Brooks (Kevin Costner), un brillante hombre de negocios que lleva una vida aparentemente tranquila, es en realidad un asesino en serie. Brooks se esfuerza por reprimir sus instintos homicidas, pero su alter ego (William Hurt) se lo impide. Una dura y tenaz detective (Demi Moore) capta la atención del misterioso asesino al que persigue.",
+    "cover": "https://cuevana.pizza/resize/###/storage/28824/rnjTMGBbqzmQm0fFgOvMBZLjRhOIIJxqc1tDvygt.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtcDVqaWNxZHd2ZHN4Lmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLTR1OGMwM3lhbnRkbS5odG1s"
+            ]
+        },
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtMmc4eXZqYnJ4d3QyLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLTBwYTQ4cjl3b3M5dy5odG1s"
+            ]
+        }
+    ],
+    "downloads": []
+}

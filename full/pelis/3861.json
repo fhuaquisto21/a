@@ -1,0 +1,61 @@
+{
+    "url": "https://cuevana.pizza/pelicula/coda",
+    "title": "Coda",
+    "duration": "1h 36m",
+    "year": "2020",
+    "genres": [
+        "Drama",
+        "Musical"
+    ],
+    "actors": [
+        "Patrick Stewart",
+        "Katie Holmes",
+        "Giancarlo Esposito",
+        "Don Anderson",
+        "Abdul Ayoola",
+        "Letitia Brookes",
+        "Drew Davis",
+        "Nicholas Haze",
+        "Beat Marti",
+        "Catherine St-Laurent"
+    ],
+    "description": "Un famoso pianista que intenta superar su miedo escénico al final de su carrera encuentra una nueva inspiración en una crítica musical de espíritu libre.",
+    "cover": "https://cuevana.pizza/resize/###/storage/23251/4t2GjI4uvE0ur67SohrLFR7gTtZ0t2c40PcmpKDj.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtdXl4aTBhN2p3dWI4Lmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLXQyMTZsa3M4ZWhmcS5odG1s"
+            ]
+        },
+        {
+            "type": "cas",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtcHJ1NGdtNDZwOTRjLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLW85cmNqOGF6b24xcS5odG1s"
+            ]
+        },
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtaW82aHR5NGVtYXpnLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLW1rajVlazZkNDJ5OC5odG1s"
+            ]
+        }
+    ],
+    "downloads": [
+        {
+            "url": "https://1fichier.com/?mpxcil7v1xnxbclq1ow1",
+            "type": "la"
+        },
+        {
+            "url": "https://1fichier.com/?oidh3j9nr5lhr3wcazlw",
+            "type": "es"
+        },
+        {
+            "url": "https://1fichier.com/?y8eu7egwut2c2aqmtkeu",
+            "type": "en"
+        }
+    ]
+}

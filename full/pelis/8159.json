@@ -1,0 +1,52 @@
+{
+    "url": "https://cuevana.pizza/pelicula/todopoderoso",
+    "title": "Todopoderoso",
+    "duration": "1h 41m",
+    "year": "2003",
+    "genres": [
+        "Comedia",
+        "Drama",
+        "Fantasia"
+    ],
+    "actors": [
+        "Jim Carrey",
+        "Morgan Freeman",
+        "Jennifer Aniston",
+        "Philip Baker Hall",
+        "Catherine Bell",
+        "Lisa Ann Walter",
+        "Steve Carell",
+        "Nora Dunn",
+        "Eddie Jemison",
+        "Paul Satterfield",
+        "Mark Kiely",
+        "Sally Kirkland",
+        "Tony Bennett",
+        "Timothy Di Pri",
+        "Brian Tahash",
+        "Lou Felder",
+        "Lillian Adams",
+        "Christopher Darga",
+        "Jack Jozefson",
+        "Mark Adair-Rios"
+    ],
+    "description": "Tras pasar el peor día de su vida, el descontento reportero de televisión Bruce Nolan consigue un poder divino, pues recrimina a Dios a que no tiene ni idea de cómo está llevando \"el asunto\". Ante tal desafío, Dios decide darle todos sus poderes para ver si es capaz de hacerlo mejor que Él.",
+    "cover": "https://cuevana.pizza/resize/###/storage/28714/2H7MsraKefUnuLzDZKZ9sjYwvaKvYhPcEwcrk8kQ.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtNWY5aDVrNzJyMDBmLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLXU0ZHEyOWVscTJodS5odG1s"
+            ]
+        },
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtbDNvdzBnYWoxYWZjLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLTQ2dzBveTd1MjJuaC5odG1s"
+            ]
+        }
+    ],
+    "downloads": []
+}

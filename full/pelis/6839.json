@@ -1,0 +1,45 @@
+{
+    "url": "https://cuevana.pizza/pelicula/calibre",
+    "title": "Calibre",
+    "duration": "1h 41m",
+    "year": "2018",
+    "genres": [
+        "Suspenso"
+    ],
+    "actors": [
+        "Jack Lowden",
+        "Martin McCann",
+        "Tony Curran",
+        "Kate Bracken",
+        "Cal Macaninch",
+        "Ian Pirie",
+        "Cameron Jack",
+        "George Anton",
+        "Therese Bradley",
+        "Olivia Morgan",
+        "Ben Stranahan",
+        "Rob McGillivray",
+        "Donald McLeary",
+        "Kitty Lovett",
+        "Conor McCarron"
+    ],
+    "description": "Durante un fin de semana en los highland escoceses, dos viejos amigos toman una terrible decisión. Y ahora alguno, quizá los dos, tengan que pagar por ello.",
+    "cover": "https://cuevana.pizza/resize/###/storage/26390/uJ7K8WNgTbDK3EQUWDLdL242NeghWIZgX8ePScGl.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtM3EyMngyNW9ndjVhLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLW8yZDd2bGh0dDVwNS5odG1s"
+            ]
+        },
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtaHhwcmcxdHIydDVuLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLWR4YzYzazcxcWJ2dy5odG1s"
+            ]
+        }
+    ],
+    "downloads": []
+}

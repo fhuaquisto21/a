@@ -1,0 +1,52 @@
+{
+    "url": "https://cuevana.pizza/pelicula/term-life",
+    "title": "Tiempo Límite",
+    "duration": "1h 32m",
+    "year": "2016",
+    "genres": [
+        "Drama",
+        "Suspenso",
+        "Crimen"
+    ],
+    "actors": [
+        "Vince Vaughn",
+        "Hailee Steinfeld",
+        "Bill Paxton",
+        "Jonathan Banks",
+        "Mike Epps",
+        "Jordi Mollà",
+        "Shea Whigham",
+        "Jon Favreau",
+        "William Levy",
+        "Taraji P. Henson",
+        "Annabeth Gish",
+        "Terrence Howard",
+        "Cain Velasquez",
+        "Rio Hackford",
+        "Brian F. Durkin",
+        "James Paxton",
+        "Manuel Garcia-Rulfo",
+        "Brent Briscoe",
+        "Peggy Sheffield",
+        "Javier Carrasquillo"
+    ],
+    "description": "Un hombre buscado por varios asesinos a sueldo trata de mantenerse con vida el tiempo suficiente como para obtener un dinero que quiere dar a su hija.",
+    "cover": "https://cuevana.pizza/resize/###/storage/27757/8GlshUf36vO4oYBSDTKwzccrXKb4QSpURgHbmFZN.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtdDMydG1mMXNtZjV1Lmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLXN5ZmFkOTkya3h4ZC5odG1s"
+            ]
+        },
+        {
+            "type": "cas",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtMGQ0Y3hpZW04MWc2Lmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLTFnejAwaXh6bGs3Yy5odG1s"
+            ]
+        }
+    ],
+    "downloads": []
+}

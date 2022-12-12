@@ -1,0 +1,58 @@
+{
+    "url": "https://cuevana.pizza/pelicula/the-most-assassinated-woman-in-the-world",
+    "title": "La mujer más asesinada del mundo",
+    "duration": "1h 42m",
+    "year": "2018",
+    "genres": [
+        "Misterio",
+        "Suspenso",
+        "Biografia"
+    ],
+    "actors": [
+        "Anna Mouglalis",
+        "Niels Schneider",
+        "Eric Godon",
+        "André Wilms",
+        "Michel Fau",
+        "Constance Dollé",
+        "Jean-Michel Balthazar",
+        "Jean-Jacques Rausin",
+        "Sissi Duparc",
+        "Vérane Frédiani",
+        "Renaud Rutten",
+        "Julie Recoing",
+        "Christian Crahay",
+        "Maya Coline",
+        "Pierre Nisse",
+        "Keren Ann",
+        "Selma Alaoui",
+        "Philippe Legros",
+        "André Pasquasy"
+    ],
+    "description": "En el París de los años 30, una actriz famosa por sus sangrientas escenas en el Grand Guignol se enfrenta a un misterioso acosador y a los fantasmas de su pasado.",
+    "cover": "https://cuevana.pizza/resize/###/storage/21346/3NH4LuolDiJz79upbONgFuBlLFLbHFuCth4DWrPN.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtc3FqNHFmZTk2bHRwLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLTNmZjdyOGM1bG9qZC5odG1s"
+            ]
+        },
+        {
+            "type": "cas",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtYTluMWR0NHdsbXN0Lmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLW5mMGdiemQ2cTVuZy5odG1s"
+            ]
+        },
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQteGV0eW9yODQ1aWVqLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLTJocmRqa3pjYTN1MC5odG1s"
+            ]
+        }
+    ],
+    "downloads": []
+}

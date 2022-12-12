@@ -1,0 +1,64 @@
+{
+    "url": "https://cuevana.pizza/pelicula/shrek-2",
+    "title": "Shrek 2",
+    "duration": "1h 33m",
+    "year": "2004",
+    "genres": [
+        "Comedia",
+        "Aventura",
+        "Fantasia",
+        "Familia",
+        "Animacion"
+    ],
+    "actors": [
+        "Mike Myers",
+        "Eddie Murphy",
+        "Cameron Diaz",
+        "Julie Andrews",
+        "Antonio Banderas",
+        "John Cleese",
+        "Rupert Everett",
+        "Jennifer Saunders",
+        "Aron Warner",
+        "Kelly Asbury"
+    ],
+    "description": "Cuando Shrek y la princesa Fiona regresan de su luna de miel, los padres de ella los invitan a visitar el reino de Muy Muy Lejano para celebrar la boda. Para Shrek, al que nunca abandona su fiel amigo Asno, esto constituye un gran problema. Los padres de Fiona, por su parte, no esperaban que su yerno tuviera un aspecto semejante y, mucho menos, que su hija hubiera cambiado tanto. Todo esto trastoca los planes del rey respecto al futuro del reino. Pero entonces entran en escena la maquiavélica Hada Madrina, su arrogante hijo el Príncipe Encantador y un minino muy especial: el Gato con Botas, experto cazador de ogros.",
+    "cover": "https://cuevana.pizza/resize/###/storage/15414/YRkVCu8RWguIXUIFVgDPmDsyYWMuURH9Y1t8l8i9.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtZ2wyYWxobXVpMGg2Lmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLWJoZGpjZDViNG0yei5odG1s"
+            ]
+        },
+        {
+            "type": "cas",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtYWI0b3luZjY5Y2lwLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLXhsb2M4eTFmcWxrcC5odG1s"
+            ]
+        },
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtdnBtYzZtNGllcDdpLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLTd1bG1xZHdqZmxqOS5odG1s"
+            ]
+        }
+    ],
+    "downloads": [
+        {
+            "url": "https://1fichier.com/?8di9hhtlrgd4ws6jf5yt",
+            "type": "la"
+        },
+        {
+            "url": "https://1fichier.com/?vl5dynsjigj4hbma1zc5",
+            "type": "es"
+        },
+        {
+            "url": "https://1fichier.com/?l97q38151yomrbcp2yla",
+            "type": "en"
+        }
+    ]
+}

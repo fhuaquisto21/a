@@ -1,0 +1,50 @@
+{
+    "url": "https://cuevana.pizza/pelicula/high-rise",
+    "title": "El Rascacielos",
+    "duration": "1h 58m",
+    "year": "2015",
+    "genres": [
+        "Drama"
+    ],
+    "actors": [
+        "Tom Hiddleston",
+        "Elisabeth Moss",
+        "Sienna Miller",
+        "Jeremy Irons",
+        "Luke Evans",
+        "Reece Shearsmith",
+        "Daniel Renton Skinner",
+        "James Purefoy",
+        "Peter Ferdinando",
+        "Stacy Martin",
+        "Keeley Hawes",
+        "Sienna Guillory",
+        "Augustus Prew",
+        "Julia Deakin",
+        "Tony Way",
+        "Leila Mimmack",
+        "Bill Paterson",
+        "Enzo Cilenti",
+        "Louis Suc",
+        "Emilia Jones"
+    ],
+    "description": "Adaptación de High Rise, novela publicada por J.G. Ballard a mediados de los años ‘70. La historia narra la llegada del doctor Robert Laing a la Torre Elysium, un enorme rascacielos dentro del cual se desarrolla todo un mundo aparte, en el cual parece existir la sociedad ideal. Pero secretamente, el recién llegado se sentirá perturbado ante la posibilidad de que este orden utópico no sea tal. Sospechas que rápidamente serán corroboradas de la forma más siniestra.",
+    "cover": "https://cuevana.pizza/resize/###/storage/27258/KsvnRmvBUanth7o027MjJVtxtsG6VqksAHRrm7aF.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtbGZoenM3N21wcjNmLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLW9wbGExcGowMWp3Zi5odG1s"
+            ]
+        },
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtM2J6eXo2dmt3NDJ3Lmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLTB6MGNzdng5ajgwdS5odG1s"
+            ]
+        }
+    ],
+    "downloads": []
+}

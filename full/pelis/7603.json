@@ -1,0 +1,56 @@
+{
+    "url": "https://cuevana.pizza/pelicula/divergente",
+    "title": "Divergente",
+    "duration": "2h 19m",
+    "year": "2014",
+    "genres": [
+        "Accion",
+        "Ciencia Ficcion",
+        "Aventura"
+    ],
+    "actors": [
+        "Ashley Judd",
+        "Jai Courtney",
+        "Shailene Woodley",
+        "Theo James"
+    ],
+    "description": "En un mundo distópico en el que la sociedad se divide en cinco categorías (Verdad, Abnegación, Osadía, Cordialidad y Erudición), los jóvenes deben elegir, atendiendo a sus virtudes personales más destacadas, a qué facción pertenecer. Beatrice sorprende a los suyos con su decisión, pero ella no es como los demás: guarda un secreto del que podría depender el orden social e incluso su propia vida.",
+    "cover": "https://cuevana.pizza/resize/###/storage/15967/Br5lc0qx0HToax8SdCcdbrldeRrAUscBUB3OJBtK.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtZTh1YzYwYzAybjdhLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLWRlMzVrd2RuNTc1NS5odG1s"
+            ]
+        },
+        {
+            "type": "cas",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtc3NzcG55eXF1ZDhyLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLW85eHEzN3JidG5ydC5odG1s"
+            ]
+        },
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtOG9rdW9idGhxc3lkLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLXl1YzQxajQ3aXFvei5odG1s"
+            ]
+        }
+    ],
+    "downloads": [
+        {
+            "url": "https://1fichier.com/?u06zpwnjus1a5wmvladn",
+            "type": "la"
+        },
+        {
+            "url": "https://1fichier.com/?uqw7pd28tavyz164a7z6",
+            "type": "es"
+        },
+        {
+            "url": "https://1fichier.com/?0tz8jwdt0znplp9eik3j",
+            "type": "en"
+        }
+    ]
+}

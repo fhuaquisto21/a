@@ -1,0 +1,39 @@
+{
+    "url": "https://cuevana.pizza/pelicula/le-masque",
+    "title": "Le Masque",
+    "duration": "1h 30m",
+    "year": "2022",
+    "genres": [
+        "Crimen",
+        "Documental"
+    ],
+    "actors": [],
+    "description": "Mediante entrevistas con sus cómplices y víctimas, el documental analiza la historia de un experto timador que consiguió estafar millones de euros a la élite francesa.",
+    "cover": "https://cuevana.pizza/resize/###/storage/58107/WqS1I8UM7Ph3gM2c1uBhAu3r9z5vcfqUmYelO64u.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtazVmODl5eThmZW5hLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLWg0czBodnR0Y2hmcC5odG1s"
+            ]
+        },
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtYXo2MnZ0Zmk5ejljLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLTFlemFpMzNqdGMwYy5odG1s"
+            ]
+        }
+    ],
+    "downloads": [
+        {
+            "url": "https://1fichier.com/?bgn4k4glu4pdywjywfb8",
+            "type": "la"
+        },
+        {
+            "url": "https://1fichier.com/?ujqdsmijx4yyj32hzhcc",
+            "type": "en"
+        }
+    ]
+}

@@ -1,0 +1,51 @@
+{
+    "url": "https://cuevana.pizza/pelicula/mortdecai",
+    "title": "Mortdecai",
+    "duration": "1h 46m",
+    "year": "2015",
+    "genres": [
+        "Accion",
+        "Comedia",
+        "Crimen"
+    ],
+    "actors": [
+        "Johnny Depp",
+        "Gwyneth Paltrow",
+        "Ewan McGregor",
+        "Paul Bettany",
+        "Olivia Munn",
+        "Jeff Goldblum",
+        "Jonny Pasvolsky",
+        "Michael Culkin",
+        "Ulrich Thomsen",
+        "Alec Utgoff",
+        "Guy Burnet",
+        "Chris Bearne",
+        "Jamie Bernadette",
+        "Stephen Farrelly",
+        "Nicholas Farrell",
+        "Karl Theobald",
+        "Austin Lyon",
+        "Emily Lawrence",
+        "Joey Courteau"
+    ],
+    "description": "La trama gira en torno a Charlie Mortdecai, un excéntrico marchante de arte que recorre el planeta en busca de una codiciada pintura que podría contener el código de una olvidada cuenta bancaria de los nazis.",
+    "cover": "https://cuevana.pizza/resize/###/storage/27231/9IHOwlabZLNsSj7haLNhGE9Gsiz96XtC0Hxx81ce.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtMjFqeHJtcDM3bGVxLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLXFvY2F5MWcwbGpxdy5odG1s"
+            ]
+        },
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtd2FzN2Vod2gxMGh3Lmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLW5kMzE4Z3N1ZW9mYy5odG1s"
+            ]
+        }
+    ],
+    "downloads": []
+}

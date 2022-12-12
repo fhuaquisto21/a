@@ -1,0 +1,51 @@
+{
+    "url": "https://cuevana.pizza/pelicula/si-fueras-yo",
+    "title": "El cambiazo",
+    "duration": "1h 52m",
+    "year": "2011",
+    "genres": [
+        "Comedia",
+        "Fantasia"
+    ],
+    "actors": [
+        "Jason Bateman",
+        "Ryan Reynolds",
+        "Leslie Mann",
+        "Olivia Wilde",
+        "Alan Arkin",
+        "Gregory Itzin",
+        "Mircea Monroe",
+        "Sydney Rouviere",
+        "Matthew Cornwell",
+        "Craig Bierko",
+        "TJ Hassan",
+        "Ned Schmidtke",
+        "Ming Lo",
+        "Dax Griffin",
+        "Andrea Moore",
+        "Taaffe O'Connell",
+        "Bailey Anne Borders",
+        "Clay Chamberlin",
+        "Jeanine Jackson",
+        "Fred Stoller"
+    ],
+    "description": "Durante la infancia y la adolescencia, Mitch (Ryan Reynolds) y Dave (Jason Bateman) fueron amigos inseparables, pero con el paso de los años se han ido distanciando. Dave es un abogado enganchado al trabajo, se ha casado y tiene tres hijos. Mitch sigue soltero, es bastante inmaduro, trabaja a veces y vive sin ataduras de ningún tipo. Mitch cree que Dave lo tiene todo: una preciosa esposa (Leslie Mann), unos niños que lo adoran y un buen trabajo en un prestigioso bufete. Dave, por su parte, envidia a Mitch porque vive sin estrés ni presión ni obligaciones. Un día, después de compartir una gran borrachera, los mundos de Mitch y Dave se vuelven del revés: cuando se despiertan cada uno ocupa el cuerpo del otro, de modo que no tendrán más remedio que intercambiar sus papeles.",
+    "cover": "https://cuevana.pizza/resize/###/storage/28856/px7gCdiaBHhNkWXhGlzqwmPfiSM6240lrqudae1v.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtbjVjMTJ0cXR4aWJ2Lmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLWs0MXY3aGQ4ZTMzay5odG1s"
+            ]
+        },
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtb3BxZ3E0ZmV1MW8yLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLWVlM3o2czFvanY1eS5odG1s"
+            ]
+        }
+    ],
+    "downloads": []
+}

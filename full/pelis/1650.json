@@ -1,0 +1,58 @@
+{
+    "url": "https://cuevana.pizza/pelicula/heidi",
+    "title": "Heidi",
+    "duration": "1h 51m",
+    "year": "2015",
+    "genres": [
+        "Aventura",
+        "Familia"
+    ],
+    "actors": [
+        "Anuk Steffen",
+        "Bruno Ganz",
+        "Quirin Agrippi",
+        "Isabelle Ottmann",
+        "Katharina Schüttler",
+        "Maxim Mehmet",
+        "Hannelore Hoger",
+        "Jella Haase",
+        "Anna Schinz",
+        "Peter Lohmeyer",
+        "Lilian Naef",
+        "Monica Gubser",
+        "Peter Jecklin",
+        "Christoph Gaugler",
+        "Rebecca Indermaur",
+        "Marietta Jemmi",
+        "Michael Kranz",
+        "Markus Hering",
+        "Arthur Bühler",
+        "Laura Parker"
+    ],
+    "description": "Heidi es una huérfana de ocho años, criada por su abuelo en las montañas suizas. Junto a su amigo, Pedro el cabrero, cuida de las cabras del abuelo y disfruta de la libertad en la montaña. Pero un día su tía Dete decide llevársela a la ciudad de Frankfurt para ser educada en una familia adinerada. Allí hará amistad con la hija inválida de la familia, Klara.",
+    "cover": "https://cuevana.pizza/resize/###/storage/28042/l4lyxifA66biNptxWzYT6WLQuwYI5pboDiwGnmyt.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtaW9peHhwZjRhNHd1Lmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLTZjeHpmaGFsdDhvOS5odG1s"
+            ]
+        },
+        {
+            "type": "cas",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQteXcxZW01azI5YjIzLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLTZzeWMxZXJ2NjlwNC5odG1s"
+            ]
+        },
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtMWk2a3hkemZ1Z3o4Lmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLTlubzc2OG80eDBmby5odG1s"
+            ]
+        }
+    ],
+    "downloads": []
+}

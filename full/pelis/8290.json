@@ -1,0 +1,60 @@
+{
+    "url": "https://cuevana.pizza/pelicula/caracortada-el-precio-del-poder-scarface",
+    "title": "Caracortada. El precio del poder (Scarface)",
+    "duration": "2h 50m",
+    "year": "1983",
+    "genres": [
+        "Accion",
+        "Drama",
+        "Suspenso",
+        "Crimen"
+    ],
+    "actors": [
+        "Al Pacino",
+        "Steven Bauer",
+        "Michelle Pfeiffer",
+        "Mary Elizabeth Mastrantonio",
+        "Robert Loggia",
+        "Miriam Colón",
+        "F. Murray Abraham",
+        "Paul Shenar",
+        "Harris Yulin",
+        "Ángel Salazar",
+        "Arnaldo Santana",
+        "Pepe Serna",
+        "Michael P. Moran",
+        "Al Israel",
+        "Dennis Holahan",
+        "Mark Margolis",
+        "Michael Alldredge",
+        "Ted Beniades",
+        "Richard Belzer",
+        "Paul Espel"
+    ],
+    "description": "Un emigrante cubano frío y sanguinario, Tony Montana, llega de Cuba para instalarse en Miami, donde se propone hacerse con un nombre dentro del crimen organizado de Florida. Junto a su amigo, Manny Rivera, inicia una ascendente carrera delictiva.",
+    "cover": "https://cuevana.pizza/resize/###/storage/19701/FYJRCtnT8kD95YX0J9NpGIU3wBv2Qsdm951wub6s.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtcm1uMTVqcGQ2YzBzLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLXRrb215dnJ0Z2s5Zy5odG1s"
+            ]
+        },
+        {
+            "type": "cas",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtZTRnbXh1MjI1OG5yLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLTlwd3Q1YWhzOTJ3NC5odG1s"
+            ]
+        },
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQta2k3YnZxN2RpYzB2Lmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLTlqMzkzejE5MWg3Zi5odG1s"
+            ]
+        }
+    ],
+    "downloads": []
+}

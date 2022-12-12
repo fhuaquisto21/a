@@ -1,0 +1,62 @@
+{
+    "url": "https://cuevana.pizza/pelicula/cangrejo-negro",
+    "title": "Cangrejo Negro",
+    "duration": "1h 49m",
+    "year": "2022",
+    "genres": [
+        "Accion",
+        "Suspenso",
+        "Thriller"
+    ],
+    "actors": [
+        "Noomi Rapace",
+        "Jakob Oftebro",
+        "Dar Salim",
+        "Erik Enge",
+        "Ardalan Esmaili",
+        "Aliette Opheim",
+        "Stella Marcimain Klintberg",
+        "Susan Taslimi",
+        "David Dencik",
+        "Nora Rios"
+    ],
+    "description": "Para poner fin a una guerra apocalíptica y salvar a su hija, una soldado emprende una misión desesperada: transportar un cargamento ultrasecreto por un mar helado.",
+    "cover": "https://cuevana.pizza/resize/###/storage/16239/hW0skkPldAtDEJfdblMkJUAlZW7fEEIMvs3AZIw5.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtbW83bnl1aDQ1eGxzLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLTJlbDF0M211MGc4aC5odG1s"
+            ]
+        },
+        {
+            "type": "cas",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtMjIzNnk4cWJjamVxLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLWdjZnMydGIxdTVoaC5odG1s"
+            ]
+        },
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtdG15czZvY2E5enlpLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLTRicWp6ZDMxbDNncC5odG1s"
+            ]
+        }
+    ],
+    "downloads": [
+        {
+            "url": "https://1fichier.com/?fwtslek5hotsltkb2lku",
+            "type": "la"
+        },
+        {
+            "url": "https://1fichier.com/?lpw26uv2k0uv41cxybla",
+            "type": "es"
+        },
+        {
+            "url": "https://1fichier.com/?5g0dhgdn4jz02eyexpvo",
+            "type": "en"
+        }
+    ]
+}

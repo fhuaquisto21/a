@@ -1,0 +1,51 @@
+{
+    "url": "https://cuevana.pizza/pelicula/terminus",
+    "title": "Terminus",
+    "duration": "1h 34m",
+    "year": "2015",
+    "genres": [
+        "Drama",
+        "Ciencia Ficcion"
+    ],
+    "actors": [
+        "Jai Koutrae",
+        "Kendra Appleton",
+        "Todd Lascane",
+        "Bren Foster",
+        "Brendan Clearkin",
+        "William Emmons",
+        "Steve Le Marquand",
+        "John Manning",
+        "Henry Nixon",
+        "Vincent Andriano",
+        "Katherine Hicks",
+        "Tatiana Ikasovic",
+        "Aaron Scully",
+        "Wayne McDaniel",
+        "Christopher Stollery",
+        "Rob Flanagan",
+        "Shane C. Rodrigo",
+        "Zoe Carides",
+        "Ivan Zelic",
+        "Barbara Hastings"
+    ],
+    "description": "A raíz de un accidente casi fatal, David Chamberlain hace un descubrimiento sin precedentes que no sólo determinará el destino de su familia, sino de la humanidad.",
+    "cover": "https://cuevana.pizza/resize/###/storage/26780/tgCGeWA8JRfflNyhYFMqR9AYomCJSIXxoEMowPcT.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtZGgyYW5tbnRqNXQ2Lmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLTV2NWJzemd4ZHUzNC5odG1s"
+            ]
+        },
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtcHd2a2g1M3p4YXZ2Lmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLTEyNW9neGk0aDZsNS5odG1s"
+            ]
+        }
+    ],
+    "downloads": []
+}

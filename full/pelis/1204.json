@@ -1,0 +1,54 @@
+{
+    "url": "https://cuevana.pizza/pelicula/la-matanza-de-texas-2",
+    "title": "La matanza de Texas",
+    "duration": "1h 28m",
+    "year": "1974",
+    "genres": [
+        "Terror"
+    ],
+    "actors": [
+        "Marilyn Burns",
+        "Allen Danziger",
+        "Paul A. Partain",
+        "William Vail",
+        "Teri McMinn",
+        "Edwin Neal",
+        "Jim Siedow",
+        "Gunnar Hansen",
+        "John Dugan",
+        "Robert Courtin",
+        "William Creamer",
+        "John Henry Faulk",
+        "Jerry Green",
+        "Ed Guinn",
+        "Joe Bill Hogan",
+        "Perry Lorenz",
+        "John Larroquette"
+    ],
+    "description": "Cinco adolescentes visitan la tumba, supuestamente profanada, del abuelo de uno de ellos. Cuando llegan al lugar, donde hay un siniestro matadero, toman una deliciosa carne en una gasolinera. A partir de ese momento, los jóvenes vivirán la peor pesadilla de toda su vida.",
+    "cover": "https://cuevana.pizza/resize/###/storage/41321/3joBP3XUbLDqm7u5Xvf4OepDTkIdCEq5HKF20TTp.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtNHNyMTkzc20zZ2ZsLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLW1hZ25kcHJycXZzMC5odG1s"
+            ]
+        },
+        {
+            "type": "cas",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtY2VsdGVob2V1YmkxLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLWlkZTl0Z2pyeXZvMS5odG1s"
+            ]
+        },
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtdWtwbjBqOTRpcHU2Lmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLTNjNGw1YWNqcnoyYy5odG1s"
+            ]
+        }
+    ],
+    "downloads": []
+}

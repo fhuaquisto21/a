@@ -1,0 +1,56 @@
+{
+    "url": "https://cuevana.pizza/pelicula/gladiador",
+    "title": "Gladiador",
+    "duration": "2h 35m",
+    "year": "2000",
+    "genres": [
+        "Accion",
+        "Drama",
+        "Aventura"
+    ],
+    "actors": [
+        "Connie Nielsen",
+        "Joaquin Phoenix",
+        "Oliver Reed",
+        "Russell Crowe"
+    ],
+    "description": "En el año 180, el Imperio Romano domina todo el mundo conocido. Tras la victoria sobre los bárbaros, el anciano emperador Marco Aurelio (Richard Harris) decide transferir el poder a Máximo (Russell Crowe), bravo general de sus ejércitos y hombre de inquebrantable lealtad al imperio, pero su hijo Cómodo (Joaquin Phoenix) no lo acepta y trata de asesinarlo.",
+    "cover": "https://cuevana.pizza/resize/###/storage/3401/BDBhp3db2cLhgOVJd1gZbdOxUw63Ca2UffqUUmnL.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtejVyMzIxaDcwMzFqLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLXR6OTk2eW10MXo2YS5odG1s"
+            ]
+        },
+        {
+            "type": "cas",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtbnowd2pzcHRxZ3ljLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLW56dHVyYnF3aHNpdy5odG1s"
+            ]
+        },
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQteXZvM2RnYTY2ZHZ1Lmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLXlicXplM2dneWRreS5odG1s"
+            ]
+        }
+    ],
+    "downloads": [
+        {
+            "url": "https://1fichier.com/?n070ocftxq7bz5ckdcac",
+            "type": "la"
+        },
+        {
+            "url": "https://1fichier.com/?spw43dq7hgz8pc0df46m",
+            "type": "es"
+        },
+        {
+            "url": "https://1fichier.com/?99og1t09258ks5gb4k8i",
+            "type": "en"
+        }
+    ]
+}

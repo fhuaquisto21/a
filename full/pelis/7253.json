@@ -1,0 +1,39 @@
+{
+    "url": "https://cuevana.pizza/pelicula/intruders",
+    "title": "Intruders",
+    "duration": "1h 30m",
+    "year": "2016",
+    "genres": [
+        "Drama",
+        "Suspenso",
+        "Terror"
+    ],
+    "actors": [
+        "Beth Riesgraf",
+        "Martin Starr",
+        "Jack Kesy",
+        "Rory Culkin",
+        "Leticia Jimenez",
+        "Joshua Mikel",
+        "Timothy McKinney"
+    ],
+    "description": "Anna es una mujer que sufre una agorafobia que la paraliza por completo, y cuando pierde a su querido hermano se queda sola y aislada. Por eso, cuando tres delincuentes irrumpen en su hogar, Anna no huye. Lo que no saben el trío de malhechores es que la agorafobia no es su único problema.",
+    "cover": "https://cuevana.pizza/resize/###/storage/27681/Mq0r75G6uvesdeFrSFvPcGi2nmONJp33q3KSEZw5.jpg",
+    "players": [
+        {
+            "type": "cas",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtYjNtOXk3cHBveWp2Lmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLXQzZmo4djJiMmV5Mi5odG1s"
+            ]
+        },
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtY2ZteXZ2bGpqZ2NkLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLTEwajA4bzFzbHF0bi5odG1s"
+            ]
+        }
+    ],
+    "downloads": []
+}

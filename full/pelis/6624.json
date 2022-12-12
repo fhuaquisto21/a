@@ -1,0 +1,47 @@
+{
+    "url": "https://cuevana.pizza/pelicula/barbara",
+    "title": "Barbara",
+    "duration": "1h 38m",
+    "year": "2017",
+    "genres": [
+        "Drama",
+        "Biografia",
+        "Musical"
+    ],
+    "actors": [
+        "Jeanne Balibar",
+        "Mathieu Amalric",
+        "Vincent Peirani",
+        "Aurore Clément",
+        "Grégoire Colin",
+        "Jonathan Boudina"
+    ],
+    "description": "Un director quiere hacer un biopic sobre la cantante Barbara. El director y la actriz trabajan juntos, con cercanía.",
+    "cover": "https://cuevana.pizza/resize/###/storage/27534/7tlSdPEwL3X2q0SKWrH4Au8hXMPl1uE87SgQ0CuY.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtZnE5aDBwcTNtNXI3Lmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLXlsZGc4OGVnMzkxdS5odG1s"
+            ]
+        },
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtdjhnNmo5NTVzaG1tLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLXh0eDVrc3dnMWVhYi5odG1s"
+            ]
+        }
+    ],
+    "downloads": [
+        {
+            "url": "https://1fichier.com/?dhymuk5714aa5byb2mc9",
+            "type": "la"
+        },
+        {
+            "url": "https://1fichier.com/?v93dzl1qmcv5setrmf08",
+            "type": "en"
+        }
+    ]
+}

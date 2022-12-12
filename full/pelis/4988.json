@@ -1,0 +1,60 @@
+{
+    "url": "https://cuevana.pizza/pelicula/io-sola-en-la-tierra",
+    "title": "IO",
+    "duration": "1h 36m",
+    "year": "2019",
+    "genres": [
+        "Drama",
+        "Romance",
+        "Ciencia Ficcion",
+        "Aventura"
+    ],
+    "actors": [
+        "Margaret Qualley",
+        "Anthony Mackie",
+        "Danny Huston",
+        "Tom Payne",
+        "Teagan Johnson",
+        "Emma Fitzgerald",
+        "Justin Andrew Jamieson"
+    ],
+    "description": "Sam, una adolescente, es una de las últimas supervivientes de una Tierra post-apocalíptica. Con el transbordador final programado para salir del planeta, Sam debe decidir si viajar al punto de lanzamiento y unirse al resto de la humanidad; o permanecer en la Tierra, y ser un náufrago en el único hogar que ha conocido.",
+    "cover": "https://cuevana.pizza/resize/###/storage/21312/ANo2f2mwMqo3KqqBgicTuqV9Wqkrm6UanqcDyKP7.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtYzNycHR3Y2E5OXFvLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLWQwbWZianJkbjU2NS5odG1s"
+            ]
+        },
+        {
+            "type": "cas",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtYjJsenY3NzZhemJ4Lmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLW1meG8ycDU0Y3V2Yy5odG1s"
+            ]
+        },
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtYXc4NTR5NGt1MTEwLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLWFraXd0YmR4Y2VjdS5odG1s"
+            ]
+        }
+    ],
+    "downloads": [
+        {
+            "url": "https://1fichier.com/?w1y7xp6cufci96fx8bwa",
+            "type": "la"
+        },
+        {
+            "url": "https://1fichier.com/?5hv8ktwce6xaxfxg2gic",
+            "type": "es"
+        },
+        {
+            "url": "https://1fichier.com/?g72zp5bexg1ed6m0jmgd",
+            "type": "en"
+        }
+    ]
+}

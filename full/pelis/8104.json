@@ -1,0 +1,50 @@
+{
+    "url": "https://cuevana.pizza/pelicula/babel",
+    "title": "Babel",
+    "duration": "2h 23m",
+    "year": "2006",
+    "genres": [
+        "Drama"
+    ],
+    "actors": [
+        "Brad Pitt",
+        "Cate Blanchett",
+        "Gael García Bernal",
+        "Adriana Barraza",
+        "Rinko Kikuchi",
+        "Koji Yakusho",
+        "Satoshi Nikaido",
+        "Harriet Walter",
+        "Michael Maloney",
+        "Dermot Crowley",
+        "Peter Wight",
+        "Elle Fanning",
+        "Trevor Martin",
+        "Aaron D. Spears",
+        "Alex Jennings",
+        "Mohamed Akhzam",
+        "Matyelok Gibbs",
+        "Claudine Acs",
+        "Michael Peña",
+        "Jamie McBride"
+    ],
+    "description": "Ambientada en Marruecos, Túnez, México y Japón. Armados con un Winchester, dos muchachos marroquíes salen en busca del rebaño de cabras de la familia. En medio del silencio del desierto, deciden probar el rifle, sin conocer el alcance de la bala. En un instante, entran en colisión las vidas de cuatro grupos de personas que viven en tres continentes distintos.",
+    "cover": "https://cuevana.pizza/resize/###/storage/28806/4LUBEv1tH7mbqnTnhxgOBdyI2Vjspke40Us5C7zk.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtNmU4N2E2amN4aTlzLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLW10MWltNGd6czBpNi5odG1s"
+            ]
+        },
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtN2ZhczczNG91YmJmLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLWwxbGIzbHN1bGcwby5odG1s"
+            ]
+        }
+    ],
+    "downloads": []
+}

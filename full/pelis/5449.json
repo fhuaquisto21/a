@@ -1,0 +1,47 @@
+{
+    "url": "https://cuevana.pizza/pelicula/future-world",
+    "title": "Guerreros del Futuro",
+    "duration": "1h 30m",
+    "year": "2018",
+    "genres": [
+        "Ciencia Ficcion"
+    ],
+    "actors": [
+        "James Franco",
+        "Suki Waterhouse",
+        "Jeffrey Wahlberg",
+        "Milla Jovovich",
+        "Lucy Liu",
+        "Snoop Dogg",
+        "Rumer Willis",
+        "Method Man",
+        "Margarita Levieva",
+        "Scott Haze",
+        "Ben Youcef",
+        "Wilmer Calderon",
+        "Tamzin Brown",
+        "Carmen Argenziano",
+        "Elisha Henig",
+        "Lee Coc",
+        "Erika L. Elkhalide"
+    ],
+    "description": "En un futuro post-apocalíptico, un joven debe abandonar el Oasis –uno de los últimos lugares seguros que quedan- para embarcarse en una peligrosa aventura por el desierto. El objetivo de esta odisea es encontrar un medicamento que cure a su madre, que está al borde de la muerte. Así tendrá que superar numerosos peligrosos, entre ellos un enfrentamiento directo con el señor de la guerra que controla esa zona del mundo.",
+    "cover": "https://cuevana.pizza/resize/###/storage/21363/3yPoCrn8l05FFac5NixISw5cGoYoFxMLcers08aY.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtNXl1azZyZHd3MXdhLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLWdzemF3N2R0OTZzNy5odG1s"
+            ]
+        },
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtYm52a3Z5ZmI2cDhmLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLWM2czE0OXRjYTcxMC5odG1s"
+            ]
+        }
+    ],
+    "downloads": []
+}

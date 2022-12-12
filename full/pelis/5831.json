@@ -1,0 +1,71 @@
+{
+    "url": "https://cuevana.pizza/pelicula/si-solo-pudiera-imaginar",
+    "title": "La canción de mi padre",
+    "duration": "1h 50m",
+    "year": "2018",
+    "genres": [
+        "Drama",
+        "Familia"
+    ],
+    "actors": [
+        "J. Michael Finley",
+        "Dennis Quaid",
+        "Cloris Leachman",
+        "Brody Rose",
+        "Madeline Carroll",
+        "Gianna Simone",
+        "Kevin Downes",
+        "Jason Burkey",
+        "Rhoda Griffis",
+        "Tanya Clarke",
+        "Nicole DuPort",
+        "Priscilla C. Shirer",
+        "Taegen Burns",
+        "Trace Adkins",
+        "Mark Furze",
+        "Randy McDowell",
+        "Cole Marcus",
+        "Alexander Dominguez",
+        "J.R. Cacia",
+        "Mark Robert Ellis"
+    ],
+    "description": "La historia real de la aclamada canción \"I Can Only Imagine\", la canción cristiana contemporánea más escuchada de todos los tiempos, compuesta por el cantante Bart Millard, de la banda cristiana MercyMe, basado en su propia vida.",
+    "cover": "https://cuevana.pizza/resize/###/storage/22674/8Lyc8PPYCVkAdVn0vQWUgIpLciJOr8xDbJdWtL1S.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtbG14ZGJ3ZWh3ODV0Lmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLXBvOGhleHR5eTZlMS5odG1s"
+            ]
+        },
+        {
+            "type": "cas",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtMDI1MjJqZ3BwaHUzLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLWZybXZ5NTNiOTFyeC5odG1s"
+            ]
+        },
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQta3RoOGlrc2pmNGdyLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLXd3Z3M4MGp6djA4ai5odG1s"
+            ]
+        }
+    ],
+    "downloads": [
+        {
+            "url": "https://1fichier.com/?6hb3cg5ehp01j3cou9ea",
+            "type": "la"
+        },
+        {
+            "url": "https://1fichier.com/?z4d0y8dx9ro9f4d7u6yq",
+            "type": "es"
+        },
+        {
+            "url": "https://1fichier.com/?z9tspwp6fbs63lt34hl3",
+            "type": "en"
+        }
+    ]
+}

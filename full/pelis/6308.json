@@ -1,0 +1,40 @@
+{
+    "url": "https://cuevana.pizza/pelicula/rememory",
+    "title": "Rememory",
+    "duration": "1h 53m",
+    "year": "2017",
+    "genres": [
+        "Drama",
+        "Misterio",
+        "Ciencia Ficcion"
+    ],
+    "actors": [
+        "Peter Dinklage",
+        "Julia Ormond",
+        "Martin Donovan",
+        "Anton Yelchin",
+        "Henry Ian Cusick",
+        "Evelyne Brochu",
+        "Gracyn Shinyei",
+        "Jordana Largy",
+        "Colin Lawrence",
+        "Carrie Fleming",
+        "Kathryn Kirkpatrick",
+        "Maja Aro",
+        "Courtney Richter",
+        "Matt Ellis",
+        "Andrew Herr"
+    ],
+    "description": "Gordon Dunn, un pionero y afamado científico, es encontrado muerto justo después de revelar su nuevo trabajo: una máquina capaz de extraer, grabar y reproducir las emociones de las personas.",
+    "cover": "https://cuevana.pizza/resize/###/storage/25772/x0homRQRYrvTjatRb2cW4UI74e7fMSQFrJB9RO9h.jpg",
+    "players": [
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtY3c4djVlaHV2d3ByLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLXQ4cG5pbG5nYWo0YS5odG1s"
+            ]
+        }
+    ],
+    "downloads": []
+}

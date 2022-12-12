@@ -1,0 +1,50 @@
+{
+    "url": "https://cuevana.pizza/pelicula/entre-vino-y-vinagre",
+    "title": "Wine Country",
+    "duration": "1h 43m",
+    "year": "2019",
+    "genres": [
+        "Comedia"
+    ],
+    "actors": [
+        "Amy Poehler",
+        "Maya Rudolph",
+        "Rachel Dratch",
+        "Ana Gasteyer",
+        "Paula Pell",
+        "Emily Spivey",
+        "Tina Fey",
+        "Jason Schwartzman",
+        "Maya Erskine",
+        "Liz Cackowski",
+        "Rachel Hamilton",
+        "Cherry Jones",
+        "Brené Brown",
+        "Jon Glaser",
+        "Craig Cackowski",
+        "Kate Comer",
+        "R.J. Walker",
+        "Janine Brito",
+        "Sunita Mani",
+        "Jason Greene"
+    ],
+    "description": "A group of friends head to the land of oaky Chardonnays and big, bold Cabernet Sauvignons for one member of the squad’s 50th birthday party.",
+    "cover": "https://cuevana.pizza/resize/###/storage/20585/D0Qg5pSUcGzyMjD49p2RfPq24rJSBm9hzgVIkMaA.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtcTB4czNiMG4wNG1iLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLTd0ZnBjemJubGxlMS5odG1s"
+            ]
+        },
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtZzcxc3NlM3R2d2ZqLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLXFhOXp3ZDlwOTM4Zy5odG1s"
+            ]
+        }
+    ],
+    "downloads": []
+}

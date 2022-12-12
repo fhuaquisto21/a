@@ -1,0 +1,57 @@
+{
+    "url": "https://cuevana.pizza/pelicula/lego-dc-comics-super-heroes-flash",
+    "title": "Lego DC Comics Super Heroes: Flash",
+    "duration": "1h 18m",
+    "year": "2018",
+    "genres": [
+        "Comedia",
+        "Ciencia Ficcion",
+        "Aventura",
+        "Familia",
+        "Animacion",
+        "DC Comics"
+    ],
+    "actors": [
+        "James Arnold Taylor",
+        "Troy Baker",
+        "Nolan North",
+        "Dwight Schultz",
+        "Grey DeLisle",
+        "Eric Bauza",
+        "Tom Kenny",
+        "Kevin Michael Richardson",
+        "Khary Payton",
+        "Phil LaMarr",
+        "Kate Micucci",
+        "Dee Bradley Baker",
+        "Vanessa Marshall",
+        "Jason Spisak",
+        "Audrey Wasilewski"
+    ],
+    "description": "El sol de la mañana brilla sobre la joya de la ciudad de Metrópolis: el edificio del Daily Planet. ¡Pero cuando el Joker decide que el edificio necesita unas reformas, es hora de hacer sonar la Alarma de Problemas porque los ladrillos están a punto de venirse a abajo! La Liga de la Justicia entra en acción, pero mientras la batalla contra el Joker se recrudece, los poderes de Flash empiezan a enloquecer, lo cual le deja atrapado en un bucle temporal. ¡Lo más extraño es que Flash aparece con su traje amarillo para provocarle a cada paso! ¡Para romper el ciclo y salvar Metrópolis, Flash necesitará toda su velocidad y que le echen una mano (o una pata) los nuevos reclutas de la Liga de la Justicia: Atom, Krypto el superperro y Ace el Bat-sabueso!",
+    "cover": "https://cuevana.pizza/resize/###/storage/24693/JbOYNhcbvIT8GRurHfhMfoxYS0GKgJ0n8WVOU2Zt.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtaGVjYWx6ZzJzZjI1Lmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLXJxOWsxdTB6ZzJ6ci5odG1s"
+            ]
+        },
+        {
+            "type": "cas",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtZzRrb2E2MmY2bWozLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLXgyam9tMDd0ejNjbS5odG1s"
+            ]
+        },
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtZDBxZ3l0ZTNuY3lnLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLTJoeW1pcjhkcWM3Zy5odG1s"
+            ]
+        }
+    ],
+    "downloads": []
+}

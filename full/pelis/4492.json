@@ -1,0 +1,60 @@
+{
+    "url": "https://cuevana.pizza/pelicula/enola-holmes",
+    "title": "Enola Holmes",
+    "duration": "2h 3m",
+    "year": "2020",
+    "genres": [
+        "Drama",
+        "Misterio",
+        "Crimen"
+    ],
+    "actors": [
+        "Millie Bobby Brown",
+        "Henry Cavill",
+        "Sam Claflin",
+        "Helena Bonham Carter",
+        "Louis Partridge",
+        "Burn Gorman",
+        "Adeel Akhtar",
+        "Fiona Shaw"
+    ],
+    "description": "Cuando Enola, la hermana adolescente de Sherlock Holmes, descubre que su madre ha desaparecido, no duda en emprender su búsqueda. Tendrá que emplear todas sus dotes detectivescas para que su famoso hermano no dé con ella. Y para desentrañar la conspiración en torno a un misterioso y joven lord.",
+    "cover": "https://cuevana.pizza/resize/###/storage/24978/VuyHpdk9NeaZ8S1yjm6ZFYCEpDShu1CERHwIpmO6.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQteDJtbTA0c3N2MHcwLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLWlnM2RhYjlsa2kzYS5odG1s"
+            ]
+        },
+        {
+            "type": "cas",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtM2tjcWtmcmhsZnh3Lmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLXJlbTZvcDdreWNvay5odG1s"
+            ]
+        },
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtdnF3OHFxZXNiZHNxLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLW12YmZwb3N0OTNwZi5odG1s"
+            ]
+        }
+    ],
+    "downloads": [
+        {
+            "url": "https://1fichier.com/?mwfec5ztiocq47wlq5ms#Synchronization+Service",
+            "type": "la"
+        },
+        {
+            "url": "https://1fichier.com/?8vy4hcungf15h6hzceuk#Synchronization+Service",
+            "type": "es"
+        },
+        {
+            "url": "https://1fichier.com/?ct0ghgejvld89084qd4r#Synchronization+Service",
+            "type": "en"
+        }
+    ]
+}

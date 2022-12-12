@@ -1,0 +1,47 @@
+{
+    "url": "https://cuevana.pizza/pelicula/alice",
+    "title": "Alice",
+    "duration": "1h 10m",
+    "year": "2022",
+    "genres": [
+        "Drama",
+        "Suspenso"
+    ],
+    "actors": [
+        "Keke Palmer",
+        "Common",
+        "Jonny Lee Miller",
+        "Sinqua Walls",
+        "Alicia Witt",
+        "Katie Gill",
+        "Gaius Charles"
+    ],
+    "description": "Alice pasa sus días esclavizada en una plantación rural de Georgia anhelando sin descanso la libertad. Tras un violento enfrentamiento con el dueño de la plantación, Paul, Alice huye por los bosques vecinos y tropieza con la desconocida vista de una carretera, descubriendo pronto que el año es en realidad 1973.",
+    "cover": "https://cuevana.pizza/resize/###/storage/17567/ynOAazDygURXpNJ7vfGlzrMt8VCeA9ytlZ2r8kHV.jpg",
+    "players": [
+        {
+            "type": "cas",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtdWFpajV5OGxjNzlqLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLW51bHE3c21jbW0yOS5odG1s"
+            ]
+        },
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtaHZ1emM1bnd2aXR5Lmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLW55a29pOXp5cmRscC5odG1s"
+            ]
+        }
+    ],
+    "downloads": [
+        {
+            "url": "https://1fichier.com/?54cmmhns14gvqg9jv8tb",
+            "type": "es"
+        },
+        {
+            "url": "https://1fichier.com/?zzgxm5q71fillyfszyzs",
+            "type": "en"
+        }
+    ]
+}

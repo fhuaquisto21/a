@@ -1,0 +1,45 @@
+{
+    "url": "https://cuevana.pizza/pelicula/amy",
+    "title": "Amy",
+    "duration": "2h 8m",
+    "year": "2015",
+    "genres": [
+        "Biografia",
+        "Documental",
+        "Musical"
+    ],
+    "actors": [
+        "Amy Winehouse",
+        "Mark Ronson",
+        "Tony Bennett",
+        "Pete Doherty",
+        "Blake Fielder",
+        "Juliette Ashby",
+        "Salaam Remi",
+        "Yasiin Bey",
+        "Mitch Winehouse",
+        "Tyler James",
+        "Russell Brand",
+        "Jay Leno",
+        "Frankie Boyle"
+    ],
+    "description": "Documental sobre la famosa cantante británica Amy Winehouse, que cuenta con imágenes inéditas de archivo y entrevistas con la malograda estrella, que murió en julio del 2011 a los veintisiete años de edad por parada cardíaca a consecuencia de sus excesos con las drogas y el alcohol, adicciones agravadas por su bulimia. Amy Winehouse, ganadora de seis Premios Grammy, se vio desde muy joven afectada por el divorcio de sus padres. Tenía un talento natural para el jazz y el soul y una voz prodigiosa que pronto la convirtió en una estrella mundial a pesar de lanzar sólo dos discos; pero la fama, la prensa sensacionalista, los intereses de la industria -y de su entorno- y su turbulento amor con el que fue su marido, Blake Fielder-Civil, la condujeron finalmente a su trágico destino en su piso de Camden, Londres.",
+    "cover": "https://cuevana.pizza/resize/###/storage/27691/uhofPOMtLUFeIb4j88Im3Qb88WxQEtO1vdUsJt0j.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtZ2p0OGZiYnY0Z3piLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLXV3NHNkcHZybXhmei5odG1s"
+            ]
+        },
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtZ2MxbHNrbnhtNHpyLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLTV6eG5iNHhpYmxhMS5odG1s"
+            ]
+        }
+    ],
+    "downloads": []
+}

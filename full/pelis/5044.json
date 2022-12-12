@@ -1,0 +1,53 @@
+{
+    "url": "https://cuevana.pizza/pelicula/noelle",
+    "title": "Noelle",
+    "duration": "1h 40m",
+    "year": "2020",
+    "genres": [
+        "Comedia",
+        "Fantasia",
+        "Familia",
+        "Disney"
+    ],
+    "actors": [
+        "Anna Kendrick",
+        "Bill Hader",
+        "Kingsley Ben-Adir",
+        "Billy Eichner",
+        "Julie Hagerty",
+        "Shirley MacLaine",
+        "Diana Maria Riva",
+        "Maceo Smedley",
+        "Jason Antoon",
+        "Michael Gross",
+        "Billy Griffith",
+        "Anthony Konechny",
+        "Aliza Vellani",
+        "Amitai Marmorstein",
+        "Ron Funches",
+        "Chelah Horsdal",
+        "Andy Nez",
+        "Anna Van Hooft",
+        "Burgess Jenkins",
+        "Owen Vaccaro"
+    ],
+    "description": "es una comedia navideña ambientada en el Polo Norte, en una época en la que Santa se prepara para retirarse y transmitir los reinados a su hijo Nick Claus. Sin embargo, el estrés de su futuro papel comienza a afectar a Nick, que no siente tan arraigado el espíritu navideño como los demás miembros de su familia.",
+    "cover": "https://cuevana.pizza/resize/###/storage/20336/jcq5WfuWdi98EP9sxikOH4u0oHyjqPXSlj8TwqBc.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtNnluMXdiN3J2bzNiLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLWIzNWNhOHhzbDlueS5odG1s"
+            ]
+        },
+        {
+            "type": "cas",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtNGJ0cjhpd2d4NmYzLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLTAydjNsZjhvcTZyYS5odG1s"
+            ]
+        }
+    ],
+    "downloads": []
+}

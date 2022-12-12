@@ -1,0 +1,45 @@
+{
+    "url": "https://cuevana.pizza/pelicula/the-final-wish",
+    "title": "The Final Wish",
+    "duration": "1h 35m",
+    "year": "2019",
+    "genres": [
+        "Terror"
+    ],
+    "actors": [
+        "Lin Shaye",
+        "Michael Welch",
+        "Melissa Bolona",
+        "Spencer Locke",
+        "Tony Todd",
+        "Kaiwi Lyman",
+        "Jonathan Daniel Brown",
+        "Jean Elie",
+        "Christopher Murray",
+        "Douglas Tait",
+        "Larry Poole",
+        "Michelle Burke",
+        "Timothy Oman",
+        "Dey Young",
+        "Gordon Woloson"
+    ],
+    "description": "Aaron (Michael Welch) es un abogado con problemas que regresa a casa para ayudar a su madre tras el fallecimiento de su padre. Mientras investiga en las pertenencias que éste ha dejado atrás, Aaron encuentra una urna que resulta ser mucho más de lo que parece. Aunque al principio convierte todos sus deseos en realidad, con el paso del tiempo descubre que existe en ella un maleficio mucho más siniestro de lo que creía.",
+    "cover": "https://cuevana.pizza/resize/###/storage/25742/4jpznvWhNvTBXas7BVDEDTOjs7HO45Ss5HKNWQYQ.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtNnJ6cWx1bXpnemx6Lmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLWw0c25qZnRnMXdxZC5odG1s"
+            ]
+        },
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtMTd1MzZodWF0bXY1Lmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLW9pcDA1ZThoaXZ1ei5odG1s"
+            ]
+        }
+    ],
+    "downloads": []
+}

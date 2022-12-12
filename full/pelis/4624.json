@@ -1,0 +1,57 @@
+{
+    "url": "https://cuevana.pizza/pelicula/black-water-abyss",
+    "title": "Black Water: Abyss",
+    "duration": "1h 38m",
+    "year": "2020",
+    "genres": [
+        "Suspenso",
+        "Terror",
+        "Aventura"
+    ],
+    "actors": [
+        "Jessica McNamee",
+        "Anthony J. Sharpe",
+        "Amali Golden",
+        "Luke Mitchell",
+        "Benjamin Hoetjes"
+    ],
+    "description": "La película sigue a una pareja amante de la aventura, que convence a sus amigos para explorar un sistema de cuevas en un alejado bosque del norte de Australia. Con una tormenta acercándose, se precipitan a la boca de la cueva, la cual comienza a inundarse, lo que implica que se verán amenazados por una manada de hambrientos cocodrilos...",
+    "cover": "https://cuevana.pizza/resize/###/storage/4378/VxeNibKyYj2MIRLhAhXLaIrVfC4zMBk8HBbdDjNR.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtNGdod3k5dG51MnE0Lmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLWpkaHhlcng4ZGRmbS5odG1s"
+            ]
+        },
+        {
+            "type": "cas",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtN2w4OTJ0cTA5bDg3Lmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLWFhbGF4bDR0aW04ZC5odG1s"
+            ]
+        },
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtd21peDQ2Z3l1ZWthLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLXE5aDljY242dDhsdS5odG1s"
+            ]
+        }
+    ],
+    "downloads": [
+        {
+            "url": "https://1fichier.com/?z5hi0bw7nt5q7vl0epow",
+            "type": "la"
+        },
+        {
+            "url": "https://1fichier.com/?35loev9a9spv1z6a3xdf",
+            "type": "es"
+        },
+        {
+            "url": "https://1fichier.com/?ulibd4xy8aspherj0mh9",
+            "type": "en"
+        }
+    ]
+}

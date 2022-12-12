@@ -1,0 +1,45 @@
+{
+    "url": "https://cuevana.pizza/pelicula/resident-evil",
+    "title": "Resident Evil",
+    "duration": "1h 36m",
+    "year": "2002",
+    "genres": [
+        "Accion",
+        "Terror",
+        "Ciencia Ficcion"
+    ],
+    "actors": [
+        "Milla Jovovich",
+        "Michelle Rodriguez",
+        "Eric Mabius",
+        "James Purefoy",
+        "Martin Crewes",
+        "Colin Salmon",
+        "Pasquale Aleardi",
+        "Heike Makatsch",
+        "Ryan McCluskey",
+        "Indra Ové",
+        "Oscar Pearce",
+        "Anna Bolt",
+        "Joseph May",
+        "Robert Tannion",
+        "Jaymes Butler",
+        "Stephen Billington",
+        "Fiona Glascott",
+        "Liz May Brice",
+        "Torsten Jerabek",
+        "Marc Logan-Black"
+    ],
+    "description": "En un centro clandestino de investigación genética -con fines militares- de una poderosa multinacional se produce un brote vírico que contamina todo el edificio. Para contener la fuga el ordenador que controla el centro sella toda la instalación y, en un principio se cree que mueren todos los empleados, pero en realidad se han convertido en feroces zombis...",
+    "cover": "https://cuevana.pizza/resize/###/storage/19595/pFfnAFvBf5BZZPHiafyC6DmFOcQ7Oi9lSnDUMrXr.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtam02ZW5qaHVnMm16Lmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLTVwODJ3bTBvcTA2dC5odG1s"
+            ]
+        }
+    ],
+    "downloads": []
+}

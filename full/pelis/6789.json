@@ -1,0 +1,57 @@
+{
+    "url": "https://cuevana.pizza/pelicula/jumanji-bienvenidos-a-la-jungla",
+    "title": "Jumanji: Bienvenidos a la jungla",
+    "duration": "1h 59m",
+    "year": "2017",
+    "genres": [
+        "Accion",
+        "Comedia",
+        "Aventura",
+        "Fantasia"
+    ],
+    "actors": [
+        "Dwayne Johnson",
+        "Jack Black",
+        "Karen Gillan",
+        "Kevin Hart"
+    ],
+    "description": "Cuatro adolescentes son absorbidos por un videojuego, en el que se convierten en avatares de personajes arquetípicos. Allí vivirán múltiples aventuras, al tiempo que buscan cómo salir de allí para volver a su mundo.",
+    "cover": "https://cuevana.pizza/resize/###/storage/3285/ldR0XGRsdXn8DyWza0AyCw9u0ZEqTEjkS0OVYejw.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtZGZ1a3g2MzVnMGVjLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLXVtdW9sNTM2cWg0cy5odG1s"
+            ]
+        },
+        {
+            "type": "cas",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtdGxhOXlreGVoaGsyLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLWFwaHBobG82cXh6MC5odG1s"
+            ]
+        },
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtbDdvYXo3dTQ3d3dxLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLWZyMzdvMzEwN2ttei5odG1s"
+            ]
+        }
+    ],
+    "downloads": [
+        {
+            "url": "https://1fichier.com/?43qs2nf24z",
+            "type": "la"
+        },
+        {
+            "url": "https://1fichier.com/?8h15jaekpj",
+            "type": "es"
+        },
+        {
+            "url": "https://1fichier.com/?zxbeoq8r8c",
+            "type": "en"
+        }
+    ]
+}

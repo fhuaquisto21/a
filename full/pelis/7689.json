@@ -1,0 +1,36 @@
+{
+    "url": "https://cuevana.pizza/pelicula/the-colony",
+    "title": "Colonia V",
+    "duration": "1h 35m",
+    "year": "2013",
+    "genres": [
+        "Accion",
+        "Terror",
+        "Ciencia Ficcion"
+    ],
+    "actors": [
+        "Bill Paxton",
+        "Charlotte Sullivan",
+        "Kevin Zegers",
+        "Laurence Fishburne"
+    ],
+    "description": "Se centrará en un grupo de supervivientes que viven bajo tierra después de que una nueva edad de hielo aparezca en el planeta mientras se defienden de una invasión de fieros caníbales.",
+    "cover": "https://cuevana.pizza/resize/###/storage/16196/sRLJQVri3UO0QryzqBoz6wxD1adfUts9SYLANzoq.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtZ29teHY5bTJhZ2FwLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLXc2ZXAyZnprbmpsZy5odG1s"
+            ]
+        },
+        {
+            "type": "cas",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtYWxndnIyOGM4eHl1Lmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLWI5MHplNnBnZHd3cC5odG1s"
+            ]
+        }
+    ],
+    "downloads": []
+}

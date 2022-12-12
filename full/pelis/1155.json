@@ -1,0 +1,58 @@
+{
+    "url": "https://cuevana.pizza/pelicula/halloween-resurrection",
+    "title": "Halloween: Resurrection",
+    "duration": "1h 34m",
+    "year": "2002",
+    "genres": [
+        "Suspenso",
+        "Terror"
+    ],
+    "actors": [
+        "Jamie Lee Curtis",
+        "Brad Loree",
+        "Busta Rhymes",
+        "Bianca Kajlich",
+        "Katee Sackhoff",
+        "Thomas Ian Nicholas",
+        "Tyra Banks",
+        "Sean Patrick Thomas",
+        "Ryan Merriman",
+        "Daisy McCrackin",
+        "Luke Kirby",
+        "Billy Kay",
+        "Gus Lynch",
+        "Lorena Gale",
+        "Marisa Rudiak",
+        "Brent Chapman",
+        "Dan Joffre",
+        "Haig Sutherland",
+        "Brad Sihvon",
+        "Kelly Nielson"
+    ],
+    "description": "Un grupo de adolescentes gana un concurso para pasar una noche en la casa donde nació Michael Myers. Pero el juego se convierte en una lucha para conseguir salir con vida de la casa",
+    "cover": "https://cuevana.pizza/resize/###/storage/41871/R5hDlz9oo45AWskh43e6BDWf8j1YraeGXBbi8Si0.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtdnV3dmlid3g1cDdxLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLWttOTJic2J1eDAxMS5odG1s"
+            ]
+        },
+        {
+            "type": "cas",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtZGJjNjZ5b3ZjdGNnLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLXIwMXVpdWg4eHdjay5odG1s"
+            ]
+        },
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtdjMzNmMxdGF2cGRrLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLXN0ZmtjbXd1am53dC5odG1s"
+            ]
+        }
+    ],
+    "downloads": []
+}

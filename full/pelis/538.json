@@ -1,0 +1,48 @@
+{
+    "url": "https://cuevana.pizza/pelicula/archipielago",
+    "title": "Archipiélago",
+    "duration": "1h 44m",
+    "year": "2021",
+    "genres": [
+        "Drama",
+        "Aventura"
+    ],
+    "actors": [
+        "Andrey Merzlikin",
+        "Dmitry Palamarchuk",
+        "Aleksei Shevchenkov",
+        "Marina Petrenko",
+        "Andrey Nekrasov",
+        "Sergey Barkovsky",
+        "Evgeny Lyamin",
+        "Vladimir Kosmidaylo"
+    ],
+    "description": "La imagen cuenta la hazaña de los científicos rusos enviados a Svalbard como parte de la expedición ruso-sueca para medir el tamaño y la forma reales del globo.",
+    "cover": "https://cuevana.pizza/resize/###/storage/50138/5rbj0do2vpCOu8CXbjbrnSJaknsNKN9s6LRyTXwL.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtajh1Nmt5OHB0eXN3Lmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLXd6ZHgybDdtdm02by5odG1s"
+            ]
+        },
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtOGUwZm95eW9tZm5qLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLWl5ajQ4OW9yZmc4Zi5odG1s"
+            ]
+        }
+    ],
+    "downloads": [
+        {
+            "url": "https://1fichier.com/?9uust22iwlpn3dgfisg9",
+            "type": "la"
+        },
+        {
+            "url": "https://1fichier.com/?8sixfeji7k1am251wxil",
+            "type": "en"
+        }
+    ]
+}

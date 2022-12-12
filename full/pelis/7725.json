@@ -1,0 +1,44 @@
+{
+    "url": "https://cuevana.pizza/pelicula/carrie",
+    "title": "Carrie",
+    "duration": "1h 40m",
+    "year": "2013",
+    "genres": [
+        "Drama",
+        "Terror"
+    ],
+    "actors": [
+        "Chloë Grace Moretz",
+        "Gabriella Wilde",
+        "Julianne Moore",
+        "Portia Doubleday"
+    ],
+    "description": "Carrie White, una adolescente a la que sus compañeros humillan constantemente, posee poderes psíquicos que se manifiestan cuando se siente dominada por la ira. El día del baile de graduación la situación llega a hacérsele insoportable.",
+    "cover": "https://cuevana.pizza/resize/###/storage/16463/MDeGRJscTHQDZU9RD7YwoHn6gurjYzkskqD6hj2g.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtanplMDA2a3RxdjZqLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLWd0ZXFqbmtrOXIwNi5odG1s"
+            ]
+        },
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtNjY1aGZjcjdhbW1rLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLWs3aW56bXRyOXB0Mi5odG1s"
+            ]
+        }
+    ],
+    "downloads": [
+        {
+            "url": "https://1fichier.com/?9xcf29m737kf2mity5nm",
+            "type": "la"
+        },
+        {
+            "url": "https://1fichier.com/?f5fb64rs8903x17ht07p",
+            "type": "en"
+        }
+    ]
+}

@@ -1,0 +1,52 @@
+{
+    "url": "https://cuevana.pizza/pelicula/el-valiente",
+    "title": "Los hombres libres de Jones",
+    "duration": "2h 20m",
+    "year": "2016",
+    "genres": [
+        "Accion",
+        "Drama",
+        "Biografia"
+    ],
+    "actors": [
+        "Matthew McConaughey",
+        "Gugu Mbatha-Raw",
+        "Mahershala Ali",
+        "Keri Russell",
+        "Jacob Lofland",
+        "Sean Bridgers",
+        "Brad Carter",
+        "Jane McNeill",
+        "Gary Grubbs",
+        "Christopher Berry",
+        "Joe Chrest",
+        "David Jensen",
+        "Kurt Krause",
+        "Carlton Caudle",
+        "Martin Bats Bradford",
+        "Matt Lintz",
+        "Kerry Cahill",
+        "Jessica Collins",
+        "Juan Gaspard",
+        "Liza J. Bennett"
+    ],
+    "description": "Después de sobrevivir a la Batalla de Corinto durante la Guerra Civil en 1862, Newton Knight, un agricultor pobre de Mississippi, lidera un grupo de pequeños agricultores y esclavos locales en una rebelión armada contra la Confederación en el condado de Jones. Knight se casa con una ex esclava, Rachel, y se establece así una comunidad mestiza, única en la posguerra del Sur.",
+    "cover": "https://cuevana.pizza/resize/###/storage/27205/BP9HAUDWETqWmQsBrcHE0E2Dkb2vXjQjz3mAyYjx.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtMWM3NXR2d2c2Zmp5Lmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLXh3NjQ2dmN6d2RkdS5odG1s"
+            ]
+        },
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtbm8xMzdsYXIyZXBtLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLXNmazYwcGJiZmt4bS5odG1s"
+            ]
+        }
+    ],
+    "downloads": []
+}

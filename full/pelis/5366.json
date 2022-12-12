@@ -1,0 +1,42 @@
+{
+    "url": "https://cuevana.pizza/pelicula/paradise-beach",
+    "title": "Playa paraíso",
+    "duration": "1h 33m",
+    "year": "2019",
+    "genres": [
+        "Accion",
+        "Suspenso"
+    ],
+    "actors": [
+        "Sami Bouajila",
+        "Tewfik Jallab",
+        "Mélanie Doutey",
+        "Hugo Becker",
+        "Kool Shen",
+        "Hubert Koundé",
+        "Seth Gueko",
+        "Flore Bonaventura",
+        "Nessbeal",
+        "Dosseh Dorian N'Goumou",
+        "Hache-P"
+    ],
+    "description": "Una banda de ladrones retirados llega al Paraíso: Phuket, en el sur de Tailandia. Ahora comerciantes, son días felices. Hasta el día en que llega el diablo: Mehdi, condenado a 15 años de prisión por el atraco que cometieron y que viene a recuperar su parte del pastel. El único problema, es que no hay pastel. Y el diablo tiene hambre.",
+    "cover": "https://cuevana.pizza/resize/###/storage/2651/XMyTTZtqgUE6NCWL2oNIjEyOI2kJNV2tmZmJdb6Z.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtcmRmaGJ1dm9zdXc1Lmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLWhna2J0eWs1aWg2Zy5odG1s"
+            ]
+        },
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtbmIyZGs2ajIzcHVtLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLW00Mnp5cnphZ292OS5odG1s"
+            ]
+        }
+    ],
+    "downloads": []
+}

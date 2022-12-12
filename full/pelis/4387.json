@@ -1,0 +1,50 @@
+{
+    "url": "https://cuevana.pizza/pelicula/casa-ajena",
+    "title": "Casa ajena",
+    "duration": "1h 33m",
+    "year": "2020",
+    "genres": [
+        "Drama",
+        "Suspenso",
+        "Terror"
+    ],
+    "actors": [
+        "Sope Dirisu",
+        "Wunmi Mosaku",
+        "Matt Smith",
+        "Malaika Wakoli-Abigaba",
+        "Javier Botet",
+        "Emily Taaffe",
+        "Rasaq Kukoyi",
+        "Vivien Bridson",
+        "Cornell John"
+    ],
+    "description": "Una pareja de refugiados de Sudán, un país arrasado por la guerra, trata de sobrevivir en un pequeño pueblo de Inglaterra hasta que descubren que allí les aguarda un peligroso mal.",
+    "cover": "https://cuevana.pizza/resize/###/storage/24526/5qV9zE7sxJUlbUmF7RhyEyWZrKNu3t4qepaQqEbt.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQteTZqaHh4bnlydWdzLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLXVxbmFmODZrYWljNC5odG1s"
+            ]
+        },
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtd2huNnZhNGN2NHB4Lmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLWlieGJ3djNvajM2cS5odG1s"
+            ]
+        }
+    ],
+    "downloads": [
+        {
+            "url": "https://1fichier.com/?knym85g4gg1v9crjp2gi#Synchronization+Service",
+            "type": "la"
+        },
+        {
+            "url": "https://1fichier.com/?8qp4hofk8q02ad8vh90e#Synchronization+Service",
+            "type": "en"
+        }
+    ]
+}

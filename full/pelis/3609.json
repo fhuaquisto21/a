@@ -1,0 +1,44 @@
+{
+    "url": "https://cuevana.pizza/pelicula/magic-mountains",
+    "title": "Magic Mountains",
+    "duration": "1h 20m",
+    "year": "2020",
+    "genres": [
+        "Misterio",
+        "Thriller"
+    ],
+    "actors": [
+        "Hannah Hoekstra",
+        "Marcin Dorociński",
+        "Thomas Ryckewaert",
+        "Maria Maj"
+    ],
+    "description": "Hannah viaja por las montañas polacas con su ex novio Lex. Durante su viaje, la joven descubre que Lex ha preparado el crimen perfecto, con Hannah como víctima.",
+    "cover": "https://cuevana.pizza/resize/###/storage/21693/vXPYn2m3f17JAaiuGL0bCXXlfzuX4aIYIy06jz2c.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtNGlzYmNpYWs0NTdiLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLTRhNnhzZzhwc3NxZy5odG1s"
+            ]
+        },
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtejdseXU0c2c2ZzE3Lmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLTY2azZhcWR6NXZoay5odG1s"
+            ]
+        }
+    ],
+    "downloads": [
+        {
+            "url": "https://1fichier.com/?xih7ur8qj2jsfwreb9j4",
+            "type": "la"
+        },
+        {
+            "url": "https://1fichier.com/?qgdwia4ahlx5in373uu3",
+            "type": "en"
+        }
+    ]
+}

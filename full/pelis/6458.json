@@ -1,0 +1,43 @@
+{
+    "url": "https://cuevana.pizza/pelicula/quien-at-es-papa",
+    "title": "Locura padre",
+    "duration": "1h 53m",
+    "year": "2017",
+    "genres": [
+        "Comedia"
+    ],
+    "actors": [
+        "Ed Helms",
+        "Retta",
+        "Robert Jon Mello",
+        "Zachary Haven"
+    ],
+    "description": "Dos hermanos gemelos descubren que su padre no está muerto y deciden emprender un viaje en carretera en su búsqueda.",
+    "cover": "https://cuevana.pizza/resize/###/storage/26408/BaEMCJl98a06CkY8mERjNgC7vMTWRgfncZ3E87oO.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtY3M1eHd1a3lqMDdpLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLWY4eDN6MnhuamR2OC5odG1s"
+            ]
+        },
+        {
+            "type": "cas",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtcGF6eXRqY2YzejV4Lmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLXhrYzJ1Nnp3M2N0Ni5odG1s"
+            ]
+        }
+    ],
+    "downloads": [
+        {
+            "url": "https://1fichier.com/?s0n7se6quws1dprnqe56",
+            "type": "la"
+        },
+        {
+            "url": "https://1fichier.com/?yvozefh1btu3f8792yoe",
+            "type": "es"
+        }
+    ]
+}

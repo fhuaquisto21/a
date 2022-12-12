@@ -1,0 +1,48 @@
+{
+    "url": "https://cuevana.pizza/pelicula/star-trek-insurreccion",
+    "title": "Star Trek: Insurrección",
+    "duration": "1h 39m",
+    "year": "1998",
+    "genres": [
+        "Accion",
+        "Suspenso",
+        "Ciencia Ficcion",
+        "Aventura"
+    ],
+    "actors": [
+        "Patrick Stewart",
+        "Jonathan Frakes",
+        "Brent Spiner",
+        "LeVar Burton",
+        "Michael Dorn",
+        "Gates McFadden",
+        "Marina Sirtis",
+        "Gregg Henry"
+    ],
+    "description": "La 9ª película de Star Trek y 3ª del elenco de “La nueva generación” donde Jean Luc Picard, capitán del USS Enterprise, recibe un mensaje de la flota. Al parecer, el comandante Data, que se encontraba estudiando una sociedad primitiva, ha sufrido un cortocircuito y ha revelado la existencia del equipo de investigación a los habitantes del planeta Ba'Ku. Pronto descubrirá que intentaba defender a ésta sociedad inocente de las aspiraciones de los Son'a.",
+    "cover": "https://cuevana.pizza/resize/###/storage/4522/PEJinFJDKf4VjOdgcvr5VJp7FfJs9XQ5oBkvcJCW.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtajVxNWdlMm0wOTF6Lmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLTNkam9haHp5aGFoZi5odG1s"
+            ]
+        },
+        {
+            "type": "cas",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQteXRteXdzbjZ4YmtzLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLXFoY3JvcWlqYzk2cC5odG1s"
+            ]
+        },
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQteGw5OGJrbTBleGRjLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLTA5b3pwb2pldW9lci5odG1s"
+            ]
+        }
+    ],
+    "downloads": []
+}

@@ -1,0 +1,57 @@
+{
+    "url": "https://cuevana.pizza/pelicula/halloween-el-origen",
+    "title": "Halloween. El origen",
+    "duration": "1h 50m",
+    "year": "2007",
+    "genres": [
+        "Terror"
+    ],
+    "actors": [
+        "Scout Taylor-Compton",
+        "Tyler Mane",
+        "Malcolm McDowell",
+        "Daeg Faerch",
+        "Sheri Moon Zombie",
+        "Danielle Harris",
+        "Brad Dourif",
+        "William Forsythe",
+        "Kristina Klebe",
+        "Hanna Hall",
+        "Danny Trejo",
+        "Daryl Sabara",
+        "Dee Wallace",
+        "Skyler Gisondo",
+        "Ken Foree",
+        "Lew Temple",
+        "Clint Howard",
+        "Richard Lynch",
+        "Udo Kier",
+        "Pat Skipper"
+    ],
+    "description": "Después de estar recluido durante 17 años en una institución mental, Michael Myers, convertido ya en un hombre adulto y muy peligroso, logra escaparse y regresa a Haddonfield para buscar a su hermana. Todo aquel que se cruce en su camino corre un peligro mortal.",
+    "cover": "https://cuevana.pizza/resize/###/storage/41874/3u0WSp78G0MavLKAAisNReapleFBau6gseqM3e9M.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtcWdtOHJvMmVnbmpuLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLTkxbDcyaXcyOTF1di5odG1s"
+            ]
+        },
+        {
+            "type": "cas",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtZzV5aHVnb2E0cTRuLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLWVsd3ZlMnN6ZDQ5dS5odG1s"
+            ]
+        },
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtMnl2ejdycGR5dzVtLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLTMwcjEwM3kzY3p0bi5odG1s"
+            ]
+        }
+    ],
+    "downloads": []
+}

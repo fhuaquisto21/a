@@ -1,0 +1,50 @@
+{
+    "url": "https://cuevana.pizza/pelicula/siete-almas",
+    "title": "Siete almas",
+    "duration": "2h 3m",
+    "year": "2008",
+    "genres": [
+        "Drama",
+        "Romance"
+    ],
+    "actors": [
+        "Will Smith",
+        "Rosario Dawson",
+        "Woody Harrelson",
+        "Michael Ealy",
+        "Barry Pepper",
+        "Elpidia Carrillo",
+        "Robinne Lee",
+        "Bill Smitrovich",
+        "Joe Nunez",
+        "Sarah Jane Morris",
+        "Connor Cruise",
+        "Tim Kelleher",
+        "Gina Hecht",
+        "Andy Milder",
+        "Judyann Elder",
+        "Madison Pettis",
+        "Octavia Spencer",
+        "Robert Ochoa",
+        "Bojana Novaković"
+    ],
+    "description": "Ben Thomas es un inspector de Hacienda que comienza a contactar con determinadas personas con la aparente intención de ayudarles, a todos de diferentes maneras, sin que sepamos bien ni sus razones ni sus objetivos. Aparentemente Ben tiene un plan, pero cuando conoce a una de esas personas, la atractiva Emily, comienza a sentir algo por ella, complicándose sus misteriosos planes.",
+    "cover": "https://cuevana.pizza/resize/###/storage/29248/Gy62g0GQAgHo9P6B1oypqjuDelT4aHMDyLDfPYDF.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtdmVmN3RsNnp0eWFnLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLWdibGRmanRpaDRudS5odG1s"
+            ]
+        },
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtemp0czdxdDhjbHl0Lmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLXQzcDRicDRsc2VxeC5odG1s"
+            ]
+        }
+    ],
+    "downloads": []
+}

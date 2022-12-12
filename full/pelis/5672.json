@@ -1,0 +1,26 @@
+{
+    "url": "https://cuevana.pizza/pelicula/somos-tr3s",
+    "title": "Somos tr3s",
+    "duration": "1h 29m",
+    "year": "2018",
+    "genres": [
+        "Drama"
+    ],
+    "actors": [
+        "Juan Manuel Martino",
+        "Charly Etchévers",
+        "Flor Dragonetti"
+    ],
+    "description": "Nacho, Ana y Sebastián se conocen en una fiesta de amigos en común, se enamoran por igual e inician una relación no convencional.",
+    "cover": "https://cuevana.pizza/resize/###/storage/23294/9Df8hQFKDzaqPRJfuoP8QfgJtrfIdpcGNzk0vsx3.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtOGZhbTQ2MXZyeDZ4Lmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLW9rcDJwYXFpMTZwMy5odG1s"
+            ]
+        }
+    ],
+    "downloads": []
+}

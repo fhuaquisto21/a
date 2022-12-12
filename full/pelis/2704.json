@@ -1,0 +1,45 @@
+{
+    "url": "https://cuevana.pizza/pelicula/este-nino-es-un-trasto",
+    "title": "Este niño es un trasto",
+    "duration": "1h 34m",
+    "year": "2021",
+    "genres": [
+        "Comedia"
+    ],
+    "actors": [
+        "Amanda Du-Pont",
+        "Naymaps Maphalala",
+        "James Borthwick",
+        "Brady Hofmeyr",
+        "Charlie Bouguenon",
+        "Jacques Adriaanse"
+    ],
+    "description": "Un guitarrista, al que echaron de su casa y de su banda, se muda con una contadora, su hijo y su padre. ¿Será posible mantener la armonía familiar?",
+    "cover": "https://cuevana.pizza/resize/###/storage/11569/5Z05AeqIDO3etiHwGNgjei8I563Cj2dqV0oEtHym.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQteTg0Y3lkaTIxYWw3Lmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLW5sbmxmZ2lwNTliby5odG1s"
+            ]
+        },
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtcTV2YWVqdWZ1Ymk0Lmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLWoyaXBvZGl2MjNuaC5odG1s"
+            ]
+        }
+    ],
+    "downloads": [
+        {
+            "url": "https://1fichier.com/?mbeigzaxck6v2ijgu2vq",
+            "type": "la"
+        },
+        {
+            "url": "https://1fichier.com/?7h1o4ghrq92douxgnlmp",
+            "type": "en"
+        }
+    ]
+}

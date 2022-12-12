@@ -1,0 +1,52 @@
+{
+    "url": "https://cuevana.pizza/pelicula/furia-de-titanes",
+    "title": "Furia de titanes",
+    "duration": "1h 46m",
+    "year": "2010",
+    "genres": [
+        "Accion",
+        "Aventura",
+        "Fantasia"
+    ],
+    "actors": [
+        "Sam Worthington",
+        "Gemma Arterton",
+        "Mads Mikkelsen",
+        "Alexa Davalos",
+        "Jason Flemyng",
+        "Ralph Fiennes",
+        "Liam Neeson",
+        "Pete Postlethwaite",
+        "Polly Walker",
+        "Ashraf Barhom",
+        "Elizabeth McGovern",
+        "Nicholas Hoult",
+        "Liam Cunningham",
+        "Hans Matheson",
+        "Vincent Regan",
+        "Alexander Siddig",
+        "Luke Treadaway",
+        "Mouloud Achour",
+        "Tine Stapelfeldt",
+        "Luke Evans"
+    ],
+    "description": "Adaptación libre del mito de Perseo, hijo de Zeus, el padre de los dioses griegos. Perseo y su madre Dánae, son encerrados en un cofre por Acrisio, su abuelo, y arrojados al mar. Arrastrados por la corriente, llegan a la isla de Sérifos, donde Perseo alcanza la madurez. Cuando sepa cuál es la misión que le ha sido encomendada por el Destino, emprenderá un durísmo viaje, en el que tendrá que ir superando diversas pruebas. Remake del clásico de Desmond Davis de 1981.",
+    "cover": "https://cuevana.pizza/resize/###/storage/29043/lcoNXJnZL1NQWs1fePFu0qzcvLVklKybgGcxPX6R.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtY2R4MmR1OGI3cGJ6Lmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLXZpMjRueXQxZjVlaS5odG1s"
+            ]
+        },
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtYjFuanZlMTljMzg2Lmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLXVsNmNnNmJodzlvdi5odG1s"
+            ]
+        }
+    ],
+    "downloads": []
+}

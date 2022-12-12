@@ -1,0 +1,53 @@
+{
+    "url": "https://cuevana.pizza/pelicula/limite-vertical",
+    "title": "Límite vertical",
+    "duration": "2h 25m",
+    "year": "2000",
+    "genres": [
+        "Accion",
+        "Drama",
+        "Suspenso",
+        "Aventura"
+    ],
+    "actors": [
+        "Chris O'Donnell",
+        "Robin Tunney",
+        "Bill Paxton",
+        "Scott Glenn",
+        "Izabella Scorupco",
+        "Nicholas Lea",
+        "Temuera Morrison",
+        "Alexander Siddig",
+        "Stuart Wilson",
+        "Augie Davis",
+        "Roshan Seth",
+        "Alejandro Valdes-Rochin",
+        "Rod Brown",
+        "Steve Le Marquand",
+        "Ben Mendelsohn",
+        "Ed Viesturs",
+        "Robert Taylor",
+        "Campbell Cooley",
+        "Alistair Browning",
+        "Tiffany de Castro"
+    ],
+    "description": "Una historia de alta adrenalina del joven escalador Peter Garrett, que debe lanzar un traicionero y extraordinario esfuerzo de rescate hasta K2, el segundo pico más alto del mundo. Enfrentando sus propias limitaciones y el increíble poder de los elementos incontrolables de la naturaleza, Peter arriesga su vida para salvar a su hermana, Annie, y su equipo de la cumbre en una carrera contra el tiempo. El equipo está atrapado en una tumba helada a 26,000 pies, una zona de muerte por encima del límite vertical de resistencia donde el cuerpo humano no puede sobrevivir por mucho tiempo. Cada segundo cuenta mientras Peter solicita la ayuda de un grupo de compañeros escaladores, incluido el excéntrico y solitario montañero Montgomery Wick, para ascender al poder helado del pico más temido del mundo para salvarla.",
+    "cover": "https://cuevana.pizza/resize/###/storage/29431/YPO3S5cGhGJ9JhrZ3cxmTvP6tfVOOv5hla7rHLjw.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtMzY5dDdrNjRiejJjLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLXVoeWRyeGp1emhhci5odG1s"
+            ]
+        },
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtMWxwM285amtrOGw3Lmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLXByY21ncnpzY2pvNS5odG1s"
+            ]
+        }
+    ],
+    "downloads": []
+}

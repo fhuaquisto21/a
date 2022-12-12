@@ -1,0 +1,29 @@
+{
+    "url": "https://cuevana.pizza/pelicula/animal-world",
+    "title": "Animal World",
+    "duration": "2h 0m",
+    "year": "2018",
+    "genres": [
+        "Suspenso",
+        "Aventura"
+    ],
+    "actors": [
+        "Li Yifeng",
+        "Zhou Dongyu",
+        "Michael Douglas",
+        "Cao Bingkun",
+        "Li Yijuan"
+    ],
+    "description": "Zheng Kaisi debe mucho dinero a sus amigos. Para pagar su deuda decide embarcarse en el \"Destiny\", un barco en el que hay una misteriosa fiesta de apuestas.",
+    "cover": "https://cuevana.pizza/resize/###/storage/17453/B3NeKOOiKCabfN7rcMNE8I4jhGzF7zmiUZ9phC27.jpg",
+    "players": [
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtNHM5Y201OXpnbTA2Lmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLTd6Z3dybXJ6ZGN2aC5odG1s"
+            ]
+        }
+    ],
+    "downloads": []
+}

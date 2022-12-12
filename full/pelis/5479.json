@@ -1,0 +1,74 @@
+{
+    "url": "https://cuevana.pizza/pelicula/un-pequeno-favor",
+    "title": "Un pequeño favor",
+    "duration": "1h 57m",
+    "year": "2018",
+    "genres": [
+        "Comedia",
+        "Drama",
+        "Misterio",
+        "Suspenso",
+        "Crimen"
+    ],
+    "actors": [
+        "Anna Kendrick",
+        "Blake Lively",
+        "Henry Golding",
+        "Rupert Friend",
+        "Linda Cardellini",
+        "Bashir Salahuddin",
+        "Danielle Bourgon",
+        "Kelly McCormack",
+        "Andrew Rannells",
+        "Ian Ho",
+        "Joshua Satine",
+        "Paul Jurewicz",
+        "Roger Dunn",
+        "Dustin Milligan",
+        "Eric Johnson",
+        "Jason Oliveira",
+        "Patti Harrison",
+        "Ava LaFramboise",
+        "Jean Smart",
+        "Sarah Baker"
+    ],
+    "description": "Stephanie es una joven madre videobloguera de una ciudad pequeña cuya mejor amiga, la sofisticada Emily, desaparece un día repentinamente. A Stephanie le ayudará en su búsqueda el marido de Emily, Sean.",
+    "cover": "https://cuevana.pizza/resize/###/storage/21445/tyGVj8fKvC9A5kk45uFo6tlnKWiSSUi37Yuf8AtF.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQta2NpZDJoeWp2ZW95Lmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLTh4cWluYnliN2luay5odG1s"
+            ]
+        },
+        {
+            "type": "cas",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtNjQ4Z3VqNXFrNXByLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLWxxM3NmM28xNGhrbC5odG1s"
+            ]
+        },
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtNjh3YWQ1MjFoeXU2Lmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLTAzd2c4cnp2ZDEyOC5odG1s"
+            ]
+        }
+    ],
+    "downloads": [
+        {
+            "url": "https://1fichier.com/?fklcj3ns5froisdqsv3v",
+            "type": "la"
+        },
+        {
+            "url": "https://1fichier.com/?s606qu6j6p18wf76t850",
+            "type": "es"
+        },
+        {
+            "url": "https://1fichier.com/?myq5bxm5y9m7zycu5xjp",
+            "type": "en"
+        }
+    ]
+}

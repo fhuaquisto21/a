@@ -1,0 +1,37 @@
+{
+    "url": "https://cuevana.pizza/pelicula/hablame-de-ti",
+    "title": "Háblame de ti",
+    "duration": "1h 40m",
+    "year": "2018",
+    "genres": [
+        "Comedia",
+        "Drama"
+    ],
+    "actors": [
+        "Leïla Bekhti",
+        "Fabrice Luchini",
+        "Igor Gotesman",
+        "Alexia Séféroglou",
+        "Fatima Adoum",
+        "Olivier Rosemberg"
+    ],
+    "description": "Alain es un respetado hombre de negocios y un brillante orador. En su vida, no hay lugar para el ocio o la familia. Un día, sufre un derrame cerebral que frena su brillante carrera profesional y le causa problemas profundos en el habla y la memoria. En su rehabilitación cuenta con el apoyo de Jeanne, una joven logopeda. A fuerza de trabajo y paciencia, Jeanne y Alain llegarán a conocerse y él intentará reconstruirse y empezar una nueva vida.",
+    "cover": "https://cuevana.pizza/resize/###/storage/24778/EN2kgosqwXGmdYOmkL5nG9AoPiEGc9atTyVKxn3w.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtcG80NXJqMTJ0Ym1xLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLTh0cWhmNjY2Y3Nndy5odG1s"
+            ]
+        },
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtMGpjdmtoa3JqZHoxLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLXNzYmhiM2tpZnJjay5odG1s"
+            ]
+        }
+    ],
+    "downloads": []
+}

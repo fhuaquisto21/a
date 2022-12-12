@@ -1,0 +1,36 @@
+{
+    "url": "https://cuevana.pizza/pelicula/apollo-18",
+    "title": "Apollo 18",
+    "duration": "1h 28m",
+    "year": "2011",
+    "genres": [
+        "Misterio",
+        "Terror",
+        "Ciencia Ficcion"
+    ],
+    "actors": [
+        "Ryan Robbins",
+        "Warren Christie",
+        "Lloyd Owen",
+        "Andrew Airlie",
+        "Michael Kopsa",
+        "Ali Liebert",
+        "Kurt Max Runte",
+        "Kim Wylie",
+        "Noah Wylie",
+        "Erica Carroll",
+        "Jan Bos"
+    ],
+    "description": "A modo de falso documental, revela la \"verdadera\" historia de la última misión secreta de la NASA en la Luna, el Apollo 18, lanzado en diciembre de 1972. El terrorífico contenido de estas grabaciones muestra la verdadera razón por la que el hombre nunca ha vuelto a la Luna.",
+    "cover": "https://cuevana.pizza/resize/###/storage/28453/FZHboACSRtybLIvsNbiflqcQKKcEen6NPNPdozJr.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtam9mZGdqOXF6aHQ2Lmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLXEya3NjaTdmZ2NqdS5odG1s"
+            ]
+        }
+    ],
+    "downloads": []
+}

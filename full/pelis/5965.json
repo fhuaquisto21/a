@@ -1,0 +1,50 @@
+{
+    "url": "https://cuevana.pizza/pelicula/a-fortunate-man",
+    "title": "Pedro el afortunado",
+    "duration": "2h 42m",
+    "year": "2018",
+    "genres": [
+        "Drama"
+    ],
+    "actors": [
+        "Esben Smed",
+        "Katrine Greis-Rosenthal",
+        "Benjamin Kitter",
+        "Julie Christiansen",
+        "Rasmus Bjerg",
+        "Ole Lemmeke",
+        "Sara Viktoria",
+        "Sophie Marie Jeppesen",
+        "Tommy Kenter",
+        "Tammi Øst",
+        "Jens Albinus",
+        "Paul Hüttel",
+        "Anders Hove",
+        "Elsebeth Steentoft",
+        "Mei Oulund",
+        "Karl Fischer",
+        "Claus Flygare",
+        "Johannes Nymark",
+        "Mette Munk Plum",
+        "Peter Hald"
+    ],
+    "description": "En su búsqueda de la felicidad, Per se muda de la oscura región de Jutland de su familia estrictamente religiosa, huyendo de su padre, un cura. Se embarca hacia Copenhague​ para convertirse en ingeniero y comenzar un gran proyecto energético. En la gran ciudad, Per descubre su apetito por la vida y la felicidad, envolviéndose en un despreocupado y vívido entorno social.",
+    "cover": "https://cuevana.pizza/resize/###/storage/25045/8tiGO37Oa8Eqm1nMpFPCI543muIdYfflJiIfbTUe.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtNTBtNnpjcWQ1emVvLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLXMxdXV0ZHliNzI2cS5odG1s"
+            ]
+        },
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtdWpiNzNvcXUzZ3BxLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLTBzNHBpdmx5dXplYS5odG1s"
+            ]
+        }
+    ],
+    "downloads": []
+}

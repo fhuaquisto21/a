@@ -1,0 +1,55 @@
+{
+    "url": "https://cuevana.pizza/pelicula/burn-out",
+    "title": "Burn Out",
+    "duration": "1h 47m",
+    "year": "2018",
+    "genres": [
+        "Accion",
+        "Suspenso"
+    ],
+    "actors": [
+        "François Civil",
+        "Manon Azem",
+        "Olivier Rabourdin",
+        "Samuel Jouy"
+    ],
+    "description": "Tony, un joven y prometedor piloto de motociclismo, se ve obligado a realizar carreras peligrosas de drogas para salvar a la madre de su hijo de un peligroso mafioso.",
+    "cover": "https://cuevana.pizza/resize/###/storage/25386/VnuKKC7BVmPjU4OOnNoxiV4Burwt4PZvJMFKVQUS.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtcDAwczdmNTNyNHc3Lmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLW51aXB0NHdzbDNqMC5odG1s"
+            ]
+        },
+        {
+            "type": "cas",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtY3E1b3lwd3J0c2t5Lmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLXR6dHhhNWo0Z2E3dC5odG1s"
+            ]
+        },
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQta2N6MmpxdWhraDZwLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLWVvMnowanF6cGJqZi5odG1s"
+            ]
+        }
+    ],
+    "downloads": [
+        {
+            "url": "https://1fichier.com/?fl8gcynrcv9xknqyf5ls",
+            "type": "la"
+        },
+        {
+            "url": "https://1fichier.com/?myyapxa5gpjsb7f6c3se",
+            "type": "es"
+        },
+        {
+            "url": "https://1fichier.com/?dxwrm4o6xkj1607q44aq",
+            "type": "en"
+        }
+    ]
+}

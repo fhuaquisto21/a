@@ -1,0 +1,54 @@
+{
+    "url": "https://cuevana.pizza/pelicula/el-reino-de-los-cielos",
+    "title": "El reino de los cielos",
+    "duration": "2h 24m",
+    "year": "2005",
+    "genres": [
+        "Accion",
+        "Drama",
+        "Aventura",
+        "Historia",
+        "Belica"
+    ],
+    "actors": [
+        "Orlando Bloom",
+        "Eva Green",
+        "Jeremy Irons",
+        "David Thewlis",
+        "Liam Neeson",
+        "Ghassan Massoud",
+        "Brendan Gleeson",
+        "Marton Csokas",
+        "Edward Norton",
+        "Michael Sheen",
+        "Alexander Siddig",
+        "Khaled El Nabawy",
+        "Nikolaj Coster-Waldau",
+        "Kevin McKidd",
+        "Velibor Topic",
+        "Jon Finch",
+        "Ulrich Thomsen",
+        "Jouko Ahola",
+        "Shane Attwooll",
+        "Peter Cant"
+    ],
+    "description": "Siglo XII, Europa entera está inmersa en las Cruzadas para recuperar la Tierra Santa. Godofredo de Ibelin, caballero respetado por el rey de Jerusalén y comprometido con el mantenimiento de la paz en la región, emprende la búsqueda de su hijo ilegítimo, Balian, joven herrero francés que llora la pérdida de su mujer y su hijo. Godofredo convence a su hijo para que lo acompañe en su misión. Tras la muerte de su padre, Balian hereda sus tierras y su título de caballero en Jerusalén, ciudad en la que cristianos, musulmanes y judíos han conseguido convivir pacíficamente durante la tregua entre la Segunda y la Tercera Cruzada. Con una fidelidad inquebrantable, Balian sirve a su rey y, además, se enamora de la princesa Sibylla, la enigmática hermana del monarca.",
+    "cover": "https://cuevana.pizza/resize/###/storage/28748/WMl24SoMxrBzUI3AglCHDzcmWxqWjHzfFsOlRPvG.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtZzV3cGllbnQ5Z3lzLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLWJncXh2M3JwM3N5ai5odG1s"
+            ]
+        },
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtYTJlZjIwdHN1eGoyLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLWo5c2Jybmh1M2NtYS5odG1s"
+            ]
+        }
+    ],
+    "downloads": []
+}

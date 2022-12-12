@@ -1,0 +1,45 @@
+{
+    "url": "https://cuevana.pizza/pelicula/jack-el-cazagigantes",
+    "title": "Jack el Cazagigantes",
+    "duration": "1h 54m",
+    "year": "2013",
+    "genres": [
+        "Accion",
+        "Aventura",
+        "Fantasia"
+    ],
+    "actors": [
+        "Eleanor Tomlinson",
+        "Ewan McGregor",
+        "Nicholas Hoult",
+        "Stanley Tucci"
+    ],
+    "description": "La paz entre los seres humanos y los gigantes llega a su fin cuando éstos secuestran a una princesa. Un grupo de hombres valientes encabezados por un joven granjero intentarán rescatarla. Adaptación para adultos del cuento infantil Jack y las Habichuelas Mágicas.",
+    "cover": "https://cuevana.pizza/resize/###/storage/15992/ZSRkUQ1qRpoWwqGgGbE3nqRCVKuXaVC7UzVuWoch.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtc2tkMWRudWYza2JtLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLXl5aW94ODZtMTM4di5odG1s"
+            ]
+        },
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtbHFxNTBlam4wYjJpLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLW4yNHI3b2Z1Ymp5dC5odG1s"
+            ]
+        }
+    ],
+    "downloads": [
+        {
+            "url": "https://1fichier.com/?ik8vi9d7lytbve6sdvmn",
+            "type": "la"
+        },
+        {
+            "url": "https://1fichier.com/?qlrwxu5y3yf8v73x9tjx",
+            "type": "en"
+        }
+    ]
+}

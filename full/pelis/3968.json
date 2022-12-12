@@ -1,0 +1,64 @@
+{
+    "url": "https://cuevana.pizza/pelicula/el-amigo",
+    "title": "El amigo",
+    "duration": "2h 4m",
+    "year": "2021",
+    "genres": [
+        "Comedia",
+        "Drama",
+        "Romance"
+    ],
+    "actors": [
+        "Ahna O'Reilly",
+        "Casey Affleck",
+        "Cherry Jones",
+        "Dakota Johnson",
+        "Denée Benton",
+        "Gwendoline Christie",
+        "Isabella Kai",
+        "Jake Owen",
+        "Jason Segel",
+        "Marielle Scott",
+        "Michael Papajohn",
+        "Violet McGraw"
+    ],
+    "description": "Después de enterarse de que a su esposa le quedan seis meses de vida debido a una enfermedad terminal, un hombre recibe el apoyo de su mejor amigo que se muda a su casa para ayudarle. El impacto de esta situación para toda la familia será mucho mayor de lo que nadie podría haber imaginado.",
+    "cover": "https://cuevana.pizza/resize/###/storage/6286/4tNPVsfCLgPwd6bG9ep5DX4xUP2cBaYW9JX4LOdV.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtYmQ1NGxuazkzeTdlLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLXMza2ozYm5jcmwyMy5odG1s"
+            ]
+        },
+        {
+            "type": "cas",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtY3YxaGZ6bXF1cHE2Lmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLW01eWo2aGVxMjI0by5odG1s"
+            ]
+        },
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtc20xYzJmc2p3Zmt2Lmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLWJlaHgyeW83NHhrbi5odG1s"
+            ]
+        }
+    ],
+    "downloads": [
+        {
+            "url": "https://1fichier.com/?dgku6zm426sqii6uu1do",
+            "type": "la"
+        },
+        {
+            "url": "https://1fichier.com/?en2iso2ez2su2roqxz6r",
+            "type": "es"
+        },
+        {
+            "url": "https://1fichier.com/?0aeiueerfv0o6v04khth",
+            "type": "en"
+        }
+    ]
+}

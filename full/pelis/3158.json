@@ -1,0 +1,62 @@
+{
+    "url": "https://cuevana.pizza/pelicula/el-caballero-verde",
+    "title": "El caballero verde",
+    "duration": "2h 5m",
+    "year": "2021",
+    "genres": [
+        "Drama",
+        "Aventura",
+        "Fantasia"
+    ],
+    "actors": [
+        "Dev Patel",
+        "Alicia Vikander",
+        "Joel Edgerton",
+        "Sarita Choudhury",
+        "Sean Harris",
+        "Kate Dickie",
+        "Barry Keoghan",
+        "Erin Kellyman",
+        "Ralph Ineson",
+        "Emilie Hetland"
+    ],
+    "description": "Una aventura de fantasía épica basada en la eterna leyenda artúrica, The Green Knight cuenta la historia de Sir Gawain (Dev Patel), el temerario y testarudo sobrino del Rey Arturo, que se embarca en una atrevida búsqueda para enfrentarse al homónimo Caballero Verde, un gigantesco de piel esmeralda.",
+    "cover": "https://cuevana.pizza/resize/###/storage/9674/9xUupDkYaDXUQH0fSaBw6SY0BmUTzszV5OR9SuqM.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtYTJuMWkwaWJ1NTZzLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLXBqNGJhMnRxYWFrbi5odG1s"
+            ]
+        },
+        {
+            "type": "cas",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtN2NoMnFmenc3NW9tLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLWpzOHp3bW1mbXRlai5odG1s"
+            ]
+        },
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtamVvMHpqeThhZjAxLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLW1qNDk2NTY3Y3Q4di5odG1s"
+            ]
+        }
+    ],
+    "downloads": [
+        {
+            "url": "https://1fichier.com/?xuk0263bnme80ycmsi3f",
+            "type": "la"
+        },
+        {
+            "url": "https://1fichier.com/?ar8734kzmeymduo4er3v",
+            "type": "es"
+        },
+        {
+            "url": "https://1fichier.com/?44brqyxn1t206cr4ljac",
+            "type": "en"
+        }
+    ]
+}

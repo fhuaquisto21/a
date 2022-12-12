@@ -1,0 +1,52 @@
+{
+    "url": "https://cuevana.pizza/pelicula/red",
+    "title": "Red",
+    "duration": "1h 40m",
+    "year": "2022",
+    "genres": [
+        "Comedia",
+        "Fantasia",
+        "Animacion",
+        "Disney"
+    ],
+    "actors": [
+        "Rosalie Chiang",
+        "Sandra Oh",
+        "Ava Morse",
+        "Hyein Park",
+        "Maitreyi Ramakrishnan",
+        "Orion Lee",
+        "Wai Ching Ho",
+        "Tristan Allerick Chen",
+        "Lori Tan Chinn",
+        "Mia Tagano"
+    ],
+    "description": "Mei Lee, una niña de 13 años un poco rara pero segura de sí misma, se debate entre ser la hija obediente que su madre quiere que sea y el caos propio de la adolescencia. Ming, su protectora y ligeramente exigente madre, no se separa nunca de ella lo que es una situación poco deseable para una adolescente. Y por si los cambios en su vida y en su cuerpo no fueran suficientes, cada vez que se emociona demasiado (lo que le ocurre prácticamente todo el tiempo), se convierte en un panda rojo gigante.",
+    "cover": "https://cuevana.pizza/resize/###/storage/15320/Dui7azbMz9XVNnEi6ejLmGt9Bj4Q6NzNVVAcn9ok.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtang0dWF5emc5MzBlLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLXFxeWtvaTFjaG9pYy5odG1s"
+            ]
+        },
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtdmNsNXBteDR1aHFwLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLTRkZGN3ZTh2MWJyOS5odG1s"
+            ]
+        }
+    ],
+    "downloads": [
+        {
+            "url": "https://1fichier.com/?mxb1r67ppf36bjp1b5kx",
+            "type": "la"
+        },
+        {
+            "url": "https://1fichier.com/?h3d1y9yi2w6nfa5q0c5n",
+            "type": "en"
+        }
+    ]
+}

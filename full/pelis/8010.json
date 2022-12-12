@@ -1,0 +1,52 @@
+{
+    "url": "https://cuevana.pizza/pelicula/crank-2-alto-voltaje",
+    "title": "Crank: Alto voltaje",
+    "duration": "1h 36m",
+    "year": "2009",
+    "genres": [
+        "Accion",
+        "Suspenso",
+        "Crimen"
+    ],
+    "actors": [
+        "Jason Statham",
+        "Amy Smart",
+        "David Carradine",
+        "Dwight Yoakam",
+        "Bai Ling",
+        "Clifton Collins Jr.",
+        "Jose Pablo Cantillo",
+        "Efren Ramirez",
+        "Julanne Chidi Hill",
+        "Reno Wilson",
+        "Keone Young",
+        "Art Hsu",
+        "Joseph Julian Soria",
+        "Corey Haim",
+        "Geri Halliwell",
+        "William Brent",
+        "Jamie Harris",
+        "John de Lancie",
+        "Ho-Kwan Tse",
+        "Galen Yuen"
+    ],
+    "description": "Un mafioso chino se hará con el indestructible corazón de Chev Chelios (protagonista de la primera entrega), y lo sustituirá por una batería, la cual requiere de descargas de electricidad para seguir funcionando.",
+    "cover": "https://cuevana.pizza/resize/###/storage/29088/ZBINlnPsY1KdZ2QqX1hwz3S6tC5f0RJn4BqP5Vuz.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtM21nYXhwc3Iyanc0Lmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLWRxc3JyM2FnNG83ei5odG1s"
+            ]
+        },
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtNXVldmc2d201dzh0Lmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLXVmc2NkOWhwYjhicC5odG1s"
+            ]
+        }
+    ],
+    "downloads": []
+}

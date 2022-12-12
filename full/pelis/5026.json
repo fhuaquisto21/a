@@ -1,0 +1,47 @@
+{
+    "url": "https://cuevana.pizza/pelicula/dead-kids",
+    "title": "Dead Kids",
+    "duration": "1h 34m",
+    "year": "2019",
+    "genres": [
+        "Suspenso"
+    ],
+    "actors": [
+        "Kelvin Miranda",
+        "Vance Larena",
+        "Khalil Ramos",
+        "Jan Silverio",
+        "Markus Paterson",
+        "Sue Anna Ramirez",
+        "Gabby Padilla",
+        "Ku Aquino",
+        "Allan Villafuerte",
+        "Rowena Concepcion",
+        "Emmanuel Dela Cruz",
+        "Juan Pablo Pineda III",
+        "Jude Matthew Servilla",
+        "John Vincent Servilla",
+        "Dennis Brillante",
+        "Madeleine Red",
+        "Kych Minemoto"
+    ],
+    "description": "Un adolescente torpe y social se une con un grupo de inadaptados que planean secuestrar al niño rico arrogante de la escuela, hasta que su plan de secuestro se torne mal.",
+    "cover": "https://cuevana.pizza/resize/###/storage/20306/uZDUCW1H2KDWFwpRvQA4BrGAp0Y75OU6tg3ABkUQ.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtOTJraTlrOXRjMHVyLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLWJxN3Q5ank3bHY4YS5odG1s"
+            ]
+        },
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQteGs3c2ltc3p1ZGhwLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLXEwcjR3ampyYzJvYy5odG1s"
+            ]
+        }
+    ],
+    "downloads": []
+}

@@ -1,0 +1,37 @@
+{
+    "url": "https://cuevana.pizza/pelicula/drive",
+    "title": "Drive",
+    "duration": "1h 59m",
+    "year": "2019",
+    "genres": [
+        "Accion",
+        "Suspenso"
+    ],
+    "actors": [
+        "Sushant Singh Rajput",
+        "Jacqueline Fernandez",
+        "Boman Irani",
+        "Pankaj Tripathi",
+        "Sapna Pabbi",
+        "Vikramjeet Virk"
+    ],
+    "description": "Un conocido ladrón y una piloto de carreras clandestinas se alían para dar un gran golpe con el que engañan a las autoridades, que también oculta turbios secretos.",
+    "cover": "https://cuevana.pizza/resize/###/storage/17938/x2VGHhwXPvzw5GLYuZqwdCTs99kYOlb62YTCqtX6.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtdTMzYmM3dTcyYnp6Lmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLTd4eHM1eHU3ajJkbC5odG1s"
+            ]
+        },
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtY3dkemFvOG1vZ2phLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLXZoeWp1bWhycHgwcy5odG1s"
+            ]
+        }
+    ],
+    "downloads": []
+}

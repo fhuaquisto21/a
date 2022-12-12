@@ -1,0 +1,51 @@
+{
+    "url": "https://cuevana.pizza/pelicula/el-arbol-de-la-vida",
+    "title": "El árbol de la vida",
+    "duration": "2h 19m",
+    "year": "2011",
+    "genres": [
+        "Drama",
+        "Fantasia"
+    ],
+    "actors": [
+        "Brad Pitt",
+        "Sean Penn",
+        "Jessica Chastain",
+        "Hunter McCracken",
+        "Laramie Eppler",
+        "Tye Sheridan",
+        "Fiona Shaw",
+        "Jessica Fuselier",
+        "Nicolas Gonda",
+        "Will Wallace",
+        "Kelly Koonce",
+        "Bryce Boudoin",
+        "Jimmy Donaldson",
+        "Kameron Vaughn",
+        "Cole Cockburn",
+        "Dustin Allen",
+        "Brayden Whisenhunt",
+        "Joanna Going",
+        "Irene Bedard",
+        "Michael Koeth"
+    ],
+    "description": "Jack (Hunter McCracken) es un niño que vive con sus hermanos y sus padres en la norteamérica de los años cincuenta. Mientras que su madre (Jessica Chastain) encarna el amor y la ternura en el seno familiar, su padre (Brad Pitt) representa la severidad, pues se cree obligado a enseñarle a enfrentarse a un mundo hostil. Así, este viaje que comienza con la pérdida de la inocencia llegará hasta nuestros días, con Jack ya adulto (Sean Penn) recordando ciertos momentos trascendentes de su infancia, y la influencia de éstos en lo que él es ahora, y en lo que representa en su vida espiritual el recuerdo de su familia.",
+    "cover": "https://cuevana.pizza/resize/###/storage/28643/vQdnDnEoinjHRaEXOZH6xoZJGxGZWuI2grWf1RUV.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtNXdldmxpczllOGdhLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLXI0bDFjdXF0M2ZwcC5odG1s"
+            ]
+        },
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtZXVseG40cnQzbGZ5Lmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLWMyYjJyZTc0dnA0dy5odG1s"
+            ]
+        }
+    ],
+    "downloads": []
+}

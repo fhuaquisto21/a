@@ -1,0 +1,52 @@
+{
+    "url": "https://cuevana.pizza/pelicula/kings",
+    "title": "Kings",
+    "duration": "1h 25m",
+    "year": "2017",
+    "genres": [
+        "Drama",
+        "Romance",
+        "Crimen"
+    ],
+    "actors": [
+        "Halle Berry",
+        "Daniel Craig",
+        "Lamar Johnson",
+        "Rachel Hilson",
+        "Issac Ryan Brown",
+        "Reece Cody",
+        "Flor de Maria Chahua",
+        "Janet Song",
+        "Rick Ravanello",
+        "Richie Stephens",
+        "Kaalan Rashad Walker",
+        "Callan Farris",
+        "Serenity Reign Brown",
+        "Aiden Akpan",
+        "Gary Yavuz Perreau",
+        "Ce’Onna Johnson",
+        "Lorenz Arnell",
+        "Lorrie Odom",
+        "Lewis T. Powell",
+        "Quartay Denaya"
+    ],
+    "description": "1992. En Los Ángeles se producen fuertes disturbios a raíz de la absolución de varios policías implicados en la paliza al taxista negro Rodney King. En medio de ese caos vive una madre divorciada (Halle Berry) de familia afroamericana, que intentará encontrar y proteger a sus hijos en una ciudad en la que reinan los conflictos y la violencia.",
+    "cover": "https://cuevana.pizza/resize/###/storage/35565/NYn0P4EzvSMeKUj6nNbu0M9Orbao2WxIop7nStk3.jpg",
+    "players": [
+        {
+            "type": "cas",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQteGVzeTZvNm1hYXF6Lmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLWlrMjkzNG52MXdkdy5odG1s"
+            ]
+        },
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtMmN0MHgzNXhwbWE3Lmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLWJ4djJwOXV1Z2IxdC5odG1s"
+            ]
+        }
+    ],
+    "downloads": []
+}

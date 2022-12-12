@@ -1,0 +1,51 @@
+{
+    "url": "https://cuevana.pizza/pelicula/hurricane",
+    "title": "Hurricane",
+    "duration": "1h 50m",
+    "year": "2018",
+    "genres": [
+        "Drama",
+        "Guerra"
+    ],
+    "actors": [
+        "Iwan Rheon",
+        "Milo Gibson",
+        "Stefanie Martini",
+        "Marcin Dorociński",
+        "Kryštof Hádek",
+        "Nicholas Farrell",
+        "Teresa Mahoney",
+        "Sam Hoare",
+        "Phil McKee",
+        "Robert Portal",
+        "Emily Wyatt",
+        "Tam Williams",
+        "Radosław Kaim",
+        "Manuel Klein",
+        "Raphael Desprez",
+        "Rosie Gray",
+        "Andrew Sweet",
+        "Marc Hughes",
+        "Graham Padden",
+        "Jamie Langlands"
+    ],
+    "description": "Un grupo de polacos luchó en el cielo de Inglaterra en la Segunda Guerra Mundial, no sólo para lograr que Gran Bretaña fuera libre, sino también para hacer que la idea de su país se mantuviera viva tras la colisión de las fuerzas alemanas y rusas. Equipados con un casi obsoleto Hurricane y con uniformes de la RAF lucharon para que Polonia viviera.",
+    "cover": "https://cuevana.pizza/resize/###/storage/26017/KClzMal9iU6LeX04FbbyCNRBfj221mnbXqDgtP2O.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQteWt5c2xrNjg4eWRoLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLXJ2MjJpazRmN3AxdC5odG1s"
+            ]
+        },
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtenFtaW00aGgyM2hpLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLTB6Z3V1M2F1d2plMi5odG1s"
+            ]
+        }
+    ],
+    "downloads": []
+}

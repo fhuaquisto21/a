@@ -1,0 +1,46 @@
+{
+    "url": "https://cuevana.pizza/pelicula/el-maravilloso-invierno-de-mickey-mouse",
+    "title": "El maravilloso invierno de Mickey Mouse",
+    "duration": "24m",
+    "year": "2022",
+    "genres": [
+        "Comedia",
+        "Animacion",
+        "Disney"
+    ],
+    "actors": [
+        "Chris Diamantopoulos",
+        "Kaitlyn Robrock",
+        "Bill Farmer",
+        "Tony Anselmo",
+        "Tress MacNeille"
+    ],
+    "description": "La maravilla de la temporada de invierno lleva a Mickey Mouse y sus amigos en un viaje a través de tres historias mágicas.",
+    "cover": "https://cuevana.pizza/resize/###/storage/14794/5Z9CMhLA32QvyfGzqUzy8QdMohcedaIkfiI2VENg.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtb2E5ajZxM2p0aTczLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLXdnOTA0NWRjNG85MC5odG1s"
+            ]
+        },
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtM3czZ2c2N2d2a3lkLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLWJuejM0b2d3Z21qMy5odG1s"
+            ]
+        }
+    ],
+    "downloads": [
+        {
+            "url": "https://1fichier.com/?9fqhtdtag04lo32tz6ks",
+            "type": "la"
+        },
+        {
+            "url": "https://1fichier.com/?h1ikzp6fdkshvpn8vjwq",
+            "type": "en"
+        }
+    ]
+}

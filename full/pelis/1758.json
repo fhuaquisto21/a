@@ -1,0 +1,56 @@
+{
+    "url": "https://cuevana.pizza/pelicula/365-dias-aquel-dia",
+    "title": "365 días: Aquel día",
+    "duration": "1h 51m",
+    "year": "2022",
+    "genres": [
+        "Drama",
+        "Romance"
+    ],
+    "actors": [
+        "Anna-Maria Sieklucka",
+        "Michele Morrone",
+        "Simone Susinna",
+        "Magdalena Lamparska",
+        "Otar Saralidze"
+    ],
+    "description": "Secuela de '365 días' (2020). Vuelven Laura y Massimo más apasionados que nunca. Pero la nueva vida de la pareja se complica por culpa de los lazos familiares de Massimo y de un hombre misterioso dispuesto a ganarse el corazón y la confianza de Laura, cueste lo que cueste.",
+    "cover": "https://cuevana.pizza/resize/###/storage/22095/MAp0K6u0AokDyMxCYBbmejYpC693LPkqR7e6oXYq.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtOTlwcTI5ZmJtYXVxLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLWF4bWVucWozZTlibi5odG1s"
+            ]
+        },
+        {
+            "type": "cas",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQteWliZGU4dmF1NnZ2Lmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLTJsZG12NTJ4OTNhYi5odG1s"
+            ]
+        },
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtcm05YnQ5Z3l3Mmt1Lmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLTg4ZndwZGV2anVqZy5odG1s"
+            ]
+        }
+    ],
+    "downloads": [
+        {
+            "url": "https://1fichier.com/?5ynvfw4bfjyca5dsx1vx#Synchronization+Service",
+            "type": "la"
+        },
+        {
+            "url": "https://1fichier.com/?k7zxiehwvfk4x6ino487",
+            "type": "es"
+        },
+        {
+            "url": "https://1fichier.com/?624m2m715vu20r4ro5ui#Synchronization+Service",
+            "type": "en"
+        }
+    ]
+}

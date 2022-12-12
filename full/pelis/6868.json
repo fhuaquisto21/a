@@ -1,0 +1,45 @@
+{
+    "url": "https://cuevana.pizza/pelicula/una-oracion-antes-del-amanecer",
+    "title": "Una oración antes del amanecer",
+    "duration": "116",
+    "year": "2017",
+    "genres": [
+        "Accion",
+        "Crimen",
+        "Biografia"
+    ],
+    "actors": [
+        "Joe Cole",
+        "Panya Yimmumphai",
+        "Pornchanok Mabklang",
+        "Vithaya Pansringarm"
+    ],
+    "description": "Basada en la experiencia vivida por el británico Billy Moore, que sobrevivió a una dura experiencia en una cárcel en Tailandia convirtiéndose dentro en boxeador.",
+    "cover": "https://cuevana.pizza/resize/###/storage/1122/MfLEmE11yEHGQtBtBrHHGArzosNmAsDPFheuzBH3.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtYnY0MTYyZ3p3eTRiLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLXJ2ODZvc2x0ODVnei5odG1s"
+            ]
+        },
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtdWF1dDh2cHUzYmRlLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLWh4MGQ2bHF0NmltMC5odG1s"
+            ]
+        }
+    ],
+    "downloads": [
+        {
+            "url": "https://1fichier.com/?ly66a5y8wfwa4bzchzag",
+            "type": "la"
+        },
+        {
+            "url": "https://1fichier.com/?jbmh7qg3trjh173wra33",
+            "type": "en"
+        }
+    ]
+}

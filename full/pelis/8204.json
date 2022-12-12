@@ -1,0 +1,52 @@
+{
+    "url": "https://cuevana.pizza/pelicula/la-playa",
+    "title": "La playa",
+    "duration": "2h 0m",
+    "year": "2000",
+    "genres": [
+        "Drama",
+        "Romance",
+        "Aventura"
+    ],
+    "actors": [
+        "Leonardo DiCaprio",
+        "Virginie Ledoyen",
+        "Guillaume Canet",
+        "Tilda Swinton",
+        "Staffan Kihlbom",
+        "Paterson Joseph",
+        "Peter Youngblood Hills",
+        "Robert Carlyle",
+        "Jerry Swindall",
+        "Lars Arentz-Hansen",
+        "Jukka Hiltunen",
+        "Magnus Lindgren",
+        "Daniel York",
+        "Daniel Caltagirone",
+        "Zelda Tinska",
+        "Saskia Mulder",
+        "Sian Martin",
+        "Gunilla Karlson",
+        "Victoria Smurfit",
+        "Samuel Gough"
+    ],
+    "description": "Tortuoso y paranoico, Daffy le cuenta a Richard una historia fantástica sobre una isla secreta, un paraíso en la Tierra: la playa perfecta, nunca pisada por los turistas.",
+    "cover": "https://cuevana.pizza/resize/###/storage/29436/Zd1nd1Rmk7XHh8i5AYhx3YO9uAbioggUpbuLHTlS.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtZ2VoOWE2aDY0MDJnLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLWdscXE5MjFxY3BhMC5odG1s"
+            ]
+        },
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtczM5ZXNuOW9zaTR0Lmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLWxma2prcnlqOGlscy5odG1s"
+            ]
+        }
+    ],
+    "downloads": []
+}

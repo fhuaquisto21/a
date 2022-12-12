@@ -1,0 +1,59 @@
+{
+    "url": "https://cuevana.pizza/pelicula/star-wars-episodio-i-la-amenaza-fantasma",
+    "title": "Star Wars. Episodio I: La amenaza fantasma",
+    "duration": "2h 11m",
+    "year": "1999",
+    "genres": [
+        "Accion",
+        "Aventura",
+        "Fantasia"
+    ],
+    "actors": [
+        "Liam Neeson",
+        "Ewan McGregor",
+        "Natalie Portman",
+        "Jake Lloyd",
+        "Ian McDiarmid",
+        "Pernilla August",
+        "Oliver Ford Davies",
+        "Hugh Quarshie",
+        "Ahmed Best",
+        "Anthony Daniels",
+        "Kenny Baker",
+        "Frank Oz",
+        "Terence Stamp",
+        "Brian Blessed",
+        "Andy Secombe",
+        "Ray Park",
+        "Lewis Macleod",
+        "Warwick Davis",
+        "Steve Speirs",
+        "Silas Carson"
+    ],
+    "description": "La Federación de Comercio ha bloqueado el pequeño planeta de Naboo, gobernado por la joven Reina Amidala, como parte de un plan ideado por Sith Darth Sidious, que manteniéndose en el anonimato dirige a los neimoidianos, que están al mando de la Federación. Amidala es convencida por los Jedis Qui-Gon Jinn y su aprendiz, o padawan, Obi-Wan Kenobi a viajar hasta Coruscant, capital de la República y sede del Consejo Jedi para intentar mediar esta amenaza. Pero esquivando el bloqueo, la nave real resulta dañada, obligando a la tripulación a aterrizar en el desértico y remoto planeta de Tatooine...",
+    "cover": "https://cuevana.pizza/resize/###/storage/19546/NW7iYCCaTALuf1tw7TZJUCKsTZjsnle90UYK5kWS.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtaTltZ2YxazByeDhqLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLW1ucG42ZDhzZHpuNy5odG1s"
+            ]
+        },
+        {
+            "type": "cas",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQteDZodGg1M2Izc2VvLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLW1xd29sYWFmaGdxYS5odG1s"
+            ]
+        },
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtbWxjd2NlOTAzNW11Lmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLThkc285bm5qbm1mbC5odG1s"
+            ]
+        }
+    ],
+    "downloads": []
+}

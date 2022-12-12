@@ -1,0 +1,51 @@
+{
+    "url": "https://cuevana.pizza/pelicula/aladdin-y-el-rey-de-los-ladrones",
+    "title": "Aladdín y el rey de los ladrones",
+    "duration": "1h 20m",
+    "year": "1996",
+    "genres": [
+        "Aventura",
+        "Familia",
+        "Animacion",
+        "Disney"
+    ],
+    "actors": [
+        "Scott Weinger",
+        "Linda Larkin",
+        "Robin Williams",
+        "John Rhys-Davies",
+        "Gilbert Gottfried",
+        "Jerry Orbach",
+        "Val Bettin",
+        "Frank Welker",
+        "Jim Cummings",
+        "CCH Pounder",
+        "Liz Callaway"
+    ],
+    "description": "Por fin Aladdín se va a casar con la princesa Jasmine. A pesar de la presencia y ánimo de sus amigos Genio, Alfombra y el mono Abú, está algo preocupado: tiene miedo porque no sabe qué tipo de padre va a ser, si él nunca tuvo ninguno. Pero todas sus preocupaciones quedarán de lado cuando 40 ladrones irrumpen en la boda para robar un mágico talismán.",
+    "cover": "https://cuevana.pizza/resize/###/storage/42057/tS8Gr2Bes7uk0rgVv69fUi79LPZ3BeuSvcR1t77G.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtYjZoNWVycTZnbnAzLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLWVsbXNraXk1eTE2ZS5odG1s"
+            ]
+        },
+        {
+            "type": "cas",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtc2NqNnVjaDFiNnd4Lmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLWdudWR0eXZ3N25jdy5odG1s"
+            ]
+        },
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQteHBnNnd5bjM4aWE2Lmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLWw4c2w0a3NnNzcyZy5odG1s"
+            ]
+        }
+    ],
+    "downloads": []
+}

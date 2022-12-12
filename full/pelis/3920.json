@@ -1,0 +1,66 @@
+{
+    "url": "https://cuevana.pizza/pelicula/happily",
+    "title": "Happily",
+    "duration": "1h 36m",
+    "year": "2021",
+    "genres": [
+        "Comedia",
+        "Romance",
+        "Suspenso"
+    ],
+    "actors": [
+        "Al Madrigal",
+        "Billie Wolff",
+        "Brea Grant",
+        "Breckin Meyer",
+        "Charlyne Yi",
+        "Joel McHale",
+        "Jon Daly",
+        "Kerry Bishé",
+        "Kirby Howell-Baptiste",
+        "Natalie Morales",
+        "Natalie Zea",
+        "Paul Scheer",
+        "Shannon Woodward",
+        "Stephen Root"
+    ],
+    "description": "Tom y Janet han estado casados durante años. Sin embargo, la visita de un misterioso extraño les lleva a encontrar un cadáver, a muchas preguntas sin respuesta y un viaje de pareja con amigos con gente que tal vez podría desear cualquier cosa menos su propio bienestar.",
+    "cover": "https://cuevana.pizza/resize/###/storage/6481/ckCSikj6KDlzZ4HcMET582jCrf44nXiqTXb1glQQ.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtM3ptczBodGtrNjQ2Lmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLXozMjVsdGdlaDQ2di5odG1s"
+            ]
+        },
+        {
+            "type": "cas",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtNW5vaGtlNDh6emx1Lmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLWM3ZXVkM2gzanU1Ni5odG1s"
+            ]
+        },
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtNmEwZGNhZDQ3aWduLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLTYzMjBsdWRieDNnOS5odG1s"
+            ]
+        }
+    ],
+    "downloads": [
+        {
+            "url": "https://1fichier.com/?f89ispf231chzj51bxgu",
+            "type": "la"
+        },
+        {
+            "url": "https://1fichier.com/?f9kp6al2g5tvdkpjs0fq",
+            "type": "es"
+        },
+        {
+            "url": "https://1fichier.com/?oxgway6cwy96vfkndaku",
+            "type": "en"
+        }
+    ]
+}

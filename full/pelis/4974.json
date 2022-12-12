@@ -1,0 +1,48 @@
+{
+    "url": "https://cuevana.pizza/pelicula/la-ultima-carcajada",
+    "title": "La última carcajada",
+    "duration": "1h 38m",
+    "year": "2019",
+    "genres": [
+        "Comedia"
+    ],
+    "actors": [
+        "Chevy Chase",
+        "Richard Dreyfuss",
+        "Andie MacDowell",
+        "Kate Micucci",
+        "Chris Parnell",
+        "George Wallace",
+        "Lewis Black",
+        "Richard Kind",
+        "Carol Sutton",
+        "Amy Brassette",
+        "Ritchie Montgomery",
+        "Isla Cervelli",
+        "Kit Willesee",
+        "Jason Batchko",
+        "Belinda D'Pree",
+        "Chris Fleming",
+        "Yuka Takara",
+        "Karla Garcia"
+    ],
+    "description": "El exrepresentante Al Hart se reencuentra con su primer cliente, Buddy Green, un cómico que dejó el ambiente del espectáculo hace cincuenta años, y lo convence de escaparse del hogar de ancianos para hacer una gira de costa a costa.",
+    "cover": "https://cuevana.pizza/resize/###/storage/21094/MpGSe2J2XQgoNUcaoVfrUQaS6MeHkrtHpci8vGDz.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtMmc0dWlsaHJyenJiLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLTBlY29kancyeng4dC5odG1s"
+            ]
+        },
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtcWg3OHl5NnlpYmg4Lmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLTFzZWx5cHM1bnB0bi5odG1s"
+            ]
+        }
+    ],
+    "downloads": []
+}

@@ -1,0 +1,51 @@
+{
+    "url": "https://cuevana.pizza/pelicula/enredadas-pero-felices",
+    "title": "Feliz Día de la Madre",
+    "duration": "1h 58m",
+    "year": "2016",
+    "genres": [
+        "Comedia",
+        "Drama"
+    ],
+    "actors": [
+        "Jennifer Aniston",
+        "Julia Roberts",
+        "Kate Hudson",
+        "Jason Sudeikis",
+        "Timothy Olyphant",
+        "Sarah Chalke",
+        "Margo Martindale",
+        "Jon Lovitz",
+        "Britt Robertson",
+        "Shay Mitchell",
+        "Jack Whitehall",
+        "Loni Love",
+        "Gianna Simone",
+        "Cameron Esposito",
+        "Aasif Mandvi",
+        "Jennifer Garner",
+        "Lucy Walsh",
+        "Sandra Taylor",
+        "Christine Lakin",
+        "Owen Vaccaro"
+    ],
+    "description": "Sandy (Jennifer Aniston) es una mujer recientemente divorciada que lucha por mantener la cordura cuando su ex se casa con una mujer más joven que ella; Miranda (Julia Roberts) es una presentadora estrella de una importante Cadena de TV cuya vida dará un vuelco cuando la hija que dió en adopción cuando era una adolescente venga en su búsqueda; Jesse (Kate Hudson) ama tanto a su marido que ha cortado toda relación con su racista madre sacándola de su vida completamente y ocultando a su marido debido a su raza; y Bradley (Jason Sudeikis) teme que llegue el Día de la Madre ya que será el primer año que él y sus dos hijas viven ese día desde que su esposa falleció.",
+    "cover": "https://cuevana.pizza/resize/###/storage/28195/FOu7CzTyqgRiC9cOWCwmXRLrw71dRNVpUYIUNtee.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtZTFmeWg0dWVzanphLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLThpbjc1czhleWkzYi5odG1s"
+            ]
+        },
+        {
+            "type": "sub",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtbjJvc3VrNjlvcWEyLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLWFrYmJldXd2aWYwNi5odG1s"
+            ]
+        }
+    ],
+    "downloads": []
+}

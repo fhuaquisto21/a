@@ -1,0 +1,28 @@
+{
+    "url": "https://cuevana.pizza/pelicula/locke",
+    "title": "Locke",
+    "duration": "1h 30m",
+    "year": "2014",
+    "genres": [
+        "Drama",
+        "Suspenso"
+    ],
+    "actors": [
+        "Andrew Scott",
+        "Olivia Colman",
+        "Ruth Wilson",
+        "Tom Hardy"
+    ],
+    "description": "Ivan Locke (Tom Hardy) es un hombre que ha trabajado duro para conseguir su objetivo: llevar una buena vida. Sin embargo, un día, inesperadamente, recibe una llamada que trastoca todo su mundo. Desde ese momento se enfrascará en una peligrosa huida contrarreloj.",
+    "cover": "https://cuevana.pizza/resize/###/storage/16204/EECegbkNhoUFJ4aN2jpqJAie5OFpsTXCRTDketJD.jpg",
+    "players": [
+        {
+            "type": "lat",
+            "urls": [
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly9ha2FtYWktY2RuLWNvbnRlbnQuaW50ZXJwbGFuZXRhcnkudmlkZW8vZW1iZWQtbjgzaHlpNnBmaGhuLmh0bWw=",
+                "https://akamai.interplanetary.video/?v=aHR0cHM6Ly91cWxvYWQuY29tL2VtYmVkLWE4aGF4eDloMnM5ei5odG1s"
+            ]
+        }
+    ],
+    "downloads": []
+}
